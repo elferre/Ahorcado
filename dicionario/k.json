@@ -1,0 +1,91 @@
+[{
+    "Palabra": "kilometro",
+    "Ayuda": {
+        "Nivel1": "pazhfcacdu",
+        "Nivel2": "hgnuahgwd",
+        "Nivel3": "xdwphnbu",
+        "Nivel4": "vwxnphx",
+        "Nivel5": "jyydpn",
+        "Nivel6": "hqsyg",
+        "Nivel7": "nhya",
+        "Nivel8": "cys"
+    },
+    "Detalle": "kilometro",
+    "PLetra": "k",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Medida de longitud que tiene 1.000 metros. ♦ A veces se escribe Su abrev. es" }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "kilo",
+    "Ayuda": {
+        "Nivel1": "wbzzmrrqqw",
+        "Nivel2": "rtytfpsjx",
+        "Nivel3": "rmbfwhsp",
+        "Nivel4": "ezadffj",
+        "Nivel5": "rjfyja",
+        "Nivel6": "vtmbe",
+        "Nivel7": "usuv",
+        "Nivel8": "ptq"
+    },
+    "Detalle": "kilo",
+    "PLetra": "k",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "Un millon de pesetas." }, { "definicion": "Mucha cantidad de algo." }, { "definicion": "pref. que significa 'mil'." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "kilogramo" }]
+}, {
+    "Palabra": "karina",
+    "Ayuda": {
+        "Nivel1": "fohsdcefbv",
+        "Nivel2": "bfvoctwhg",
+        "Nivel3": "pxestbhu",
+        "Nivel4": "cwjtlud",
+        "Nivel5": "zwypby",
+        "Nivel6": "dtscx",
+        "Nivel7": "fyvz",
+        "Nivel8": "bhu"
+    },
+    "Detalle": "karina",
+    "PLetra": "k",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "kiwi",
+    "Ayuda": {
+        "Nivel1": "fbuojrscbr",
+        "Nivel2": "lcuglyevr",
+        "Nivel3": "ldbfjxhy",
+        "Nivel4": "vsjsdhe",
+        "Nivel5": "qrbcrg",
+        "Nivel6": "afpsl",
+        "Nivel7": "dunl",
+        "Nivel8": "sus"
+    },
+    "Detalle": "kiwi",
+    "PLetra": "k",
+    "ULetra": "i",
+    "definiciones": [{ "definicion": "m. Ave apterigiforme corredora, incapaz de volar, de unos 70 cm de altura, con las patas cortas y robustas y el pico corvo y largo, originaria de Oceania." }, { "definicion": "Planta arbustiva de la familia de las actinidaceas, de origen chino con flores blancas y amarillas." }, { "definicion": "Fruto de esta planta, de piel marron, rugosa y peluda y carne verde comestible." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "koala",
+    "Ayuda": {
+        "Nivel1": "bexrhrtvxs",
+        "Nivel2": "rgnguecxw",
+        "Nivel3": "gzxxhjdg",
+        "Nivel4": "bxydwrg",
+        "Nivel5": "winvyu",
+        "Nivel6": "jdfrd",
+        "Nivel7": "dwzh",
+        "Nivel8": "iim"
+    },
+    "Detalle": "koala",
+    "PLetra": "k",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Mamifero marsupial trepador de origen australiano, de unos 80 cm, semejante a un osezno, de pelo grisaceo, orejas grandes y hocico pequeno, que se alimenta de hojas de eucalipto." }],
+    "antonimos": {},
+    "sinonimos": {}
+}]

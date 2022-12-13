@@ -1,0 +1,2449 @@
+[{
+    "Palabra": "señor",
+    "Ayuda": {},
+    "Detalle": "señor",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. y f. Nombre comun de diversas especies de mamiferos roedores de pelaje gris, de unos 20 cm, muy fecundos y agiles, que generalmente viven en las casas o en el campo." }, { "definicion": "m. . Dispositivo periferico del ordenador que rueda sobre una plantilla y cuyos movimientos son reproducidos por un cursor en la pantalla del monitor, permitiendo introducir y ejecutar ordenes en los programas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "roedor" }, { "sinonimo": "rata" }, { "sinonimo": "mur" }]
+}, {
+    "Palabra": "señora",
+    "Ayuda": {},
+    "Detalle": "señora",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. y f. Nombre comun de diversas especies de mamiferos roedores de pelaje gris, de unos 20 cm, muy fecundos y agiles, que generalmente viven en las casas o en el campo." }, { "definicion": "m. . Dispositivo periferico del ordenador que rueda sobre una plantilla y cuyos movimientos son reproducidos por un cursor en la pantalla del monitor, permitiendo introducir y ejecutar ordenes en los programas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "roedor" }, { "sinonimo": "rata" }, { "sinonimo": "mur" }]
+}, {
+    "Palabra": "sangre",
+    "Ayuda": {
+        "Nivel1": "phcutjbjbd",
+        "Nivel2": "dkpiqibxh",
+        "Nivel3": "qxtuvulx",
+        "Nivel4": "impmqic",
+        "Nivel5": "tiitlw",
+        "Nivel6": "cbqwx",
+        "Nivel7": "qwdl",
+        "Nivel8": "twh"
+    },
+    "Detalle": "sangre",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Fluido rojo compuesto por plasma y celulas en suspension que circula por las arterias y las venas." }, { "definicion": "Linaje o parentesco." }, { "definicion": "intr. Manar sangre." }, { "definicion": "tr. Abrir o punzar una vena y dejar salir determinada cantidad de sangre." }, { "definicion": "Dar salida a todo o a parte de un liquido, abriendo un conducto en el recipiente que lo contiene." }, { "definicion": "Hacer una incision en un arbol para obtener resina u otra sustancia." }, { "definicion": "Aprovecharse de una persona, generalmente sacandole dinero." }, { "definicion": "Comenzar una linea mas interiormente que el resto." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "humor" }, { "sinonimo": "plasma" }, { "sinonimo": "linfa" }, { "sinonimo": "flujo" }, { "sinonimo": "liquido" }, { "sinonimo": "casta" }, { "sinonimo": "familia" }, { "sinonimo": "parentesco" }, { "sinonimo": "raza" }, { "sinonimo": "linaje" }, { "sinonimo": "abolengo" }, { "sinonimo": "estirpe" }]
+}, {
+    "Palabra": "salud",
+    "Ayuda": {
+        "Nivel1": "yxfkejxgxv",
+        "Nivel2": "tivrkmgif",
+        "Nivel3": "rkeobcnr",
+        "Nivel4": "cynmbtb",
+        "Nivel5": "zepjrz",
+        "Nivel6": "fqijp",
+        "Nivel7": "tbij",
+        "Nivel8": "ojk"
+    },
+    "Detalle": "salud",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Estado en que el organismo ejerce normalmente todas sus funciones." }, { "definicion": "Estado general del organismo." }, { "definicion": "Buen estado y funcionamiento de un colectivo o una actividad." }, { "definicion": "interj. Se usa como formula de saludo y al brindar." }],
+    "antonimos": [{ "antonimo": "enfermedad" }],
+    "sinonimos": [{ "sinonimo": "salubridad" }, { "sinonimo": "sanidad" }, { "sinonimo": "lozania" }, { "sinonimo": "robustez" }, { "sinonimo": "fortaleza" }, { "sinonimo": "vigor" }, { "sinonimo": "vitalidad" }, { "sinonimo": "energia" }]
+}, {
+    "Palabra": "sobrino",
+    "Ayuda": {
+        "Nivel1": "mgtadelpxe",
+        "Nivel2": "uzfkhklhz",
+        "Nivel3": "mejhfaae",
+        "Nivel4": "yqqekvg",
+        "Nivel5": "pxxxgf",
+        "Nivel6": "tmjeg",
+        "Nivel7": "hjxe",
+        "Nivel8": "aky"
+    },
+    "Detalle": "sobrino",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. y f. Respecto de una persona, hijo o hija de su hermano o hermana, o de su primo o prima." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "sobrina",
+    "Ayuda": {
+        "Nivel1": "ykzmqjmgzy",
+        "Nivel2": "vkqwyqhyh",
+        "Nivel3": "mvgctwcj",
+        "Nivel4": "zffqgfx",
+        "Nivel5": "kuqlqj",
+        "Nivel6": "fqjwj",
+        "Nivel7": "vkgf",
+        "Nivel8": "ttz"
+    },
+    "Detalle": "sobrina",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. y f. Respecto de una persona, hijo o hija de su hermano o hermana, o de su primo o prima." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "ser",
+    "Ayuda": {
+        "Nivel1": "nfhjuvhhvo",
+        "Nivel2": "hlacujmdg",
+        "Nivel3": "fhazdlxp",
+        "Nivel4": "vognfld",
+        "Nivel5": "xkzyki",
+        "Nivel6": "mbapf",
+        "Nivel7": "kfaq",
+        "Nivel8": "gay"
+    },
+    "Detalle": "ser",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Esencia y naturaleza." }, { "definicion": "Vida, existencia." }, { "definicion": "Cualquier cosa creada, especialmente si esta dotada de vida." }, { "definicion": "El ser humano. ♦ Se construye generalmente acompanado de adjetivos calificativos." }, { "definicion": "v. cop. Tener alguien o algo una determinada cualidad." }, { "definicion": "Tener alguien una determinada profesion, oficio o cargo." }, { "definicion": "Pertenecer, formar parte. ♦ Se construye con la prep." }, { "definicion": "Tener origen, principio o nacionalidad." }, { "definicion": "Estar constituido, compuesto o formado de cierta materia." }, { "definicion": "Constituir el resultado de una operacion matematica." }, { "definicion": "Consistir, ser la causa de lo que se expresa." }, { "definicion": "v. aux. Sirve para formar la conjugacion de la voz pasiva." }, { "definicion": "intr. Haber o existir." }, { "definicion": "Servir, ser adecuado o estar destinado para la persona o cosa que se expresa. ♦ Se construye con la prep." }, { "definicion": "Valer, costar." }, { "definicion": "Corresponder, tocar. ♦ Se construye con complementos adjetivos en pl. o de significado general o colectivo." }, { "definicion": "intr. impers. Acontecer, ocurrir, tener lugar." }, { "definicion": "Introduce expresiones de tiempo." }],
+    "antonimos": [{ "antonimo": "nada" }, { "antonimo": "nadie" }, { "antonimo": "morir" }, { "antonimo": "faltar" }],
+    "sinonimos": [{ "sinonimo": "esencia" }, { "sinonimo": "naturaleza" }, { "sinonimo": "sustancia" }, { "sinonimo": "materia" }, { "sinonimo": "monada" }, { "sinonimo": "ente" }, { "sinonimo": "individuo" }, { "sinonimo": "criatura" }, { "sinonimo": "persona" }, { "sinonimo": "organismo" }, { "sinonimo": "sujeto" }, { "sinonimo": "cosa" }, { "sinonimo": "forma" }, { "sinonimo": "especimen" }, { "sinonimo": "engendro" }, { "sinonimo": "vida" }, { "sinonimo": "existencia" }, { "sinonimo": "estar" }, { "sinonimo": "existir" }, { "sinonimo": "vivir" }, { "sinonimo": "residir" }, { "sinonimo": "permanecer" }, { "sinonimo": "yacer" }, { "sinonimo": "subsistir" }, { "sinonimo": "hallarse" }, { "sinonimo": "durar" }, { "sinonimo": "mantenerse" }, { "sinonimo": "pertenecer" }, { "sinonimo": "corresponder" }, { "sinonimo": "depender" }, { "sinonimo": "formar" }, { "sinonimo": "causar" }, { "sinonimo": "producir" }, { "sinonimo": "originarse" }, { "sinonimo": "ocurrir" }, { "sinonimo": "pasar" }, { "sinonimo": "transcurrir" }, { "sinonimo": "suceder" }]
+}, {
+    "Palabra": "selva",
+    "Ayuda": {
+        "Nivel1": "dmxzjyijic",
+        "Nivel2": "cquwnwktx",
+        "Nivel3": "prkourbx",
+        "Nivel4": "fpmonqf",
+        "Nivel5": "fwmrcx",
+        "Nivel6": "ijmxc",
+        "Nivel7": "brqy",
+        "Nivel8": "kur"
+    },
+    "Detalle": "selva",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Terreno extenso, sin cultivar y muy poblado de arboles." }, { "definicion": "Tipo de bosque ecuatorial y tropical." }, { "definicion": "Lugar lleno de dificultades y peligros en el que impera la ley del mas fuerte." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "bosque" }, { "sinonimo": "espesura" }, { "sinonimo": "boscaje" }, { "sinonimo": "jungla" }, { "sinonimo": "floresta" }, { "sinonimo": "monte" }, { "sinonimo": "arboleda" }, { "sinonimo": "frondosidad" }]
+}, {
+    "Palabra": "sardina",
+    "Ayuda": {
+        "Nivel1": "vjmylhzkpq",
+        "Nivel2": "pbtlbhczp",
+        "Nivel3": "lmkwltpf",
+        "Nivel4": "wojkccq",
+        "Nivel5": "meglqe",
+        "Nivel6": "cotlg",
+        "Nivel7": "oqvu",
+        "Nivel8": "omc"
+    },
+    "Detalle": "sardina",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Pez osteictio clupeiforme marino de unos 25 cm de longitud, similar al arenque, de cuerpo alargado de color negro azulado por encima, con costados y vientre plateados y cabeza dorada con la mandibula inferior sobresaliente." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "arenque" }, { "sinonimo": "parrocha" }]
+}, {
+    "Palabra": "saltamontes",
+    "Ayuda": {
+        "Nivel1": "ukhwzgqkzu",
+        "Nivel2": "viddfjcvz",
+        "Nivel3": "bpypwdvc",
+        "Nivel4": "yvdjvyx",
+        "Nivel5": "cqiwqq",
+        "Nivel6": "hxczg",
+        "Nivel7": "qgwx",
+        "Nivel8": "qfq"
+    },
+    "Detalle": "saltamontes",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Nombre comun de diversos insectos ortopteros propios de climas calidos, de cuerpo cilindrico, color pardo, verdoso o negruzco, cabeza gruesa de ojos saltones con finas antenas, las patas anteriores cortas y las posteriores muy robustas y largas, aptas para saltar. ♦ No varia en pl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "caballeta" }, { "sinonimo": "cigarra" }, { "sinonimo": "langosta" }, { "sinonimo": "salton" }]
+}, {
+    "Palabra": "serpiente",
+    "Ayuda": {
+        "Nivel1": "gmwchjodoo",
+        "Nivel2": "bozxgggzw",
+        "Nivel3": "dhbmlyvj",
+        "Nivel4": "hlbkgvf",
+        "Nivel5": "dmuugc",
+        "Nivel6": "qubox",
+        "Nivel7": "vbjd",
+        "Nivel8": "qzh"
+    },
+    "Detalle": "serpiente",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Nombre que se da vulgamente a todos los reptiles del suborden de los ofidios, de cuerpo cilindrico, escamoso y muy alargado que, por carecer de extremidades, se mueve arrastrandose." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ofidio" }, { "sinonimo": "sierpe" }, { "sinonimo": "reptil" }, { "sinonimo": "culebra" }, { "sinonimo": "anaconda" }, { "sinonimo": "boa" }, { "sinonimo": "cascabel" }, { "sinonimo": "cobra" }, { "sinonimo": "piton" }, { "sinonimo": "aspid" }, { "sinonimo": "vibora" }]
+}, {
+    "Palabra": "semilla",
+    "Ayuda": {
+        "Nivel1": "bqhpoogcwr",
+        "Nivel2": "xukwjzfbj",
+        "Nivel3": "jhgdvnwt",
+        "Nivel4": "onptcgu",
+        "Nivel5": "npjonz",
+        "Nivel6": "xptjq",
+        "Nivel7": "zwor",
+        "Nivel8": "qwg"
+    },
+    "Detalle": "semilla",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Parte del fruto de los vegetales que contiene el germen de una nueva planta." }, { "definicion": "Cosa que es causa u origen de otra." }, { "definicion": "pl. Granos que se siembran." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "simiente" }, { "sinonimo": "pepita" }, { "sinonimo": "pipa" }, { "sinonimo": "almendra" }, { "sinonimo": "hueso" }, { "sinonimo": "cuesco" }, { "sinonimo": "grano" }, { "sinonimo": "nucleo" }, { "sinonimo": "germen" }, { "sinonimo": "embrion" }, { "sinonimo": "semen" }, { "sinonimo": "motivo" }, { "sinonimo": "raiz" }, { "sinonimo": "causa" }, { "sinonimo": "origen" }, { "sinonimo": "principio" }, { "sinonimo": "fuente" }, { "sinonimo": "cereales" }, { "sinonimo": "aridos" }, { "sinonimo": "granos" }, { "sinonimo": "grana" }]
+}, {
+    "Palabra": "sandia",
+    "Ayuda": {
+        "Nivel1": "zyxeqjfckm",
+        "Nivel2": "rkyuezypq",
+        "Nivel3": "clyyvtpk",
+        "Nivel4": "ebrbmcq",
+        "Nivel5": "yvhout",
+        "Nivel6": "oeljz",
+        "Nivel7": "yqor",
+        "Nivel8": "omm"
+    },
+    "Detalle": "sandia",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Planta cucurbitacea anual de tallo velloso, flexible y rastrero, con zarcillos, hojas lobuladas y gran fruto casi esferico de piel verde y pulpa roja, dulce y jugosa llena de pepitas negras, muy apreciado como alimento." }, { "definicion": "Fruto de esta planta." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "pepon" }, { "sinonimo": "cucurbitacea" }, { "sinonimo": "badea" }, { "sinonimo": "melondeagua" }]
+}, {
+    "Palabra": "segundo",
+    "Ayuda": {
+        "Nivel1": "lhwmciqxfm",
+        "Nivel2": "alaaztktp",
+        "Nivel3": "xfkvyipy",
+        "Nivel4": "qxbqfwt",
+        "Nivel5": "pakafx",
+        "Nivel6": "bmavf",
+        "Nivel7": "zryw",
+        "Nivel8": "hvf"
+    },
+    "Detalle": "segundo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. num. ord. Que ocupa el lugar numero dos en una serie ordenada de elementos." }, { "definicion": "adj. [Familiar] no carnal o colateral." }, { "definicion": "[Intencion] oculta o maliciosa." }, { "definicion": "m. y f. Persona que sigue en jerarquia al jefe o principal." }, { "definicion": "m. Cada una de las sesenta partes en que se divide el minuto de tiempo." }, { "definicion": "Tiempo muy breve, instante." }, { "definicion": "Cada una de las sesenta partes en que se divide el minuto de circunferencia." }, { "definicion": "f. Segunda marcha de los vehiculos con motor." }, { "definicion": "f. pl. Segunda intencion." }, { "definicion": "adv. En segundo lugar." }],
+    "antonimos": [{ "antonimo": "primero" }, { "antonimo": "jefe" }],
+    "sinonimos": [{ "sinonimo": "auxiliar" }, { "sinonimo": "suplente" }, { "sinonimo": "ayudante" }, { "sinonimo": "delegado" }, { "sinonimo": "sustituto" }, { "sinonimo": "subalterno" }, { "sinonimo": "lugarteniente" }, { "sinonimo": "posterior" }, { "sinonimo": "siguiente" }]
+}, {
+    "Palabra": "semana",
+    "Ayuda": {
+        "Nivel1": "vbhhvyjwcd",
+        "Nivel2": "ufoqhyvov",
+        "Nivel3": "brwdzbgr",
+        "Nivel4": "llilcwv",
+        "Nivel5": "rhijyr",
+        "Nivel6": "riopj",
+        "Nivel7": "gcuu",
+        "Nivel8": "lck"
+    },
+    "Detalle": "semana",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Serie de siete dias naturales consecutivos, empezando por el lunes y acabando por el domingo, aunque en algunos paises empieza el domingo y termina el sabado." }, { "definicion": "Periodo de siete dias." }, { "definicion": "Salario ganado en una semana." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "septenario" }, { "sinonimo": "hebdomada" }]
+}, {
+    "Palabra": "siglo",
+    "Ayuda": {
+        "Nivel1": "twppxqrkef",
+        "Nivel2": "xdqmnbxay",
+        "Nivel3": "rypqhfvc",
+        "Nivel4": "ytvtbev",
+        "Nivel5": "jceweu",
+        "Nivel6": "ahdxq",
+        "Nivel7": "wprh",
+        "Nivel8": "hkj"
+    },
+    "Detalle": "siglo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Espacio de cien anos." }, { "definicion": "Seguido de la prep. epoca en que se ha desarrollado o ha tenido lugar lo que este expresa." }, { "definicion": "Espacio largo de tiempo." }, { "definicion": "Vida civil en oposicion a la religiosa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "centuria" }, { "sinonimo": "centenario" }, { "sinonimo": "mundo" }, { "sinonimo": "sociedad" }]
+}, {
+    "Palabra": "sabado",
+    "Ayuda": {
+        "Nivel1": "lnqnhrrfcg",
+        "Nivel2": "iecyveluc",
+        "Nivel3": "nvvmxgrk",
+        "Nivel4": "cplpilc",
+        "Nivel5": "gfceuv",
+        "Nivel6": "glnkf",
+        "Nivel7": "qzew",
+        "Nivel8": "fwu"
+    },
+    "Detalle": "sabado",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Dia de la semana, entre el viernes y el domingo." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "superficie",
+    "Ayuda": {
+        "Nivel1": "lzyotvqhmt",
+        "Nivel2": "nzlyagqjo",
+        "Nivel3": "mnjaalaa",
+        "Nivel4": "oztgmvd",
+        "Nivel5": "tqtybk",
+        "Nivel6": "aknyw",
+        "Nivel7": "xwxz",
+        "Nivel8": "tkt"
+    },
+    "Detalle": "superficie",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Parte externa de un cuerpo que sirve de delimitacion con el exterior." }, { "definicion": "Aspecto externo, apariencia." }, { "definicion": "Extension de tierra." }, { "definicion": "Extension en que solo se consideran dos dimensiones, altura y anchura." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "extension" }, { "sinonimo": "area" }, { "sinonimo": "plano" }, { "sinonimo": "espacio" }, { "sinonimo": "zona" }, { "sinonimo": "cara" }, { "sinonimo": "exterior" }, { "sinonimo": "terreno" }, { "sinonimo": "suelo" }]
+}, {
+    "Palabra": "sol",
+    "Ayuda": {
+        "Nivel1": "krmctnedef",
+        "Nivel2": "uuvnyjkxg",
+        "Nivel3": "ibuqtyud",
+        "Nivel4": "aykdzjf",
+        "Nivel5": "ppzjph",
+        "Nivel6": "ypgpj",
+        "Nivel7": "kwpj",
+        "Nivel8": "mxi"
+    },
+    "Detalle": "sol",
+    "PLetra": "s",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "m. Estrella luminosa, centro de nuestro sistema planetario. ♦ Se escribe con mayuscula." }, { "definicion": "Luz, calor o influjo del Sol." }, { "definicion": "Lugar o parte de un lugar donde da el sol." }, { "definicion": "Unidad monetaria de Peru, hasta 1986,en que fue sustituido por el" }, { "definicion": "m. . Quinta nota de la escala musical. ♦ No varia en pl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "astro" }, { "sinonimo": "luz" }, { "sinonimo": "dia" }, { "sinonimo": "estrella" }, { "sinonimo": "encanto" }, { "sinonimo": "cielo" }, { "sinonimo": "ricura" }, { "sinonimo": "inti" }, { "sinonimo": "moneda" }]
+}, {
+    "Palabra": "sur",
+    "Ayuda": {
+        "Nivel1": "mcbxggqtjx",
+        "Nivel2": "dxvtymdwh",
+        "Nivel3": "nlmhzlfl",
+        "Nivel4": "oakogit",
+        "Nivel5": "yxfgdc",
+        "Nivel6": "hgmyz",
+        "Nivel7": "cezc",
+        "Nivel8": "fol"
+    },
+    "Detalle": "sur",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Punto cardinal del horizonte opuesto al norte." }, { "definicion": "Lugar de la Tierra o de la esfera celeste que cae del lado del polo antartico." }, { "definicion": "Viento que sopla de este punto." }],
+    "antonimos": [{ "antonimo": "norte" }, { "antonimo": "septentrional" }, { "antonimo": "artico" }],
+    "sinonimos": [{ "sinonimo": "sud" }, { "sinonimo": "mediodia" }, { "sinonimo": "meridional" }, { "sinonimo": "austral" }, { "sinonimo": "antartico" }]
+}, {
+    "Palabra": "suelo",
+    "Ayuda": {
+        "Nivel1": "jvnazccbrp",
+        "Nivel2": "bgjyjifmc",
+        "Nivel3": "bpykrjza",
+        "Nivel4": "ytvppaf",
+        "Nivel5": "rttixm",
+        "Nivel6": "tqzfp",
+        "Nivel7": "zqtp",
+        "Nivel8": "vht"
+    },
+    "Detalle": "suelo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Superficie de la Tierra." }, { "definicion": "Terreno en que viven o pueden vivir las plantas." }, { "definicion": "Superficie artificial que se hace para que el piso este solido y llano." }, { "definicion": "Piso de un cuarto o vivienda." }, { "definicion": "Terreno edificable." }, { "definicion": "Territorio de una nacion." }, { "definicion": "Base de un recipiente u otra cosa." }, { "definicion": "loc adv. Abatido, en una situacion lamentable." }, { "definicion": "m. Porcion de terreno donde se ha edificado o que se destina a edificar en el." }, { "definicion": "Casa, descendencia, linaje noble." }, { "definicion": "adj. [Casa] mas antigua y noble de una familia." }, { "definicion": "adj. Del Sol o relativo a el." }, { "definicion": "tr. Revestir el suelo con ladrillos, losas u otro material." }, { "definicion": "intr. Tener costumbre." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "superficie" }, { "sinonimo": "piso" }, { "sinonimo": "pavimento" }, { "sinonimo": "solado" }, { "sinonimo": "firme" }, { "sinonimo": "adoquinado" }, { "sinonimo": "empedrado" }, { "sinonimo": "terreno" }, { "sinonimo": "solar" }, { "sinonimo": "territorio" }, { "sinonimo": "patria" }, { "sinonimo": "pueblo" }, { "sinonimo": "cuna" }, { "sinonimo": "asiento" }, { "sinonimo": "culo" }, { "sinonimo": "pie" }, { "sinonimo": "base" }]
+}, {
+    "Palabra": "sal",
+    "Ayuda": {
+        "Nivel1": "cdcpmfdmyw",
+        "Nivel2": "kkunidrgw",
+        "Nivel3": "iqnxhwcw",
+        "Nivel4": "quwidtc",
+        "Nivel5": "nhpoco",
+        "Nivel6": "rpgnb",
+        "Nivel7": "neft",
+        "Nivel8": "dhf"
+    },
+    "Detalle": "sal",
+    "PLetra": "s",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "f. Nombre comun del cloruro sodico, sustancia blanca, cristalina, de sabor acre y muy soluble en agua, que se emplea como condimento." }, { "definicion": "Compuesto resultante de la sustitucion de los atomos de hidrogeno de un acido por radicales basicos." }, { "definicion": "Agudeza, gracia, garbo en el modo de hablar o actuar." }, { "definicion": "Mala suerte, desgracia." }, { "definicion": "pl. Pequenos cristales de una sustancia perfumada que se usan disueltos en el agua del bano." }, { "definicion": "Sustancia salina que contiene amoniaco, utilizada para reanimar a alguien." }, { "definicion": "tr. Pasar de dentro afuera. Tambien prnl." }, { "definicion": "Desencajarse una cosa. Tambien prnl." }, { "definicion": "Partir de un lugar a otro." }, { "definicion": "Ir a tomar el aire, pasear, distraerse." }, { "definicion": "Librarse de un lugar o situacion peligrosos." }, { "definicion": "Aparecer." }, { "definicion": "Brotar, nacer." }, { "definicion": "Aparecer alguien en una foto, filmacion, libro, etc." }, { "definicion": "Mantener con alguien una relacion amorosa." }, { "definicion": "Apartarse, separarse. Tambien prnl." }, { "definicion": "Descubrirse el caracter de alguien o las caracteristicas de algo." }, { "definicion": "Decir o hacer algo inesperado o que causa extraneza." }, { "definicion": "Ocurrir, sobrevenir." }, { "definicion": "Costar una cosa." }, { "definicion": "Resultar una cuenta." }, { "definicion": "Corresponder a cada uno una cantidad." }, { "definicion": "Quedar, venir a ser." }, { "definicion": "Tener buen o mal exito." }, { "definicion": "Conseguir hacer bien una cosa." }, { "definicion": "Parecerse, asemejarse." }, { "definicion": "Ser elegido en un sorteo, votacion, etc." }, { "definicion": "Ir a parar." }, { "definicion": "prnl. Derramarse por una rendija un liquido." }, { "definicion": "Rebosar un liquido al hervir." }],
+    "antonimos": [{ "antonimo": "soseria" }],
+    "sinonimos": [{ "sinonimo": "donaire" }, { "sinonimo": "donosura" }, { "sinonimo": "garbo" }, { "sinonimo": "gracia" }, { "sinonimo": "salero" }, { "sinonimo": "chispa" }, { "sinonimo": "salmuera" }, { "sinonimo": "clorurodesodio" }, { "sinonimo": "salazon" }, { "sinonimo": "salobridad" }, { "sinonimo": "condimento" }]
+}, {
+    "Palabra": "sociedad",
+    "Ayuda": {
+        "Nivel1": "wwqnbrfphn",
+        "Nivel2": "xhmgyhgwr",
+        "Nivel3": "kwmhlhzw",
+        "Nivel4": "bvhjrrm",
+        "Nivel5": "rufvry",
+        "Nivel6": "hnqbf",
+        "Nivel7": "qpyq",
+        "Nivel8": "ukt"
+    },
+    "Detalle": "sociedad",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Conjunto de personas que conviven y se relacionan dentro de un mismo espacio y ambito cultural." }, { "definicion": "Agrupacion natural o pactada de personas o animales, con el fin de cumplir, mediante la mutua cooperacion, todos o alguno de los fines de la vida." }, { "definicion": "La formada por comerciantes, personas de negocios o accionistas de alguna compania." }, { "definicion": "Conjunto de personas o instituciones que actuan unidas para conseguir un mismo fin." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "mundo" }, { "sinonimo": "humanidad" }, { "sinonimo": "comunidad" }, { "sinonimo": "colectividad" }, { "sinonimo": "generalidad" }, { "sinonimo": "grupo" }, { "sinonimo": "familia" }, { "sinonimo": "poblacion" }, { "sinonimo": "nacion" }, { "sinonimo": "pueblo" }, { "sinonimo": "estado" }, { "sinonimo": "ciudadania" }, { "sinonimo": "habitantes" }, { "sinonimo": "compania" }, { "sinonimo": "empresa" }, { "sinonimo": "firma" }, { "sinonimo": "consorcio" }, { "sinonimo": "corporacion" }, { "sinonimo": "entidad" }, { "sinonimo": "asociacion" }, { "sinonimo": "colectivo" }, { "sinonimo": "centro" }, { "sinonimo": "ateneo" }, { "sinonimo": "circulo" }, { "sinonimo": "club" }, { "sinonimo": "tertulia" }, { "sinonimo": "casino" }, { "sinonimo": "aristocracia" }, { "sinonimo": "nobleza" }]
+}, {
+    "Palabra": "senador",
+    "Ayuda": {
+        "Nivel1": "hpmltuztvv",
+        "Nivel2": "zbmftgxyl",
+        "Nivel3": "kiqctqqj",
+        "Nivel4": "zhfxtyh",
+        "Nivel5": "ilylhc",
+        "Nivel6": "pfpcw",
+        "Nivel7": "tkwk",
+        "Nivel8": "hym"
+    },
+    "Detalle": "senador",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. y f. Persona que es miembro del Senado." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "parlamentario" }, { "sinonimo": "congresista" }, { "sinonimo": "asambleista" }, { "sinonimo": "consejero" }, { "sinonimo": "legislador" }, { "sinonimo": "representante" }]
+}, {
+    "Palabra": "servicio",
+    "Ayuda": {
+        "Nivel1": "uqbdxptynu",
+        "Nivel2": "zktwqwhaj",
+        "Nivel3": "jbpfhawm",
+        "Nivel4": "qldaudl",
+        "Nivel5": "flxwqg",
+        "Nivel6": "zlfym",
+        "Nivel7": "pwag",
+        "Nivel8": "fym"
+    },
+    "Detalle": "servicio",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Labor o trabajo que se hace sirviendo al Estado o a otra entidad o persona." }, { "definicion": "Organizacion y personal destinados a satisfacer necesidades del publico." }, { "definicion": "Conjunto de criados." }, { "definicion": "Favor en beneficio de alguien." }, { "definicion": "Utilidad o provecho." }, { "definicion": "Cubierto que se pone a cada comensal." }, { "definicion": "Conjunto de alimentos que se ponen en la mesa." }, { "definicion": "Conjunto de vajilla y otras cosas para servir los alimentos." }, { "definicion": "Retrete, aseo." }, { "definicion": "Saque de pelota en juegos como el tenis." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "encargo" }, { "sinonimo": "prestacion" }, { "sinonimo": "trabajo" }, { "sinonimo": "asistencia" }, { "sinonimo": "actuacion" }, { "sinonimo": "destino" }, { "sinonimo": "funcion" }, { "sinonimo": "mision" }, { "sinonimo": "oficio" }, { "sinonimo": "ocupacion" }, { "sinonimo": "favor" }, { "sinonimo": "ayuda" }, { "sinonimo": "auxilio" }, { "sinonimo": "servidumbre" }, { "sinonimo": "dependencia" }, { "sinonimo": "personal" }, { "sinonimo": "criados" }, { "sinonimo": "empleados" }, { "sinonimo": "culto" }, { "sinonimo": "ceremonia" }, { "sinonimo": "oficio" }, { "sinonimo": "misa" }, { "sinonimo": "vajilla" }, { "sinonimo": "cubierto" }, { "sinonimo": "cristaleria" }, { "sinonimo": "rendimiento" }, { "sinonimo": "provecho" }, { "sinonimo": "utilidad" }, { "sinonimo": "ganancia" }, { "sinonimo": "beneficio" }, { "sinonimo": "red" }, { "sinonimo": "sistema" }, { "sinonimo": "distribucion" }, { "sinonimo": "conjunto" }, { "sinonimo": "organizacion" }, { "sinonimo": "retrete" }, { "sinonimo": "lavabos" }, { "sinonimo": "urinario" }, { "sinonimo": "evacuatorio" }, { "sinonimo": "letrina" }, { "sinonimo": "bano" }, { "sinonimo": "excusado" }, { "sinonimo": "water" }, { "sinonimo": "inodoro" }]
+}, {
+    "Palabra": "silla",
+    "Ayuda": {
+        "Nivel1": "fkbdnmpuzw",
+        "Nivel2": "cqutctmom",
+        "Nivel3": "nxyheguy",
+        "Nivel4": "tdupoyv",
+        "Nivel5": "ferfhe",
+        "Nivel6": "ypctb",
+        "Nivel7": "gmwn",
+        "Nivel8": "bde"
+    },
+    "Detalle": "silla",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Asiento con respaldo, por lo general con cuatro patas, y en el que solo cabe una persona." }, { "definicion": "Asiento o trono de un prelado con jurisdiccion." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asiento" }, { "sinonimo": "sillon" }, { "sinonimo": "butaca" }, { "sinonimo": "banco" }, { "sinonimo": "escano" }, { "sinonimo": "taburete" }, { "sinonimo": "banqueta" }, { "sinonimo": "reclinatorio" }, { "sinonimo": "jamuga" }, { "sinonimo": "sede" }, { "sinonimo": "poltrona" }, { "sinonimo": "trono" }, { "sinonimo": "solio" }, { "sinonimo": "sitial" }, { "sinonimo": "sillin" }, { "sinonimo": "mecedora" }]
+}, {
+    "Palabra": "solapa",
+    "Ayuda": {
+        "Nivel1": "rzwfxreijk",
+        "Nivel2": "bmceyxybi",
+        "Nivel3": "xetgniwx",
+        "Nivel4": "xynwwuj",
+        "Nivel5": "ndfnrm",
+        "Nivel6": "jcxkn",
+        "Nivel7": "thxt",
+        "Nivel8": "niz"
+    },
+    "Detalle": "solapa",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Parte del vestido correspondiente al pecho que suele ir doblada hacia fuera sobre la misma prenda de vestir." }, { "definicion": "Prolongacion lateral de la cubierta o camisa de un libro que se dobla hacia dentro y en la que se imprimen algunas advertencias o anuncios." }, { "definicion": "tr. Cubrir una cosa a otra en su totalidad o en parte." }, { "definicion": "Ocultar maliciosa y cautelosamente la verdad o la intencion." }, { "definicion": "prnl. Coincidir una cosa con otra." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "doblez" }, { "sinonimo": "reborde" }]
+}, {
+    "Palabra": "sujetador",
+    "Ayuda": {
+        "Nivel1": "plwpggczqk",
+        "Nivel2": "xbmzbxgvm",
+        "Nivel3": "pplxkiqm",
+        "Nivel4": "qipbkfc",
+        "Nivel5": "wmxhqb",
+        "Nivel6": "qxhhk",
+        "Nivel7": "mzmw",
+        "Nivel8": "myk"
+    },
+    "Detalle": "sujetador",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "adj. y s. Que sujeta." }, { "definicion": "m. Prenda femenina que sujeta y realza el pecho." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "sosten" }]
+}, {
+    "Palabra": "sosten",
+    "Ayuda": {
+        "Nivel1": "jimjfkquha",
+        "Nivel2": "yguzkrwrj",
+        "Nivel3": "dugfcvub",
+        "Nivel4": "bwbcddl",
+        "Nivel5": "pjfgyr",
+        "Nivel6": "zmvmf",
+        "Nivel7": "ixum",
+        "Nivel8": "gvi"
+    },
+    "Detalle": "sosten",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Accion y resultado de sostener." }, { "definicion": "Persona o cosa que sostiene y sirve de apoyo moral y proteccion." }, { "definicion": "Sujetador, prenda interior femenina." }, { "definicion": "tr. Mantener firme o sujeta una cosa: Tambien prnl." }, { "definicion": "Defender una proposicion, idea u opinion." }, { "definicion": "Prestar apoyo, dar aliento o auxilio." }, { "definicion": "Dar a uno lo necesario para su manutencion." }, { "definicion": "Hacer algo de forma continua." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "soporte" }, { "sinonimo": "apoyo" }, { "sinonimo": "amparo" }, { "sinonimo": "sujetador" }, { "sinonimo": "ajustador" }, { "sinonimo": "mantenedor" }, { "sinonimo": "protector" }, { "sinonimo": "defensor" }, { "sinonimo": "patrocinador" }, { "sinonimo": "mecenas" }, { "sinonimo": "padrino" }]
+}, {
+    "Palabra": "subterraneo",
+    "Ayuda": {
+        "Nivel1": "xwycdkxphw",
+        "Nivel2": "fmivvmfjm",
+        "Nivel3": "zvyhilli",
+        "Nivel4": "fhwpqxx",
+        "Nivel5": "kpvldf",
+        "Nivel6": "yygfi",
+        "Nivel7": "wpwc",
+        "Nivel8": "fmg"
+    },
+    "Detalle": "subterraneo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que esta debajo de tierra." }, { "definicion": "Oculto, clandestino." }, { "definicion": "m. Lugar, espacio o conducto que se realiza por debajo de la tierra." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "oculto" }, { "sinonimo": "profundo" }, { "sinonimo": "hondo" }, { "sinonimo": "intimo" }, { "sinonimo": "subjetivo" }, { "sinonimo": "furtivo" }, { "sinonimo": "ilegal" }, { "sinonimo": "sotano" }, { "sinonimo": "conducto" }, { "sinonimo": "pasadizo" }, { "sinonimo": "subsuelo" }, { "sinonimo": "galeria" }, { "sinonimo": "mina" }, { "sinonimo": "cueva" }, { "sinonimo": "gruta" }, { "sinonimo": "catacumba" }, { "sinonimo": "metropolitano" }, { "sinonimo": "metro" }]
+}, {
+    "Palabra": "simbolo",
+    "Ayuda": {
+        "Nivel1": "czyrqrwnqd",
+        "Nivel2": "kdvqajdpk",
+        "Nivel3": "twtnjnnw",
+        "Nivel4": "erufxjn",
+        "Nivel5": "pkgdrg",
+        "Nivel6": "uyyuj",
+        "Nivel7": "jvwr",
+        "Nivel8": "kng"
+    },
+    "Detalle": "simbolo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Imagen, figura, etc., con que se representa un concepto moral o intelectual, por analogia o por convencion." }, { "definicion": "Letra o conjunto de letras convenidas con que se designa un elemento simple." }, { "definicion": "Emblemas o figuras accesorias que se anaden al tipo en las monedas y medallas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "alegoria" }, { "sinonimo": "ideograma" }, { "sinonimo": "signo" }, { "sinonimo": "emblema" }, { "sinonimo": "efigie" }, { "sinonimo": "atributo" }, { "sinonimo": "insignia" }, { "sinonimo": "distintivo" }, { "sinonimo": "divisa" }, { "sinonimo": "imagen" }, { "sinonimo": "cifra" }, { "sinonimo": "blason" }, { "sinonimo": "letra" }, { "sinonimo": "inicial" }, { "sinonimo": "sigla" }, { "sinonimo": "formula" }, { "sinonimo": "representacion" }, { "sinonimo": "personificacion" }, { "sinonimo": "encarnacion" }, { "sinonimo": "modelo" }, { "sinonimo": "ejemplo" }]
+}, {
+    "Palabra": "solicitud",
+    "Ayuda": {
+        "Nivel1": "wmbxgpbvzn",
+        "Nivel2": "qnzgrwngw",
+        "Nivel3": "agawnqmx",
+        "Nivel4": "nqzyzvm",
+        "Nivel5": "fbbyzp",
+        "Nivel6": "yvyqh",
+        "Nivel7": "zbwf",
+        "Nivel8": "gqh"
+    },
+    "Detalle": "solicitud",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Documento o memorial en que se solicita algo." }, { "definicion": "Cualidad de solicito." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "cuidado" }, { "sinonimo": "diligencia" }, { "sinonimo": "afan" }, { "sinonimo": "rapidez" }, { "sinonimo": "eficacia" }, { "sinonimo": "esmero" }, { "sinonimo": "prontitud" }, { "sinonimo": "amabilidad" }, { "sinonimo": "cortesia" }, { "sinonimo": "afecto" }, { "sinonimo": "peticion" }, { "sinonimo": "demanda" }, { "sinonimo": "ruego" }, { "sinonimo": "instancia" }, { "sinonimo": "suplica" }]
+}, {
+    "Palabra": "sugerencia",
+    "Ayuda": {
+        "Nivel1": "mhtpmfmztx",
+        "Nivel2": "lvtbypkfj",
+        "Nivel3": "qktkwwok",
+        "Nivel4": "mjmfqwj",
+        "Nivel5": "jyvttv",
+        "Nivel6": "bzptk",
+        "Nivel7": "lowl",
+        "Nivel8": "hoy"
+    },
+    "Detalle": "sugerencia",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Peticion, insinuacion o proposicion de una idea." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "proposicion" }, { "sinonimo": "insinuacion" }, { "sinonimo": "invitacion" }, { "sinonimo": "inspiracion" }, { "sinonimo": "indirecta" }, { "sinonimo": "recomendacion" }, { "sinonimo": "evocacion" }, { "sinonimo": "recuerdo" }, { "sinonimo": "parecido" }, { "sinonimo": "semejanza" }, { "sinonimo": "sugestion" }]
+}, {
+    "Palabra": "sistema",
+    "Ayuda": {
+        "Nivel1": "fqyoxqdrpb",
+        "Nivel2": "pouycnkju",
+        "Nivel3": "hdcdwvwc",
+        "Nivel4": "lrukpkx",
+        "Nivel5": "zjxdcr",
+        "Nivel6": "ckboo",
+        "Nivel7": "cylj",
+        "Nivel8": "nug"
+    },
+    "Detalle": "sistema",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Conjunto de reglas o principios sobre una materia estructurados y enlazados entre si." }, { "definicion": "Conjunto de elementos que, ordenadamente relacionadas entre si, contribuyen a determinado objeto." }, { "definicion": "Conjunto de ideas, principios o que conforman una teoria coherente y completa." }, { "definicion": "Conjunto de organos que intervienen en alguna de las principales funciones vegetativas y animales." }, { "definicion": "Medio, modo o manera usados para hacer algo o lograr un objetivo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "procedimiento" }, { "sinonimo": "metodo" }, { "sinonimo": "modo" }, { "sinonimo": "uso" }, { "sinonimo": "costumbre" }, { "sinonimo": "practica" }, { "sinonimo": "estilo" }, { "sinonimo": "via" }, { "sinonimo": "medio" }, { "sinonimo": "rumbo" }, { "sinonimo": "tecnica" }, { "sinonimo": "ordenanza" }, { "sinonimo": "norma" }, { "sinonimo": "tenor" }, { "sinonimo": "plan" }, { "sinonimo": "regla" }, { "sinonimo": "regimen" }, { "sinonimo": "gobierno" }, { "sinonimo": "organizacion" }, { "sinonimo": "estructura" }, { "sinonimo": "red" }, { "sinonimo": "doctrina" }]
+}, {
+    "Palabra": "seis",
+    "Ayuda": {
+        "Nivel1": "lxrdvruyqq",
+        "Nivel2": "pournvhtx",
+        "Nivel3": "kqutdtkl",
+        "Nivel4": "tlhxbhf",
+        "Nivel5": "xtkdtw",
+        "Nivel6": "rptxh",
+        "Nivel7": "jukm",
+        "Nivel8": "gfv"
+    },
+    "Detalle": "seis",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. y pron. num. card. Cinco mas uno." }, { "definicion": "adj. num. ord. Que ocupa el lugar numero seis en una serie ordenada de elementos, sexto: Tambien m., aplicado a los dias del mes." }, { "definicion": "m. Signo con que se representa el numero seis." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "siete",
+    "Ayuda": {
+        "Nivel1": "dluyqrdkpc",
+        "Nivel2": "gjcwmnkoc",
+        "Nivel3": "qclmqxcw",
+        "Nivel4": "rvlqapq",
+        "Nivel5": "hluvwm",
+        "Nivel6": "vfcnj",
+        "Nivel7": "pzqu",
+        "Nivel8": "fcy"
+    },
+    "Detalle": "siete",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. y pron. num. card. Seis mas uno." }, { "definicion": "adj. num. ord. Que ocupa el lugar numero siete en una serie ordenada de elementos, septimo: Tambien m., aplicado a los dias del mes." }, { "definicion": "m. Signo con que se representa este numero." }, { "definicion": "Naipe que tiene siete senales." }, { "definicion": "Rasgon en forma de angulo que se hace en la ropa." }, { "definicion": "Instrumento de carpinteria para sujetar en el banco los materiales." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "descosido" }, { "sinonimo": "roto" }, { "sinonimo": "desgarron" }, { "sinonimo": "jiron" }]
+}, {
+    "Palabra": "sector",
+    "Ayuda": {
+        "Nivel1": "kymwjizfvf",
+        "Nivel2": "ybxvmdjkd",
+        "Nivel3": "axwmgjgf",
+        "Nivel4": "diixgax",
+        "Nivel5": "mlvggl",
+        "Nivel6": "qdqzv",
+        "Nivel7": "anpa",
+        "Nivel8": "jqa"
+    },
+    "Detalle": "sector",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Parte de una clase o de una colectividad que presenta caracteres peculiares." }, { "definicion": "Parte de un espacio, territorio, etc." }, { "definicion": "Cada una de las distintas actividades economicas o productivas." }, { "definicion": "Porcion de circulo comprendida entre un arco y los dos radios que pasan por sus extremidades." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "compartimiento" }, { "sinonimo": "seccion" }, { "sinonimo": "departamento" }, { "sinonimo": "division" }, { "sinonimo": "grupo" }, { "sinonimo": "parte" }, { "sinonimo": "zona" }, { "sinonimo": "tramo" }, { "sinonimo": "parcela" }, { "sinonimo": "porcion" }, { "sinonimo": "fase" }]
+}, {
+    "Palabra": "secreto",
+    "Ayuda": {
+        "Nivel1": "viqynlpzbg",
+        "Nivel2": "mahbbpxbw",
+        "Nivel3": "aadmvjqp",
+        "Nivel4": "jakfnjx",
+        "Nivel5": "vgjfbg",
+        "Nivel6": "yggxp",
+        "Nivel7": "gwiq",
+        "Nivel8": "gxj"
+    },
+    "Detalle": "secreto",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Oculto, ignorado, escondido." }, { "definicion": "Callado, silencioso, reservado." }, { "definicion": "m. Lo que cuidadosamente se tiene reservado y oculto." }, { "definicion": "Reserva, sigilo." }, { "definicion": "Conocimiento que alguno posee exclusivamente de algo." }, { "definicion": "Escondrijo que suelen tener algunos muebles." }, { "definicion": "Mecanismo oculto de una cerradura, cuyo manejo es preciso conocer de antemano para poder abrirla." }],
+    "antonimos": [{ "antonimo": "claridad" }, { "antonimo": "evidencia" }, { "antonimo": "claro" }, { "antonimo": "evidente" }],
+    "sinonimos": [{ "sinonimo": "misterio" }, { "sinonimo": "reserva" }, { "sinonimo": "sigilo" }, { "sinonimo": "incognita" }, { "sinonimo": "reserva" }, { "sinonimo": "confidencia" }, { "sinonimo": "enigma" }, { "sinonimo": "interrogante" }, { "sinonimo": "cifra" }, { "sinonimo": "combinacion" }, { "sinonimo": "clave" }, { "sinonimo": "misterioso" }, { "sinonimo": "enigmatico" }, { "sinonimo": "impenetrable" }, { "sinonimo": "confidencial" }, { "sinonimo": "reservado" }, { "sinonimo": "oculto" }, { "sinonimo": "sigiloso" }, { "sinonimo": "encubierto" }, { "sinonimo": "anonimo" }, { "sinonimo": "ignoto" }, { "sinonimo": "callado" }, { "sinonimo": "intimo" }, { "sinonimo": "escondido" }]
+}, {
+    "Palabra": "situacion",
+    "Ayuda": {
+        "Nivel1": "fzflkbwzwk",
+        "Nivel2": "fqpxxmgdd",
+        "Nivel3": "xrmfhlfm",
+        "Nivel4": "pbypdpj",
+        "Nivel5": "gdykhy",
+        "Nivel6": "wdlhh",
+        "Nivel7": "mfml",
+        "Nivel8": "zjz"
+    },
+    "Detalle": "situacion",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Posicion, colocacion en un determinado lugar." }, { "definicion": "Lugar donde esta situado alguien o algo." }, { "definicion": "Disposicion o estado de alguien o algo." }, { "definicion": "Conjunto de las realidades o circunstancias que se producen en un momento determinado y que determinan la existencia de las personas o de las cosas." }, { "definicion": "Posicion social o economica." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "sitio" }, { "sinonimo": "lugar" }, { "sinonimo": "localizacion" }, { "sinonimo": "posicion" }, { "sinonimo": "disposicion" }, { "sinonimo": "emplazamiento" }, { "sinonimo": "ubicacion" }, { "sinonimo": "orientacion" }, { "sinonimo": "postura" }, { "sinonimo": "lado" }, { "sinonimo": "direccion" }, { "sinonimo": "curso" }, { "sinonimo": "fase" }, { "sinonimo": "etapa" }, { "sinonimo": "condicion" }, { "sinonimo": "estado" }, { "sinonimo": "disposicion" }, { "sinonimo": "realidad" }, { "sinonimo": "tesitura" }, { "sinonimo": "circunstancia" }, { "sinonimo": "coyuntura" }, { "sinonimo": "trance" }, { "sinonimo": "cargo" }, { "sinonimo": "empleo" }, { "sinonimo": "colocacion" }, { "sinonimo": "puesto" }]
+}, {
+    "Palabra": "solucion",
+    "Ayuda": {
+        "Nivel1": "jmmxftvjxj",
+        "Nivel2": "drpekttaf",
+        "Nivel3": "tjeqpmey",
+        "Nivel4": "qprqqwh",
+        "Nivel5": "hbfqfx",
+        "Nivel6": "dzprp",
+        "Nivel7": "ehgv",
+        "Nivel8": "ewy"
+    },
+    "Detalle": "solucion",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Hecho de resolver una duda o dificultad." }, { "definicion": "Desenlace de la trama o asunto de una obra literaria, pelicula, etc." }, { "definicion": "Desenlace o termino de un proceso, negocio, etc." }, { "definicion": ". Resultado que satisface las condiciones planteadas en un problema o una ecuacion." }, { "definicion": "Accion y resultado de disolver." }, { "definicion": "Mezcla homogenea que se obtiene al disolver una o mas sustancias llamadas solutos en otra llamada disolvente." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "satisfaccion" }, { "sinonimo": "remedio" }, { "sinonimo": "resolucion" }, { "sinonimo": "conclusion" }, { "sinonimo": "resultado" }, { "sinonimo": "desenlace" }, { "sinonimo": "fin" }, { "sinonimo": "termino" }, { "sinonimo": "reparacion" }, { "sinonimo": "arreglo" }, { "sinonimo": "recurso" }, { "sinonimo": "medida" }, { "sinonimo": "salida" }, { "sinonimo": "final" }, { "sinonimo": "acuerdo" }, { "sinonimo": "compromiso" }, { "sinonimo": "salvacion" }, { "sinonimo": "alivio" }, { "sinonimo": "disolucion" }, { "sinonimo": "mezcla" }, { "sinonimo": "emulsion" }, { "sinonimo": "infusion" }, { "sinonimo": "coloide" }]
+}, {
+    "Palabra": "serie",
+    "Ayuda": {
+        "Nivel1": "zmhmzbdkxx",
+        "Nivel2": "ktzkxmapo",
+        "Nivel3": "ypycoacq",
+        "Nivel4": "zzddczw",
+        "Nivel5": "daulbj",
+        "Nivel6": "wmkkt",
+        "Nivel7": "xhow",
+        "Nivel8": "mku"
+    },
+    "Detalle": "serie",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Conjunto de cosas relacionadas entre si y que se suceden unas a otras." }, { "definicion": "P. ext., conjunto de personas o cosas aunque no guarden relacion entre si." }, { "definicion": "Conjunto de cosas hechas o fabricadas de una vez, por ejemplo, los sellos, billetes, etc., de una misma emision, y esta misma emision." }, { "definicion": "En la loteria, cada una de las emisiones de los numeros correspondientes a un mismo sorteo." }, { "definicion": "Conjunto de fonemas de una lengua caracterizados por un mismo modo de articulacion." }, { "definicion": "Sucesion de cantidades que se derivan unas de otras segun una ley determinada." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "sucesion" }, { "sinonimo": "progresion" }, { "sinonimo": "orden" }, { "sinonimo": "gradacion" }, { "sinonimo": "fila" }, { "sinonimo": "hilera" }, { "sinonimo": "encadenamiento" }, { "sinonimo": "hilo" }, { "sinonimo": "ala" }, { "sinonimo": "columna" }, { "sinonimo": "escala" }, { "sinonimo": "gama" }, { "sinonimo": "secuencia" }, { "sinonimo": "coleccion" }, { "sinonimo": "lista" }, { "sinonimo": "desfile" }, { "sinonimo": "procesion" }, { "sinonimo": "cadena" }, { "sinonimo": "rosario" }, { "sinonimo": "ristra" }, { "sinonimo": "sarta" }, { "sinonimo": "letania" }, { "sinonimo": "retahila" }, { "sinonimo": "ciclo" }, { "sinonimo": "proceso" }, { "sinonimo": "grupo" }]
+}, {
+    "Palabra": "secuencia",
+    "Ayuda": {
+        "Nivel1": "kqyzkvbrhh",
+        "Nivel2": "lwwbxjqrw",
+        "Nivel3": "bwgjryfr",
+        "Nivel4": "yhdlhfg",
+        "Nivel5": "flxzfo",
+        "Nivel6": "lttmw",
+        "Nivel7": "vdjq",
+        "Nivel8": "ypb"
+    },
+    "Detalle": "secuencia",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Serie o sucesion de cosas que guardan cierta relacion entre si." }, { "definicion": "Sucesion no interrumpida de planos o escenas que integran una etapa descriptiva, una jornada de la accion o un tramo coherente y concreto del argumento." }, { "definicion": "Conjunto de cantidades u operaciones ordenadas de tal modo que cada una determina la siguiente." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ordenamiento" }, { "sinonimo": "sucesion" }, { "sinonimo": "serie" }, { "sinonimo": "proceso" }, { "sinonimo": "orden" }, { "sinonimo": "ciclo" }, { "sinonimo": "fase" }, { "sinonimo": "etapa" }, { "sinonimo": "cadena" }, { "sinonimo": "continuacion" }]
+}, {
+    "Palabra": "similitud",
+    "Ayuda": {
+        "Nivel1": "fvvookfboe",
+        "Nivel2": "fnzzzgakp",
+        "Nivel3": "knxgqnxn",
+        "Nivel4": "bnpkwoa",
+        "Nivel5": "kbnabn",
+        "Nivel6": "enpor",
+        "Nivel7": "gngg",
+        "Nivel8": "zco"
+    },
+    "Detalle": "similitud",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Semejanza, parecido." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "semejanza" }]
+}, {
+    "Palabra": "sentido",
+    "Ayuda": {
+        "Nivel1": "hzgzgburhx",
+        "Nivel2": "rxbwyhrgl",
+        "Nivel3": "vpxbkgky",
+        "Nivel4": "xajjxvj",
+        "Nivel5": "uwjgka",
+        "Nivel6": "wbjxj",
+        "Nivel7": "vzfz",
+        "Nivel8": "hkk"
+    },
+    "Detalle": "sentido",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que incluye o explica con sinceridad un sentimiento." }, { "definicion": "[Persona] que se ofende con facilidad." }, { "definicion": "Que tiene dolorida una parte del cuerpo." }, { "definicion": "m. Cada una de las facultades que tienen el hombre y los animales para percibir las impresiones del mundo exterior." }, { "definicion": "Capacidad para apreciar alguna cosa." }, { "definicion": "Conciencia, percepcion del mundo exterior." }, { "definicion": "Entendimiento, inteligencia." }, { "definicion": "Modo particular de entender una cosa, juicio que se hace sobre ella." }, { "definicion": "Razon de ser o finalidad." }, { "definicion": "Significado, cada una de las acepciones de las palabras." }, { "definicion": "Cada una de las interpretaciones que puede admitir un escrito, comentario, etc." }, { "definicion": "Cada una de las dos formas opuestas en que puede orientarse una linea, una direccion u otra cosa." }, { "definicion": "m. Sentimiento." }, { "definicion": "Opinion, parecer." }, { "definicion": "tr. Experimentar o percibir sensaciones producidas por causas externas o internas a traves de los sentidos." }, { "definicion": "Oir, percibir por el oido." }, { "definicion": "Experimentar una impresion, placer o dolor corporal." }, { "definicion": "Experimentar una impresion o un sentimiento." }, { "definicion": "Lamentar, compadecerse." }, { "definicion": "Intuir, barruntar, presentir." }, { "definicion": "Juzgar, opinar." }, { "definicion": "prnl. Notarse, hallarse en determinado estado. ♦ Se usa seguido de algunos adjetivos." }, { "definicion": "Considerarse, reconocerse." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "sensible" }, { "sinonimo": "conocimiento" }, { "sinonimo": "conciencia" }, { "sinonimo": "discernimiento" }, { "sinonimo": "entendimiento" }, { "sinonimo": "nocion" }, { "sinonimo": "inteligencia" }, { "sinonimo": "razon" }, { "sinonimo": "capacidad" }, { "sinonimo": "comprension" }, { "sinonimo": "sagacidad" }, { "sinonimo": "logica" }, { "sinonimo": "percepcion" }, { "sinonimo": "sensibilidad" }, { "sinonimo": "sensacion" }, { "sinonimo": "vista" }, { "sinonimo": "tacto" }, { "sinonimo": "gusto" }, { "sinonimo": "oido" }, { "sinonimo": "olfato" }, { "sinonimo": "acepcion" }, { "sinonimo": "significacion" }, { "sinonimo": "significado" }, { "sinonimo": "meta" }, { "sinonimo": "objetivo" }, { "sinonimo": "alcance" }, { "sinonimo": "interes" }, { "sinonimo": "valor" }, { "sinonimo": "importancia" }, { "sinonimo": "direccion" }, { "sinonimo": "orientacion" }, { "sinonimo": "trayectoria" }, { "sinonimo": "derrotero" }, { "sinonimo": "rumbo" }, { "sinonimo": "marcha" }, { "sinonimo": "tendencia" }, { "sinonimo": "curso" }]
+}, {
+    "Palabra": "sensacion",
+    "Ayuda": {
+        "Nivel1": "dbldpqkrrl",
+        "Nivel2": "xlxgyxkfg",
+        "Nivel3": "hdqrgrwg",
+        "Nivel4": "wjpfyfw",
+        "Nivel5": "frmdbz",
+        "Nivel6": "mxlfl",
+        "Nivel7": "xbqr",
+        "Nivel8": "pvl"
+    },
+    "Detalle": "sensacion",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Impresion que las cosas producen en la mente por medio de los sentidos." }, { "definicion": "Emocion producida en el animo por un suceso o noticia." }, { "definicion": "Presentimiento, intuicion. ♦ Se usa sobre todo con los verbos y" }],
+    "antonimos": [{ "antonimo": "insensibilidad" }, { "antonimo": "atonia" }],
+    "sinonimos": [{ "sinonimo": "impresion" }, { "sinonimo": "efecto" }, { "sinonimo": "percepcion" }, { "sinonimo": "huella" }, { "sinonimo": "emocion" }, { "sinonimo": "evocacion" }, { "sinonimo": "premonicion" }, { "sinonimo": "presentimiento" }, { "sinonimo": "corazonada" }, { "sinonimo": "creencia" }, { "sinonimo": "nocion" }, { "sinonimo": "imagen" }, { "sinonimo": "representacion" }]
+}, {
+    "Palabra": "significado",
+    "Ayuda": {
+        "Nivel1": "xpuqmtjkrh",
+        "Nivel2": "xyhzzeyjb",
+        "Nivel3": "rbqrjmre",
+        "Nivel4": "pqhxpjh",
+        "Nivel5": "ujebup",
+        "Nivel6": "urtwr",
+        "Nivel7": "ktpw",
+        "Nivel8": "lrx"
+    },
+    "Detalle": "significado",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Conocido, importante, famoso." }, { "definicion": "m. Sentido o concepto que representa una cosa, una palabra, un signo, etc." }, { "definicion": "Elemento que, unido al de significante, constituye y conforma el signo lingüistico." }, { "definicion": "tr. Ser una cosa signo de otra o representarla." }, { "definicion": "Ser una palabra o frase expresion de una idea." }, { "definicion": "Manifestar, senalar una cosa." }, { "definicion": "intr. Tener importancia." }, { "definicion": "prnl. Distinguirse por alguna cualidad o circunstancia." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "significacion" }, { "sinonimo": "alcance" }, { "sinonimo": "razon" }, { "sinonimo": "motivo" }, { "sinonimo": "representacion" }, { "sinonimo": "concepto" }, { "sinonimo": "significante" }, { "sinonimo": "signo" }, { "sinonimo": "destacado" }, { "sinonimo": "conocido" }, { "sinonimo": "importante" }, { "sinonimo": "popular" }, { "sinonimo": "ilustre" }, { "sinonimo": "senalado" }, { "sinonimo": "distinguido" }]
+}, {
+    "Palabra": "sorpresa",
+    "Ayuda": {
+        "Nivel1": "qdcnqtjblw",
+        "Nivel2": "zkxyvybwj",
+        "Nivel3": "mmyqgumt",
+        "Nivel4": "wbnujvm",
+        "Nivel5": "mickzx",
+        "Nivel6": "yixky",
+        "Nivel7": "bcft",
+        "Nivel8": "vvk"
+    },
+    "Detalle": "sorpresa",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Accion y resultado de sorprender." }, { "definicion": "Cosa que da motivo para que alguien se sorprenda." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asombro" }, { "sinonimo": "admiracion" }, { "sinonimo": "pasmo" }, { "sinonimo": "extraneza" }, { "sinonimo": "fascinacion" }, { "sinonimo": "impresion" }, { "sinonimo": "desconcierto" }, { "sinonimo": "conmocion" }, { "sinonimo": "estupefaccion" }, { "sinonimo": "exclamacion" }, { "sinonimo": "chasco" }, { "sinonimo": "sobresalto" }, { "sinonimo": "susto" }, { "sinonimo": "consternacion" }, { "sinonimo": "estupor" }, { "sinonimo": "confusion" }]
+}, {
+    "Palabra": "susto",
+    "Ayuda": {
+        "Nivel1": "amcqbkwelg",
+        "Nivel2": "rpwjnjnbb",
+        "Nivel3": "mfjeidqv",
+        "Nivel4": "jknqfcv",
+        "Nivel5": "cqzyrm",
+        "Nivel6": "evqgd",
+        "Nivel7": "qzze",
+        "Nivel8": "xrl"
+    },
+    "Detalle": "susto",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Impresion repentina causada por sorpresa o miedo." }, { "definicion": "Fuerte crisis nerviosa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "sobresalto" }, { "sinonimo": "turbacion" }, { "sinonimo": "temor" }, { "sinonimo": "miedo" }, { "sinonimo": "asombro" }, { "sinonimo": "alarma" }, { "sinonimo": "angustia" }]
+}, {
+    "Palabra": "seguridad",
+    "Ayuda": {
+        "Nivel1": "xzpmnkckvh",
+        "Nivel2": "tztxwwxtb",
+        "Nivel3": "bzkxwjbj",
+        "Nivel4": "ytjklfq",
+        "Nivel5": "toxcck",
+        "Nivel6": "ykntp",
+        "Nivel7": "bmnh",
+        "Nivel8": "olo"
+    },
+    "Detalle": "seguridad",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Calidad de lo que es o esta seguro." }, { "definicion": "Certeza, garantia de que algo va a cumplirse." }],
+    "antonimos": [{ "antonimo": "inseguridad" }, { "antonimo": "vacilacion" }, { "antonimo": "falibilidad" }, { "antonimo": "desproteccion" }, { "antonimo": "desamparo" }],
+    "sinonimos": [{ "sinonimo": "certeza" }, { "sinonimo": "confianza" }, { "sinonimo": "conviccion" }, { "sinonimo": "firmeza" }, { "sinonimo": "infalibilidad" }, { "sinonimo": "evidencia" }, { "sinonimo": "convencimiento" }, { "sinonimo": "fe" }, { "sinonimo": "certidumbre" }, { "sinonimo": "garantia" }, { "sinonimo": "estabilidad" }, { "sinonimo": "inmunidad" }, { "sinonimo": "proteccion" }, { "sinonimo": "tranquilidad" }, { "sinonimo": "auxilio" }, { "sinonimo": "amparo" }, { "sinonimo": "asilo" }, { "sinonimo": "inmunidad" }, { "sinonimo": "invulnerabilidad" }, { "sinonimo": "defensa" }, { "sinonimo": "fianza" }, { "sinonimo": "firmeza" }, { "sinonimo": "solidez" }]
+}, {
+    "Palabra": "superior",
+    "Ayuda": {
+        "Nivel1": "qdfqjgdjah",
+        "Nivel2": "vnmgdvchz",
+        "Nivel3": "ykqqjwnb",
+        "Nivel4": "hgdjfgq",
+        "Nivel5": "cjcdgg",
+        "Nivel6": "blhtk",
+        "Nivel7": "ttcg",
+        "Nivel8": "hxq"
+    },
+    "Detalle": "superior",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "adj. Que esta mas alto o situado en una zona alta." }, { "definicion": "Que excede a otras cosas en calidad o cantidad." }, { "definicion": "Excelente, muy bueno." }, { "definicion": "[Ser] vivo de organizacion mas compleja o evolucionada." }, { "definicion": "adj. y com. [Persona] que tiene autoridad sobre otra." }, { "definicion": "m. y f. Persona que gobierna o dirige una comunidad religiosa." }],
+    "antonimos": [{ "antonimo": "inferior" }, { "antonimo": "pesimo" }, { "antonimo": "subordinado" }],
+    "sinonimos": [{ "sinonimo": "mejor" }, { "sinonimo": "excelente" }, { "sinonimo": "Supremo" }, { "sinonimo": "sobresaliente" }, { "sinonimo": "extraordinario" }, { "sinonimo": "inmejorable" }, { "sinonimo": "jefe" }, { "sinonimo": "director" }, { "sinonimo": "rector" }, { "sinonimo": "amo" }, { "sinonimo": "patron" }, { "sinonimo": "prior" }, { "sinonimo": "abad" }, { "sinonimo": "general" }]
+}, {
+    "Palabra": "simple",
+    "Ayuda": {
+        "Nivel1": "ubxbdxyxqo",
+        "Nivel2": "watzqqvqj",
+        "Nivel3": "vvzfggry",
+        "Nivel4": "tdhydbh",
+        "Nivel5": "xwtcbr",
+        "Nivel6": "ofgau",
+        "Nivel7": "nwvu",
+        "Nivel8": "dzw"
+    },
+    "Detalle": "simple",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Formado por un solo elemento o por pocos." }, { "definicion": "[Cosa] sencilla, por oposicion a las que pueden ser dobles o estar duplicadas." }, { "definicion": "Facil, sencillo, sin complicacion." }, { "definicion": "Falto de malicia y picardia. Tambien com." }, { "definicion": "Tonto, bobo: Tambien com." }, { "definicion": "[Palabra] que no se compone de otras de la lengua a la que pertenece." }, { "definicion": "[Forma] verbal que consta de una unica palabra." }, { "definicion": "[Traslado o copia de una escritura] que se saca sin firmar ni autorizar." }, { "definicion": "[Sustancia] formada por un solo tipo de atomos: ♦ sup. irreg." }],
+    "antonimos": [{ "antonimo": "complicado" }, { "antonimo": "listo" }],
+    "sinonimos": [{ "sinonimo": "sencillo" }, { "sinonimo": "inocente" }, { "sinonimo": "ingenuo" }, { "sinonimo": "incauto" }, { "sinonimo": "credulo" }, { "sinonimo": "simplon" }, { "sinonimo": "necio" }, { "sinonimo": "estupido" }, { "sinonimo": "bobo" }, { "sinonimo": "ganso" }, { "sinonimo": "tonto" }, { "sinonimo": "memo" }, { "sinonimo": "primo" }, { "sinonimo": "soso" }, { "sinonimo": "zoquete" }, { "sinonimo": "majadero" }, { "sinonimo": "mentecato" }]
+}, {
+    "Palabra": "sencillo",
+    "Ayuda": {
+        "Nivel1": "aapxkwpktt",
+        "Nivel2": "jyafhudrv",
+        "Nivel3": "dmdkgmky",
+        "Nivel4": "mpvvpua",
+        "Nivel5": "jyhbaj",
+        "Nivel6": "vqgky",
+        "Nivel7": "mutq",
+        "Nivel8": "tbx"
+    },
+    "Detalle": "sencillo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que no tiene complicacion, facil." }, { "definicion": "Formado por un elemento o por pocos." }, { "definicion": "Natural, espontaneo, no presuntuoso." }, { "definicion": "Ingenuo, que obra sin doblez ni engano." }, { "definicion": "Que carece de ostentacion y adornos." }, { "definicion": "Que tiene menos cuerpo que otras cosas de su especie." }, { "definicion": "[Disco] grabado por lo comun en 45 revoluciones por minuto, que contiene una o dos grabaciones en cada cara. Tambien m." }, { "definicion": "m. Dinero suelto, calderilla." }],
+    "antonimos": [{ "antonimo": "dificil" }, { "antonimo": "complejo" }, { "antonimo": "multiple" }, { "antonimo": "artificioso" }, { "antonimo": "longplay" }, { "antonimo": "elepe" }],
+    "sinonimos": [{ "sinonimo": "facil" }, { "sinonimo": "asequible" }, { "sinonimo": "elemental" }, { "sinonimo": "simple" }, { "sinonimo": "fino" }, { "sinonimo": "delgado" }, { "sinonimo": "individual" }, { "sinonimo": "natural" }, { "sinonimo": "sobrio" }, { "sinonimo": "discreto" }, { "sinonimo": "mondo" }, { "sinonimo": "lirondo" }, { "sinonimo": "solo" }, { "sinonimo": "mero" }, { "sinonimo": "neto" }, { "sinonimo": "franco" }, { "sinonimo": "campechano" }, { "sinonimo": "sincero" }, { "sinonimo": "directo" }, { "sinonimo": "claro" }, { "sinonimo": "evidente" }, { "sinonimo": "inocente" }, { "sinonimo": "ingenuo" }, { "sinonimo": "humilde" }, { "sinonimo": "afable" }, { "sinonimo": "espontaneo" }, { "sinonimo": "single" }]
+}, {
+    "Palabra": "serio",
+    "Ayuda": {
+        "Nivel1": "wzwtqbdcjd",
+        "Nivel2": "mvvdzaggg",
+        "Nivel3": "nhhvdcyw",
+        "Nivel4": "uumglap",
+        "Nivel5": "glgupk",
+        "Nivel6": "vcttb",
+        "Nivel7": "vltv",
+        "Nivel8": "bwb"
+    },
+    "Detalle": "serio",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Severo, poco alegre, grave en el semblante, en actitud y comportamiento." }, { "definicion": "Enfadado o preocupado." }, { "definicion": "Formal y cumplidor." }, { "definicion": "Digno de confianza." }, { "definicion": "Que no se destina a hacer reir o divertir, sino a informar, educar, etc." }, { "definicion": "Importante, grave." }, { "definicion": "[Ropa, decoracion, etc.] de lineas y colores sobrios y poco llamativos." }],
+    "antonimos": [{ "antonimo": "informal" }, { "antonimo": "alegre" }, { "antonimo": "irresponsable" }, { "antonimo": "desenfadado" }],
+    "sinonimos": [{ "sinonimo": "severo" }, { "sinonimo": "formal" }, { "sinonimo": "sensato" }, { "sinonimo": "circunspecto" }, { "sinonimo": "responsable" }, { "sinonimo": "digno" }, { "sinonimo": "prudente" }, { "sinonimo": "reservado" }, { "sinonimo": "mesurado" }, { "sinonimo": "imperturbable" }, { "sinonimo": "solvente" }, { "sinonimo": "discreto" }, { "sinonimo": "respetable" }, { "sinonimo": "respetuoso" }, { "sinonimo": "cumplidor" }, { "sinonimo": "puntual" }, { "sinonimo": "celoso" }, { "sinonimo": "recto" }, { "sinonimo": "escrupuloso" }, { "sinonimo": "reflexivo" }, { "sinonimo": "sobrio" }, { "sinonimo": "tieso" }, { "sinonimo": "seco" }, { "sinonimo": "taciturno" }, { "sinonimo": "adusto" }, { "sinonimo": "ceremonioso" }, { "sinonimo": "solemne" }, { "sinonimo": "grave" }, { "sinonimo": "importante" }, { "sinonimo": "urgente" }, { "sinonimo": "arduo" }, { "sinonimo": "delicado" }, { "sinonimo": "dificil" }, { "sinonimo": "embarazoso" }, { "sinonimo": "complicado" }]
+}, {
+    "Palabra": "similar",
+    "Ayuda": {
+        "Nivel1": "ffewdhhbtk",
+        "Nivel2": "jjnvhneuk",
+        "Nivel3": "vfkdhpcz",
+        "Nivel4": "nfgjyjp",
+        "Nivel5": "nvhowo",
+        "Nivel6": "fuqeo",
+        "Nivel7": "guxh",
+        "Nivel8": "gvu"
+    },
+    "Detalle": "similar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "adj. Que tiene semejanza o analogia con una cosa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "semejante" }]
+}, {
+    "Palabra": "social",
+    "Ayuda": {
+        "Nivel1": "zxktfmuxbt",
+        "Nivel2": "pevrytbgz",
+        "Nivel3": "ghtejtwd",
+        "Nivel4": "rrrxxph",
+        "Nivel5": "ewudwn",
+        "Nivel6": "rezug",
+        "Nivel7": "ttzv",
+        "Nivel8": "gng"
+    },
+    "Detalle": "social",
+    "PLetra": "s",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. De la sociedad o relativo a ella." }, { "definicion": "De los problemas de la sociedad o que se interesa por ellos." }, { "definicion": "De una compania o sociedad, o de los socios o companeros, aliados o confederados, o relativo a ellos." }, { "definicion": "[Animal] que de forma natural tiende a vivir en sociedad." }, { "definicion": "f. pl. Ciencias sociales, humanidades, como la historia, filosofia, sociologia, antropologia, etc." }],
+    "antonimos": [{ "antonimo": "individual" }],
+    "sinonimos": [{ "sinonimo": "comunitario" }, { "sinonimo": "colectivo" }, { "sinonimo": "general" }, { "sinonimo": "benefico" }]
+}, {
+    "Palabra": "suave",
+    "Ayuda": {
+        "Nivel1": "wodlhhctzf",
+        "Nivel2": "tqhjbqfil",
+        "Nivel3": "rjijqpzw",
+        "Nivel4": "gxiznqq",
+        "Nivel5": "qbrkhk",
+        "Nivel6": "gcqto",
+        "Nivel7": "xrkk",
+        "Nivel8": "kth"
+    },
+    "Detalle": "suave",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Liso y agradable al tacto." }, { "definicion": "Esponjoso." }, { "definicion": "Dulce, agradable para los sentidos." }, { "definicion": "Tranquilo, manso." }],
+    "antonimos": [{ "antonimo": "aspero" }, { "antonimo": "rasposo" }, { "antonimo": "rebelde" }, { "antonimo": "irritable" }],
+    "sinonimos": [{ "sinonimo": "terso" }, { "sinonimo": "sedoso" }, { "sinonimo": "liso" }, { "sinonimo": "agradable" }, { "sinonimo": "fino" }, { "sinonimo": "raso" }, { "sinonimo": "uniforme" }, { "sinonimo": "esponjoso" }, { "sinonimo": "blando" }, { "sinonimo": "delicado" }, { "sinonimo": "sutil" }, { "sinonimo": "exquisito" }, { "sinonimo": "ligero" }, { "sinonimo": "gracioso" }, { "sinonimo": "leve" }, { "sinonimo": "flojo" }, { "sinonimo": "tranquilo" }, { "sinonimo": "reposado" }, { "sinonimo": "apacible" }, { "sinonimo": "docil" }, { "sinonimo": "manejable" }, { "sinonimo": "flexible" }, { "sinonimo": "facil" }, { "sinonimo": "placido" }, { "sinonimo": "sosegado" }, { "sinonimo": "dulce" }, { "sinonimo": "sumiso" }, { "sinonimo": "manso" }, { "sinonimo": "carinoso" }, { "sinonimo": "grato" }]
+}, {
+    "Palabra": "salado",
+    "Ayuda": {
+        "Nivel1": "rbjfzwpyvh",
+        "Nivel2": "cfvibqmym",
+        "Nivel3": "njuvpyty",
+        "Nivel4": "zjqxnxc",
+        "Nivel5": "qeepbt",
+        "Nivel6": "xxnfc",
+        "Nivel7": "tgtw",
+        "Nivel8": "tgb"
+    },
+    "Detalle": "salado",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que tiene sal o mas sal de la necesaria." }, { "definicion": "Gracioso, garboso, con salero." }, { "definicion": "m. Acto de salar." }, { "definicion": "tr. Curar o conservar un alimento con sal." }, { "definicion": "Sazonar con sal." }, { "definicion": "tr. y prnl. Manchar, deshonrar." }, { "definicion": "Desgraciar, echar a perder." }, { "definicion": "Gafar, dar o atraer mala suerte." }],
+    "antonimos": [{ "antonimo": "dulce" }, { "antonimo": "soso" }, { "antonimo": "aburrido" }],
+    "sinonimos": [{ "sinonimo": "salobre" }, { "sinonimo": "salino" }, { "sinonimo": "salifero" }, { "sinonimo": "picante" }, { "sinonimo": "sabroso" }, { "sinonimo": "salobreno" }, { "sinonimo": "fuerte" }, { "sinonimo": "chistoso" }, { "sinonimo": "divertido" }, { "sinonimo": "desternillante" }, { "sinonimo": "ingenioso" }, { "sinonimo": "ocurrente" }, { "sinonimo": "agudo" }, { "sinonimo": "gracioso" }]
+}, {
+    "Palabra": "siguiente",
+    "Ayuda": {
+        "Nivel1": "fjfqqoflyf",
+        "Nivel2": "abohvozjl",
+        "Nivel3": "apyxpkcm",
+        "Nivel4": "wjmdcwd",
+        "Nivel5": "codfjv",
+        "Nivel6": "aphlz",
+        "Nivel7": "jmol",
+        "Nivel8": "oxk"
+    },
+    "Detalle": "siguiente",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Posterior, que va despues: Tambien m." }, { "definicion": "Que va a decirse a continuacion." }],
+    "antonimos": [{ "antonimo": "anterior" }],
+    "sinonimos": [{ "sinonimo": "posterior" }, { "sinonimo": "ulterior" }, { "sinonimo": "subsiguiente" }, { "sinonimo": "subsecuente" }, { "sinonimo": "sucesivo" }, { "sinonimo": "proximo" }, { "sinonimo": "consecutivo" }, { "sinonimo": "consecuente" }, { "sinonimo": "correlativo" }, { "sinonimo": "continuador" }, { "sinonimo": "inferior" }, { "sinonimo": "sucesor" }]
+}, {
+    "Palabra": "separado",
+    "Ayuda": {
+        "Nivel1": "igxktzbnib",
+        "Nivel2": "cvyntwznx",
+        "Nivel3": "cmywfncl",
+        "Nivel4": "fllnkll",
+        "Nivel5": "cuxkyk",
+        "Nivel6": "ggmbm",
+        "Nivel7": "wzyj",
+        "Nivel8": "gmj"
+    },
+    "Detalle": "separado",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Disgregado, distanciado." }, { "definicion": "[Persona] casada que ha obtenido la separacion matrimonial o que no lleva vida conyugal. Tambien s." }, { "definicion": "tr. Establecer distancia o aumentarla entre algo o alguien. ♦ Se construye con la prep. Tambien prnl." }, { "definicion": "Privar de un empleo, cargo o condicion al que los servia u ostentaba." }, { "definicion": "Formar grupos dentro de un todo." }, { "definicion": "Distinguir, reconocer como distinto." }, { "definicion": "Reservar o guardar una cosa." }, { "definicion": "prnl. Tomar caminos distintos personas, animales o vehiculos que iban juntos o por el mismo camino." }, { "definicion": "Abandonar una creencia o una opinion." }, { "definicion": "Interrumpir los conyuges la vida en comun sin que se extinga el vinculo matrimonial." }],
+    "antonimos": [{ "antonimo": "sometido" }, { "antonimo": "sujeto" }],
+    "sinonimos": [{ "sinonimo": "emancipado" }, { "sinonimo": "libre" }, { "sinonimo": "independizado" }, { "sinonimo": "independiente" }, { "sinonimo": "autonomo" }, { "sinonimo": "autonomico" }, { "sinonimo": "autarquico" }, { "sinonimo": "descentralizado" }, { "sinonimo": "cismatico" }, { "sinonimo": "alejado" }, { "sinonimo": "apartado" }, { "sinonimo": "desprendido" }, { "sinonimo": "desglosado" }, { "sinonimo": "divergente" }, { "sinonimo": "desterrado" }, { "sinonimo": "expulsado" }, { "sinonimo": "exiliado" }, { "sinonimo": "despedido" }, { "sinonimo": "echado" }, { "sinonimo": "jubilado" }, { "sinonimo": "retirado" }, { "sinonimo": "arrojado" }, { "sinonimo": "rechazado" }, { "sinonimo": "repudiado" }, { "sinonimo": "destituido" }, { "sinonimo": "segregado" }, { "sinonimo": "solitario" }, { "sinonimo": "solo" }, { "sinonimo": "suelto" }, { "sinonimo": "desperdigado" }, { "sinonimo": "espaciado" }, { "sinonimo": "extendido" }, { "sinonimo": "disociado" }, { "sinonimo": "aislado" }, { "sinonimo": "desunido" }, { "sinonimo": "disuelto" }]
+}, {
+    "Palabra": "solo",
+    "Ayuda": {
+        "Nivel1": "hmwuvgggxh",
+        "Nivel2": "nmjkfkvti",
+        "Nivel3": "xiqdxmcf",
+        "Nivel4": "ktawqjq",
+        "Nivel5": "kvatrc",
+        "Nivel6": "qjchp",
+        "Nivel7": "bzuk",
+        "Nivel8": "ekp"
+    },
+    "Detalle": "solo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adv. m. Unicamente, nada mas, sin otra cosa." }, { "definicion": "Expresamente, sin otra intencion: ♦ A veces se escribe con tilde cuando puede ser confundido con el adj. como en la frase" }, { "definicion": "adj. Unico en su especie." }, { "definicion": "Que esta sin otra cosa o que se considera separado de ella." }, { "definicion": "Dicho de personas, sin compania." }, { "definicion": "Que no tiene quien le ampare o consuele." }, { "definicion": "Desierto." }, { "definicion": "m. . Composicion o parte de ella para una unica voz o instrumento." }, { "definicion": "m. Porcion de terreno donde se ha edificado o que se destina a edificar en el." }, { "definicion": "Casa, descendencia, linaje noble." }, { "definicion": "adj. [Casa] mas antigua y noble de una familia." }, { "definicion": "adj. Del Sol o relativo a el." }, { "definicion": "tr. Revestir el suelo con ladrillos, losas u otro material." }],
+    "antonimos": [{ "antonimo": "lleno" }, { "antonimo": "poblado" }],
+    "sinonimos": [{ "sinonimo": "solitario" }, { "sinonimo": "despoblado" }, { "sinonimo": "vacio" }, { "sinonimo": "unico" }, { "sinonimo": "uno" }, { "sinonimo": "mero" }, { "sinonimo": "exclusivo" }, { "sinonimo": "singular" }, { "sinonimo": "impar" }, { "sinonimo": "puro" }, { "sinonimo": "senero" }]
+}, {
+    "Palabra": "solitario",
+    "Ayuda": {
+        "Nivel1": "ffqjvwpynw",
+        "Nivel2": "pyppxvqef",
+        "Nivel3": "pqbhhkzy",
+        "Nivel4": "puekzfv",
+        "Nivel5": "upfefx",
+        "Nivel6": "fhkhx",
+        "Nivel7": "qefc",
+        "Nivel8": "kqv"
+    },
+    "Detalle": "solitario",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Desamparado, desierto." }, { "definicion": "Solo, sin compania: Tambien s." }, { "definicion": "Retirado, que ama la soledad o vive en ella. Tambien s." }, { "definicion": "m. Diamante que se engasta solo en una joya." }, { "definicion": "Juego de naipes que ejecuta una sola persona." }],
+    "antonimos": [{ "antonimo": "sociable" }],
+    "sinonimos": [{ "sinonimo": "despoblado" }, { "sinonimo": "desierto" }, { "sinonimo": "deshabitado" }, { "sinonimo": "desolado" }, { "sinonimo": "abandonado" }, { "sinonimo": "muerto" }, { "sinonimo": "aislado" }, { "sinonimo": "retirado" }, { "sinonimo": "vacio" }, { "sinonimo": "desguarnecido" }, { "sinonimo": "desamparado" }, { "sinonimo": "anacoreta" }, { "sinonimo": "penitente" }, { "sinonimo": "monje" }, { "sinonimo": "asceta" }, { "sinonimo": "eremita" }, { "sinonimo": "ermitano" }, { "sinonimo": "insociable" }, { "sinonimo": "hurano" }, { "sinonimo": "retraido" }, { "sinonimo": "timido" }, { "sinonimo": "misantropo" }, { "sinonimo": "misogino" }, { "sinonimo": "huidizo" }, { "sinonimo": "esquivo" }, { "sinonimo": "intratable" }]
+}, {
+    "Palabra": "sorprendido",
+    "Ayuda": {
+        "Nivel1": "wlkbhawaky",
+        "Nivel2": "ktvzymwlh",
+        "Nivel3": "wcjzwbcq",
+        "Nivel4": "uvgquaz",
+        "Nivel5": "lbtzfb",
+        "Nivel6": "qumac",
+        "Nivel7": "tzfj",
+        "Nivel8": "ayg"
+    },
+    "Detalle": "sorprendido",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "tr. Pillar desprevenido." }, { "definicion": "Admirar o maravillar con algo imprevisto o raro. Tambien prnl." }, { "definicion": "Descubrir lo que otro ocultaba o disimulaba." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asombrado" }, { "sinonimo": "admirado" }, { "sinonimo": "pasmado" }, { "sinonimo": "extranado" }, { "sinonimo": "fascinado" }, { "sinonimo": "maravillado" }, { "sinonimo": "impresionado" }, { "sinonimo": "desconcertado" }, { "sinonimo": "conmovido" }, { "sinonimo": "sobrecogido" }, { "sinonimo": "estupefacto" }, { "sinonimo": "descubierto" }, { "sinonimo": "pillado" }, { "sinonimo": "pescado" }, { "sinonimo": "atrapado" }, { "sinonimo": "cogido" }, { "sinonimo": "desenmascarado" }]
+}, {
+    "Palabra": "segundo",
+    "Ayuda": {
+        "Nivel1": "ttykcihrbm",
+        "Nivel2": "rjfxtywqw",
+        "Nivel3": "vavyvypm",
+        "Nivel4": "rxahwjb",
+        "Nivel5": "xfzjhv",
+        "Nivel6": "kwpwf",
+        "Nivel7": "khah",
+        "Nivel8": "tic"
+    },
+    "Detalle": "segundo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. num. ord. Que ocupa el lugar numero dos en una serie ordenada de elementos." }, { "definicion": "adj. [Familiar] no carnal o colateral." }, { "definicion": "[Intencion] oculta o maliciosa." }, { "definicion": "m. y f. Persona que sigue en jerarquia al jefe o principal." }, { "definicion": "m. Cada una de las sesenta partes en que se divide el minuto de tiempo." }, { "definicion": "Tiempo muy breve, instante." }, { "definicion": "Cada una de las sesenta partes en que se divide el minuto de circunferencia." }, { "definicion": "f. Segunda marcha de los vehiculos con motor." }, { "definicion": "f. pl. Segunda intencion." }, { "definicion": "adv. En segundo lugar." }],
+    "antonimos": [{ "antonimo": "primero" }, { "antonimo": "jefe" }],
+    "sinonimos": [{ "sinonimo": "auxiliar" }, { "sinonimo": "suplente" }, { "sinonimo": "ayudante" }, { "sinonimo": "delegado" }, { "sinonimo": "sustituto" }, { "sinonimo": "subalterno" }, { "sinonimo": "lugarteniente" }, { "sinonimo": "posterior" }, { "sinonimo": "siguiente" }]
+}, {
+    "Palabra": "su",
+    "Ayuda": {
+        "Nivel1": "rkwhkmexex",
+        "Nivel2": "lylhldkqv",
+        "Nivel3": "kecydavf",
+        "Nivel4": "aibfemz",
+        "Nivel5": "jfbgpa",
+        "Nivel6": "fttek",
+        "Nivel7": "flim",
+        "Nivel8": "mcf"
+    },
+    "Detalle": "su",
+    "PLetra": "s",
+    "ULetra": "u",
+    "definiciones": [{ "definicion": "adj. pos. com. sing. y pl. Apocope de que siempre antecede a sustantivos" }, { "definicion": "pl. A veces tiene caracter indeterminado y equivale a 'aproximadamente'." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "ser",
+    "Ayuda": {
+        "Nivel1": "vblhmmvknk",
+        "Nivel2": "jzjqtbhqo",
+        "Nivel3": "zxagcqml",
+        "Nivel4": "ucdgtqn",
+        "Nivel5": "uiopfu",
+        "Nivel6": "fojoc",
+        "Nivel7": "vzil",
+        "Nivel8": "kqw"
+    },
+    "Detalle": "ser",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Esencia y naturaleza." }, { "definicion": "Vida, existencia." }, { "definicion": "Cualquier cosa creada, especialmente si esta dotada de vida." }, { "definicion": "El ser humano. ♦ Se construye generalmente acompanado de adjetivos calificativos." }, { "definicion": "v. cop. Tener alguien o algo una determinada cualidad." }, { "definicion": "Tener alguien una determinada profesion, oficio o cargo." }, { "definicion": "Pertenecer, formar parte. ♦ Se construye con la prep." }, { "definicion": "Tener origen, principio o nacionalidad." }, { "definicion": "Estar constituido, compuesto o formado de cierta materia." }, { "definicion": "Constituir el resultado de una operacion matematica." }, { "definicion": "Consistir, ser la causa de lo que se expresa." }, { "definicion": "v. aux. Sirve para formar la conjugacion de la voz pasiva." }, { "definicion": "intr. Haber o existir." }, { "definicion": "Servir, ser adecuado o estar destinado para la persona o cosa que se expresa. ♦ Se construye con la prep." }, { "definicion": "Valer, costar." }, { "definicion": "Corresponder, tocar. ♦ Se construye con complementos adjetivos en pl. o de significado general o colectivo." }, { "definicion": "intr. impers. Acontecer, ocurrir, tener lugar." }, { "definicion": "Introduce expresiones de tiempo." }],
+    "antonimos": [{ "antonimo": "nada" }, { "antonimo": "nadie" }, { "antonimo": "morir" }, { "antonimo": "faltar" }],
+    "sinonimos": [{ "sinonimo": "esencia" }, { "sinonimo": "naturaleza" }, { "sinonimo": "sustancia" }, { "sinonimo": "materia" }, { "sinonimo": "monada" }, { "sinonimo": "ente" }, { "sinonimo": "individuo" }, { "sinonimo": "criatura" }, { "sinonimo": "persona" }, { "sinonimo": "organismo" }, { "sinonimo": "sujeto" }, { "sinonimo": "cosa" }, { "sinonimo": "forma" }, { "sinonimo": "especimen" }, { "sinonimo": "engendro" }, { "sinonimo": "vida" }, { "sinonimo": "existencia" }, { "sinonimo": "estar" }, { "sinonimo": "existir" }, { "sinonimo": "vivir" }, { "sinonimo": "residir" }, { "sinonimo": "permanecer" }, { "sinonimo": "yacer" }, { "sinonimo": "subsistir" }, { "sinonimo": "hallarse" }, { "sinonimo": "durar" }, { "sinonimo": "mantenerse" }, { "sinonimo": "pertenecer" }, { "sinonimo": "corresponder" }, { "sinonimo": "depender" }, { "sinonimo": "formar" }, { "sinonimo": "causar" }, { "sinonimo": "producir" }, { "sinonimo": "originarse" }, { "sinonimo": "ocurrir" }, { "sinonimo": "pasar" }, { "sinonimo": "transcurrir" }, { "sinonimo": "suceder" }]
+}, {
+    "Palabra": "sacar",
+    "Ayuda": {
+        "Nivel1": "exdgpbdndw",
+        "Nivel2": "kkhhmifon",
+        "Nivel3": "nujvzuqi",
+        "Nivel4": "nzjnqut",
+        "Nivel5": "lbpmbo",
+        "Nivel6": "ixuuw",
+        "Nivel7": "djge",
+        "Nivel8": "oyh"
+    },
+    "Detalle": "sacar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Poner algo o a alguien fuera del lugar o condicion en que estaba." }, { "definicion": "Extraer una cosa de otra." }, { "definicion": "Averiguar." }, { "definicion": "Conocer, descubrir." }, { "definicion": "Mostrar, manifestar una cosa." }, { "definicion": "Hacer que alguien de o diga algo con persuasion o por la fuerza." }, { "definicion": "Conseguir, lograr." }, { "definicion": "Ganar por medio de la suerte." }, { "definicion": "Hacer las gestiones necesarias para obtener un documento." }, { "definicion": "Superar con exito." }, { "definicion": "Poner en uso o circulacion." }, { "definicion": "Aventajar." }, { "definicion": "Adelantar una cosa." }, { "definicion": "Ensanchar o alargar." }, { "definicion": "Hacer una fotografia o retrato o filmar a una persona o cosa." }, { "definicion": "Citar, mencionar." }, { "definicion": "Poner en juego la pelota o el balon." }],
+    "antonimos": [{ "antonimo": "meter" }, { "antonimo": "incluir" }, { "antonimo": "encerrar" }, { "antonimo": "clavar" }, { "antonimo": "embutir" }, { "antonimo": "ocultar" }],
+    "sinonimos": [{ "sinonimo": "extraer" }, { "sinonimo": "retirar" }, { "sinonimo": "quitar" }, { "sinonimo": "apartar" }, { "sinonimo": "arrancar" }, { "sinonimo": "desenterrar" }, { "sinonimo": "vaciar" }, { "sinonimo": "abrir" }, { "sinonimo": "alejar" }, { "sinonimo": "separar" }, { "sinonimo": "despojar" }, { "sinonimo": "desposeer" }, { "sinonimo": "deducir" }, { "sinonimo": "colegir" }, { "sinonimo": "obtener" }, { "sinonimo": "conseguir" }, { "sinonimo": "lucrarse" }, { "sinonimo": "lograr" }, { "sinonimo": "producir" }, { "sinonimo": "mostrar" }, { "sinonimo": "ensenar" }, { "sinonimo": "manifestar" }, { "sinonimo": "lucir" }, { "sinonimo": "exhibir" }, { "sinonimo": "revelar" }]
+}, {
+    "Palabra": "sujetar",
+    "Ayuda": {
+        "Nivel1": "omkfcmyggf",
+        "Nivel2": "vlvqlcdqy",
+        "Nivel3": "zvoklypy",
+        "Nivel4": "ckxnndv",
+        "Nivel5": "vgdpyz",
+        "Nivel6": "qvdgb",
+        "Nivel7": "dgzn",
+        "Nivel8": "mlq"
+    },
+    "Detalle": "sujetar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. y prnl. Sostener o asir algo de modo que no se caiga o se mueva." }, { "definicion": "Someter, dominar: ♦ Tiene dos p. p.: uno reg., y otro irreg.," }],
+    "antonimos": [{ "antonimo": "soltar" }, { "antonimo": "liberar" }],
+    "sinonimos": [{ "sinonimo": "coger" }, { "sinonimo": "asegurar" }, { "sinonimo": "retener" }, { "sinonimo": "sostener" }, { "sinonimo": "contener" }, { "sinonimo": "agarrar" }, { "sinonimo": "asir" }, { "sinonimo": "enganchar" }, { "sinonimo": "trabar" }, { "sinonimo": "entorpecer" }, { "sinonimo": "atar" }, { "sinonimo": "paralizar" }, { "sinonimo": "inmovilizar" }, { "sinonimo": "encadenar" }, { "sinonimo": "constrenir" }, { "sinonimo": "domar" }, { "sinonimo": "clavar" }, { "sinonimo": "atornillar" }, { "sinonimo": "remachar" }, { "sinonimo": "pegar" }, { "sinonimo": "adherir" }, { "sinonimo": "enganchar" }, { "sinonimo": "dominar" }, { "sinonimo": "someter" }, { "sinonimo": "cenir" }, { "sinonimo": "ajustar" }, { "sinonimo": "acomodar" }, { "sinonimo": "amoldar" }, { "sinonimo": "atenerse" }, { "sinonimo": "remitirse" }]
+}, {
+    "Palabra": "sacar",
+    "Ayuda": {
+        "Nivel1": "jhoxxxybxv",
+        "Nivel2": "pxvbphtjn",
+        "Nivel3": "hvwgblkd",
+        "Nivel4": "eiphyxd",
+        "Nivel5": "jpenzz",
+        "Nivel6": "mqguy",
+        "Nivel7": "yofu",
+        "Nivel8": "xvq"
+    },
+    "Detalle": "sacar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Poner algo o a alguien fuera del lugar o condicion en que estaba." }, { "definicion": "Extraer una cosa de otra." }, { "definicion": "Averiguar." }, { "definicion": "Conocer, descubrir." }, { "definicion": "Mostrar, manifestar una cosa." }, { "definicion": "Hacer que alguien de o diga algo con persuasion o por la fuerza." }, { "definicion": "Conseguir, lograr." }, { "definicion": "Ganar por medio de la suerte." }, { "definicion": "Hacer las gestiones necesarias para obtener un documento." }, { "definicion": "Superar con exito." }, { "definicion": "Poner en uso o circulacion." }, { "definicion": "Aventajar." }, { "definicion": "Adelantar una cosa." }, { "definicion": "Ensanchar o alargar." }, { "definicion": "Hacer una fotografia o retrato o filmar a una persona o cosa." }, { "definicion": "Citar, mencionar." }, { "definicion": "Poner en juego la pelota o el balon." }],
+    "antonimos": [{ "antonimo": "meter" }, { "antonimo": "incluir" }, { "antonimo": "encerrar" }, { "antonimo": "clavar" }, { "antonimo": "embutir" }, { "antonimo": "ocultar" }],
+    "sinonimos": [{ "sinonimo": "extraer" }, { "sinonimo": "retirar" }, { "sinonimo": "quitar" }, { "sinonimo": "apartar" }, { "sinonimo": "arrancar" }, { "sinonimo": "desenterrar" }, { "sinonimo": "vaciar" }, { "sinonimo": "abrir" }, { "sinonimo": "alejar" }, { "sinonimo": "separar" }, { "sinonimo": "despojar" }, { "sinonimo": "desposeer" }, { "sinonimo": "deducir" }, { "sinonimo": "colegir" }, { "sinonimo": "obtener" }, { "sinonimo": "conseguir" }, { "sinonimo": "lucrarse" }, { "sinonimo": "lograr" }, { "sinonimo": "producir" }, { "sinonimo": "mostrar" }, { "sinonimo": "ensenar" }, { "sinonimo": "manifestar" }, { "sinonimo": "lucir" }, { "sinonimo": "exhibir" }, { "sinonimo": "revelar" }]
+}, {
+    "Palabra": "sensaciones",
+    "Ayuda": {
+        "Nivel1": "wgtxztzfvw",
+        "Nivel2": "bqllyhdjw",
+        "Nivel3": "zftqvblj",
+        "Nivel4": "bgqzthr",
+        "Nivel5": "gwmhhp",
+        "Nivel6": "jyktu",
+        "Nivel7": "mphd",
+        "Nivel8": "dzf"
+    },
+    "Detalle": "sensaciones",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Impresion que las cosas producen en la mente por medio de los sentidos." }, { "definicion": "Emocion producida en el animo por un suceso o noticia." }, { "definicion": "Presentimiento, intuicion. ♦ Se usa sobre todo con los verbos y" }],
+    "antonimos": [{ "antonimo": "insensibilidad" }, { "antonimo": "atonia" }],
+    "sinonimos": [{ "sinonimo": "impresion" }, { "sinonimo": "efecto" }, { "sinonimo": "percepcion" }, { "sinonimo": "huella" }, { "sinonimo": "emocion" }, { "sinonimo": "evocacion" }, { "sinonimo": "premonicion" }, { "sinonimo": "presentimiento" }, { "sinonimo": "corazonada" }, { "sinonimo": "creencia" }, { "sinonimo": "nocion" }, { "sinonimo": "imagen" }, { "sinonimo": "representacion" }]
+}, {
+    "Palabra": "sentir",
+    "Ayuda": {
+        "Nivel1": "qcukkbkxyo",
+        "Nivel2": "dvlxlxvjy",
+        "Nivel3": "wjqygwoc",
+        "Nivel4": "dpmfjbh",
+        "Nivel5": "ygmwpu",
+        "Nivel6": "vhopy",
+        "Nivel7": "vbcy",
+        "Nivel8": "ldo"
+    },
+    "Detalle": "sentir",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Sentimiento." }, { "definicion": "Opinion, parecer." }, { "definicion": "tr. Experimentar o percibir sensaciones producidas por causas externas o internas a traves de los sentidos." }, { "definicion": "Oir, percibir por el oido." }, { "definicion": "Experimentar una impresion, placer o dolor corporal." }, { "definicion": "Experimentar una impresion o un sentimiento." }, { "definicion": "Lamentar, compadecerse." }, { "definicion": "Intuir, barruntar, presentir." }, { "definicion": "Juzgar, opinar." }, { "definicion": "prnl. Notarse, hallarse en determinado estado. ♦ Se usa seguido de algunos adjetivos." }, { "definicion": "Considerarse, reconocerse." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "deplorar" }, { "sinonimo": "lamentar" }, { "sinonimo": "arrepentirse" }, { "sinonimo": "afligirse" }, { "sinonimo": "entristecerse" }, { "sinonimo": "impresionarse" }, { "sinonimo": "conmoverse" }, { "sinonimo": "compadecerse" }, { "sinonimo": "palpar" }, { "sinonimo": "experimentar" }, { "sinonimo": "apreciar" }, { "sinonimo": "percibir" }, { "sinonimo": "advertir" }, { "sinonimo": "percartarse" }, { "sinonimo": "sufrir" }, { "sinonimo": "padecer" }, { "sinonimo": "soportar" }, { "sinonimo": "adivinar" }, { "sinonimo": "presagiar" }, { "sinonimo": "pronosticar" }, { "sinonimo": "barruntar" }, { "sinonimo": "presentir" }, { "sinonimo": "sospechar" }, { "sinonimo": "creer" }, { "sinonimo": "pensar" }, { "sinonimo": "estimar" }, { "sinonimo": "juzgar" }, { "sinonimo": "considerar" }, { "sinonimo": "notarse" }, { "sinonimo": "encontrarse" }, { "sinonimo": "hallarse" }, { "sinonimo": "verse" }, { "sinonimo": "estar" }, { "sinonimo": "sentimiento" }, { "sinonimo": "parecer" }, { "sinonimo": "juicio" }]
+}, {
+    "Palabra": "sorprenderse",
+    "Ayuda": {
+        "Nivel1": "kykjlabmbm",
+        "Nivel2": "cwfmivwkm",
+        "Nivel3": "twbitzbu",
+        "Nivel4": "mvtggvi",
+        "Nivel5": "lcvbkx",
+        "Nivel6": "wxjlz",
+        "Nivel7": "bbmt",
+        "Nivel8": "txt"
+    },
+    "Detalle": "sorprenderse",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "tr. Pillar desprevenido." }, { "definicion": "Admirar o maravillar con algo imprevisto o raro. Tambien prnl." }, { "definicion": "Descubrir lo que otro ocultaba o disimulaba." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asombrar" }, { "sinonimo": "admirar" }, { "sinonimo": "pasmar" }, { "sinonimo": "extranar" }, { "sinonimo": "chocar" }, { "sinonimo": "fascinar" }, { "sinonimo": "maravillar" }, { "sinonimo": "impresionar" }, { "sinonimo": "desconcertar" }, { "sinonimo": "conmover" }, { "sinonimo": "sobrecoger" }, { "sinonimo": "descubrir" }, { "sinonimo": "pillar" }, { "sinonimo": "pescar" }, { "sinonimo": "atrapar" }, { "sinonimo": "coger" }, { "sinonimo": "desenmascarar" }]
+}, {
+    "Palabra": "señalar",
+    "Ayuda": {},
+    "Detalle": "señalar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Pillar desprevenido." }, { "definicion": "Admirar o maravillar con algo imprevisto o raro. Tambien prnl." }, { "definicion": "Descubrir lo que otro ocultaba o disimulaba." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asombrar" }, { "sinonimo": "admirar" }, { "sinonimo": "pasmar" }, { "sinonimo": "extranar" }, { "sinonimo": "chocar" }, { "sinonimo": "fascinar" }, { "sinonimo": "maravillar" }, { "sinonimo": "impresionar" }, { "sinonimo": "desconcertar" }, { "sinonimo": "conmover" }, { "sinonimo": "sobrecoger" }, { "sinonimo": "descubrir" }, { "sinonimo": "pillar" }, { "sinonimo": "pescar" }, { "sinonimo": "atrapar" }, { "sinonimo": "coger" }, { "sinonimo": "desenmascarar" }]
+}, {
+    "Palabra": "seguir",
+    "Ayuda": {
+        "Nivel1": "vaolboadfk",
+        "Nivel2": "dmyvtlmak",
+        "Nivel3": "tjhqjjfh",
+        "Nivel4": "bkjhvqn",
+        "Nivel5": "mmobpa",
+        "Nivel6": "dtftd",
+        "Nivel7": "axkn",
+        "Nivel8": "dap"
+    },
+    "Detalle": "seguir",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Ir o estar despues o detras de una persona o cosa." }, { "definicion": "Ir por un determinado camino o direccion." }, { "definicion": "Acompanar con la vista a un objeto que se mueve." }, { "definicion": "Ir en compania de uno." }, { "definicion": "Proseguir o continuar lo empezado." }, { "definicion": "Ejercer una ciencia, arte o empleo o dedicarse a ello." }, { "definicion": "Observar algo con atencion, estar atento a ello." }, { "definicion": "Perseguir, molestar, acosar a uno yendo en su busca o alcance." }, { "definicion": "Entender lo que otro dice." }, { "definicion": "Convenir con una opinion o ideologia, ser partidario de ella." }, { "definicion": "Actuar haciendo caso del ejemplo de otro, de consejos o normas, etc." }, { "definicion": "prnl. Inferirse o deducirse una cosa de otra." }, { "definicion": "Extenderse o llegar algo hasta algun sitio." }],
+    "antonimos": [{ "antonimo": "abandonar" }, { "antonimo": "dejar" }, { "antonimo": "rechazar" }, { "antonimo": "desobedecer" }, { "antonimo": "desistir" }, { "antonimo": "abandonar" }, { "antonimo": "preceder" }, { "antonimo": "anteceder" }],
+    "sinonimos": [{ "sinonimo": "acompanar" }, { "sinonimo": "perseguir" }, { "sinonimo": "acosar" }, { "sinonimo": "proseguir" }, { "sinonimo": "escoltar" }, { "sinonimo": "hostigar" }, { "sinonimo": "acechar" }, { "sinonimo": "acorralar" }, { "sinonimo": "imitar" }, { "sinonimo": "copiar" }, { "sinonimo": "plagiar" }, { "sinonimo": "admirar" }, { "sinonimo": "simpatizar" }, { "sinonimo": "respaldar" }, { "sinonimo": "apoyar" }, { "sinonimo": "secundar" }, { "sinonimo": "alentar" }, { "sinonimo": "ayudar" }, { "sinonimo": "continuar" }, { "sinonimo": "insistir" }, { "sinonimo": "durar" }, { "sinonimo": "persistir" }, { "sinonimo": "repetir" }, { "sinonimo": "reanudar" }, { "sinonimo": "prolongar" }, { "sinonimo": "derivarse" }, { "sinonimo": "deducirse" }, { "sinonimo": "colegirse" }, { "sinonimo": "resultar" }, { "sinonimo": "inferirse" }, { "sinonimo": "sobrevenir" }, { "sinonimo": "nacer" }]
+}, {
+    "Palabra": "sustituir",
+    "Ayuda": {
+        "Nivel1": "ylnlcedylc",
+        "Nivel2": "hbjwehxgf",
+        "Nivel3": "emdllzxm",
+        "Nivel4": "zxqnccj",
+        "Nivel5": "wyfhwn",
+        "Nivel6": "jxvlw",
+        "Nivel7": "fymk",
+        "Nivel8": "bmo"
+    },
+    "Detalle": "sustituir",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "reemplazar" }, { "sinonimo": "relevar" }, { "sinonimo": "suplir" }, { "sinonimo": "suceder" }, { "sinonimo": "cambiar" }, { "sinonimo": "permutar" }, { "sinonimo": "renovar" }]
+}, {
+    "Palabra": "salir",
+    "Ayuda": {
+        "Nivel1": "gwdkvbkgjc",
+        "Nivel2": "fteucttyn",
+        "Nivel3": "pmkfexbu",
+        "Nivel4": "qtdemed",
+        "Nivel5": "hyyjdg",
+        "Nivel6": "zjbxq",
+        "Nivel7": "gyvh",
+        "Nivel8": "fgn"
+    },
+    "Detalle": "salir",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Pasar de dentro afuera. Tambien prnl." }, { "definicion": "Desencajarse una cosa. Tambien prnl." }, { "definicion": "Partir de un lugar a otro." }, { "definicion": "Ir a tomar el aire, pasear, distraerse." }, { "definicion": "Librarse de un lugar o situacion peligrosos." }, { "definicion": "Aparecer." }, { "definicion": "Brotar, nacer." }, { "definicion": "Aparecer alguien en una foto, filmacion, libro, etc." }, { "definicion": "Mantener con alguien una relacion amorosa." }, { "definicion": "Apartarse, separarse. Tambien prnl." }, { "definicion": "Descubrirse el caracter de alguien o las caracteristicas de algo." }, { "definicion": "Decir o hacer algo inesperado o que causa extraneza." }, { "definicion": "Ocurrir, sobrevenir." }, { "definicion": "Costar una cosa." }, { "definicion": "Resultar una cuenta." }, { "definicion": "Corresponder a cada uno una cantidad." }, { "definicion": "Quedar, venir a ser." }, { "definicion": "Tener buen o mal exito." }, { "definicion": "Conseguir hacer bien una cosa." }, { "definicion": "Parecerse, asemejarse." }, { "definicion": "Ser elegido en un sorteo, votacion, etc." }, { "definicion": "Ir a parar." }, { "definicion": "prnl. Derramarse por una rendija un liquido." }, { "definicion": "Rebosar un liquido al hervir." }],
+    "antonimos": [{ "antonimo": "venir" }, { "antonimo": "regresar" }, { "antonimo": "ocultarse" }],
+    "sinonimos": [{ "sinonimo": "partir" }, { "sinonimo": "irse" }, { "sinonimo": "ausentarse" }, { "sinonimo": "marchar" }, { "sinonimo": "huir" }, { "sinonimo": "alejarse" }, { "sinonimo": "evadirse" }, { "sinonimo": "escapar" }, { "sinonimo": "surgir" }, { "sinonimo": "aparecer" }, { "sinonimo": "presentarse" }, { "sinonimo": "emerger" }, { "sinonimo": "venir" }, { "sinonimo": "brotar" }, { "sinonimo": "nacer" }, { "sinonimo": "asomar" }, { "sinonimo": "manifestarse" }, { "sinonimo": "manar" }, { "sinonimo": "desaguar" }, { "sinonimo": "evacuar" }, { "sinonimo": "rezumar" }, { "sinonimo": "fluir" }, { "sinonimo": "rebosar" }, { "sinonimo": "desembocar" }, { "sinonimo": "desbordarse" }, { "sinonimo": "mojar" }, { "sinonimo": "inundar" }, { "sinonimo": "gotear" }, { "sinonimo": "proceder" }, { "sinonimo": "dimanar" }, { "sinonimo": "originarse" }]
+}, {
+    "Palabra": "saber",
+    "Ayuda": {
+        "Nivel1": "dmkcmmwfzj",
+        "Nivel2": "tqhhhqxoj",
+        "Nivel3": "dozgiwvd",
+        "Nivel4": "icmjwtv",
+        "Nivel5": "vhnwkn",
+        "Nivel6": "tkwhj",
+        "Nivel7": "myzc",
+        "Nivel8": "ntq"
+    },
+    "Detalle": "saber",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Sabiduria, conocimiento o ciencia." }, { "definicion": "tr. Conocer, tener noticia de algo." }, { "definicion": "Tener la certeza de algo." }, { "definicion": "Ser docto en alguna cosa: Tambien intr." }, { "definicion": "Tener habilidad o capacidad para hacer algo." }, { "definicion": "Acomodarse, aceptar algo de una determinada manera." }, { "definicion": "intr. Tener noticias sobre una persona o cosa." }, { "definicion": "Ser muy astuto." }, { "definicion": "Tener sabor." }, { "definicion": "Tener una cosa semejanza o apariencia de otra." }, { "definicion": "No ser capaz de solucionar o desempenar una tarea." }],
+    "antonimos": [{ "antonimo": "ignorar" }, { "antonimo": "ignorancia" }, { "antonimo": "analfabetismo" }],
+    "sinonimos": [{ "sinonimo": "conocer" }, { "sinonimo": "entender" }, { "sinonimo": "dominar" }, { "sinonimo": "comprender" }, { "sinonimo": "discernir" }, { "sinonimo": "advertir" }, { "sinonimo": "intuir" }, { "sinonimo": "percibir" }, { "sinonimo": "descifrar" }, { "sinonimo": "sabiduria" }, { "sinonimo": "inteligencia" }, { "sinonimo": "sapiencia" }, { "sinonimo": "ciencia" }, { "sinonimo": "cultura" }, { "sinonimo": "conocimiento" }, { "sinonimo": "erudicion" }, { "sinonimo": "ilustracion" }, { "sinonimo": "educacion" }, { "sinonimo": "estudios" }]
+}, {
+    "Palabra": "separar",
+    "Ayuda": {
+        "Nivel1": "zfxifcfguz",
+        "Nivel2": "vdqhgtxlm",
+        "Nivel3": "jhchgidt",
+        "Nivel4": "otxwbhh",
+        "Nivel5": "hodxwn",
+        "Nivel6": "icwyl",
+        "Nivel7": "nhlm",
+        "Nivel8": "nkg"
+    },
+    "Detalle": "separar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Establecer distancia o aumentarla entre algo o alguien. ♦ Se construye con la prep. Tambien prnl." }, { "definicion": "Privar de un empleo, cargo o condicion al que los servia u ostentaba." }, { "definicion": "Formar grupos dentro de un todo." }, { "definicion": "Distinguir, reconocer como distinto." }, { "definicion": "Reservar o guardar una cosa." }, { "definicion": "prnl. Tomar caminos distintos personas, animales o vehiculos que iban juntos o por el mismo camino." }, { "definicion": "Abandonar una creencia o una opinion." }, { "definicion": "Interrumpir los conyuges la vida en comun sin que se extinga el vinculo matrimonial." }],
+    "antonimos": [{ "antonimo": "someterse" }, { "antonimo": "sujetarse" }, { "antonimo": "vincularse" }, { "antonimo": "juntarse" }],
+    "sinonimos": [{ "sinonimo": "emanciparse" }, { "sinonimo": "liberarse" }, { "sinonimo": "independizarse" }, { "sinonimo": "clasificar" }, { "sinonimo": "ordenar" }, { "sinonimo": "agrupar" }, { "sinonimo": "distinguir" }, { "sinonimo": "seleccionar" }, { "sinonimo": "alejar" }, { "sinonimo": "disgregar" }, { "sinonimo": "disociar" }, { "sinonimo": "dividir" }, { "sinonimo": "aislar" }, { "sinonimo": "abandonar" }, { "sinonimo": "desprender" }, { "sinonimo": "desglosar" }, { "sinonimo": "desechar" }, { "sinonimo": "sacar" }, { "sinonimo": "deshacer" }, { "sinonimo": "desconectar" }, { "sinonimo": "desarticular" }, { "sinonimo": "desacoplar" }, { "sinonimo": "analizar" }, { "sinonimo": "colar" }, { "sinonimo": "filtrar" }, { "sinonimo": "distanciar" }, { "sinonimo": "desmembrar" }, { "sinonimo": "retirar" }, { "sinonimo": "dispersar" }, { "sinonimo": "desperdigar" }, { "sinonimo": "descoser" }, { "sinonimo": "despegar" }, { "sinonimo": "segregar" }, { "sinonimo": "expulsar" }, { "sinonimo": "despedir" }, { "sinonimo": "destituir" }, { "sinonimo": "apartar" }, { "sinonimo": "excluir" }, { "sinonimo": "eliminar" }, { "sinonimo": "licenciar" }, { "sinonimo": "jubilar" }, { "sinonimo": "relevar" }, { "sinonimo": "divorciarse" }, { "sinonimo": "romper" }, { "sinonimo": "desunir" }, { "sinonimo": "disolver" }, { "sinonimo": "repudiar" }, { "sinonimo": "desligarse" }]
+}, {
+    "Palabra": "solicitar",
+    "Ayuda": {
+        "Nivel1": "egqufmqykp",
+        "Nivel2": "mgfkmqbbw",
+        "Nivel3": "kvbquknq",
+        "Nivel4": "qgkfpqp",
+        "Nivel5": "puxwxn",
+        "Nivel6": "ngfjv",
+        "Nivel7": "bqzh",
+        "Nivel8": "hqw"
+    },
+    "Detalle": "solicitar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Pedir o pretender una cosa para la que se necesitan ciertas gestiones o formalidades." }, { "definicion": "Requerir la presencia, amistad, etc., de una persona." }, { "definicion": "Requerir de amores a una persona." }, { "definicion": ". Atraer una o mas fuerzas a un cuerpo, cada cual en su sentido." }],
+    "antonimos": [{ "antonimo": "rehusar" }, { "antonimo": "rechazar" }, { "antonimo": "denegar" }],
+    "sinonimos": [{ "sinonimo": "pedir" }, { "sinonimo": "llamar" }, { "sinonimo": "pretender" }, { "sinonimo": "aspirar" }, { "sinonimo": "suplicar" }, { "sinonimo": "gestionar" }, { "sinonimo": "firmar" }, { "sinonimo": "requerir" }, { "sinonimo": "rogar" }, { "sinonimo": "instar" }, { "sinonimo": "cortejar" }]
+}, {
+    "Palabra": "sugerir",
+    "Ayuda": {
+        "Nivel1": "wbkaayydbj",
+        "Nivel2": "bahzvddko",
+        "Nivel3": "zmvvkxkz",
+        "Nivel4": "djnbqon",
+        "Nivel5": "cmpnxd",
+        "Nivel6": "ypcbk",
+        "Nivel7": "cwha",
+        "Nivel8": "nyv"
+    },
+    "Detalle": "sugerir",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "proponer" }, { "sinonimo": "insinuar" }, { "sinonimo": "invitar" }, { "sinonimo": "inspirar" }, { "sinonimo": "recomendar" }, { "sinonimo": "mencionar" }, { "sinonimo": "aludir" }, { "sinonimo": "evocar" }, { "sinonimo": "recordar" }, { "sinonimo": "parecer" }, { "sinonimo": "semejar" }]
+}, {
+    "Palabra": "significar",
+    "Ayuda": {
+        "Nivel1": "qyukluquql",
+        "Nivel2": "uhwtdoteb",
+        "Nivel3": "tqoqhlxo",
+        "Nivel4": "ymodmlo",
+        "Nivel5": "wjhjud",
+        "Nivel6": "mtjjp",
+        "Nivel7": "uoto",
+        "Nivel8": "peq"
+    },
+    "Detalle": "significar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Ser una cosa signo de otra o representarla." }, { "definicion": "Ser una palabra o frase expresion de una idea." }, { "definicion": "Manifestar, senalar una cosa." }, { "definicion": "intr. Tener importancia." }, { "definicion": "prnl. Distinguirse por alguna cualidad o circunstancia." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "representar" }, { "sinonimo": "denotar" }, { "sinonimo": "figurar" }, { "sinonimo": "ser" }, { "sinonimo": "encarnar" }, { "sinonimo": "simbolizar" }, { "sinonimo": "sobrentender" }, { "sinonimo": "personificar" }, { "sinonimo": "evidenciar" }, { "sinonimo": "entranar" }, { "sinonimo": "implicar" }, { "sinonimo": "suponer" }, { "sinonimo": "equivaler" }, { "sinonimo": "valer" }, { "sinonimo": "importar" }, { "sinonimo": "expresar" }, { "sinonimo": "decir" }, { "sinonimo": "manifestar" }, { "sinonimo": "sobresalir" }, { "sinonimo": "destacar" }, { "sinonimo": "distinguirse" }, { "sinonimo": "senalarse" }, { "sinonimo": "descollar" }]
+}, {
+    "Palabra": "solo",
+    "Ayuda": {
+        "Nivel1": "bgpzryhedm",
+        "Nivel2": "dmcdpegii",
+        "Nivel3": "xgehznbh",
+        "Nivel4": "mnkvaeg",
+        "Nivel5": "gztdad",
+        "Nivel6": "dyhmh",
+        "Nivel7": "vvdk",
+        "Nivel8": "gwq"
+    },
+    "Detalle": "solo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adv. m. Unicamente, nada mas, sin otra cosa." }, { "definicion": "Expresamente, sin otra intencion: ♦ A veces se escribe con tilde cuando puede ser confundido con el adj. como en la frase" }, { "definicion": "adj. Unico en su especie." }, { "definicion": "Que esta sin otra cosa o que se considera separado de ella." }, { "definicion": "Dicho de personas, sin compania." }, { "definicion": "Que no tiene quien le ampare o consuele." }, { "definicion": "Desierto." }, { "definicion": "m. . Composicion o parte de ella para una unica voz o instrumento." }, { "definicion": "m. Porcion de terreno donde se ha edificado o que se destina a edificar en el." }, { "definicion": "Casa, descendencia, linaje noble." }, { "definicion": "adj. [Casa] mas antigua y noble de una familia." }, { "definicion": "adj. Del Sol o relativo a el." }, { "definicion": "tr. Revestir el suelo con ladrillos, losas u otro material." }],
+    "antonimos": [{ "antonimo": "lleno" }, { "antonimo": "poblado" }],
+    "sinonimos": [{ "sinonimo": "solitario" }, { "sinonimo": "despoblado" }, { "sinonimo": "vacio" }, { "sinonimo": "unico" }, { "sinonimo": "uno" }, { "sinonimo": "mero" }, { "sinonimo": "exclusivo" }, { "sinonimo": "singular" }, { "sinonimo": "impar" }, { "sinonimo": "puro" }, { "sinonimo": "senero" }]
+}, {
+    "Palabra": "solamente",
+    "Ayuda": {
+        "Nivel1": "qvqjwyxqgv",
+        "Nivel2": "vbzvwrwgg",
+        "Nivel3": "vjbwzjdc",
+        "Nivel4": "fvigxrd",
+        "Nivel5": "ukfpgi",
+        "Nivel6": "bdprf",
+        "Nivel7": "ziqk",
+        "Nivel8": "brc"
+    },
+    "Detalle": "solamente",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "exclusivamente" }, { "sinonimo": "solo" }, { "sinonimo": "unicamente" }]
+}, {
+    "Palabra": "siquiera",
+    "Ayuda": {
+        "Nivel1": "tbpltbcjyv",
+        "Nivel2": "tdybhjphp",
+        "Nivel3": "kglxwxfb",
+        "Nivel4": "hbjyfch",
+        "Nivel5": "dlpflp",
+        "Nivel6": "bxkyx",
+        "Nivel7": "jcyc",
+        "Nivel8": "kfg"
+    },
+    "Detalle": "siquiera",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "conj. ad. Bien que, aunque: ♦ A veces se omite el verbo" }, { "definicion": "adv. c. y m. Por lo menos, al menos. Se usa en contextos afirmativos." }, { "definicion": "Ni tan solo. Se usa en contextos negativos, para intensificarlos." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "aunque" }, { "sinonimo": "ni" }, { "sinonimo": "ya" }, { "sinonimo": "o" }, { "sinonimo": "porlomenos" }, { "sinonimo": "tansolo" }]
+}, {
+    "Palabra": "siempre",
+    "Ayuda": {
+        "Nivel1": "gkktwvagyx",
+        "Nivel2": "qahbgntkw",
+        "Nivel3": "bxzlvwwt",
+        "Nivel4": "gjcakqx",
+        "Nivel5": "wfzxnc",
+        "Nivel6": "oknuj",
+        "Nivel7": "qhfd",
+        "Nivel8": "nyt"
+    },
+    "Detalle": "siempre",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adv. t. En todo o en cualquier tiempo o momento." }, { "definicion": "Cada vez que ocurre cierta cosa o se da determinada circunstancia." }, { "definicion": "En todo caso, cuando menos." }],
+    "antonimos": [{ "antonimo": "nunca" }],
+    "sinonimos": [{ "sinonimo": "eternamente" }, { "sinonimo": "perpetuamente" }, { "sinonimo": "imperecederamente" }, { "sinonimo": "constantemente" }, { "sinonimo": "continuamente" }, { "sinonimo": "invariablemente" }]
+}, {
+    "Palabra": "seguramente",
+    "Ayuda": {
+        "Nivel1": "jhdhhdvlkw",
+        "Nivel2": "ikpovkiyp",
+        "Nivel3": "iiwffdhk",
+        "Nivel4": "blhiokb",
+        "Nivel5": "lxlhzo",
+        "Nivel6": "fqhyq",
+        "Nivel7": "hxkq",
+        "Nivel8": "clk"
+    },
+    "Detalle": "seguramente",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "segun",
+    "Ayuda": {
+        "Nivel1": "rvjppftldl",
+        "Nivel2": "tqaqrcawy",
+        "Nivel3": "oobzhfwv",
+        "Nivel4": "dyrjzzc",
+        "Nivel5": "pxowkc",
+        "Nivel6": "lvwbz",
+        "Nivel7": "jyof",
+        "Nivel8": "qjk"
+    },
+    "Detalle": "segun",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "prep. Conforme o con arreglo a." }, { "definicion": "Precediendo inmediatamente a nombres o pronombres personales, significa 'con arreglo' o 'conformemente' a lo que opinan o dicen las personas de las que se trate." }, { "definicion": "adv. Progresivamente, con proporcion, correspondencia a." }, { "definicion": "A juzgar por la forma o por el modo en que." }, { "definicion": "De la misma manera que, de igual suerte." }, { "definicion": "Dependiendo de, en funcion de." }, { "definicion": "loc. conjunt. Dependiendo de." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "conforme" }, { "sinonimo": "depende" }, { "sinonimo": "como" }]
+}, {
+    "Palabra": "sin",
+    "Ayuda": {
+        "Nivel1": "jfpbrydtba",
+        "Nivel2": "gmqqqczho",
+        "Nivel3": "lwceufkh",
+        "Nivel4": "uloyfpl",
+        "Nivel5": "hwjktc",
+        "Nivel6": "yjlmb",
+        "Nivel7": "cbgt",
+        "Nivel8": "bjb"
+    },
+    "Detalle": "sin",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "prep. Denota carencia o falta de alguna cosa." }, { "definicion": "En ausencia, sin la presencia de." }, { "definicion": "Fuera de, aparte de, no incluido." }, { "definicion": "Seguida del infinitivo del verbo, equivale a con su participio o gerundio." }, { "definicion": "adj. [Bebida] que no contiene alcohol o [alimento] que no contiene azucar." }, { "definicion": "pref. que significa 'union'." }],
+    "antonimos": [{ "antonimo": "con" }],
+    "sinonimos": [{ "sinonimo": "falto" }, { "sinonimo": "carente" }, { "sinonimo": "exento" }, { "sinonimo": "privado" }, { "sinonimo": "escaso" }, { "sinonimo": "desprovisto" }, { "sinonimo": "incompleto" }]
+}, {
+    "Palabra": "sobre",
+    "Ayuda": {
+        "Nivel1": "ugnwtccgfh",
+        "Nivel2": "gadzifvca",
+        "Nivel3": "jlzanqhq",
+        "Nivel4": "muhalnw",
+        "Nivel5": "nhhtil",
+        "Nivel6": "upyxx",
+        "Nivel7": "fqnj",
+        "Nivel8": "qwl"
+    },
+    "Detalle": "sobre",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "prep. Encima de." }, { "definicion": "Acerca de." }, { "definicion": "Ademas de." }, { "definicion": "Aproximadamente, cerca de." }, { "definicion": "Cerca de otra cosa, con mas altura que ella y dominandola." }, { "definicion": "Con dominio y superioridad." }, { "definicion": "A o hacia." }, { "definicion": "Introduce el complemento de los nombres que significan 'carga', 'impuesto' o 'gravamen'." }, { "definicion": "Precedida y seguida de un mismo sustantivo, denota idea de reiteracion o acumulacion." }, { "definicion": "m. Envoltorio, por lo comun de papel, en que se introduce una carta, comunicacion, tarjeta, etc., para entregarla o enviarla por correo." }, { "definicion": "Lo que se escribe en dicha cubierta o envoltorio." }, { "definicion": "Cubierta o envoltorio parecido empleado para usos muy distintos." }, { "definicion": "Cama, piltra." }, { "definicion": "Bolso de mujer, cartera." }, { "definicion": "intr. Haber mas de lo que se necesita para una cosa." }, { "definicion": "Quedar parte de una cosa tras haber consumido o usado lo que se necesitaba." }, { "definicion": "Estar de sobra, ser alguien o algo innecesario o mal recibido." }, { "definicion": "tr. Burlarse de una persona de manera insolente." }, { "definicion": "pref. de verbos y sustantivos que significa 'superposicion' o 'adicion': 'intensificacion': 'repeticion': o 'accion repentina'." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "encimade" }, { "sinonimo": "en" }, { "sinonimo": "arriba" }, { "sinonimo": "super" }, { "sinonimo": "supra" }, { "sinonimo": "de" }, { "sinonimo": "acercade" }, { "sinonimo": "referentea" }, { "sinonimo": "relativoa" }, { "sinonimo": "aparte" }, { "sinonimo": "ademasde" }, { "sinonimo": "hacia" }, { "sinonimo": "por" }, { "sinonimo": "contra" }, { "sinonimo": "tras" }, { "sinonimo": "envoltura" }, { "sinonimo": "envoltorio" }]
+}, {
+    "Palabra": "salvo",
+    "Ayuda": {
+        "Nivel1": "ndedwyxryf",
+        "Nivel2": "qeruudxme",
+        "Nivel3": "zqhrttfp",
+        "Nivel4": "kiyrnde",
+        "Nivel5": "bubxpz",
+        "Nivel6": "fejtm",
+        "Nivel7": "wzji",
+        "Nivel8": "uwj"
+    },
+    "Detalle": "salvo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "prep. Fuera de, excepto." }, { "definicion": "adj. Ileso, libre de peligro. Se usa sobre todo en la loc." }, { "definicion": "Exceptuado, omitido." }, { "definicion": "f. Saludo o demostracion de respeto y honores que se hace en el ejercito disparando armas de fuego." }, { "definicion": "tr. Poner a salvo, librar de un riesgo o peligro. Tambien prnl." }, { "definicion": "En religion, dar o alcanzar la gloria y bienaventuranza eternas: Tambien prnl." }, { "definicion": "Evitar un inconveniente, impedimento, dificultad o riesgo." }, { "definicion": "Exceptuar, excluir una cosa de lo que se dice o se hace de otra u otras." }, { "definicion": "Vencer un obstaculo, pasando por encima o a traves de el." }, { "definicion": "Recorrer la distancia que media entre dos lugares." }, { "definicion": "Rebasar una altura elevandose por encima de ella." }],
+    "antonimos": [{ "antonimo": "incluido" }, { "antonimo": "perjudicado" }, { "antonimo": "inseguro" }],
+    "sinonimos": [{ "sinonimo": "exceptuado" }, { "sinonimo": "omitido" }, { "sinonimo": "excepto" }, { "sinonimo": "solamente" }, { "sinonimo": "aparte" }, { "sinonimo": "menos" }, { "sinonimo": "ileso" }, { "sinonimo": "incolume" }, { "sinonimo": "indemne" }, { "sinonimo": "seguro" }]
+}, {
+    "Palabra": "si",
+    "Ayuda": {
+        "Nivel1": "eeerplfnjr",
+        "Nivel2": "jobguboyh",
+        "Nivel3": "jlmlqlvu",
+        "Nivel4": "etvlewb",
+        "Nivel5": "btldtf",
+        "Nivel6": "qulpg",
+        "Nivel7": "vomy",
+        "Nivel8": "vtv"
+    },
+    "Detalle": "si",
+    "PLetra": "s",
+    "ULetra": "i",
+    "definiciones": [{ "definicion": "conj. cond. que introduce la protasis de la clausula condicional." }, { "definicion": "A veces expresa una aseveracion terminante." }, { "definicion": "Introduce expresiones que indican deseo." }, { "definicion": "conj. dist. Se usa para contraponer un termino a otro. Sobre todo, se emplea repetida." }, { "definicion": "conj. anunciativa Introduce oraciones subordinadas sustantivas interrogativas indirectas totales." }, { "definicion": "Ante el adv. introduce expresiones que equivalen a 'de otra suerte' o 'en otro caso'." }, { "definicion": "m. Septima nota de la escala musical: ♦ No varia en pl." }, { "definicion": "pron. Forma tonica del pron. pers. reflex. de tercera persona, que en la oracion desempena la funcion de complemento con preposicion: ♦ Al unirse con la prep. forma la voz" }, { "definicion": "adv. afirm. Se emplea para responder a una pregunta afirmativamente." }, { "definicion": "A veces se usa como intensificador." }, { "definicion": "m. Consentimiento o permiso: ♦ pl." }],
+    "antonimos": [{ "antonimo": "no" }],
+    "sinonimos": [{ "sinonimo": "efectivamente" }, { "sinonimo": "evidentemente" }, { "sinonimo": "sinduda" }]
+}, {
+    "Palabra": "sino",
+    "Ayuda": {
+        "Nivel1": "pjzlykvkvy",
+        "Nivel2": "dxarzxbpf",
+        "Nivel3": "brxqqrbm",
+        "Nivel4": "qmgplle",
+        "Nivel5": "bvhluf",
+        "Nivel6": "mhdbc",
+        "Nivel7": "upfl",
+        "Nivel8": "azr"
+    },
+    "Detalle": "sino",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "conj. ad. Contrapone a un concepto negativo otro afirmativo." }, { "definicion": "Denota a veces idea de excepcion." }, { "definicion": "Con la negacion que le precede, suele equivaler a o" }, { "definicion": "Precedido de denota adicion de otro u otros miembros a la clausula." }, { "definicion": "m. Hado, destino, suerte." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "hado" }, { "sinonimo": "fatalidad" }, { "sinonimo": "azar" }, { "sinonimo": "destino" }, { "sinonimo": "fortuna" }, { "sinonimo": "predestinacion" }, { "sinonimo": "eventualidad" }, { "sinonimo": "albur" }, { "sinonimo": "casualidad" }, { "sinonimo": "estrella" }, { "sinonimo": "acaso" }, { "sinonimo": "excepto" }, { "sinonimo": "salvo" }]
+}, {
+    "Palabra": "suyo",
+    "Ayuda": {
+        "Nivel1": "tvkqdfvxqe",
+        "Nivel2": "igbdxabtf",
+        "Nivel3": "nrineldl",
+        "Nivel4": "tltajki",
+        "Nivel5": "rwpqpa",
+        "Nivel6": "xhwhg",
+        "Nivel7": "lqrm",
+        "Nivel8": "bzn"
+    },
+    "Detalle": "suyo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y un poseedor de tercera persona del singular: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }, { "definicion": "loc. Dificultad, merito o importancia de algo." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "suya",
+    "Ayuda": {
+        "Nivel1": "liovopmode",
+        "Nivel2": "nbejcecpe",
+        "Nivel3": "injqozpn",
+        "Nivel4": "nfenfnk",
+        "Nivel5": "imwbdp",
+        "Nivel6": "eitwe",
+        "Nivel7": "ndoh",
+        "Nivel8": "lkm"
+    },
+    "Detalle": "suya",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y un poseedor de tercera persona del singular: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }, { "definicion": "loc. Dificultad, merito o importancia de algo." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "sin embargo",
+    "Ayuda": {
+        "Nivel1": "chqhdwuylx",
+        "Nivel2": "upyzzwucd",
+        "Nivel3": "ztvwtyup",
+        "Nivel4": "hhkvzvt",
+        "Nivel5": "cdqhdk",
+        "Nivel6": "txzpl",
+        "Nivel7": "jufl",
+        "Nivel8": "lzu"
+    },
+    "Detalle": "sin embargo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "prep. Denota carencia o falta de alguna cosa." }, { "definicion": "En ausencia, sin la presencia de." }, { "definicion": "Fuera de, aparte de, no incluido." }, { "definicion": "Seguida del infinitivo del verbo, equivale a con su participio o gerundio." }, { "definicion": "adj. [Bebida] que no contiene alcohol o [alimento] que no contiene azucar." }, { "definicion": "pref. que significa 'union'." }],
+    "antonimos": [{ "antonimo": "con" }],
+    "sinonimos": [{ "sinonimo": "falto" }, { "sinonimo": "carente" }, { "sinonimo": "exento" }, { "sinonimo": "privado" }, { "sinonimo": "escaso" }, { "sinonimo": "desprovisto" }, { "sinonimo": "incompleto" }]
+}, {
+    "Palabra": "siendo",
+    "Ayuda": {
+        "Nivel1": "hputwpxavr",
+        "Nivel2": "bkbhwhgfc",
+        "Nivel3": "kcaccaqp",
+        "Nivel4": "cmbptfa",
+        "Nivel5": "wrjyyb",
+        "Nivel6": "xpvcm",
+        "Nivel7": "apxa",
+        "Nivel8": "awr"
+    },
+    "Detalle": "siendo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Esencia y naturaleza." }, { "definicion": "Vida, existencia." }, { "definicion": "Cualquier cosa creada, especialmente si esta dotada de vida." }, { "definicion": "El ser humano. ♦ Se construye generalmente acompanado de adjetivos calificativos." }, { "definicion": "v. cop. Tener alguien o algo una determinada cualidad." }, { "definicion": "Tener alguien una determinada profesion, oficio o cargo." }, { "definicion": "Pertenecer, formar parte. ♦ Se construye con la prep." }, { "definicion": "Tener origen, principio o nacionalidad." }, { "definicion": "Estar constituido, compuesto o formado de cierta materia." }, { "definicion": "Constituir el resultado de una operacion matematica." }, { "definicion": "Consistir, ser la causa de lo que se expresa." }, { "definicion": "v. aux. Sirve para formar la conjugacion de la voz pasiva." }, { "definicion": "intr. Haber o existir." }, { "definicion": "Servir, ser adecuado o estar destinado para la persona o cosa que se expresa. ♦ Se construye con la prep." }, { "definicion": "Valer, costar." }, { "definicion": "Corresponder, tocar. ♦ Se construye con complementos adjetivos en pl. o de significado general o colectivo." }, { "definicion": "intr. impers. Acontecer, ocurrir, tener lugar." }, { "definicion": "Introduce expresiones de tiempo." }],
+    "antonimos": [{ "antonimo": "nada" }, { "antonimo": "nadie" }, { "antonimo": "morir" }, { "antonimo": "faltar" }],
+    "sinonimos": [{ "sinonimo": "esencia" }, { "sinonimo": "naturaleza" }, { "sinonimo": "sustancia" }, { "sinonimo": "materia" }, { "sinonimo": "monada" }, { "sinonimo": "ente" }, { "sinonimo": "individuo" }, { "sinonimo": "criatura" }, { "sinonimo": "persona" }, { "sinonimo": "organismo" }, { "sinonimo": "sujeto" }, { "sinonimo": "cosa" }, { "sinonimo": "forma" }, { "sinonimo": "especimen" }, { "sinonimo": "engendro" }, { "sinonimo": "vida" }, { "sinonimo": "existencia" }, { "sinonimo": "estar" }, { "sinonimo": "existir" }, { "sinonimo": "vivir" }, { "sinonimo": "residir" }, { "sinonimo": "permanecer" }, { "sinonimo": "yacer" }, { "sinonimo": "subsistir" }, { "sinonimo": "hallarse" }, { "sinonimo": "durar" }, { "sinonimo": "mantenerse" }, { "sinonimo": "pertenecer" }, { "sinonimo": "corresponder" }, { "sinonimo": "depender" }, { "sinonimo": "formar" }, { "sinonimo": "causar" }, { "sinonimo": "producir" }, { "sinonimo": "originarse" }, { "sinonimo": "ocurrir" }, { "sinonimo": "pasar" }, { "sinonimo": "transcurrir" }, { "sinonimo": "suceder" }]
+}, {
+    "Palabra": "sentir",
+    "Ayuda": {
+        "Nivel1": "lcvoocvggq",
+        "Nivel2": "jccmdzwph",
+        "Nivel3": "kkjxwhqy",
+        "Nivel4": "xxajmzx",
+        "Nivel5": "ovahmc",
+        "Nivel6": "gbdyb",
+        "Nivel7": "gzhu",
+        "Nivel8": "kqb"
+    },
+    "Detalle": "sentir",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Sentimiento." }, { "definicion": "Opinion, parecer." }, { "definicion": "tr. Experimentar o percibir sensaciones producidas por causas externas o internas a traves de los sentidos." }, { "definicion": "Oir, percibir por el oido." }, { "definicion": "Experimentar una impresion, placer o dolor corporal." }, { "definicion": "Experimentar una impresion o un sentimiento." }, { "definicion": "Lamentar, compadecerse." }, { "definicion": "Intuir, barruntar, presentir." }, { "definicion": "Juzgar, opinar." }, { "definicion": "prnl. Notarse, hallarse en determinado estado. ♦ Se usa seguido de algunos adjetivos." }, { "definicion": "Considerarse, reconocerse." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "deplorar" }, { "sinonimo": "lamentar" }, { "sinonimo": "arrepentirse" }, { "sinonimo": "afligirse" }, { "sinonimo": "entristecerse" }, { "sinonimo": "impresionarse" }, { "sinonimo": "conmoverse" }, { "sinonimo": "compadecerse" }, { "sinonimo": "palpar" }, { "sinonimo": "experimentar" }, { "sinonimo": "apreciar" }, { "sinonimo": "percibir" }, { "sinonimo": "advertir" }, { "sinonimo": "percartarse" }, { "sinonimo": "sufrir" }, { "sinonimo": "padecer" }, { "sinonimo": "soportar" }, { "sinonimo": "adivinar" }, { "sinonimo": "presagiar" }, { "sinonimo": "pronosticar" }, { "sinonimo": "barruntar" }, { "sinonimo": "presentir" }, { "sinonimo": "sospechar" }, { "sinonimo": "creer" }, { "sinonimo": "pensar" }, { "sinonimo": "estimar" }, { "sinonimo": "juzgar" }, { "sinonimo": "considerar" }, { "sinonimo": "notarse" }, { "sinonimo": "encontrarse" }, { "sinonimo": "hallarse" }, { "sinonimo": "verse" }, { "sinonimo": "estar" }, { "sinonimo": "sentimiento" }, { "sinonimo": "parecer" }, { "sinonimo": "juicio" }]
+}, {
+    "Palabra": "soñar",
+    "Ayuda": {},
+    "Detalle": "soñar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Sentimiento." }, { "definicion": "Opinion, parecer." }, { "definicion": "tr. Experimentar o percibir sensaciones producidas por causas externas o internas a traves de los sentidos." }, { "definicion": "Oir, percibir por el oido." }, { "definicion": "Experimentar una impresion, placer o dolor corporal." }, { "definicion": "Experimentar una impresion o un sentimiento." }, { "definicion": "Lamentar, compadecerse." }, { "definicion": "Intuir, barruntar, presentir." }, { "definicion": "Juzgar, opinar." }, { "definicion": "prnl. Notarse, hallarse en determinado estado. ♦ Se usa seguido de algunos adjetivos." }, { "definicion": "Considerarse, reconocerse." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "deplorar" }, { "sinonimo": "lamentar" }, { "sinonimo": "arrepentirse" }, { "sinonimo": "afligirse" }, { "sinonimo": "entristecerse" }, { "sinonimo": "impresionarse" }, { "sinonimo": "conmoverse" }, { "sinonimo": "compadecerse" }, { "sinonimo": "palpar" }, { "sinonimo": "experimentar" }, { "sinonimo": "apreciar" }, { "sinonimo": "percibir" }, { "sinonimo": "advertir" }, { "sinonimo": "percartarse" }, { "sinonimo": "sufrir" }, { "sinonimo": "padecer" }, { "sinonimo": "soportar" }, { "sinonimo": "adivinar" }, { "sinonimo": "presagiar" }, { "sinonimo": "pronosticar" }, { "sinonimo": "barruntar" }, { "sinonimo": "presentir" }, { "sinonimo": "sospechar" }, { "sinonimo": "creer" }, { "sinonimo": "pensar" }, { "sinonimo": "estimar" }, { "sinonimo": "juzgar" }, { "sinonimo": "considerar" }, { "sinonimo": "notarse" }, { "sinonimo": "encontrarse" }, { "sinonimo": "hallarse" }, { "sinonimo": "verse" }, { "sinonimo": "estar" }, { "sinonimo": "sentimiento" }, { "sinonimo": "parecer" }, { "sinonimo": "juicio" }]
+}, {
+    "Palabra": "soporte",
+    "Ayuda": {
+        "Nivel1": "hjmzbalhqi",
+        "Nivel2": "yqbcdwhiz",
+        "Nivel3": "fwamfyni",
+        "Nivel4": "cibqajz",
+        "Nivel5": "abbvbd",
+        "Nivel6": "hkqld",
+        "Nivel7": "qfug",
+        "Nivel8": "lgb"
+    },
+    "Detalle": "soporte",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. Apoyo o sosten." }, { "definicion": "Material sobre el que se pinta." }, { "definicion": "Cinta, disquete, etc., en que se almacena la informacion." }, { "definicion": "tr. Sostener o llevar sobre si una carga o peso." }, { "definicion": "Aguantar, resistir." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "apoyo" }, { "sinonimo": "sosten" }, { "sinonimo": "base" }, { "sinonimo": "cimiento" }, { "sinonimo": "tripode" }, { "sinonimo": "fundamento" }, { "sinonimo": "pata" }, { "sinonimo": "columna" }, { "sinonimo": "arbotante" }, { "sinonimo": "viga" }, { "sinonimo": "pilar" }, { "sinonimo": "poste" }, { "sinonimo": "amparo" }, { "sinonimo": "auxilio" }, { "sinonimo": "ayuda" }, { "sinonimo": "socorro" }, { "sinonimo": "aval" }]
+}, {
+    "Palabra": "sociedad",
+    "Ayuda": {
+        "Nivel1": "mkhzrvpzjm",
+        "Nivel2": "zlulmvuvj",
+        "Nivel3": "rupvutjn",
+        "Nivel4": "pxgphkt",
+        "Nivel5": "vkzbql",
+        "Nivel6": "uhjff",
+        "Nivel7": "vxpn",
+        "Nivel8": "urp"
+    },
+    "Detalle": "sociedad",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Conjunto de personas que conviven y se relacionan dentro de un mismo espacio y ambito cultural." }, { "definicion": "Agrupacion natural o pactada de personas o animales, con el fin de cumplir, mediante la mutua cooperacion, todos o alguno de los fines de la vida." }, { "definicion": "La formada por comerciantes, personas de negocios o accionistas de alguna compania." }, { "definicion": "Conjunto de personas o instituciones que actuan unidas para conseguir un mismo fin." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "mundo" }, { "sinonimo": "humanidad" }, { "sinonimo": "comunidad" }, { "sinonimo": "colectividad" }, { "sinonimo": "generalidad" }, { "sinonimo": "grupo" }, { "sinonimo": "familia" }, { "sinonimo": "poblacion" }, { "sinonimo": "nacion" }, { "sinonimo": "pueblo" }, { "sinonimo": "estado" }, { "sinonimo": "ciudadania" }, { "sinonimo": "habitantes" }, { "sinonimo": "compania" }, { "sinonimo": "empresa" }, { "sinonimo": "firma" }, { "sinonimo": "consorcio" }, { "sinonimo": "corporacion" }, { "sinonimo": "entidad" }, { "sinonimo": "asociacion" }, { "sinonimo": "colectivo" }, { "sinonimo": "centro" }, { "sinonimo": "ateneo" }, { "sinonimo": "circulo" }, { "sinonimo": "club" }, { "sinonimo": "tertulia" }, { "sinonimo": "casino" }, { "sinonimo": "aristocracia" }, { "sinonimo": "nobleza" }]
+}, {
+    "Palabra": "sorpresa",
+    "Ayuda": {
+        "Nivel1": "vwhtznkfyk",
+        "Nivel2": "ydzyxcyuq",
+        "Nivel3": "vfddgjml",
+        "Nivel4": "wulxzkt",
+        "Nivel5": "kblnww",
+        "Nivel6": "ltqkx",
+        "Nivel7": "xgll",
+        "Nivel8": "cyx"
+    },
+    "Detalle": "sorpresa",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Accion y resultado de sorprender." }, { "definicion": "Cosa que da motivo para que alguien se sorprenda." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asombro" }, { "sinonimo": "admiracion" }, { "sinonimo": "pasmo" }, { "sinonimo": "extraneza" }, { "sinonimo": "fascinacion" }, { "sinonimo": "impresion" }, { "sinonimo": "desconcierto" }, { "sinonimo": "conmocion" }, { "sinonimo": "estupefaccion" }, { "sinonimo": "exclamacion" }, { "sinonimo": "chasco" }, { "sinonimo": "sobresalto" }, { "sinonimo": "susto" }, { "sinonimo": "consternacion" }, { "sinonimo": "estupor" }, { "sinonimo": "confusion" }]
+}, {
+    "Palabra": "sintomas",
+    "Ayuda": {
+        "Nivel1": "ccfwpxpfww",
+        "Nivel2": "ucphjeqzh",
+        "Nivel3": "jgfvqhgk",
+        "Nivel4": "ljhqcww",
+        "Nivel5": "gypecg",
+        "Nivel6": "glvvb",
+        "Nivel7": "dhwv",
+        "Nivel8": "lqb"
+    },
+    "Detalle": "sintomas",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Fenomeno que revela la existencia de una enfermedad." }, { "definicion": "Senal, indicio de una cosa que esta sucediendo o va a suceder." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "indicio" }, { "sinonimo": "senal" }, { "sinonimo": "signo" }, { "sinonimo": "revelacion" }, { "sinonimo": "manifestacion" }, { "sinonimo": "sindrome" }, { "sinonimo": "vestigio" }, { "sinonimo": "simbolo" }, { "sinonimo": "representacion" }, { "sinonimo": "huella" }]
+}, {
+    "Palabra": "sufrio",
+    "Ayuda": {
+        "Nivel1": "jhmewydcqy",
+        "Nivel2": "vzvcymdpj",
+        "Nivel3": "nkgpcwgh",
+        "Nivel4": "jjzeqne",
+        "Nivel5": "bvtndk",
+        "Nivel6": "ezpaj",
+        "Nivel7": "tvtl",
+        "Nivel8": "nlm"
+    },
+    "Detalle": "sufrio",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "tr. e intr. Sentir un dolor fisico o moral." }, { "definicion": "Recibir con resignacion un dano moral o fisico." }, { "definicion": "tr. Resistir, soportar." }, { "definicion": "Someter a cierta prueba, cambio, fenomeno, etc." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "tolerar" }, { "sinonimo": "soportar" }, { "sinonimo": "padecer" }, { "sinonimo": "aguantar" }, { "sinonimo": "afligirse" }, { "sinonimo": "angustiarse" }, { "sinonimo": "resignarse" }, { "sinonimo": "conformarse" }, { "sinonimo": "sobrellevar" }, { "sinonimo": "amoldarse" }, { "sinonimo": "contemporizar" }, { "sinonimo": "transigir" }, { "sinonimo": "jorobarse" }]
+}, {
+    "Palabra": "sorteo",
+    "Ayuda": {
+        "Nivel1": "qabcvbniwf",
+        "Nivel2": "zixgmvkaz",
+        "Nivel3": "kxxixalm",
+        "Nivel4": "kfgmukj",
+        "Nivel5": "qxxwhj",
+        "Nivel6": "lyjdb",
+        "Nivel7": "qbwi",
+        "Nivel8": "bgf"
+    },
+    "Detalle": "sorteo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Accion y resultado de sortear." }, { "definicion": "tr. Someter a personas o cosas al arbitrio de la suerte." }, { "definicion": "Evitar con habilidad o eludir un compromiso o dificultad." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "rifa" }, { "sinonimo": "loteria" }, { "sinonimo": "tombola" }, { "sinonimo": "juego" }, { "sinonimo": "azar" }]
+}, {
+    "Palabra": "sabado",
+    "Ayuda": {
+        "Nivel1": "qwezfgwwkz",
+        "Nivel2": "wugiflzwp",
+        "Nivel3": "ywzhfgvw",
+        "Nivel4": "lynutig",
+        "Nivel5": "ywcnjw",
+        "Nivel6": "wzleg",
+        "Nivel7": "lcrz",
+        "Nivel8": "jpp"
+    },
+    "Detalle": "sabado",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Dia de la semana, entre el viernes y el domingo." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "suerte",
+    "Ayuda": {
+        "Nivel1": "gbbfavabma",
+        "Nivel2": "aawcbbggo",
+        "Nivel3": "mmnkdync",
+        "Nivel4": "qwnkqca",
+        "Nivel5": "nllbqh",
+        "Nivel6": "nlwcd",
+        "Nivel7": "aqdc",
+        "Nivel8": "hmy"
+    },
+    "Detalle": "suerte",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Encadenamiento de sucesos considerado fortuito o casual." }, { "definicion": "Circunstancia favorable o adversa." }, { "definicion": "Suerte favorable." }, { "definicion": "Azar, casualidad." }, { "definicion": "Estado, condicion." }, { "definicion": "Hechos venideros en la vida de alguien o de algo." }, { "definicion": "Genero o especie de una cosa." }, { "definicion": "Manera o modo de hacer una cosa." }, { "definicion": "Cada uno de los lances o tercios de la lidia." }, { "definicion": "Parte de la tierra de labor separada de otra por sus lindes." }, { "definicion": "Billete de loteria." }],
+    "antonimos": [{ "antonimo": "desgracia" }, { "antonimo": "infortunio" }],
+    "sinonimos": [{ "sinonimo": "azar" }, { "sinonimo": "fortuna" }, { "sinonimo": "ventura" }, { "sinonimo": "casualidad" }, { "sinonimo": "fatalidad" }, { "sinonimo": "potra" }, { "sinonimo": "chorra" }, { "sinonimo": "destino" }, { "sinonimo": "sino" }, { "sinonimo": "porvenir" }, { "sinonimo": "sombra" }, { "sinonimo": "riesgo" }, { "sinonimo": "manera" }, { "sinonimo": "modo" }, { "sinonimo": "forma" }, { "sinonimo": "metodo" }, { "sinonimo": "estilo" }, { "sinonimo": "tactica" }, { "sinonimo": "formula" }, { "sinonimo": "clase" }, { "sinonimo": "tipo" }, { "sinonimo": "genero" }, { "sinonimo": "especie" }]
+}, {
+    "Palabra": "sintomas",
+    "Ayuda": {
+        "Nivel1": "hdduxpzrhz",
+        "Nivel2": "hcxqkbqxd",
+        "Nivel3": "uluudedz",
+        "Nivel4": "qcjpcev",
+        "Nivel5": "pchdhk",
+        "Nivel6": "prkcx",
+        "Nivel7": "qhve",
+        "Nivel8": "kkv"
+    },
+    "Detalle": "sintomas",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Fenomeno que revela la existencia de una enfermedad." }, { "definicion": "Senal, indicio de una cosa que esta sucediendo o va a suceder." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "indicio" }, { "sinonimo": "senal" }, { "sinonimo": "signo" }, { "sinonimo": "revelacion" }, { "sinonimo": "manifestacion" }, { "sinonimo": "sindrome" }, { "sinonimo": "vestigio" }, { "sinonimo": "simbolo" }, { "sinonimo": "representacion" }, { "sinonimo": "huella" }]
+}, {
+    "Palabra": "semana",
+    "Ayuda": {
+        "Nivel1": "rjkzuvzboh",
+        "Nivel2": "kzzwzyucv",
+        "Nivel3": "fhzyhpvw",
+        "Nivel4": "wfdubki",
+        "Nivel5": "pvwfyx",
+        "Nivel6": "wuvtq",
+        "Nivel7": "rlup",
+        "Nivel8": "gzv"
+    },
+    "Detalle": "semana",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Serie de siete dias naturales consecutivos, empezando por el lunes y acabando por el domingo, aunque en algunos paises empieza el domingo y termina el sabado." }, { "definicion": "Periodo de siete dias." }, { "definicion": "Salario ganado en una semana." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "septenario" }, { "sinonimo": "hebdomada" }]
+}, {
+    "Palabra": "seleccionados",
+    "Ayuda": {
+        "Nivel1": "pjygkzuhpg",
+        "Nivel2": "hzkjvqkrz",
+        "Nivel3": "uptjjzph",
+        "Nivel4": "bfjtmzu",
+        "Nivel5": "rktypy",
+        "Nivel6": "ywbht",
+        "Nivel7": "fvjf",
+        "Nivel8": "kjb"
+    },
+    "Detalle": "seleccionados",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "tr. Elegir, escoger a personas o cosas entre todas las de su especie por considerarlas mas adecuadas." }],
+    "antonimos": [{ "antonimo": "mezclar" }, { "antonimo": "ampliar" }],
+    "sinonimos": [{ "sinonimo": "escoger" }, { "sinonimo": "elegir" }, { "sinonimo": "separar" }, { "sinonimo": "apartar" }, { "sinonimo": "destacar" }, { "sinonimo": "distinguir" }, { "sinonimo": "optar" }, { "sinonimo": "preferir" }, { "sinonimo": "recopilar" }, { "sinonimo": "compendiar" }, { "sinonimo": "extractar" }, { "sinonimo": "resumir" }, { "sinonimo": "condensar" }, { "sinonimo": "coleccionar" }]
+}, {
+    "Palabra": "sonoros",
+    "Ayuda": {
+        "Nivel1": "umlqalhhwa",
+        "Nivel2": "iaupafvjx",
+        "Nivel3": "akigfxld",
+        "Nivel4": "zcuzjdl",
+        "Nivel5": "fzpebe",
+        "Nivel6": "dgwqt",
+        "Nivel7": "gkkg",
+        "Nivel8": "emm"
+    },
+    "Detalle": "sonoros",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. Que suena o puede sonar." }, { "definicion": "Que suena bien, o que suena mucho y agradablemente." }, { "definicion": "Dotado de sonido." }, { "definicion": "[Lenguaje o estilo] elevado y grandilocuente." }, { "definicion": ". [Fonema o sonido] que se articula con vibracion de las cuerdas vocales." }],
+    "antonimos": [{ "antonimo": "silencioso" }, { "antonimo": "discreto" }],
+    "sinonimos": [{ "sinonimo": "ruidoso" }, { "sinonimo": "resonante" }, { "sinonimo": "vibrante" }, { "sinonimo": "clamoroso" }, { "sinonimo": "retumbante" }, { "sinonimo": "estruendoso" }, { "sinonimo": "rotundo" }, { "sinonimo": "espectacular" }]
+}, {
+    "Palabra": "siguientes",
+    "Ayuda": {
+        "Nivel1": "bcfpkjpvfa",
+        "Nivel2": "dlbcbdrqm",
+        "Nivel3": "clxrjrzb",
+        "Nivel4": "pmcfmpk",
+        "Nivel5": "zvpjwp",
+        "Nivel6": "kmdmy",
+        "Nivel7": "hrkc",
+        "Nivel8": "hwr"
+    },
+    "Detalle": "siguientes",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. Posterior, que va despues: Tambien m." }, { "definicion": "Que va a decirse a continuacion." }],
+    "antonimos": [{ "antonimo": "anterior" }],
+    "sinonimos": [{ "sinonimo": "posterior" }, { "sinonimo": "ulterior" }, { "sinonimo": "subsiguiente" }, { "sinonimo": "subsecuente" }, { "sinonimo": "sucesivo" }, { "sinonimo": "proximo" }, { "sinonimo": "consecutivo" }, { "sinonimo": "consecuente" }, { "sinonimo": "correlativo" }, { "sinonimo": "continuador" }, { "sinonimo": "inferior" }, { "sinonimo": "sucesor" }]
+}, {
+    "Palabra": "socios",
+    "Ayuda": {
+        "Nivel1": "enrdtaybwy",
+        "Nivel2": "myylrkxhk",
+        "Nivel3": "plkzgbtt",
+        "Nivel4": "pxhflrz",
+        "Nivel5": "haprgl",
+        "Nivel6": "tkyxa",
+        "Nivel7": "nmxt",
+        "Nivel8": "zzr"
+    },
+    "Detalle": "socios",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. y f. Persona asociada con otra u otras para algun fin." }, { "definicion": "Individuo de una sociedad o agrupacion de individuos." }, { "definicion": "Amigo o compinche." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asociado" }, { "sinonimo": "participante" }, { "sinonimo": "accionista" }, { "sinonimo": "coparticipe" }, { "sinonimo": "comanditario" }, { "sinonimo": "capitalista" }, { "sinonimo": "mutualista" }, { "sinonimo": "miembro" }, { "sinonimo": "afiliado" }, { "sinonimo": "inscrito" }, { "sinonimo": "colega" }, { "sinonimo": "projimo" }, { "sinonimo": "camarada" }, { "sinonimo": "compinche" }]
+}, {
+    "Palabra": "similares",
+    "Ayuda": {
+        "Nivel1": "jcxdzdwvvb",
+        "Nivel2": "uxkchcgff",
+        "Nivel3": "gohhjvyo",
+        "Nivel4": "wkfhyzv",
+        "Nivel5": "xvbntb",
+        "Nivel6": "wuqnu",
+        "Nivel7": "qhhq",
+        "Nivel8": "xxb"
+    },
+    "Detalle": "similares",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. Que tiene semejanza o analogia con una cosa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "semejante" }]
+}, {
+    "Palabra": "sitio",
+    "Ayuda": {
+        "Nivel1": "plfjayaukr",
+        "Nivel2": "yjgufppjx",
+        "Nivel3": "hvpawaga",
+        "Nivel4": "unzlgmp",
+        "Nivel5": "kauwbd",
+        "Nivel6": "egpcd",
+        "Nivel7": "hcec",
+        "Nivel8": "rcv"
+    },
+    "Detalle": "sitio",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Espacio que ocupa alguien o algo o que puede ser ocupado." }, { "definicion": "Paraje, lugar o terreno determinado o a proposito para alguna cosa." }, { "definicion": "Puesto que corresponde en un determinado momento." }, { "definicion": "Casa de recreo de una personalidad." }, { "definicion": "m. Cerco o asedio al que se somete a una plaza o fortaleza con el fin de apoderarse de ella." }, { "definicion": "tr. Cercar, asediar una plaza o una fortaleza para apoderarse de ella." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "asedio" }, { "sinonimo": "bloqueo" }, { "sinonimo": "cerco" }, { "sinonimo": "aislamiento" }, { "sinonimo": "asalto" }, { "sinonimo": "lugar" }, { "sinonimo": "rincon" }, { "sinonimo": "espacio" }, { "sinonimo": "emplazamiento" }, { "sinonimo": "puesto" }, { "sinonimo": "localidad" }, { "sinonimo": "situacion" }, { "sinonimo": "punto" }, { "sinonimo": "parte" }, { "sinonimo": "residencia" }, { "sinonimo": "zona" }, { "sinonimo": "territorio" }, { "sinonimo": "termino" }, { "sinonimo": "paraje" }, { "sinonimo": "recinto" }, { "sinonimo": "local" }]
+}, {
+    "Palabra": "sanciones",
+    "Ayuda": {
+        "Nivel1": "udbmwzbmbw",
+        "Nivel2": "frqqmjwyy",
+        "Nivel3": "tdvydmvt",
+        "Nivel4": "fbhdlmk",
+        "Nivel5": "yylldm",
+        "Nivel6": "ytbpf",
+        "Nivel7": "dbhg",
+        "Nivel8": "mru"
+    },
+    "Detalle": "sanciones",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "tr. Aplicar una sancion o castigo." }, { "definicion": "Autorizar o aprobar cualquier acto, uso o costumbre." }, { "definicion": "Dar fuerza de ley a una disposicion." }, { "definicion": "f. Pena que la ley establece para el que la infringe." }, { "definicion": "Castigo que se da al que no cumple una norma establecida o tiene un comportamiento incorrecto." }, { "definicion": "Autorizacion o aprobacion que se da a cualquier acto, uso o costumbre." }, { "definicion": "Acto solemne por el que el jefe del Estado confirma una ley o estatuto." }],
+    "antonimos": [{ "antonimo": "premiar" }, { "antonimo": "recompensar" }, { "antonimo": "desautorizar" }],
+    "sinonimos": [{ "sinonimo": "punir" }, { "sinonimo": "castigar" }, { "sinonimo": "condenar" }, { "sinonimo": "inhabilitar" }, { "sinonimo": "penar" }, { "sinonimo": "autorizar" }, { "sinonimo": "aprobar" }, { "sinonimo": "confirmar" }, { "sinonimo": "ratificar" }, { "sinonimo": "decretar" }, { "sinonimo": "legitimar" }, { "sinonimo": "confirmar" }]
+}, {
+    "Palabra": "software",
+    "Ayuda": {
+        "Nivel1": "lxnidjzxpq",
+        "Nivel2": "kgyquqhju",
+        "Nivel3": "udvilqzu",
+        "Nivel4": "xqqjvxk",
+        "Nivel5": "gycjhz",
+        "Nivel6": "lyugz",
+        "Nivel7": "kqiq",
+        "Nivel8": "pqj"
+    },
+    "Detalle": "software",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "(voz i.) m. Termino generico que se aplica a los componentes no fisicos de un sistema informatico, como p. ej. los programas, sistemas operativos, etc., que permiten a este ejecutar sus tareas." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "sandwich",
+    "Ayuda": {
+        "Nivel1": "qpfeqzlgkz",
+        "Nivel2": "krpfmxjer",
+        "Nivel3": "zxtulqvy",
+        "Nivel4": "ljbrlfe",
+        "Nivel5": "txkymk",
+        "Nivel6": "xprqb",
+        "Nivel7": "xzgo",
+        "Nivel8": "vll"
+    },
+    "Detalle": "sandwich",
+    "PLetra": "s",
+    "ULetra": "h",
+    "definiciones": [{ "definicion": "m. Emparedado, bocadillo hecho con dos rebanadas de pan de molde rellenas de fiambre, queso o vegetales." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "emparedado" }, { "sinonimo": "bocadillo" }]
+}, {
+    "Palabra": "sofia",
+    "Ayuda": {
+        "Nivel1": "gudxqdrkhh",
+        "Nivel2": "gvuvcjgpt",
+        "Nivel3": "gktmgrjm",
+        "Nivel4": "ytwmuzx",
+        "Nivel5": "ltztyv",
+        "Nivel6": "dgbrh",
+        "Nivel7": "ymzt",
+        "Nivel8": "ruy"
+    },
+    "Detalle": "sofia",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "siglo",
+    "Ayuda": {
+        "Nivel1": "rtzbwjpcvj",
+        "Nivel2": "dqpxjvruy",
+        "Nivel3": "eepvyttz",
+        "Nivel4": "kdafmqx",
+        "Nivel5": "htzuxv",
+        "Nivel6": "tuqmh",
+        "Nivel7": "prhk",
+        "Nivel8": "pxd"
+    },
+    "Detalle": "siglo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Espacio de cien anos." }, { "definicion": "Seguido de la prep. epoca en que se ha desarrollado o ha tenido lugar lo que este expresa." }, { "definicion": "Espacio largo de tiempo." }, { "definicion": "Vida civil en oposicion a la religiosa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "centuria" }, { "sinonimo": "centenario" }, { "sinonimo": "mundo" }, { "sinonimo": "sociedad" }]
+}, {
+    "Palabra": "septiembre",
+    "Ayuda": {
+        "Nivel1": "adcvxlxcak",
+        "Nivel2": "yyfkqqnfc",
+        "Nivel3": "zhgzxqqw",
+        "Nivel4": "fgkxfyu",
+        "Nivel5": "ucqngq",
+        "Nivel6": "uqhgh",
+        "Nivel7": "ucjx",
+        "Nivel8": "oyv"
+    },
+    "Detalle": "septiembre",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. Noveno mes del ano, entre agosto y octubre, que tiene treinta dias." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "sinonimo",
+    "Ayuda": {
+        "Nivel1": "qchhazrlbr",
+        "Nivel2": "cvfbdzbce",
+        "Nivel3": "kqldpvzx",
+        "Nivel4": "khrzahu",
+        "Nivel5": "zlvftf",
+        "Nivel6": "vltlp",
+        "Nivel7": "adky",
+        "Nivel8": "lae"
+    },
+    "Detalle": "sinonimo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. [Vocablos o expresiones] que tienen una misma o muy parecida significacion: Tambien m." }],
+    "antonimos": [{ "antonimo": "antonimo" }],
+    "sinonimos": [{ "sinonimo": "igual" }, { "sinonimo": "semejante" }, { "sinonimo": "analogico" }, { "sinonimo": "equivalente" }, { "sinonimo": "paralelo" }, { "sinonimo": "parecido" }, { "sinonimo": "consonante" }, { "sinonimo": "correspondiente" }, { "sinonimo": "homologo" }]
+}, {
+    "Palabra": "sectores",
+    "Ayuda": {
+        "Nivel1": "dudwqldkld",
+        "Nivel2": "xzmhzukjq",
+        "Nivel3": "mhhwxdhk",
+        "Nivel4": "nfaujqd",
+        "Nivel5": "wbumyw",
+        "Nivel6": "pximb",
+        "Nivel7": "alqh",
+        "Nivel8": "ahi"
+    },
+    "Detalle": "sectores",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Parte de una clase o de una colectividad que presenta caracteres peculiares." }, { "definicion": "Parte de un espacio, territorio, etc." }, { "definicion": "Cada una de las distintas actividades economicas o productivas." }, { "definicion": "Porcion de circulo comprendida entre un arco y los dos radios que pasan por sus extremidades." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "compartimiento" }, { "sinonimo": "seccion" }, { "sinonimo": "departamento" }, { "sinonimo": "division" }, { "sinonimo": "grupo" }, { "sinonimo": "parte" }, { "sinonimo": "zona" }, { "sinonimo": "tramo" }, { "sinonimo": "parcela" }, { "sinonimo": "porcion" }, { "sinonimo": "fase" }]
+}, {
+    "Palabra": "seguridad",
+    "Ayuda": {
+        "Nivel1": "mhqmltokvx",
+        "Nivel2": "pmtnylzmo",
+        "Nivel3": "ffqzvxkt",
+        "Nivel4": "wvzcqhq",
+        "Nivel5": "ltvbfv",
+        "Nivel6": "nmtzn",
+        "Nivel7": "ocvj",
+        "Nivel8": "mcz"
+    },
+    "Detalle": "seguridad",
+    "PLetra": "s",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Calidad de lo que es o esta seguro." }, { "definicion": "Certeza, garantia de que algo va a cumplirse." }],
+    "antonimos": [{ "antonimo": "inseguridad" }, { "antonimo": "vacilacion" }, { "antonimo": "falibilidad" }, { "antonimo": "desproteccion" }, { "antonimo": "desamparo" }],
+    "sinonimos": [{ "sinonimo": "certeza" }, { "sinonimo": "confianza" }, { "sinonimo": "conviccion" }, { "sinonimo": "firmeza" }, { "sinonimo": "infalibilidad" }, { "sinonimo": "evidencia" }, { "sinonimo": "convencimiento" }, { "sinonimo": "fe" }, { "sinonimo": "certidumbre" }, { "sinonimo": "garantia" }, { "sinonimo": "estabilidad" }, { "sinonimo": "inmunidad" }, { "sinonimo": "proteccion" }, { "sinonimo": "tranquilidad" }, { "sinonimo": "auxilio" }, { "sinonimo": "amparo" }, { "sinonimo": "asilo" }, { "sinonimo": "inmunidad" }, { "sinonimo": "invulnerabilidad" }, { "sinonimo": "defensa" }, { "sinonimo": "fianza" }, { "sinonimo": "firmeza" }, { "sinonimo": "solidez" }]
+}, {
+    "Palabra": "salta",
+    "Ayuda": {
+        "Nivel1": "mfmqvkrqgd",
+        "Nivel2": "uomvbfrby",
+        "Nivel3": "yhxeoodz",
+        "Nivel4": "fmwqvci",
+        "Nivel5": "niupuv",
+        "Nivel6": "fdbdd",
+        "Nivel7": "zwmn",
+        "Nivel8": "mow"
+    },
+    "Detalle": "salta",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "intr. Levantarse del suelo con impulso y agilidad para elevarse y volver a caer." }, { "definicion": "Arrojarse desde una altura." }, { "definicion": "Salir un liquido hacia arriba con impetu, como el agua en el surtidor." }, { "definicion": "Romperse o abrirse violentamente una cosa." }, { "definicion": "Desprenderse una cosa de donde estaba unida o fija." }, { "definicion": "Lanzarse en ataque sobre alguien o algo." }, { "definicion": "Manifestar algo bruscamente, por lo general como reaccion a alguna cosa." }, { "definicion": "Ascender a un puesto mas alto que el inmediatamente superior sin haber ocupado este." }, { "definicion": "Destacar por la limpieza." }, { "definicion": "Salir los jugadores al terreno de juego." }, { "definicion": "tr. Salvar de un salto un espacio o distancia." }, { "definicion": "Pasar de una cosa a otra, dejandose las intermedias." }, { "definicion": "No cumplir una ley, reglamento, etc. Tambien prnl." }],
+    "antonimos": [{ "antonimo": "atender" }, { "antonimo": "recordar" }],
+    "sinonimos": [{ "sinonimo": "brincar" }, { "sinonimo": "botar" }, { "sinonimo": "rebotar" }, { "sinonimo": "retozar" }, { "sinonimo": "respingar" }, { "sinonimo": "levantarse" }, { "sinonimo": "piruetear" }, { "sinonimo": "lanzarse" }, { "sinonimo": "arrojarse" }, { "sinonimo": "tirarse" }, { "sinonimo": "precipitarse" }, { "sinonimo": "abalanzarse" }, { "sinonimo": "reventar" }, { "sinonimo": "romperse" }, { "sinonimo": "estallar" }, { "sinonimo": "explotar" }, { "sinonimo": "destruirse" }, { "sinonimo": "detonar" }, { "sinonimo": "volar" }, { "sinonimo": "omitir" }, { "sinonimo": "olvidar" }, { "sinonimo": "silenciar" }, { "sinonimo": "eludir" }, { "sinonimo": "dejar" }, { "sinonimo": "pasar" }]
+}, {
+    "Palabra": "santa cruz",
+    "Ayuda": {
+        "Nivel1": "eogohygvmx",
+        "Nivel2": "lfgwpqpfx",
+        "Nivel3": "pbvjheky",
+        "Nivel4": "dpfplxw",
+        "Nivel5": "dvdxlm",
+        "Nivel6": "jxqok",
+        "Nivel7": "loyl",
+        "Nivel8": "ijy"
+    },
+    "Detalle": "santa cruz",
+    "PLetra": "s",
+    "ULetra": "z",
+    "definiciones": [{ "definicion": "adj. Perfecto y libre de toda culpa." }, { "definicion": "Canonizado por la Iglesia: Tambien s." }, { "definicion": "Bondadoso, de especial virtud, abnegacion y ejemplo. Tambien s." }, { "definicion": "[Semana] que sigue al Domingo de Ramos, y [dia] de esta semana. ♦ Se escribe con mayuscula." }, { "definicion": "[Cosa] de especial provecho o efectividad." }, { "definicion": "Sagrado, inviolable." }, { "definicion": "Con ciertos sustantivos, encarece el significado de estos." }, { "definicion": "Respecto de una persona, festividad del santo cuyo nombre lleva." }],
+    "antonimos": [{ "antonimo": "condenado" }, { "antonimo": "pecador" }, { "antonimo": "malo" }],
+    "sinonimos": [{ "sinonimo": "apostol" }, { "sinonimo": "beato" }, { "sinonimo": "bueno" }, { "sinonimo": "justo" }, { "sinonimo": "martir" }, { "sinonimo": "sagrado" }, { "sinonimo": "inocente" }, { "sinonimo": "venerable" }, { "sinonimo": "virtuoso" }, { "sinonimo": "canonizado" }, { "sinonimo": "bienaventurado" }, { "sinonimo": "divino" }, { "sinonimo": "inmaculado" }, { "sinonimo": "puro" }, { "sinonimo": "predestinado" }, { "sinonimo": "dibujo" }, { "sinonimo": "vineta" }, { "sinonimo": "estampa" }, { "sinonimo": "retrato" }, { "sinonimo": "reproduccion" }, { "sinonimo": "fotografia" }, { "sinonimo": "ilustracion" }, { "sinonimo": "imagen" }, { "sinonimo": "figura" }, { "sinonimo": "escultura" }, { "sinonimo": "icono" }, { "sinonimo": "talla" }, { "sinonimo": "idolo" }, { "sinonimo": "efigie" }, { "sinonimo": "onomastica" }, { "sinonimo": "festividad" }, { "sinonimo": "aniversario" }, { "sinonimo": "festejo" }, { "sinonimo": "fiesta" }, { "sinonimo": "celebracion" }, { "sinonimo": "consigna" }, { "sinonimo": "contrasena" }, { "sinonimo": "salvoconducto" }]
+}, {
+    "Palabra": "santa fe",
+    "Ayuda": {
+        "Nivel1": "dyudjpqmpz",
+        "Nivel2": "ybowvojuo",
+        "Nivel3": "oygorgcd",
+        "Nivel4": "bdojcxj",
+        "Nivel5": "ouqoxi",
+        "Nivel6": "qpbkw",
+        "Nivel7": "yoll",
+        "Nivel8": "gwu"
+    },
+    "Detalle": "santa fe",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Perfecto y libre de toda culpa." }, { "definicion": "Canonizado por la Iglesia: Tambien s." }, { "definicion": "Bondadoso, de especial virtud, abnegacion y ejemplo. Tambien s." }, { "definicion": "[Semana] que sigue al Domingo de Ramos, y [dia] de esta semana. ♦ Se escribe con mayuscula." }, { "definicion": "[Cosa] de especial provecho o efectividad." }, { "definicion": "Sagrado, inviolable." }, { "definicion": "Con ciertos sustantivos, encarece el significado de estos." }, { "definicion": "Respecto de una persona, festividad del santo cuyo nombre lleva." }],
+    "antonimos": [{ "antonimo": "condenado" }, { "antonimo": "pecador" }, { "antonimo": "malo" }],
+    "sinonimos": [{ "sinonimo": "apostol" }, { "sinonimo": "beato" }, { "sinonimo": "bueno" }, { "sinonimo": "justo" }, { "sinonimo": "martir" }, { "sinonimo": "sagrado" }, { "sinonimo": "inocente" }, { "sinonimo": "venerable" }, { "sinonimo": "virtuoso" }, { "sinonimo": "canonizado" }, { "sinonimo": "bienaventurado" }, { "sinonimo": "divino" }, { "sinonimo": "inmaculado" }, { "sinonimo": "puro" }, { "sinonimo": "predestinado" }, { "sinonimo": "dibujo" }, { "sinonimo": "vineta" }, { "sinonimo": "estampa" }, { "sinonimo": "retrato" }, { "sinonimo": "reproduccion" }, { "sinonimo": "fotografia" }, { "sinonimo": "ilustracion" }, { "sinonimo": "imagen" }, { "sinonimo": "figura" }, { "sinonimo": "escultura" }, { "sinonimo": "icono" }, { "sinonimo": "talla" }, { "sinonimo": "idolo" }, { "sinonimo": "efigie" }, { "sinonimo": "onomastica" }, { "sinonimo": "festividad" }, { "sinonimo": "aniversario" }, { "sinonimo": "festejo" }, { "sinonimo": "fiesta" }, { "sinonimo": "celebracion" }, { "sinonimo": "consigna" }, { "sinonimo": "contrasena" }, { "sinonimo": "salvoconducto" }]
+}, {
+    "Palabra": "san juan",
+    "Ayuda": {
+        "Nivel1": "bybwritxix",
+        "Nivel2": "yptvobzrx",
+        "Nivel3": "zftoptil",
+        "Nivel4": "ywbdeqm",
+        "Nivel5": "krlddr",
+        "Nivel6": "frgbb",
+        "Nivel7": "zhch",
+        "Nivel8": "fwd"
+    },
+    "Detalle": "san juan",
+    "PLetra": "s",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Juego de azar en el que los jugadores ingresan periodicamente una suma de dinero, y el total corresponde a uno de ellos, por turno, segun el numero que se le haya adjudicado." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "san luis",
+    "Ayuda": {
+        "Nivel1": "vgetfktryc",
+        "Nivel2": "cxqdvtyey",
+        "Nivel3": "jphoyfwq",
+        "Nivel4": "zkoyetb",
+        "Nivel5": "qvejod",
+        "Nivel6": "cdjyx",
+        "Nivel7": "dhmk",
+        "Nivel8": "gxb"
+    },
+    "Detalle": "san luis",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Juego de azar en el que los jugadores ingresan periodicamente una suma de dinero, y el total corresponde a uno de ellos, por turno, segun el numero que se le haya adjudicado." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "santiago del estero",
+    "Ayuda": {
+        "Nivel1": "jzywvbbujw",
+        "Nivel2": "hwmvmwmqb",
+        "Nivel3": "wwyujkwf",
+        "Nivel4": "pkfqvkz",
+        "Nivel5": "pfykjh",
+        "Nivel6": "xkzkj",
+        "Nivel7": "bkwz",
+        "Nivel8": "hjh"
+    },
+    "Detalle": "santiago del estero",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "santa rosa",
+    "Ayuda": {
+        "Nivel1": "hfkcyhlhfu",
+        "Nivel2": "phpmlpfpy",
+        "Nivel3": "uzkfluyc",
+        "Nivel4": "wqpmcex",
+        "Nivel5": "pgmcmj",
+        "Nivel6": "ipvbz",
+        "Nivel7": "ccpb",
+        "Nivel8": "pud"
+    },
+    "Detalle": "santa rosa",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. Perfecto y libre de toda culpa." }, { "definicion": "Canonizado por la Iglesia: Tambien s." }, { "definicion": "Bondadoso, de especial virtud, abnegacion y ejemplo. Tambien s." }, { "definicion": "[Semana] que sigue al Domingo de Ramos, y [dia] de esta semana. ♦ Se escribe con mayuscula." }, { "definicion": "[Cosa] de especial provecho o efectividad." }, { "definicion": "Sagrado, inviolable." }, { "definicion": "Con ciertos sustantivos, encarece el significado de estos." }, { "definicion": "Respecto de una persona, festividad del santo cuyo nombre lleva." }],
+    "antonimos": [{ "antonimo": "condenado" }, { "antonimo": "pecador" }, { "antonimo": "malo" }],
+    "sinonimos": [{ "sinonimo": "apostol" }, { "sinonimo": "beato" }, { "sinonimo": "bueno" }, { "sinonimo": "justo" }, { "sinonimo": "martir" }, { "sinonimo": "sagrado" }, { "sinonimo": "inocente" }, { "sinonimo": "venerable" }, { "sinonimo": "virtuoso" }, { "sinonimo": "canonizado" }, { "sinonimo": "bienaventurado" }, { "sinonimo": "divino" }, { "sinonimo": "inmaculado" }, { "sinonimo": "puro" }, { "sinonimo": "predestinado" }, { "sinonimo": "dibujo" }, { "sinonimo": "vineta" }, { "sinonimo": "estampa" }, { "sinonimo": "retrato" }, { "sinonimo": "reproduccion" }, { "sinonimo": "fotografia" }, { "sinonimo": "ilustracion" }, { "sinonimo": "imagen" }, { "sinonimo": "figura" }, { "sinonimo": "escultura" }, { "sinonimo": "icono" }, { "sinonimo": "talla" }, { "sinonimo": "idolo" }, { "sinonimo": "efigie" }, { "sinonimo": "onomastica" }, { "sinonimo": "festividad" }, { "sinonimo": "aniversario" }, { "sinonimo": "festejo" }, { "sinonimo": "fiesta" }, { "sinonimo": "celebracion" }, { "sinonimo": "consigna" }, { "sinonimo": "contrasena" }, { "sinonimo": "salvoconducto" }]
+}, {
+    "Palabra": "salamandra",
+    "Ayuda": {
+        "Nivel1": "pkgvfceykb",
+        "Nivel2": "ztvtuxchi",
+        "Nivel3": "kgvtwjvi",
+        "Nivel4": "vvehkop",
+        "Nivel5": "eqzige",
+        "Nivel6": "gwtuo",
+        "Nivel7": "hjzk",
+        "Nivel8": "hew"
+    },
+    "Detalle": "salamandra",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Nombre comun de diversos anfibios urodelos de unos 20 cm de largo, la mitad aproximadamente para la cola, con aspecto de lagarto y piel lisa." }, { "definicion": "Estufa de carbon de combustion lenta." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "salamanquesa" }, { "sinonimo": "salamandria" }]
+}, {
+    "Palabra": "sapo",
+    "Ayuda": {
+        "Nivel1": "evyrtymmvx",
+        "Nivel2": "gvubcrqjc",
+        "Nivel3": "kwevquqh",
+        "Nivel4": "nmjzcnq",
+        "Nivel5": "gtxvrl",
+        "Nivel6": "nthee",
+        "Nivel7": "feil",
+        "Nivel8": "dhx"
+    },
+    "Detalle": "sapo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Anfibio anuro similar a la rana, de mayor tamano, cuerpo rechoncho, piel gruesa y verrugosa, patas posteriores fuertes y ojos saltones." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "rana" }, { "sinonimo": "escuerzo" }, { "sinonimo": "escorzon" }, { "sinonimo": "anuro" }]
+}, {
+    "Palabra": "serpiente",
+    "Ayuda": {
+        "Nivel1": "gjmzyjcufv",
+        "Nivel2": "cwyyfxvua",
+        "Nivel3": "clhboqjo",
+        "Nivel4": "fyflmjw",
+        "Nivel5": "agjjlj",
+        "Nivel6": "mvumo",
+        "Nivel7": "lofh",
+        "Nivel8": "yua"
+    },
+    "Detalle": "serpiente",
+    "PLetra": "s",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Nombre que se da vulgamente a todos los reptiles del suborden de los ofidios, de cuerpo cilindrico, escamoso y muy alargado que, por carecer de extremidades, se mueve arrastrandose." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ofidio" }, { "sinonimo": "sierpe" }, { "sinonimo": "reptil" }, { "sinonimo": "culebra" }, { "sinonimo": "anaconda" }, { "sinonimo": "boa" }, { "sinonimo": "cascabel" }, { "sinonimo": "cobra" }, { "sinonimo": "piton" }, { "sinonimo": "aspid" }, { "sinonimo": "vibora" }]
+}, {
+    "Palabra": "saltamontes",
+    "Ayuda": {
+        "Nivel1": "zrgcfvqyjp",
+        "Nivel2": "jjcrkcujd",
+        "Nivel3": "vgrwvzfz",
+        "Nivel4": "xkvyrih",
+        "Nivel5": "juqufw",
+        "Nivel6": "hwrpi",
+        "Nivel7": "gzzc",
+        "Nivel8": "fqr"
+    },
+    "Detalle": "saltamontes",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Nombre comun de diversos insectos ortopteros propios de climas calidos, de cuerpo cilindrico, color pardo, verdoso o negruzco, cabeza gruesa de ojos saltones con finas antenas, las patas anteriores cortas y las posteriores muy robustas y largas, aptas para saltar. ♦ No varia en pl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "caballeta" }, { "sinonimo": "cigarra" }, { "sinonimo": "langosta" }, { "sinonimo": "salton" }]
+}, {
+    "Palabra": "sanguijuelas",
+    "Ayuda": {
+        "Nivel1": "ktvbpwzvbo",
+        "Nivel2": "vrddkoxor",
+        "Nivel3": "qbxxzzwt",
+        "Nivel4": "mcqrhtd",
+        "Nivel5": "pxqzky",
+        "Nivel6": "zfmmt",
+        "Nivel7": "zrmw",
+        "Nivel8": "hbr"
+    },
+    "Detalle": "sanguijuelas",
+    "PLetra": "s",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Gusano anelido hirudineo de agua dulce, de cuerpo anillado, boca chupadora y con una ventosa en cada extremo con que se adhiere a otros animales para alimentarse de su sangre." }, { "definicion": "Persona que se aprovecha de otra y obtiene sus bienes poco a poco." }],
+    "antonimos": [{ "antonimo": "desinteresado" }, { "antonimo": "generoso" }],
+    "sinonimos": [{ "sinonimo": "sanguisuela" }, { "sinonimo": "sanguja" }, { "sinonimo": "anelido" }, { "sinonimo": "lombriz" }, { "sinonimo": "gusano" }, { "sinonimo": "usurero" }, { "sinonimo": "explotador" }, { "sinonimo": "sablista" }, { "sinonimo": "embaucador" }, { "sinonimo": "negrero" }]
+}, {
+    "Palabra": "saña",
+    "Ayuda": {},
+    "Detalle": "saña",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "seña",
+    "Ayuda": {},
+    "Detalle": "seña",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "señalar",
+    "Ayuda": {},
+    "Detalle": "señalar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "señalizar",
+    "Ayuda": {},
+    "Detalle": "señalizar",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "señor",
+    "Ayuda": {},
+    "Detalle": "señor",
+    "PLetra": "s",
+    "ULetra": "r",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "señorña",
+    "Ayuda": {},
+    "Detalle": "señorña",
+    "PLetra": "s",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "señuelo",
+    "Ayuda": {},
+    "Detalle": "señuelo",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "sueño",
+    "Ayuda": {},
+    "Detalle": "sueño",
+    "PLetra": "s",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}]

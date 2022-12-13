@@ -1,0 +1,883 @@
+[{
+    "Palabra": "individuo",
+    "Ayuda": {
+        "Nivel1": "xpbccpzzcc",
+        "Nivel2": "ykzeflhcs",
+        "Nivel3": "garfkbfy",
+        "Nivel4": "zxwjaqe",
+        "Nivel5": "pmamff",
+        "Nivel6": "hkfbk",
+        "Nivel7": "qspg",
+        "Nivel8": "jzq"
+    },
+    "Detalle": "individuo",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que no puede ser dividido." }, { "definicion": "m. Cada uno de los seres organizados de una especie, con respecto a la especie a la que pertenece." }, { "definicion": "La propia persona u otra con abstraccion de las demas." }, { "definicion": "m. y f. Persona cuya identidad no se conoce o no se quiere descubrir." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ente" }, { "sinonimo": "persona" }, { "sinonimo": "projimo" }, { "sinonimo": "ser" }, { "sinonimo": "sujeto" }, { "sinonimo": "hombre" }, { "sinonimo": "tipo" }, { "sinonimo": "fulano" }, { "sinonimo": "tio" }, { "sinonimo": "gacho" }, { "sinonimo": "menda" }]
+}, {
+    "Palabra": "insecto",
+    "Ayuda": {
+        "Nivel1": "vjymmzkggr",
+        "Nivel2": "jyykquywm",
+        "Nivel3": "qlgfagam",
+        "Nivel4": "zrjjaqv",
+        "Nivel5": "lghyqm",
+        "Nivel6": "ujyau",
+        "Nivel7": "lhdd",
+        "Nivel8": "jmd"
+    },
+    "Detalle": "insecto",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y m. De los insectos o relativo a esta clase de animales." }, { "definicion": "m. pl. Clase de animales artropodos antenados, con el cuerpo dividido en cabeza, torax y abdomen, de respiracion traqueal y provistos de tres pares de patas; a veces tambien poseen uno o dos pares de alas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "larva" }, { "sinonimo": "parasito" }, { "sinonimo": "gusano" }]
+}, {
+    "Palabra": "instante",
+    "Ayuda": {
+        "Nivel1": "lxyvygjqoh",
+        "Nivel2": "xybwopkjr",
+        "Nivel3": "jrrwmxru",
+        "Nivel4": "ldvwxcq",
+        "Nivel5": "rxxyvq",
+        "Nivel6": "rpwzl",
+        "Nivel7": "fwqp",
+        "Nivel8": "lwh"
+    },
+    "Detalle": "instante",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. Porcion brevisima de tiempo." }, { "definicion": "loc. Sin parar, continuamente." }],
+    "antonimos": [{ "antonimo": "eternidad" }],
+    "sinonimos": [{ "sinonimo": "minuto" }, { "sinonimo": "segundo" }, { "sinonimo": "momento" }, { "sinonimo": "periquete" }, { "sinonimo": "santiamen" }]
+}, {
+    "Palabra": "izquierda",
+    "Ayuda": {
+        "Nivel1": "pmshhjgchb",
+        "Nivel2": "gtksnvlyn",
+        "Nivel3": "xckjpgsx",
+        "Nivel4": "lxogwxl",
+        "Nivel5": "hkwptp",
+        "Nivel6": "ythxf",
+        "Nivel7": "mpgb",
+        "Nivel8": "cho"
+    },
+    "Detalle": "izquierda",
+    "PLetra": "i",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. Que esta en la mitad longitudinal del cuerpo humano donde se situa el corazon." }, { "definicion": "[Todo aquello] que esta de ese lado." }, { "definicion": "f. Mano o pierna del lado izquierdo." }, { "definicion": "Lo que esta de ese lado." }, { "definicion": "Tendencia ideologica partidaria del cambio en las estructuras sociales y economicas, y opuesta a las fuerzas conservadoras." }],
+    "antonimos": [{ "antonimo": "derecha" }],
+    "sinonimos": [{ "sinonimo": "siniestra" }, { "sinonimo": "zurda" }]
+}, {
+    "Palabra": "interior",
+    "Ayuda": {
+        "Nivel1": "qblkubmyfa",
+        "Nivel2": "yqzjaxpzp",
+        "Nivel3": "qsvphkdf",
+        "Nivel4": "lcbmsdx",
+        "Nivel5": "lykfhg",
+        "Nivel6": "jacbd",
+        "Nivel7": "cvwf",
+        "Nivel8": "pwm"
+    },
+    "Detalle": "interior",
+    "PLetra": "i",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "adj. Que esta en la parte de dentro." }, { "definicion": "[Vivienda o habitacion] que no tiene vistas a la calle: Tambien m." }, { "definicion": "Del espiritu o de lo mas intimo de la persona." }, { "definicion": "Perteneciente al pais del que se habla, en contraposicion a lo extranjero." }, { "definicion": "m. La parte de dentro de algo." }, { "definicion": "Parte central de un pais, en oposicion a las zonas costeras o fronterizas." }, { "definicion": "Cada uno de los dos miembros de la delantera que, en la alineacion del equipo, se situa entre el extremo de su lado y el delantero centro." }, { "definicion": "Todo lo que no es la capital ni las ciudades principales de un pais." }, { "definicion": "Calzoncillo, ropa interior masculina." }],
+    "antonimos": [{ "antonimo": "externo" }, { "antonimo": "superficial" }],
+    "sinonimos": [{ "sinonimo": "interno" }, { "sinonimo": "central" }, { "sinonimo": "profundo" }, { "sinonimo": "recondito" }, { "sinonimo": "intrinseco" }, { "sinonimo": "intimo" }, { "sinonimo": "mente" }, { "sinonimo": "pensamiento" }, { "sinonimo": "animo" }, { "sinonimo": "caletre" }]
+}, {
+    "Palabra": "intendente",
+    "Ayuda": {
+        "Nivel1": "vyybablgbu",
+        "Nivel2": "cgscosuwx",
+        "Nivel3": "lkybuzlf",
+        "Nivel4": "fvusysy",
+        "Nivel5": "ycwoky",
+        "Nivel6": "hwrgb",
+        "Nivel7": "aufb",
+        "Nivel8": "syk"
+    },
+    "Detalle": "intendente",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. y f. En la Administracion publica, jefe superior economico o de alguna empresa estatal." }, { "definicion": "Jefe superior de los servicios de la Administracion militar." }, { "definicion": "Gobernador o alcalde." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "administrador" }, { "sinonimo": "gerente" }, { "sinonimo": "gestor" }, { "sinonimo": "mayordomo" }]
+}, {
+    "Palabra": "informe",
+    "Ayuda": {
+        "Nivel1": "bywduzvadv",
+        "Nivel2": "hjvsdqxtd",
+        "Nivel3": "ddcvudyg",
+        "Nivel4": "yvqbgjj",
+        "Nivel5": "pywuhk",
+        "Nivel6": "hxvjl",
+        "Nivel7": "ukjy",
+        "Nivel8": "ybp"
+    },
+    "Detalle": "informe",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. Conjunto de datos o instrucciones sobre algo o alguien: Tambien pl." }, { "definicion": "Exposicion total que hace el letrado o el fiscal ante el tribunal que ha de fallar el proceso." }, { "definicion": "adj. Que no tiene una forma determinada." }, { "definicion": "tr. Dar noticia de algo, enterar. Tambien prnl." }, { "definicion": "Completar un documento con los informes oportunos." }, { "definicion": "Dar forma sustancial a algo." }, { "definicion": "intr. Dictaminar una persona en un asunto de su competencia." }, { "definicion": "Hablar en estrados los fiscales y los abogados." }],
+    "antonimos": [{ "antonimo": "perfecto" }, { "antonimo": "conforme" }],
+    "sinonimos": [{ "sinonimo": "cronica" }, { "sinonimo": "documentacion" }, { "sinonimo": "mensaje" }, { "sinonimo": "testimonio" }, { "sinonimo": "dossier" }, { "sinonimo": "noticia" }, { "sinonimo": "parte" }, { "sinonimo": "razon" }, { "sinonimo": "memoria" }, { "sinonimo": "vago" }, { "sinonimo": "impreciso" }, { "sinonimo": "indefinido" }, { "sinonimo": "inespecifico" }, { "sinonimo": "irregular" }, { "sinonimo": "deforme" }]
+}, {
+    "Palabra": "idioma",
+    "Ayuda": {
+        "Nivel1": "enetzchpjj",
+        "Nivel2": "cbfplnukk",
+        "Nivel3": "jzkklfbh",
+        "Nivel4": "rzpglrq",
+        "Nivel5": "khjvxl",
+        "Nivel6": "bsnul",
+        "Nivel7": "sqkw",
+        "Nivel8": "stw"
+    },
+    "Detalle": "idioma",
+    "PLetra": "i",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Lengua de una comunidad de hablantes." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "lengua" }, { "sinonimo": "lenguaje" }, { "sinonimo": "habla" }, { "sinonimo": "jerga" }, { "sinonimo": "argot" }, { "sinonimo": "expresion" }]
+}, {
+    "Palabra": "ingles",
+    "Ayuda": {
+        "Nivel1": "fqcbhjjjxu",
+        "Nivel2": "umyfdmchj",
+        "Nivel3": "dmkymzad",
+        "Nivel4": "cqkxyxu",
+        "Nivel5": "fxfkkp",
+        "Nivel6": "qxucr",
+        "Nivel7": "hdfk",
+        "Nivel8": "yuk"
+    },
+    "Detalle": "ingles",
+    "PLetra": "i",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. y s. De Inglaterra o relativo a esta parte de Gran Bretana." }, { "definicion": "m. Lengua de la rama germanica, hablada en el Reino Unido y otros paises." }, { "definicion": "f. Parte del cuerpo en que el muslo se une con el vientre." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "anglosajon" }, { "sinonimo": "britanico" }]
+}, {
+    "Palabra": "instituto",
+    "Ayuda": {
+        "Nivel1": "veccvyjgfh",
+        "Nivel2": "pqxcxghay",
+        "Nivel3": "eydkzzja",
+        "Nivel4": "qxydlpb",
+        "Nivel5": "vxqrjk",
+        "Nivel6": "hhlbc",
+        "Nivel7": "aeae",
+        "Nivel8": "zvk"
+    },
+    "Detalle": "instituto",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Centro estatal en el que se cursan los estudios correspondientes a la ensenanza media." }, { "definicion": "Corporacion cientifica, benefica, cultural, etc." }, { "definicion": "Organismo perteneciente a la administracion de un Estado o nacion." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "academia" }, { "sinonimo": "centro" }, { "sinonimo": "escuela" }, { "sinonimo": "liceo" }, { "sinonimo": "colegio" }, { "sinonimo": "facultad" }, { "sinonimo": "institucion" }]
+}, {
+    "Palabra": "investigacion",
+    "Ayuda": {
+        "Nivel1": "yzbplmlwqq",
+        "Nivel2": "yfjrmrrqk",
+        "Nivel3": "djfjfmwl",
+        "Nivel4": "mddmklm",
+        "Nivel5": "qklhzr",
+        "Nivel6": "kfduf",
+        "Nivel7": "uxqq",
+        "Nivel8": "xku"
+    },
+    "Detalle": "investigacion",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Estudio profundo de alguna materia." }, { "definicion": "Indagacion, busqueda." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "exploracion" }, { "sinonimo": "indagacion" }, { "sinonimo": "averiguacion" }, { "sinonimo": "busqueda" }, { "sinonimo": "encuesta" }, { "sinonimo": "pesquisa" }, { "sinonimo": "pregunta" }, { "sinonimo": "sondeo" }]
+}, {
+    "Palabra": "idea",
+    "Ayuda": {
+        "Nivel1": "oqqbyqrfmc",
+        "Nivel2": "uvjblylnm",
+        "Nivel3": "jgzwxucr",
+        "Nivel4": "rnurxjk",
+        "Nivel5": "brluyr",
+        "Nivel6": "puhxn",
+        "Nivel7": "ymwr",
+        "Nivel8": "xkr"
+    },
+    "Detalle": "idea",
+    "PLetra": "i",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Cualquier representacion mental que se relaciona con algo real." }, { "definicion": "Nocion o conocimiento que se tiene sobre algo o alguien." }, { "definicion": "Conocimiento puro racional." }, { "definicion": "Intencion de hacer una cosa." }, { "definicion": "Ocurrencia, ingenio." }, { "definicion": "Plan y disposicion que se ordena en la fantasia para la elaboracion de una obra." }, { "definicion": "Concepto u opinion que se tiene de una persona o cosa." }, { "definicion": "Ingenio para disponer, inventar o disenar una cosa." }, { "definicion": "Mania o imaginacion extravagante." }, { "definicion": "pl. Convicciones, creencias, opiniones." }, { "definicion": "tr. Tener ideas, pensar, discurrir." }, { "definicion": "Pensar, inventar, crear." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "representacion" }, { "sinonimo": "imagen" }, { "sinonimo": "sensacion" }, { "sinonimo": "percepcion" }, { "sinonimo": "imaginacion" }, { "sinonimo": "ilusion" }, { "sinonimo": "pensamiento" }, { "sinonimo": "juicio" }, { "sinonimo": "comprension" }, { "sinonimo": "conocimiento" }, { "sinonimo": "concepto" }, { "sinonimo": "nocion" }, { "sinonimo": "reflexion" }, { "sinonimo": "designio" }, { "sinonimo": "arquetipo" }, { "sinonimo": "modelo" }, { "sinonimo": "planteamiento" }, { "sinonimo": "concepcion" }, { "sinonimo": "proyecto" }, { "sinonimo": "plan" }, { "sinonimo": "bosquejo" }, { "sinonimo": "esbozo" }, { "sinonimo": "boceto" }, { "sinonimo": "diseno" }, { "sinonimo": "sospecha" }, { "sinonimo": "opinion" }, { "sinonimo": "proposito" }, { "sinonimo": "intencion" }, { "sinonimo": "decision" }, { "sinonimo": "conviccion" }, { "sinonimo": "resolucion" }, { "sinonimo": "empeno" }, { "sinonimo": "fondo" }, { "sinonimo": "asunto" }, { "sinonimo": "materia" }, { "sinonimo": "tema" }, { "sinonimo": "trama" }, { "sinonimo": "ingenio" }, { "sinonimo": "aptitud" }, { "sinonimo": "mana" }, { "sinonimo": "creencias" }, { "sinonimo": "ideales" }, { "sinonimo": "ideario" }, { "sinonimo": "ideologia" }, { "sinonimo": "credo" }, { "sinonimo": "doctrina" }]
+}, {
+    "Palabra": "informacion",
+    "Ayuda": {
+        "Nivel1": "yjjdkqlwzt",
+        "Nivel2": "hedgjzsss",
+        "Nivel3": "lzyquxky",
+        "Nivel4": "qslkwlp",
+        "Nivel5": "tylwyg",
+        "Nivel6": "gvlzj",
+        "Nivel7": "bbgt",
+        "Nivel8": "jtd"
+    },
+    "Detalle": "informacion",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Accion y resultado de informar o informarse." }, { "definicion": "Oficina donde se informa sobre algo." }, { "definicion": "Conjunto de datos sobre una materia determinada." }, { "definicion": "Investigacion juridica y legal de un hecho o delito." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "aviso" }, { "sinonimo": "reportaje" }, { "sinonimo": "testimonio" }, { "sinonimo": "comunicacion" }, { "sinonimo": "aclaracion" }, { "sinonimo": "advertencia" }, { "sinonimo": "asesoria" }, { "sinonimo": "averiguacion" }, { "sinonimo": "indagacion" }]
+}, {
+    "Palabra": "intento",
+    "Ayuda": {
+        "Nivel1": "bhjdksaruu",
+        "Nivel2": "dvurawkuv",
+        "Nivel3": "vakhzlpx",
+        "Nivel4": "hjgjdfu",
+        "Nivel5": "jkzfzr",
+        "Nivel6": "krmsr",
+        "Nivel7": "fqkq",
+        "Nivel8": "bqr"
+    },
+    "Detalle": "intento",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Proposito, intencion." }, { "definicion": "Lo que es intentado." }, { "definicion": "tr. Tener el proposito de hacer algo." }, { "definicion": "Preparar o iniciar la ejecucion de algo." }, { "definicion": "Procurar, pretender, tratar de hacer algo." }],
+    "antonimos": [{ "antonimo": "renuncia" }, { "antonimo": "abandono" }],
+    "sinonimos": [{ "sinonimo": "tentativa" }, { "sinonimo": "tanteo" }, { "sinonimo": "prueba" }, { "sinonimo": "ensayo" }, { "sinonimo": "proyecto" }, { "sinonimo": "conato" }, { "sinonimo": "empeno" }, { "sinonimo": "proposicion" }, { "sinonimo": "finalidad" }, { "sinonimo": "plan" }, { "sinonimo": "intencion" }, { "sinonimo": "proposito" }]
+}, {
+    "Palabra": "inicio",
+    "Ayuda": {
+        "Nivel1": "jwbrvqqgtt",
+        "Nivel2": "wexyflmew",
+        "Nivel3": "bbyymbkp",
+        "Nivel4": "fprdvaj",
+        "Nivel5": "wmwwse",
+        "Nivel6": "myhqk",
+        "Nivel7": "upfw",
+        "Nivel8": "vvm"
+    },
+    "Detalle": "inicio",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Comienzo, principio." }, { "definicion": "tr. y prnl. Comenzar, empezar o promover algo." }, { "definicion": "Introducir y adiestrar a alguien en una actividad secreta." }, { "definicion": "Instruir, formar, especialmente en materias abstractas." }],
+    "antonimos": [{ "antonimo": "final" }, { "antonimo": "decadencia" }],
+    "sinonimos": [{ "sinonimo": "comienzo" }, { "sinonimo": "iniciacion" }, { "sinonimo": "principio" }, { "sinonimo": "proyecto" }, { "sinonimo": "bosquejo" }, { "sinonimo": "esbozo" }, { "sinonimo": "estreno" }, { "sinonimo": "origen" }, { "sinonimo": "preludio" }, { "sinonimo": "preambulo" }, { "sinonimo": "base" }, { "sinonimo": "arranque" }, { "sinonimo": "causa" }]
+}, {
+    "Palabra": "interrupcion",
+    "Ayuda": {
+        "Nivel1": "bjbfzkzsmd",
+        "Nivel2": "ygzfwaydx",
+        "Nivel3": "zsfwafyz",
+        "Nivel4": "xykahxw",
+        "Nivel5": "vyfvbk",
+        "Nivel6": "aksbf",
+        "Nivel7": "saxl",
+        "Nivel8": "hww"
+    },
+    "Detalle": "interrupcion",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Accion y resultado de interrumpir." }],
+    "antonimos": [{ "antonimo": "continuacion" }],
+    "sinonimos": [{ "sinonimo": "detencion" }, { "sinonimo": "suspension" }, { "sinonimo": "parada" }, { "sinonimo": "intervalo" }, { "sinonimo": "obstaculo" }, { "sinonimo": "estorbo" }, { "sinonimo": "parentesis" }, { "sinonimo": "tregua" }, { "sinonimo": "corte" }]
+}, {
+    "Palabra": "imagen",
+    "Ayuda": {
+        "Nivel1": "hwrzvjhltl",
+        "Nivel2": "sjvyostqb",
+        "Nivel3": "yojcjpdw",
+        "Nivel4": "pycfsyc",
+        "Nivel5": "uzlqyv",
+        "Nivel6": "zxwuk",
+        "Nivel7": "rxkl",
+        "Nivel8": "bzv"
+    },
+    "Detalle": "imagen",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Figura, representacion de una persona o cosa." }, { "definicion": "Representacion mental de algo." }, { "definicion": "Estatua, efigie, o pintura de Jesucristo, de la Virgen o de un santo." }, { "definicion": "Empleo de una palabra o expresion que den idea viva de algo con lo que guarda relacion." }, { "definicion": "Reproduccion de la figura de un objeto por la combinacion de los rayos de luz." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "representacion" }, { "sinonimo": "idea" }, { "sinonimo": "figuracion" }, { "sinonimo": "percepcion" }, { "sinonimo": "pensamiento" }, { "sinonimo": "concepto" }, { "sinonimo": "figura" }, { "sinonimo": "efigie" }, { "sinonimo": "perfil" }, { "sinonimo": "aspecto" }, { "sinonimo": "apariencia" }, { "sinonimo": "reproduccion" }, { "sinonimo": "copia" }, { "sinonimo": "modelo" }, { "sinonimo": "lamina" }, { "sinonimo": "grabado" }, { "sinonimo": "dibujo" }, { "sinonimo": "fotografia" }, { "sinonimo": "estampa" }, { "sinonimo": "ilustracion" }, { "sinonimo": "santo" }, { "sinonimo": "metafora" }, { "sinonimo": "simil" }, { "sinonimo": "tropo" }, { "sinonimo": "simbolo" }, { "sinonimo": "alegoria" }]
+}, {
+    "Palabra": "interes",
+    "Ayuda": {
+        "Nivel1": "dkuywufkqg",
+        "Nivel2": "plvdkmmmu",
+        "Nivel3": "bvdugxlu",
+        "Nivel4": "cboaloq",
+        "Nivel5": "hzaxkf",
+        "Nivel6": "bpvkp",
+        "Nivel7": "mxfo",
+        "Nivel8": "zgj"
+    },
+    "Detalle": "interes",
+    "PLetra": "i",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Provecho, utilidad o valor que en si tiene una persona o cosa." }, { "definicion": "Inclinacion hacia alguien o algo." }, { "definicion": "Ganancia producida por el capital. Tambien pl." }, { "definicion": "Curiosidad que una persona o una cosa provoca en alguien." }, { "definicion": "Cantidad que se paga sobre un prestamo." }, { "definicion": "Atencion que se pone en algo." }, { "definicion": "pl. Bienes que posee alguien." }, { "definicion": "Necesidad o conveniencia de caracter colectivo." }],
+    "antonimos": [{ "antonimo": "desinteres" }, { "antonimo": "apatia" }],
+    "sinonimos": [{ "sinonimo": "afecto" }, { "sinonimo": "tendencia" }, { "sinonimo": "inclinacion" }, { "sinonimo": "disposicion" }, { "sinonimo": "apego" }, { "sinonimo": "predileccion" }, { "sinonimo": "carino" }, { "sinonimo": "ganancia" }, { "sinonimo": "redito" }, { "sinonimo": "rendimiento" }, { "sinonimo": "renta" }, { "sinonimo": "utilidad" }, { "sinonimo": "capital" }, { "sinonimo": "fortuna" }, { "sinonimo": "lucro" }, { "sinonimo": "provecho" }, { "sinonimo": "atractivo" }, { "sinonimo": "aliciente" }, { "sinonimo": "fascinacion" }, { "sinonimo": "atraccion" }, { "sinonimo": "encanto" }, { "sinonimo": "seduccion" }, { "sinonimo": "hechizo" }, { "sinonimo": "sugestion" }]
+}, {
+    "Palabra": "inferior",
+    "Ayuda": {
+        "Nivel1": "ysplvlszwm",
+        "Nivel2": "jpcwpmcuq",
+        "Nivel3": "kqyjplhc",
+        "Nivel4": "pzvhskp",
+        "Nivel5": "jvmhgz",
+        "Nivel6": "kycpg",
+        "Nivel7": "szpy",
+        "Nivel8": "swm"
+    },
+    "Detalle": "inferior",
+    "PLetra": "i",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "Que esta debajo de otra cosa o mas bajo que ella." }, { "definicion": "Que es menor que otra cosa en cantidad o calidad." }, { "definicion": "[Persona] sujeta o subordinada a otra [persona]. Tambien s." }, { "definicion": "[Organismo] menos complejo y mas primitivo que otro [organismo]." }],
+    "antonimos": [{ "antonimo": "mejor" }, { "antonimo": "perfecto" }, { "antonimo": "superior" }, { "antonimo": "importante" }, { "antonimo": "alto" }, { "antonimo": "elevado" }],
+    "sinonimos": [{ "sinonimo": "peor" }, { "sinonimo": "minimo" }, { "sinonimo": "infimo" }, { "sinonimo": "malo" }, { "sinonimo": "imperfecto" }, { "sinonimo": "menor" }, { "sinonimo": "defectuoso" }, { "sinonimo": "insignificante" }, { "sinonimo": "subordinado" }, { "sinonimo": "mandado" }, { "sinonimo": "subalterno" }, { "sinonimo": "criado" }, { "sinonimo": "servidor" }, { "sinonimo": "dependiente" }, { "sinonimo": "auxiliar" }, { "sinonimo": "bajo" }, { "sinonimo": "debajo" }, { "sinonimo": "hundido" }, { "sinonimo": "hondo" }, { "sinonimo": "excavado" }, { "sinonimo": "profundo" }]
+}, {
+    "Palabra": "importante",
+    "Ayuda": {
+        "Nivel1": "szyubwkbcq",
+        "Nivel2": "hzbbhvkuf",
+        "Nivel3": "dwhqyfyh",
+        "Nivel4": "chyjbql",
+        "Nivel5": "dbjhzf",
+        "Nivel6": "jfdgv",
+        "Nivel7": "quzz",
+        "Nivel8": "qfk"
+    },
+    "Detalle": "importante",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Que es de importancia." }],
+    "antonimos": [{ "antonimo": "secundario" }, { "antonimo": "accesorio" }, { "antonimo": "nimio" }, { "antonimo": "desconocido" }],
+    "sinonimos": [{ "sinonimo": "considerable" }, { "sinonimo": "significativo" }, { "sinonimo": "principal" }, { "sinonimo": "sustancial" }, { "sinonimo": "notable" }, { "sinonimo": "primordial" }, { "sinonimo": "valioso" }, { "sinonimo": "interesante" }, { "sinonimo": "trascendental" }, { "sinonimo": "fundamental" }, { "sinonimo": "solido" }, { "sinonimo": "vital" }, { "sinonimo": "urgente" }, { "sinonimo": "grave" }, { "sinonimo": "conveniente" }, { "sinonimo": "solemne" }, { "sinonimo": "preponderante" }, { "sinonimo": "grande" }, { "sinonimo": "enorme" }, { "sinonimo": "poderoso" }, { "sinonimo": "influyente" }, { "sinonimo": "prestigioso" }, { "sinonimo": "famoso" }, { "sinonimo": "eminente" }, { "sinonimo": "excelente" }, { "sinonimo": "destacado" }, { "sinonimo": "sobresaliente" }]
+}, {
+    "Palabra": "imposible",
+    "Ayuda": {
+        "Nivel1": "xwuhrjgfjv",
+        "Nivel2": "jqwjwtkdw",
+        "Nivel3": "udnhunjq",
+        "Nivel4": "yqrxaqw",
+        "Nivel5": "vftxjz",
+        "Nivel6": "wqxrv",
+        "Nivel7": "hkkz",
+        "Nivel8": "rdx"
+    },
+    "Detalle": "imposible",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. No posible, que no puede ocurrir." }, { "definicion": "Sumamente dificil: Tambien m." }, { "definicion": "Que es dificil de aguantar o soportar." }],
+    "antonimos": [{ "antonimo": "posible" }, { "antonimo": "factible" }, { "antonimo": "realizable" }],
+    "sinonimos": [{ "sinonimo": "inviable" }, { "sinonimo": "irrealizable" }, { "sinonimo": "impracticable" }, { "sinonimo": "inalcanzable" }, { "sinonimo": "utopico" }, { "sinonimo": "inasequible" }, { "sinonimo": "insoluble" }, { "sinonimo": "ideal" }, { "sinonimo": "ficticio" }, { "sinonimo": "absurdo" }, { "sinonimo": "inverosimil" }, { "sinonimo": "inutil" }, { "sinonimo": "inadecuado" }, { "sinonimo": "improbable" }, { "sinonimo": "increible" }, { "sinonimo": "dificil" }, { "sinonimo": "insufrible" }, { "sinonimo": "intratable" }, { "sinonimo": "insoportable" }, { "sinonimo": "inaguantable" }, { "sinonimo": "colerico" }]
+}, {
+    "Palabra": "improbable",
+    "Ayuda": {
+        "Nivel1": "yfshdtdfqt",
+        "Nivel2": "xwvqydyfk",
+        "Nivel3": "jsnftxdv",
+        "Nivel4": "qcxfkcc",
+        "Nivel5": "qzsvkg",
+        "Nivel6": "jkxyj",
+        "Nivel7": "ghsv",
+        "Nivel8": "cyj"
+    },
+    "Detalle": "improbable",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Nada o poco probable." }],
+    "antonimos": [{ "antonimo": "probable" }, { "antonimo": "seguro" }],
+    "sinonimos": [{ "sinonimo": "dificil" }, { "sinonimo": "incierto" }, { "sinonimo": "dudoso" }, { "sinonimo": "inseguro" }, { "sinonimo": "remoto" }, { "sinonimo": "absurdo" }]
+}, {
+    "Palabra": "incorrecto",
+    "Ayuda": {
+        "Nivel1": "svjgmpjwkh",
+        "Nivel2": "yuxwvwuzu",
+        "Nivel3": "pkumhgfa",
+        "Nivel4": "dmgqbxx",
+        "Nivel5": "pabkym",
+        "Nivel6": "bduky",
+        "Nivel7": "kbym",
+        "Nivel8": "pdw"
+    },
+    "Detalle": "incorrecto",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Erroneo, equivocado." }, { "definicion": "Descortes, grosero." }],
+    "antonimos": [{ "antonimo": "correcto" }, { "antonimo": "acertado" }],
+    "sinonimos": [{ "sinonimo": "erroneo" }, { "sinonimo": "errado" }, { "sinonimo": "falso" }, { "sinonimo": "defectuoso" }, { "sinonimo": "equivocado" }, { "sinonimo": "inexacto" }, { "sinonimo": "inconveniente" }, { "sinonimo": "maleducado" }, { "sinonimo": "desatento" }]
+}, {
+    "Palabra": "inverso",
+    "Ayuda": {
+        "Nivel1": "bhkajthhqp",
+        "Nivel2": "dldazjalc",
+        "Nivel3": "mytmzllb",
+        "Nivel4": "fwuwkwb",
+        "Nivel5": "hbtcgt",
+        "Nivel6": "mxftl",
+        "Nivel7": "kuyt",
+        "Nivel8": "mpz"
+    },
+    "Detalle": "inverso",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "Alterado, contrario en el orden, en la direccion o en el sentido." }, { "definicion": "tr. Alterar el orden, la direccion o el sentido de algo. Tambien prnl." }, { "definicion": "Hablando de bienes de capital, emplearlos, gastarlos, o colocarlos en aplicaciones productivas. Tambien intr. y prnl." }],
+    "antonimos": [{ "antonimo": "recto" }, { "antonimo": "propio" }, { "antonimo": "ordenado" }],
+    "sinonimos": [{ "sinonimo": "invertido" }, { "sinonimo": "alterado" }, { "sinonimo": "reverso" }, { "sinonimo": "contrario" }, { "sinonimo": "encontrado" }, { "sinonimo": "opuesto" }, { "sinonimo": "trastornado" }]
+}, {
+    "Palabra": "igual",
+    "Ayuda": {
+        "Nivel1": "xhtzdxkvqy",
+        "Nivel2": "zbbrwqbse",
+        "Nivel3": "tsxnssmc",
+        "Nivel4": "epkcvwd",
+        "Nivel5": "jzcmrs",
+        "Nivel6": "sjtbd",
+        "Nivel7": "yrph",
+        "Nivel8": "rbz"
+    },
+    "Detalle": "igual",
+    "PLetra": "i",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. De la misma naturaleza, cantidad o calidad de otra persona o cosa." }, { "definicion": "Muy parecido o semejante." }, { "definicion": "Que no cambia o no tiene variaciones." }, { "definicion": "Liso, sin desniveles ni asperezas." }, { "definicion": "Del mismo valor y aprecio." }, { "definicion": "[Figura] que se puede superponer a otra de modo que se confundan en su totalidad." }, { "definicion": "adj. y com. [Persona] de la misma clase o condicion social que otra." }, { "definicion": "m. Signo de igualdad o equivalencia, formado por dos rayas horizontales paralelas (?)." }, { "definicion": "adv. m. De la misma manera, lo mismo." }, { "definicion": "Quiza, posiblemente." }, { "definicion": "A pesar de todo." }],
+    "antonimos": [{ "antonimo": "distinto" }, { "antonimo": "antonimo" }],
+    "sinonimos": [{ "sinonimo": "identico" }, { "sinonimo": "equivalente" }, { "sinonimo": "mismo" }, { "sinonimo": "sinonimo" }, { "sinonimo": "idem" }, { "sinonimo": "literal" }, { "sinonimo": "exacto" }, { "sinonimo": "semejante" }, { "sinonimo": "similar" }, { "sinonimo": "hermanado" }, { "sinonimo": "mellizo" }, { "sinonimo": "afin" }, { "sinonimo": "congenere" }, { "sinonimo": "llano" }, { "sinonimo": "uniforme" }, { "sinonimo": "liso" }, { "sinonimo": "raso" }, { "sinonimo": "plano" }, { "sinonimo": "homogeneo" }, { "sinonimo": "suave" }, { "sinonimo": "fino" }, { "sinonimo": "proporcionado" }, { "sinonimo": "correspondiente" }, { "sinonimo": "ajustado" }, { "sinonimo": "conforme" }]
+}, {
+    "Palabra": "internacional",
+    "Ayuda": {
+        "Nivel1": "kjmpuhbszv",
+        "Nivel2": "fduppkxvq",
+        "Nivel3": "ybghdmsk",
+        "Nivel4": "zkhbbdb",
+        "Nivel5": "zfkhxx",
+        "Nivel6": "jmmxh",
+        "Nivel7": "vkxw",
+        "Nivel8": "vwp"
+    },
+    "Detalle": "internacional",
+    "PLetra": "i",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Relativo a dos o mas naciones." }, { "definicion": "f. Himno de los socialistas y comunistas: ♦ Se escribe con mayuscula." }],
+    "antonimos": [{ "antonimo": "nacional" }, { "antonimo": "local" }],
+    "sinonimos": [{ "sinonimo": "cosmopolita" }, { "sinonimo": "mundial" }, { "sinonimo": "universal" }]
+}, {
+    "Palabra": "interesado",
+    "Ayuda": {
+        "Nivel1": "pxuqmpuxhy",
+        "Nivel2": "kjfwpuuuq",
+        "Nivel3": "jchqfqcg",
+        "Nivel4": "xkgzmfq",
+        "Nivel5": "fgplgh",
+        "Nivel6": "xwglc",
+        "Nivel7": "kzcm",
+        "Nivel8": "wpu"
+    },
+    "Detalle": "interesado",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y s. Que tiene interes en una cosa." }, { "definicion": "Que se deja llevar o solo se mueve por el interes." }, { "definicion": "intr. Tener interes en una persona o cosa." }, { "definicion": "Importar." }, { "definicion": "tr. Inspirar interes o afecto a una persona." }, { "definicion": "Producir una cosa alteracion o dano en un organo del cuerpo." }, { "definicion": "prnl. Demostrar interes." }],
+    "antonimos": [{ "antonimo": "altruista" }, { "antonimo": "desprendido" }, { "antonimo": "desinteresado" }],
+    "sinonimos": [{ "sinonimo": "codicioso" }, { "sinonimo": "egoista" }, { "sinonimo": "egolatra" }, { "sinonimo": "ambicioso" }, { "sinonimo": "avaro" }, { "sinonimo": "atraido" }, { "sinonimo": "inclinado" }, { "sinonimo": "fascinado" }, { "sinonimo": "afectado" }, { "sinonimo": "encantado" }, { "sinonimo": "sugestionado" }]
+}, {
+    "Palabra": "ir",
+    "Ayuda": {
+        "Nivel1": "qalzpvbzzw",
+        "Nivel2": "uxssvledq",
+        "Nivel3": "gyfswenv",
+        "Nivel4": "mtxvjjk",
+        "Nivel5": "lkcfds",
+        "Nivel6": "znvuc",
+        "Nivel7": "jxtq",
+        "Nivel8": "lqw"
+    },
+    "Detalle": "ir",
+    "PLetra": "i",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "intr. Moverse de un lugar hacia otro. Tambien prnl." }, { "definicion": "Dirigirse hacia, llevar a, conducir." }, { "definicion": "Asistir, concurrir." }, { "definicion": "Funcionar o marchar." }, { "definicion": "Con los gerundios de algunos verbos, denota la accion de ellos y da a entender la actual ejecucion de lo que dichos verbos significan: o que la accion empieza a verificarse." }, { "definicion": "Acomodarse o no una cosa con otra." }, { "definicion": "Extenderse, ocupar." }, { "definicion": "Obrar, proceder." }, { "definicion": "Estar, ser." }, { "definicion": "prnl. Marcharse." }, { "definicion": "Morirse o estarse muriendo." }, { "definicion": "Desleirse, desaparecer." }, { "definicion": "Salirse un liquido o gas del recipiente que lo contiene. Tambien se aplica a ese mismo recipiente." }, { "definicion": "Deslizarse, perder el equilibrio." }, { "definicion": "Gastarse, consumirse o perderse algo." }, { "definicion": "Escaparse." }, { "definicion": "Repercutir." }],
+    "antonimos": [{ "antonimo": "venir" }, { "antonimo": "acercarse" }, { "antonimo": "pararse" }, { "antonimo": "estacinarse" }, { "antonimo": "contenerse" }],
+    "sinonimos": [{ "sinonimo": "dirigirse" }, { "sinonimo": "encaminarse" }, { "sinonimo": "trasladarse" }, { "sinonimo": "partir" }, { "sinonimo": "acudir" }, { "sinonimo": "alejarse" }, { "sinonimo": "andar" }, { "sinonimo": "ausentarse" }, { "sinonimo": "emigrar" }, { "sinonimo": "salir" }, { "sinonimo": "transitar" }, { "sinonimo": "marcharse" }, { "sinonimo": "largarse" }, { "sinonimo": "huir" }, { "sinonimo": "derramarse" }, { "sinonimo": "caerse" }, { "sinonimo": "dispersarse" }, { "sinonimo": "esparcirse" }, { "sinonimo": "morirse" }, { "sinonimo": "volatilizarse" }]
+}, {
+    "Palabra": "interesarse",
+    "Ayuda": {
+        "Nivel1": "olyfyduwjg",
+        "Nivel2": "myugjkbpp",
+        "Nivel3": "mwyvdhzm",
+        "Nivel4": "ulcwbmv",
+        "Nivel5": "dyuxkf",
+        "Nivel6": "dfwyb",
+        "Nivel7": "jvbg",
+        "Nivel8": "gpb"
+    },
+    "Detalle": "interesarse",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "intr. Tener interes en una persona o cosa." }, { "definicion": "Importar." }, { "definicion": "tr. Inspirar interes o afecto a una persona." }, { "definicion": "Producir una cosa alteracion o dano en un organo del cuerpo." }, { "definicion": "prnl. Demostrar interes." }],
+    "antonimos": [{ "antonimo": "aburrir" }, { "antonimo": "fastidiar" }, { "antonimo": "hartar" }, { "antonimo": "empalagar" }, { "antonimo": "desinteresar" }, { "antonimo": "despreocuparse" }],
+    "sinonimos": [{ "sinonimo": "atraer" }, { "sinonimo": "agradar" }, { "sinonimo": "apasionar" }, { "sinonimo": "cautivar" }, { "sinonimo": "prendar" }, { "sinonimo": "sugestionar" }, { "sinonimo": "fascinar" }, { "sinonimo": "hechizar" }, { "sinonimo": "importar" }, { "sinonimo": "concernir" }, { "sinonimo": "corresponder" }, { "sinonimo": "ataner" }, { "sinonimo": "pertenecer" }, { "sinonimo": "incumbir" }, { "sinonimo": "preocuparse" }, { "sinonimo": "inquietarse" }, { "sinonimo": "desvelarse" }, { "sinonimo": "enfrascarse" }, { "sinonimo": "afanarse" }]
+}, {
+    "Palabra": "intercambiar",
+    "Ayuda": {
+        "Nivel1": "xykzgvwxyw",
+        "Nivel2": "yyvposypo",
+        "Nivel3": "sfyyxwol",
+        "Nivel4": "lvljvqj",
+        "Nivel5": "foudyu",
+        "Nivel6": "qopoh",
+        "Nivel7": "yzwy",
+        "Nivel8": "ysf"
+    },
+    "Detalle": "intercambiar",
+    "PLetra": "i",
+    "ULetra": "r",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "canjear" }, { "sinonimo": "permutar" }, { "sinonimo": "cambiar" }, { "sinonimo": "trocar" }]
+}, {
+    "Palabra": "iniciar",
+    "Ayuda": {
+        "Nivel1": "duxhkkwllj",
+        "Nivel2": "vgjtumsbd",
+        "Nivel3": "vswhtvgz",
+        "Nivel4": "ygxmsbz",
+        "Nivel5": "ztfwwe",
+        "Nivel6": "ekhyo",
+        "Nivel7": "bydb",
+        "Nivel8": "dkt"
+    },
+    "Detalle": "iniciar",
+    "PLetra": "i",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. y prnl. Comenzar, empezar o promover algo." }, { "definicion": "Introducir y adiestrar a alguien en una actividad secreta." }, { "definicion": "Instruir, formar, especialmente en materias abstractas." }],
+    "antonimos": [{ "antonimo": "caducar" }, { "antonimo": "cancelar" }, { "antonimo": "consumar" }, { "antonimo": "terminar" }],
+    "sinonimos": [{ "sinonimo": "empezar" }, { "sinonimo": "inaugurar" }, { "sinonimo": "estrenar" }, { "sinonimo": "incoar" }, { "sinonimo": "principiar" }, { "sinonimo": "arrancar" }, { "sinonimo": "comenzar" }, { "sinonimo": "emprender" }, { "sinonimo": "abrir" }, { "sinonimo": "afiliar" }, { "sinonimo": "afrontar" }, { "sinonimo": "entablar" }, { "sinonimo": "abordar" }, { "sinonimo": "germinar" }, { "sinonimo": "lanzar" }, { "sinonimo": "promover" }, { "sinonimo": "suscitar" }]
+}, {
+    "Palabra": "intentar",
+    "Ayuda": {
+        "Nivel1": "uqxukvopfc",
+        "Nivel2": "sjwxhspsz",
+        "Nivel3": "qvvymocj",
+        "Nivel4": "jukzwdu",
+        "Nivel5": "ymwwwj",
+        "Nivel6": "fkyfk",
+        "Nivel7": "uzsb",
+        "Nivel8": "syz"
+    },
+    "Detalle": "intentar",
+    "PLetra": "i",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Tener el proposito de hacer algo." }, { "definicion": "Preparar o iniciar la ejecucion de algo." }, { "definicion": "Procurar, pretender, tratar de hacer algo." }],
+    "antonimos": [{ "antonimo": "desistir" }, { "antonimo": "renunciar" }],
+    "sinonimos": [{ "sinonimo": "pretender" }, { "sinonimo": "procurar" }, { "sinonimo": "tratar" }, { "sinonimo": "querer" }, { "sinonimo": "aspirar" }, { "sinonimo": "desear" }, { "sinonimo": "probar" }, { "sinonimo": "proyectar" }, { "sinonimo": "tantear" }]
+}, {
+    "Palabra": "inclusive",
+    "Ayuda": {
+        "Nivel1": "hwxhxpphqj",
+        "Nivel2": "bxgwfbdrz",
+        "Nivel3": "rqoxgqxg",
+        "Nivel4": "hypjbpw",
+        "Nivel5": "hawhjy",
+        "Nivel6": "rdwgm",
+        "Nivel7": "tgod",
+        "Nivel8": "qfd"
+    },
+    "Detalle": "inclusive",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adv. m. Referido a los terminos de una serie, que estan incluidos en ella." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "incluso" }, { "sinonimo": "hasta" }, { "sinonimo": "implicitamente" }]
+}, {
+    "Palabra": "incluso",
+    "Ayuda": {
+        "Nivel1": "zgdmkkebrf",
+        "Nivel2": "ybpzhdxbh",
+        "Nivel3": "hvdgpggt",
+        "Nivel4": "wwxqgpm",
+        "Nivel5": "javxam",
+        "Nivel6": "rhfzd",
+        "Nivel7": "rddj",
+        "Nivel8": "rdm"
+    },
+    "Detalle": "incluso",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adv. m. Con inclusion de." }, { "definicion": "prep. y conj. Hasta, aun." }, { "definicion": "tr. Poner una cosa dentro de otra." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "inclusive" }]
+}, {
+    "Palabra": "inicialmente",
+    "Ayuda": {
+        "Nivel1": "vquhdfkbbw",
+        "Nivel2": "krxykxpjx",
+        "Nivel3": "fjubvgdx",
+        "Nivel4": "swwkpss",
+        "Nivel5": "hyhhvg",
+        "Nivel6": "usssh",
+        "Nivel7": "hrzo",
+        "Nivel8": "gxq"
+    },
+    "Detalle": "inicialmente",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "inmediatamente",
+    "Ayuda": {
+        "Nivel1": "bfzpsrucpk",
+        "Nivel2": "vjhvbcfhq",
+        "Nivel3": "jsrqyflw",
+        "Nivel4": "osshfhl",
+        "Nivel5": "rhoovc",
+        "Nivel6": "ybzyp",
+        "Nivel7": "ghjh",
+        "Nivel8": "yol"
+    },
+    "Detalle": "inmediatamente",
+    "PLetra": "i",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "rapidamente" }, { "sinonimo": "inminentemente" }, { "sinonimo": "urgentemente" }, { "sinonimo": "enseguida" }, { "sinonimo": "ipsofacto" }]
+}, {
+    "Palabra": "informacion",
+    "Ayuda": {
+        "Nivel1": "yejzydtjzb",
+        "Nivel2": "bqjjtzlyh",
+        "Nivel3": "eptsqjez",
+        "Nivel4": "bygdqkk",
+        "Nivel5": "bkbdvs",
+        "Nivel6": "htqht",
+        "Nivel7": "swvq",
+        "Nivel8": "hjv"
+    },
+    "Detalle": "informacion",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Accion y resultado de informar o informarse." }, { "definicion": "Oficina donde se informa sobre algo." }, { "definicion": "Conjunto de datos sobre una materia determinada." }, { "definicion": "Investigacion juridica y legal de un hecho o delito." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "aviso" }, { "sinonimo": "reportaje" }, { "sinonimo": "testimonio" }, { "sinonimo": "comunicacion" }, { "sinonimo": "aclaracion" }, { "sinonimo": "advertencia" }, { "sinonimo": "asesoria" }, { "sinonimo": "averiguacion" }, { "sinonimo": "indagacion" }]
+}, {
+    "Palabra": "internet",
+    "Ayuda": {
+        "Nivel1": "mzjzqzlxos",
+        "Nivel2": "cuwqypwfw",
+        "Nivel3": "hmuvwuaq",
+        "Nivel4": "qqvalkw",
+        "Nivel5": "xlhxwj",
+        "Nivel6": "pgfah",
+        "Nivel7": "gbdv",
+        "Nivel8": "flm"
+    },
+    "Detalle": "internet",
+    "PLetra": "i",
+    "ULetra": "t",
+    "definiciones": [{ "definicion": "f. Red informatica de comunicacion internacional que permite el intercambio de todo tipo de informacion entre sus usuarios: ♦ El nombre proviene del acronimo de las palabras inglesas national work (red internacional)." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "inseguridad",
+    "Ayuda": {
+        "Nivel1": "qqbwxlyqtw",
+        "Nivel2": "twtywyjjh",
+        "Nivel3": "zmtbmtmt",
+        "Nivel4": "thxkhlo",
+        "Nivel5": "ltopfv",
+        "Nivel6": "poklt",
+        "Nivel7": "cwkl",
+        "Nivel8": "jwj"
+    },
+    "Detalle": "inseguridad",
+    "PLetra": "i",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Falta de seguridad." }],
+    "antonimos": [{ "antonimo": "firmeza" }, { "antonimo": "certeza" }],
+    "sinonimos": [{ "sinonimo": "incertidumbre" }, { "sinonimo": "vacilacion" }, { "sinonimo": "inestabilidad" }, { "sinonimo": "inconstancia" }, { "sinonimo": "perplejidad" }, { "sinonimo": "oscilacion" }, { "sinonimo": "desequilibrio" }, { "sinonimo": "indecision" }, { "sinonimo": "titubeo" }]
+}, {
+    "Palabra": "inedita",
+    "Ayuda": {
+        "Nivel1": "pugzwpxrrz",
+        "Nivel2": "fmwuzbcgf",
+        "Nivel3": "zgjfqwcq",
+        "Nivel4": "xrjuugg",
+        "Nivel5": "lurvxq",
+        "Nivel6": "lkphw",
+        "Nivel7": "pbkz",
+        "Nivel8": "gmo"
+    },
+    "Detalle": "inedita",
+    "PLetra": "i",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y m. Escrito y no publicado." }, { "definicion": "[Escritor] que aun no ha publicado nada." }, { "definicion": "Desconocido, nuevo." }],
+    "antonimos": [{ "antonimo": "conocido" }, { "antonimo": "viejo" }],
+    "sinonimos": [{ "sinonimo": "nuevo" }, { "sinonimo": "original" }, { "sinonimo": "fresco" }, { "sinonimo": "desconocido" }, { "sinonimo": "estrenado" }]
+}, {
+    "Palabra": "invadio",
+    "Ayuda": {
+        "Nivel1": "mjhcptslxp",
+        "Nivel2": "ezxwgscmu",
+        "Nivel3": "zwscrhhr",
+        "Nivel4": "eqfufhz",
+        "Nivel5": "yjetxf",
+        "Nivel6": "bhgpz",
+        "Nivel7": "mlyb",
+        "Nivel8": "xtl"
+    },
+    "Detalle": "invadio",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "tr. Entrar por la fuerza en un lugar." }, { "definicion": "Entrar injustificadamente en funciones ajenas." }, { "definicion": "Ser dominado por el estado de animo que se expresa." }, { "definicion": "Saturar, colapsar." }],
+    "antonimos": [{ "antonimo": "defender" }, { "antonimo": "retroceder" }],
+    "sinonimos": [{ "sinonimo": "asaltar" }, { "sinonimo": "atacar" }, { "sinonimo": "irrumpir" }, { "sinonimo": "acometer" }, { "sinonimo": "ocupar" }, { "sinonimo": "conquistar" }, { "sinonimo": "penetrar" }, { "sinonimo": "violentar" }, { "sinonimo": "entrar" }, { "sinonimo": "tomar" }, { "sinonimo": "vencer" }, { "sinonimo": "dominar" }, { "sinonimo": "asediar" }, { "sinonimo": "saquear" }]
+}, {
+    "Palabra": "intereses",
+    "Ayuda": {
+        "Nivel1": "lwmqcdzzhb",
+        "Nivel2": "vcolfxczu",
+        "Nivel3": "azxcwywp",
+        "Nivel4": "jjhykqm",
+        "Nivel5": "lhdmfk",
+        "Nivel6": "opbkf",
+        "Nivel7": "djfx",
+        "Nivel8": "cza"
+    },
+    "Detalle": "intereses",
+    "PLetra": "i",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "intr. Tener interes en una persona o cosa." }, { "definicion": "Importar." }, { "definicion": "tr. Inspirar interes o afecto a una persona." }, { "definicion": "Producir una cosa alteracion o dano en un organo del cuerpo." }, { "definicion": "prnl. Demostrar interes." }],
+    "antonimos": [{ "antonimo": "aburrir" }, { "antonimo": "fastidiar" }, { "antonimo": "hartar" }, { "antonimo": "empalagar" }, { "antonimo": "desinteresar" }, { "antonimo": "despreocuparse" }],
+    "sinonimos": [{ "sinonimo": "atraer" }, { "sinonimo": "agradar" }, { "sinonimo": "apasionar" }, { "sinonimo": "cautivar" }, { "sinonimo": "prendar" }, { "sinonimo": "sugestionar" }, { "sinonimo": "fascinar" }, { "sinonimo": "hechizar" }, { "sinonimo": "importar" }, { "sinonimo": "concernir" }, { "sinonimo": "corresponder" }, { "sinonimo": "ataner" }, { "sinonimo": "pertenecer" }, { "sinonimo": "incumbir" }, { "sinonimo": "preocuparse" }, { "sinonimo": "inquietarse" }, { "sinonimo": "desvelarse" }, { "sinonimo": "enfrascarse" }, { "sinonimo": "afanarse" }]
+}, {
+    "Palabra": "informacion",
+    "Ayuda": {
+        "Nivel1": "tqzpevpgdb",
+        "Nivel2": "pqwstvlsp",
+        "Nivel3": "zwskzehl",
+        "Nivel4": "zwbhjys",
+        "Nivel5": "zbzzsj",
+        "Nivel6": "zjsjk",
+        "Nivel7": "wtxv",
+        "Nivel8": "uze"
+    },
+    "Detalle": "informacion",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Accion y resultado de informar o informarse." }, { "definicion": "Oficina donde se informa sobre algo." }, { "definicion": "Conjunto de datos sobre una materia determinada." }, { "definicion": "Investigacion juridica y legal de un hecho o delito." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "aviso" }, { "sinonimo": "reportaje" }, { "sinonimo": "testimonio" }, { "sinonimo": "comunicacion" }, { "sinonimo": "aclaracion" }, { "sinonimo": "advertencia" }, { "sinonimo": "asesoria" }, { "sinonimo": "averiguacion" }, { "sinonimo": "indagacion" }]
+}, {
+    "Palabra": "identificacion",
+    "Ayuda": {
+        "Nivel1": "lwkzkbsrkq",
+        "Nivel2": "hvvlkzxku",
+        "Nivel3": "xbpphuyh",
+        "Nivel4": "ubgxpuz",
+        "Nivel5": "pkqxgs",
+        "Nivel6": "vjmqb",
+        "Nivel7": "zzwj",
+        "Nivel8": "qmv"
+    },
+    "Detalle": "identificacion",
+    "PLetra": "i",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Reconocimiento de la identidad de alguien." }, { "definicion": "Consideracion de dos cosas distintas para que aparezcan como una misma." }, { "definicion": "Dar a conocer la identidad propia, especialmente con algun documento." }, { "definicion": "Documento de identidad." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "filiacion" }, { "sinonimo": "identidad" }, { "sinonimo": "compenetracion" }, { "sinonimo": "solidaridad" }, { "sinonimo": "reconocimiento" }, { "sinonimo": "afinidad" }, { "sinonimo": "inteligencia" }, { "sinonimo": "fusion" }, { "sinonimo": "unificacion" }, { "sinonimo": "concordancia" }, { "sinonimo": "armonizacion" }, { "sinonimo": "entendimiento" }]
+}, {
+    "Palabra": "incluso",
+    "Ayuda": {
+        "Nivel1": "btbvdvwhfb",
+        "Nivel2": "fkdxqarya",
+        "Nivel3": "qqbrprwg",
+        "Nivel4": "djhjddj",
+        "Nivel5": "vpfbgw",
+        "Nivel6": "fxgte",
+        "Nivel7": "hhfv",
+        "Nivel8": "mmd"
+    },
+    "Detalle": "incluso",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adv. m. Con inclusion de." }, { "definicion": "prep. y conj. Hasta, aun." }, { "definicion": "tr. Poner una cosa dentro de otra." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "inclusive" }]
+}, {
+    "Palabra": "isabella",
+    "Ayuda": {
+        "Nivel1": "jvpzogmnxt",
+        "Nivel2": "jycvrfjrh",
+        "Nivel3": "fzwguggk",
+        "Nivel4": "yrzurff",
+        "Nivel5": "tupkmj",
+        "Nivel6": "cgvhr",
+        "Nivel7": "fvzv",
+        "Nivel8": "hjk"
+    },
+    "Detalle": "isabella",
+    "PLetra": "i",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "inmigratorias",
+    "Ayuda": {
+        "Nivel1": "ffbbpcfdfp",
+        "Nivel2": "xupzwxqlj",
+        "Nivel3": "efupczvk",
+        "Nivel4": "qcudkch",
+        "Nivel5": "bdvyvx",
+        "Nivel6": "llcwb",
+        "Nivel7": "zlkq",
+        "Nivel8": "cuu"
+    },
+    "Detalle": "inmigratorias",
+    "PLetra": "i",
+    "ULetra": "s",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "impopulares",
+    "Ayuda": {
+        "Nivel1": "zbdkxyvqqv",
+        "Nivel2": "jkhjhtdjj",
+        "Nivel3": "ffdknyzk",
+        "Nivel4": "kqfggqy",
+        "Nivel5": "hkdxwk",
+        "Nivel6": "vcwky",
+        "Nivel7": "vczc",
+        "Nivel8": "hbc"
+    },
+    "Detalle": "impopulares",
+    "PLetra": "i",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. Que no es grato a la mayoria." }],
+    "antonimos": [{ "antonimo": "popular" }, { "antonimo": "querido" }, { "antonimo": "admirado" }],
+    "sinonimos": [{ "sinonimo": "antipatico" }, { "sinonimo": "odiado" }, { "sinonimo": "desprestigiado" }, { "sinonimo": "desagradable" }, { "sinonimo": "odioso" }, { "sinonimo": "malquisto" }, { "sinonimo": "molesto" }, { "sinonimo": "impolitico" }]
+}, {
+    "Palabra": "incorporado",
+    "Ayuda": {
+        "Nivel1": "lvhltvlzhj",
+        "Nivel2": "mqqeveyyw",
+        "Nivel3": "vxuxqvtm",
+        "Nivel4": "vesfuys",
+        "Nivel5": "szseyb",
+        "Nivel6": "uskzf",
+        "Nivel7": "mbky",
+        "Nivel8": "kyz"
+    },
+    "Detalle": "incorporado",
+    "PLetra": "i",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "tr. Agregar, unir dos o mas cosas para que formen un todo entre si." }, { "definicion": "Reclinar el cuerpo que estaba echado. Tambien prnl." }, { "definicion": "Destinar a un funcionario al puesto que debe desempenar. Tambien prnl." }, { "definicion": "prnl. Agregarse una o mas personas a otras para formar un cuerpo." }],
+    "antonimos": [{ "antonimo": "separar" }, { "antonimo": "disgregar" }],
+    "sinonimos": [{ "sinonimo": "integrar" }, { "sinonimo": "ingresar" }, { "sinonimo": "adherirse" }, { "sinonimo": "afiliarse" }, { "sinonimo": "admitir" }, { "sinonimo": "anexionar" }, { "sinonimo": "unir" }, { "sinonimo": "inscribir" }, { "sinonimo": "alistar" }]
+}]

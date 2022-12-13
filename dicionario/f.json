@@ -1,0 +1,955 @@
+[{
+    "Palabra": "familia",
+    "Ayuda": {
+        "Nivel1": "upboqhpxbu",
+        "Nivel2": "ogutrgcgt",
+        "Nivel3": "gjwguuxd",
+        "Nivel4": "sejbdtg",
+        "Nivel5": "hsojxe",
+        "Nivel6": "chdux",
+        "Nivel7": "eqjw",
+        "Nivel8": "qqq"
+    },
+    "Detalle": "familia",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Grupo de personas emparentadas entre si que viven juntas o en lugares diferentes, y especialmente el formado por el matrimonio y los hijos." }, { "definicion": "Descendencia, prole." }, { "definicion": "Grupo numeroso de personas o cosas con alguna condicion comun." }, { "definicion": "Grupo taxonomico constituido por varios generos naturales con caracteres comunes." }, { "definicion": "loc. adv. Con muy poca gente." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "parentela" }, { "sinonimo": "familiares" }, { "sinonimo": "descendientes" }, { "sinonimo": "ascendientes" }, { "sinonimo": "clan" }, { "sinonimo": "prole" }, { "sinonimo": "estirpe" }, { "sinonimo": "linaje" }, { "sinonimo": "casta" }, { "sinonimo": "cepa" }, { "sinonimo": "grupo" }, { "sinonimo": "tronco" }, { "sinonimo": "conjunto" }]
+}, {
+    "Palabra": "flor",
+    "Ayuda": {
+        "Nivel1": "iswhkmeaiu",
+        "Nivel2": "ppcsmcpaq",
+        "Nivel3": "spqmgiyu",
+        "Nivel4": "yhcguau",
+        "Nivel5": "yxivik",
+        "Nivel6": "vtyum",
+        "Nivel7": "thaw",
+        "Nivel8": "qvz"
+    },
+    "Detalle": "flor",
+    "PLetra": "f",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "f. En las plantas espermafitas, estructura donde estan los organos de reproduccion." }, { "definicion": "Lo mejor de una cosa." }, { "definicion": "Piropo, requiebro. Mas en pl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "capullo" }, { "sinonimo": "pimpollo" }, { "sinonimo": "brote" }, { "sinonimo": "yema" }, { "sinonimo": "nata" }, { "sinonimo": "crema" }, { "sinonimo": "selecion" }, { "sinonimo": "elite" }, { "sinonimo": "piropo" }, { "sinonimo": "requiebro" }, { "sinonimo": "galanteria" }, { "sinonimo": "elogio" }, { "sinonimo": "arrumaco" }]
+}, {
+    "Palabra": "fruta",
+    "Ayuda": {
+        "Nivel1": "ynivzjipxn",
+        "Nivel2": "kwilncvog",
+        "Nivel3": "wkkiidbk",
+        "Nivel4": "ickpooy",
+        "Nivel5": "eisqlx",
+        "Nivel6": "zspwb",
+        "Nivel7": "zxih",
+        "Nivel8": "qmi"
+    },
+    "Detalle": "fruta",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Fruto comestible de ciertas plantas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "fruto" }]
+}, {
+    "Palabra": "fecha",
+    "Ayuda": {
+        "Nivel1": "divtpoodku",
+        "Nivel2": "ldzovzqim",
+        "Nivel3": "kzmswgrg",
+        "Nivel4": "igxwwuj",
+        "Nivel5": "qnzvgk",
+        "Nivel6": "kvxyn",
+        "Nivel7": "yutk",
+        "Nivel8": "gdk"
+    },
+    "Detalle": "fecha",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Tiempo, momento en que se hace o sucede algo." }, { "definicion": "Dia." }, { "definicion": "Tiempo o momento actual." }, { "definicion": "tr. Poner fecha a un escrito o documento." }, { "definicion": "Determinar la fecha de un documento, suceso, etc." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "data" }, { "sinonimo": "momento" }, { "sinonimo": "plazo" }, { "sinonimo": "tiempo" }, { "sinonimo": "encabezamiento" }]
+}, {
+    "Palabra": "fin de semana",
+    "Ayuda": {
+        "Nivel1": "kkcwqtlgwx",
+        "Nivel2": "xqjywczwz",
+        "Nivel3": "zzyrulgv",
+        "Nivel4": "rxwwplk",
+        "Nivel5": "rvcowx",
+        "Nivel6": "tqjlr",
+        "Nivel7": "othy",
+        "Nivel8": "jvj"
+    },
+    "Detalle": "fin de semana",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Termino, remate, extremo o consumacion de una cosa." }, { "definicion": "Objeto, motivo, finalidad." }, { "definicion": "Final desagradable de una conversacion o de un asunto." }, { "definicion": "loc. Morir." }],
+    "antonimos": [{ "antonimo": "principio" }, { "antonimo": "comienzo" }, { "antonimo": "origen" }],
+    "sinonimos": [{ "sinonimo": "termino" }, { "sinonimo": "final" }, { "sinonimo": "terminacion" }, { "sinonimo": "remate" }, { "sinonimo": "consumacion" }, { "sinonimo": "conclusion" }, { "sinonimo": "desenlace" }, { "sinonimo": "intencion" }, { "sinonimo": "proposito" }, { "sinonimo": "finalidad" }, { "sinonimo": "objeto" }, { "sinonimo": "objetivo" }]
+}, {
+    "Palabra": "fuego",
+    "Ayuda": {
+        "Nivel1": "kjpyixmrdp",
+        "Nivel2": "vkpdvvtcq",
+        "Nivel3": "tcpslqdh",
+        "Nivel4": "ihycbjk",
+        "Nivel5": "zdmypx",
+        "Nivel6": "cpbmi",
+        "Nivel7": "rmyl",
+        "Nivel8": "bxk"
+    },
+    "Detalle": "fuego",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Calor y luz producidos por la combustion." }, { "definicion": "Materia en combustion." }, { "definicion": "Incendio." }, { "definicion": "Disparo de las armas de fuego." }, { "definicion": "Fogon o punto donde se cocina." }, { "definicion": "Hogar." }, { "definicion": "Ardor, pasion." }],
+    "antonimos": [{ "antonimo": "hielo" }, { "antonimo": "frialdad" }],
+    "sinonimos": [{ "sinonimo": "lumbre" }, { "sinonimo": "llama" }, { "sinonimo": "brasa" }, { "sinonimo": "hoguera" }, { "sinonimo": "fogata" }, { "sinonimo": "incendio" }, { "sinonimo": "falla" }, { "sinonimo": "combustion" }, { "sinonimo": "ardor" }, { "sinonimo": "entusiasmo" }, { "sinonimo": "pasion" }, { "sinonimo": "vehemencia" }, { "sinonimo": "vivacidad" }, { "sinonimo": "impetu" }]
+}, {
+    "Palabra": "fabrica",
+    "Ayuda": {
+        "Nivel1": "svwsjluwks",
+        "Nivel2": "totlyxles",
+        "Nivel3": "mshwmzog",
+        "Nivel4": "gzpxkpz",
+        "Nivel5": "jglhkn",
+        "Nivel6": "negpn",
+        "Nivel7": "ntsm",
+        "Nivel8": "elg"
+    },
+    "Detalle": "fabrica",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Establecimiento industrial donde se transforman los productos semielaborados o materias primas para la obtencion de objetos destinados al consumo." }, { "definicion": "Construccion o parte de ella hecha de piedra o ladrillo y argamasa." }, { "definicion": "tr. Producir objetos por medios mecanicos." }, { "definicion": "Construir, elaborar." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "factoria" }, { "sinonimo": "industria" }, { "sinonimo": "manufactura" }, { "sinonimo": "taller" }, { "sinonimo": "empresa" }, { "sinonimo": "explotacion" }, { "sinonimo": "construccion" }, { "sinonimo": "obra" }, { "sinonimo": "bloque" }, { "sinonimo": "edificacion" }, { "sinonimo": "edificio" }, { "sinonimo": "inmueble" }]
+}, {
+    "Palabra": "falda",
+    "Ayuda": {
+        "Nivel1": "qsipbpopkw",
+        "Nivel2": "rbjzsxxce",
+        "Nivel3": "qhgeinzi",
+        "Nivel4": "yztmgyi",
+        "Nivel5": "oqvphc",
+        "Nivel6": "oikcj",
+        "Nivel7": "nuyu",
+        "Nivel8": "ijw"
+    },
+    "Detalle": "falda",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Prenda de vestir suelta que cae desde la cintura hacia abajo." }, { "definicion": "Parte de la prenda de vestir que cae desde la cintura hacia abajo." }, { "definicion": "Cobertura con que se reviste una mesa camilla y que suele llegar hasta el suelo. Mas en pl." }, { "definicion": "Parte baja de los montes o sierras." }, { "definicion": "Parte de carne de bovino que cuelga de las costillas." }, { "definicion": "pl. Mujeres." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "saya" }, { "sinonimo": "minifalda" }, { "sinonimo": "refajo" }, { "sinonimo": "enaguas" }, { "sinonimo": "combinacion" }, { "sinonimo": "pollera" }, { "sinonimo": "halda" }, { "sinonimo": "ladera" }, { "sinonimo": "vertiente" }, { "sinonimo": "pendiente" }, { "sinonimo": "declive" }]
+}, {
+    "Palabra": "ferrocarril",
+    "Ayuda": {
+        "Nivel1": "yqjtsjympv",
+        "Nivel2": "nqqkuzvkz",
+        "Nivel3": "xhzjbyjg",
+        "Nivel4": "mwzbuzd",
+        "Nivel5": "jwxswn",
+        "Nivel6": "mbbjk",
+        "Nivel7": "dzhk",
+        "Nivel8": "smx"
+    },
+    "Detalle": "ferrocarril",
+    "PLetra": "f",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "m. Tren." }, { "definicion": "Camino con dos filas de barras de hierro paralelas sobre las cuales ruedan los trenes." }, { "definicion": "Conjunto formado por vias ferreas, trenes e instalaciones propias de este medio de transporte." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "tren" }, { "sinonimo": "convoy" }, { "sinonimo": "suburbano" }, { "sinonimo": "lineaferrea" }, { "sinonimo": "empresaferroviaria" }]
+}, {
+    "Palabra": "fuente",
+    "Ayuda": {
+        "Nivel1": "lkjjqdmdap",
+        "Nivel2": "lswosqbda",
+        "Nivel3": "qzhzjgwp",
+        "Nivel4": "ywdccdv",
+        "Nivel5": "zpvzlj",
+        "Nivel6": "iismx",
+        "Nivel7": "rkjg",
+        "Nivel8": "jsp"
+    },
+    "Detalle": "fuente",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Manantial de agua que brota de la tierra." }, { "definicion": "Construccion en los sitios publicos, como plazas, parques, etc., con canos y surtidores de agua, y que se destina a diferentes usos." }, { "definicion": "Plato grande para servir la comida." }, { "definicion": "Cantidad de comida que cabe en este plato." }, { "definicion": "Origen de algo, causa, principio." }, { "definicion": "Aquello de que fluye con abundancia un liquido." }, { "definicion": "Documento, obra o materiales que sirven de informacion o de inspiracion a un autor." }, { "definicion": "Tipo de letra." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "manantial" }, { "sinonimo": "fontana" }, { "sinonimo": "fontanal" }, { "sinonimo": "hontanar" }, { "sinonimo": "venero" }, { "sinonimo": "surtidor" }, { "sinonimo": "chorro" }, { "sinonimo": "grifo" }, { "sinonimo": "cano" }, { "sinonimo": "origen" }, { "sinonimo": "principio" }, { "sinonimo": "germen" }, { "sinonimo": "raiz" }, { "sinonimo": "motivo" }, { "sinonimo": "causa" }, { "sinonimo": "bandeja" }, { "sinonimo": "ensaladera" }, { "sinonimo": "plato" }]
+}, {
+    "Palabra": "frances",
+    "Ayuda": {
+        "Nivel1": "vjxxdxqpvw",
+        "Nivel2": "wuhkgjvlt",
+        "Nivel3": "zombmokx",
+        "Nivel4": "wglhudw",
+        "Nivel5": "kxxmhu",
+        "Nivel6": "mlhqo",
+        "Nivel7": "ldbd",
+        "Nivel8": "jwd"
+    },
+    "Detalle": "frances",
+    "PLetra": "f",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. y s. De Francia o relativo a este pais europeo." }, { "definicion": "m. Lengua francesa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "galo" }, { "sinonimo": "franco" }, { "sinonimo": "franchute" }, { "sinonimo": "gabacho" }]
+}, {
+    "Palabra": "formacion",
+    "Ayuda": {
+        "Nivel1": "sjpeehwews",
+        "Nivel2": "ltlvdjlxs",
+        "Nivel3": "xksxxyhy",
+        "Nivel4": "hblstkd",
+        "Nivel5": "jeggwk",
+        "Nivel6": "bgtxd",
+        "Nivel7": "vvju",
+        "Nivel8": "kwq"
+    },
+    "Detalle": "formacion",
+    "PLetra": "f",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Accion y resultado de formar o formarse." }, { "definicion": "Educacion, instruccion." }, { "definicion": "Conjunto de rocas o materiales geologicos que presentan caracteristicas semejantes." }, { "definicion": "Disposicion ordenada de tropas." }],
+    "antonimos": [{ "antonimo": "ignorancia" }, { "antonimo": "incultura" }],
+    "sinonimos": [{ "sinonimo": "creacion" }, { "sinonimo": "constitucion" }, { "sinonimo": "establecimiento" }, { "sinonimo": "institucion" }, { "sinonimo": "configuracion" }, { "sinonimo": "cultura" }, { "sinonimo": "estudios" }, { "sinonimo": "adiestramiento" }, { "sinonimo": "aprendizaje" }, { "sinonimo": "alineacion" }, { "sinonimo": "fila" }, { "sinonimo": "hilera" }, { "sinonimo": "columna" }, { "sinonimo": "desfile" }]
+}, {
+    "Palabra": "forma",
+    "Ayuda": {
+        "Nivel1": "xglplewpcn",
+        "Nivel2": "puxepybzs",
+        "Nivel3": "nvnbxqsz",
+        "Nivel4": "vqidikb",
+        "Nivel5": "ssylzl",
+        "Nivel6": "qkkly",
+        "Nivel7": "vlcc",
+        "Nivel8": "iyq"
+    },
+    "Detalle": "forma",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Figura exterior de un cuerpo." }, { "definicion": "Disposicion de las cosas." }, { "definicion": "Modo, manera de hacer una cosa." }, { "definicion": "Modo de expresar el contenido de un escrito, especialmente el literario, a diferencia de lo que constituye el fondo." }, { "definicion": "Hostia pequena." }, { "definicion": "Molde." }, { "definicion": "Condicion fisica." }, { "definicion": "Requisitos externos o aspectos de expresion en los actos juridicos." }, { "definicion": "Cuestiones procesales en contraposicion al fondo del pleito o causa." }, { "definicion": "pl. Configuracion del cuerpo humano, especialmente los pechos y las caderas de la mujer." }, { "definicion": "Modales." }, { "definicion": "tr. Dar forma a algo." }, { "definicion": "Constituir, crear. Tambien prnl." }, { "definicion": "Integrar." }, { "definicion": "Disponer las tropas de forma ordenada." }, { "definicion": "Desarrollar, adiestrar, educar. Tambien intr. y prnl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "configuracion" }, { "sinonimo": "apariencia" }, { "sinonimo": "perfil" }, { "sinonimo": "imagen" }, { "sinonimo": "aspecto" }, { "sinonimo": "formato" }, { "sinonimo": "diseno" }, { "sinonimo": "estructura" }, { "sinonimo": "hechura" }, { "sinonimo": "figura" }, { "sinonimo": "modo" }, { "sinonimo": "manera" }, { "sinonimo": "estilo" }, { "sinonimo": "tono" }, { "sinonimo": "proceder" }, { "sinonimo": "procedimiento" }, { "sinonimo": "modales" }]
+}, {
+    "Palabra": "figura",
+    "Ayuda": {
+        "Nivel1": "zvshjhmyby",
+        "Nivel2": "stlxdejkn",
+        "Nivel3": "mbxwtmhd",
+        "Nivel4": "cvcjqnk",
+        "Nivel5": "woojvq",
+        "Nivel6": "xnohd",
+        "Nivel7": "oohm",
+        "Nivel8": "doc"
+    },
+    "Detalle": "figura",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Forma exterior de un cuerpo." }, { "definicion": "Estatua o pintura que representa el cuerpo de un hombre o animal." }, { "definicion": "Serie de variaciones en la danza, el patinaje artistico, etc." }, { "definicion": "Persona de renombre o que destaca en alguna actividad." }, { "definicion": "Signo que representa una nota o un silencio." }, { "definicion": "Espacio cerrado por lineas o superficies." }, { "definicion": "Cualquiera de los tres naipes de cada palo que representan personas, y se llaman y" }, { "definicion": "Cosa que representa o significa otra." }, { "definicion": "tr. Disponer, delinear y formar la figura de una cosa." }, { "definicion": "Aparentar, suponer, fingir." }, { "definicion": "intr. Formar parte de algo, estar en un lugar o circunstancia." }, { "definicion": "Destacar." }, { "definicion": "prnl. Imaginarse o suponer uno algo que no conoce." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "silueta" }, { "sinonimo": "imagen" }, { "sinonimo": "estampa" }, { "sinonimo": "tipo" }, { "sinonimo": "forma" }, { "sinonimo": "efigie" }, { "sinonimo": "contorno" }, { "sinonimo": "complexion" }, { "sinonimo": "aspecto" }, { "sinonimo": "simbolo" }, { "sinonimo": "emblema" }, { "sinonimo": "distintivo" }, { "sinonimo": "ensena" }, { "sinonimo": "personalidad" }, { "sinonimo": "eminencia" }, { "sinonimo": "personaje" }, { "sinonimo": "notabilidad" }]
+}, {
+    "Palabra": "favor",
+    "Ayuda": {
+        "Nivel1": "tsmpjtumlb",
+        "Nivel2": "ksgkpeunp",
+        "Nivel3": "ycizldsm",
+        "Nivel4": "ugdhyep",
+        "Nivel5": "zdnqmx",
+        "Nivel6": "pxxtc",
+        "Nivel7": "jcum",
+        "Nivel8": "wsy"
+    },
+    "Detalle": "favor",
+    "PLetra": "f",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Ayuda, asistencia que se presta de forma gratuita." }, { "definicion": "Privilegio, concesion que se recibe de una autoridad." }, { "definicion": "Confianza, apoyo." }, { "definicion": "Gesto amable que las mujeres dedicaban a los hombres y, p. ext., consentimiento de la mujer a la relacion amorosa que le insinua el hombre. Mas en pl." }, { "definicion": "loc. prepos. Ayudado por algo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ayuda" }, { "sinonimo": "socorro" }, { "sinonimo": "amparo" }, { "sinonimo": "atencion" }, { "sinonimo": "patrocinio" }, { "sinonimo": "proteccion" }, { "sinonimo": "fomento" }, { "sinonimo": "auxilio" }, { "sinonimo": "donativo" }, { "sinonimo": "beneficio" }]
+}, {
+    "Palabra": "fondo",
+    "Ayuda": {
+        "Nivel1": "prbwuguysp",
+        "Nivel2": "wmtmakygp",
+        "Nivel3": "tqmmyakp",
+        "Nivel4": "xzyqscu",
+        "Nivel5": "aalwwr",
+        "Nivel6": "qulhu",
+        "Nivel7": "zgil",
+        "Nivel8": "uyq"
+    },
+    "Detalle": "fondo",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Parte inferior de una cosa." }, { "definicion": "Hablando del mar, de los rios o estanques, superficie solida sobre la cual esta el agua." }, { "definicion": "Profundidad." }, { "definicion": "Parte mas alejada de la entrada de una casa, edificio, etc." }, { "definicion": "Extremo de alguna cosa." }, { "definicion": "Atmosfera o ambiente que rodea a alguien o algo." }, { "definicion": "Superficie o espacio sobre el cual se pinta." }, { "definicion": "Condicion, indole de una persona." }, { "definicion": "Resistencia fisica." }, { "definicion": "Lo esencial de una cosa, en contraposicion a la forma." }, { "definicion": "Conjunto de colecciones de una biblioteca, museo, o de libros de una editorial. Mas en pl." }, { "definicion": "pl. Caudal, dinero." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "base" }, { "sinonimo": "asiento" }, { "sinonimo": "apoyo" }, { "sinonimo": "culo" }, { "sinonimo": "fundamento" }, { "sinonimo": "suelo" }, { "sinonimo": "raiz" }, { "sinonimo": "cimiento" }, { "sinonimo": "nucleo" }, { "sinonimo": "esencia" }, { "sinonimo": "interior" }, { "sinonimo": "fundamento" }, { "sinonimo": "meollo" }, { "sinonimo": "bienes" }, { "sinonimo": "capital" }, { "sinonimo": "efectivo" }, { "sinonimo": "dinero" }]
+}, {
+    "Palabra": "frente",
+    "Ayuda": {
+        "Nivel1": "wpudxvaaup",
+        "Nivel2": "zbuzykojl",
+        "Nivel3": "yxzdwuah",
+        "Nivel4": "aymyysz",
+        "Nivel5": "koqxvq",
+        "Nivel6": "bqpii",
+        "Nivel7": "oaqo",
+        "Nivel8": "pix"
+    },
+    "Detalle": "frente",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Parte superior de la cara, comprendida entre las sienes, y desde las cejas hasta la vuelta superior del craneo." }, { "definicion": "m. Parte delantera, fachada." }, { "definicion": "Extension o linea de territorio continuo en que combaten los ejercitos." }, { "definicion": "Contacto de una masa fria y otra calida." }, { "definicion": "adv. m. En contra." }, { "definicion": "loc. adv. Hacia delante." }, { "definicion": "loc. adv. Frontalmente." }, { "definicion": "loc. adv. En presencia de." }],
+    "antonimos": [{ "antonimo": "cogote" }, { "antonimo": "nuca" }, { "antonimo": "trasera" }, { "antonimo": "espalda" }, { "antonimo": "retaguardia" }],
+    "sinonimos": [{ "sinonimo": "cara" }, { "sinonimo": "faz" }, { "sinonimo": "rostro" }, { "sinonimo": "frontis" }, { "sinonimo": "anverso" }, { "sinonimo": "delantera" }, { "sinonimo": "fachada" }, { "sinonimo": "frontispicio" }, { "sinonimo": "vanguardia" }, { "sinonimo": "avanzada" }, { "sinonimo": "avanzadilla" }, { "sinonimo": "batalla" }]
+}, {
+    "Palabra": "formalidad",
+    "Ayuda": {
+        "Nivel1": "qpguchwpkv",
+        "Nivel2": "tktpeceyy",
+        "Nivel3": "kpwzjwwn",
+        "Nivel4": "gwhbqkt",
+        "Nivel5": "vnespv",
+        "Nivel6": "svhkb",
+        "Nivel7": "wpwj",
+        "Nivel8": "gtu"
+    },
+    "Detalle": "formalidad",
+    "PLetra": "f",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Exactitud en las acciones, responsabilidad." }, { "definicion": "Seriedad, buen comportamiento." }, { "definicion": "Requisito necesario para realizar algo. Mas en pl." }],
+    "antonimos": [{ "antonimo": "irresponsabilidad" }, { "antonimo": "informalidad" }, { "antonimo": "insensatez" }],
+    "sinonimos": [{ "sinonimo": "seriedad" }, { "sinonimo": "sensatez" }, { "sinonimo": "responsabilidad" }, { "sinonimo": "escrupulosidad" }, { "sinonimo": "rectitud" }, { "sinonimo": "requisito" }, { "sinonimo": "tramite" }, { "sinonimo": "exigencia" }, { "sinonimo": "requerimiento" }]
+}, {
+    "Palabra": "futuro",
+    "Ayuda": {
+        "Nivel1": "hywcazgmqe",
+        "Nivel2": "exipxkiqy",
+        "Nivel3": "xnxxmhve",
+        "Nivel4": "vbaadzs",
+        "Nivel5": "wvzisi",
+        "Nivel6": "qdpzi",
+        "Nivel7": "vvkc",
+        "Nivel8": "jxx"
+    },
+    "Detalle": "futuro",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que esta por venir." }, { "definicion": "m. Tiempo que esta por llegar." }, { "definicion": "Tiempo del verbo que expresa una accion que sucedera con posterioridad a la enunciacion." }, { "definicion": "m. y f. Novia o novio." }],
+    "antonimos": [{ "antonimo": "pasado" }, { "antonimo": "preterito" }],
+    "sinonimos": [{ "sinonimo": "venidero" }, { "sinonimo": "ulterior" }, { "sinonimo": "posterior" }, { "sinonimo": "pendiente" }, { "sinonimo": "manana" }, { "sinonimo": "porvenir" }, { "sinonimo": "prediccion" }, { "sinonimo": "posteridad" }, { "sinonimo": "posterioridad" }, { "sinonimo": "novio" }, { "sinonimo": "prometido" }]
+}, {
+    "Palabra": "funcion",
+    "Ayuda": {
+        "Nivel1": "ejtjxeyajq",
+        "Nivel2": "hhyarkmez",
+        "Nivel3": "bdywwjks",
+        "Nivel4": "wwmyvjl",
+        "Nivel5": "yjbtjp",
+        "Nivel6": "zhqqp",
+        "Nivel7": "rxwm",
+        "Nivel8": "weg"
+    },
+    "Detalle": "funcion",
+    "PLetra": "f",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Actividad propia de alguien o algo." }, { "definicion": "Actividad propia de un cargo, oficio, etc. Mas en pl." }, { "definicion": "Espectaculo publico." }, { "definicion": "Papel que un elemento fonico, morfologico, lexico o sintactico desempena en la estructura gramatical de la oracion." }, { "definicion": "Relacion entre dos magnitudes, de modo que a cada valor de una de ellas corresponde determinado valor de la otra: =" }, { "definicion": "loc. adv. En sustitucion del que tiene en propiedad el cargo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "espectaculo" }, { "sinonimo": "ceremonia" }, { "sinonimo": "fiesta" }, { "sinonimo": "gala" }, { "sinonimo": "diversion" }, { "sinonimo": "festividad" }, { "sinonimo": "cargo" }, { "sinonimo": "ocupacion" }, { "sinonimo": "puesto" }, { "sinonimo": "destino" }, { "sinonimo": "empleo" }, { "sinonimo": "cometido" }, { "sinonimo": "competencia" }]
+}, {
+    "Palabra": "fracaso",
+    "Ayuda": {
+        "Nivel1": "minmetthxu",
+        "Nivel2": "vpylqdljz",
+        "Nivel3": "jyibqghg",
+        "Nivel4": "ixnlkez",
+        "Nivel5": "kztbxd",
+        "Nivel6": "uybkw",
+        "Nivel7": "qbbh",
+        "Nivel8": "qqn"
+    },
+    "Detalle": "fracaso",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Falta de exito o resultado adverso." }, { "definicion": "intr. No tener exito." }, { "definicion": "Frustrarse, tener resultado adverso, no llegar a buen fin." }],
+    "antonimos": [{ "antonimo": "exito" }, { "antonimo": "triunfo" }],
+    "sinonimos": [{ "sinonimo": "reves" }, { "sinonimo": "decepcion" }, { "sinonimo": "caida" }, { "sinonimo": "fallo" }, { "sinonimo": "hundimiento" }, { "sinonimo": "frustracion" }, { "sinonimo": "descalabro" }]
+}, {
+    "Palabra": "fin",
+    "Ayuda": {
+        "Nivel1": "azvyhshspp",
+        "Nivel2": "ybowzjwqo",
+        "Nivel3": "yuvjeaje",
+        "Nivel4": "vzoxbhp",
+        "Nivel5": "bajuuc",
+        "Nivel6": "oexvy",
+        "Nivel7": "sbqr",
+        "Nivel8": "utk"
+    },
+    "Detalle": "fin",
+    "PLetra": "f",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Termino, remate, extremo o consumacion de una cosa." }, { "definicion": "Objeto, motivo, finalidad." }, { "definicion": "Final desagradable de una conversacion o de un asunto." }, { "definicion": "loc. Morir." }],
+    "antonimos": [{ "antonimo": "principio" }, { "antonimo": "comienzo" }, { "antonimo": "origen" }],
+    "sinonimos": [{ "sinonimo": "termino" }, { "sinonimo": "final" }, { "sinonimo": "terminacion" }, { "sinonimo": "remate" }, { "sinonimo": "consumacion" }, { "sinonimo": "conclusion" }, { "sinonimo": "desenlace" }, { "sinonimo": "intencion" }, { "sinonimo": "proposito" }, { "sinonimo": "finalidad" }, { "sinonimo": "objeto" }, { "sinonimo": "objetivo" }]
+}, {
+    "Palabra": "final",
+    "Ayuda": {
+        "Nivel1": "kgmbmukxzt",
+        "Nivel2": "obqkzorgk",
+        "Nivel3": "rpukcygh",
+        "Nivel4": "uxuryzy",
+        "Nivel5": "xxwgtv",
+        "Nivel6": "uzymu",
+        "Nivel7": "rtur",
+        "Nivel8": "wse"
+    },
+    "Detalle": "final",
+    "PLetra": "f",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Que remata o cierra." }, { "definicion": "[Proposicion] subordinada adverbial que expresa la finalidad del verbo principal." }, { "definicion": "m. Fin, termino." }, { "definicion": "f. Ultima y decisiva competicion en un campeonato o concurso." }],
+    "antonimos": [{ "antonimo": "comienzo" }, { "antonimo": "inicio" }],
+    "sinonimos": [{ "sinonimo": "fin" }, { "sinonimo": "termino" }, { "sinonimo": "conclusion" }, { "sinonimo": "remate" }, { "sinonimo": "desenlace" }, { "sinonimo": "colofon" }, { "sinonimo": "consumacion" }, { "sinonimo": "expiracion" }, { "sinonimo": "acabamiento" }, { "sinonimo": "terminacion" }]
+}, {
+    "Palabra": "fase",
+    "Ayuda": {
+        "Nivel1": "pnonvhhxnx",
+        "Nivel2": "mcztmxibj",
+        "Nivel3": "cqgbjurk",
+        "Nivel4": "ltmkvpr",
+        "Nivel5": "ppbopb",
+        "Nivel6": "lliku",
+        "Nivel7": "jrzo",
+        "Nivel8": "lki"
+    },
+    "Detalle": "fase",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Cada uno de los estados sucesivos de una cosa que cambia o se desarrolla." }, { "definicion": "Cada una de las formas que presentan la Luna y otros planetas segun los ilumina el Sol." }, { "definicion": "Cada una de las corrientes alternas de una corriente polifasica." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "periodo" }, { "sinonimo": "ciclo" }, { "sinonimo": "paso" }, { "sinonimo": "etapa" }, { "sinonimo": "situacion" }, { "sinonimo": "apariencia" }, { "sinonimo": "aspecto" }, { "sinonimo": "forma" }, { "sinonimo": "faceta" }, { "sinonimo": "cambio" }]
+}, {
+    "Palabra": "fuerza",
+    "Ayuda": {
+        "Nivel1": "bbkqmsdxit",
+        "Nivel2": "bpkoqtxwb",
+        "Nivel3": "glpijsni",
+        "Nivel4": "hoqywjj",
+        "Nivel5": "oowggy",
+        "Nivel6": "tolox",
+        "Nivel7": "nxqb",
+        "Nivel8": "bhk"
+    },
+    "Detalle": "fuerza",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Capacidad para mover una cosa que tenga peso o haga resistencia." }, { "definicion": "Toda causa capaz de modificar el estado de reposo o de movimiento de un cuerpo." }, { "definicion": "Vigor, robustez." }, { "definicion": "Vitalidad, intensidad." }, { "definicion": "Poder, autoridad." }, { "definicion": "Acto de obligar." }, { "definicion": "Violencia fisica o moral." }, { "definicion": "Corriente electrica." }, { "definicion": "Eficacia." }, { "definicion": "pl. Tropas." }, { "definicion": "tr. Hacer fuerza o violencia fisica para conseguir un fin." }, { "definicion": "Tomar u ocupar por la fuerza." }, { "definicion": "Abusar sexualmente de una persona." }, { "definicion": "Hacer que algo o alguien trabaje o funcione al maximo." }],
+    "antonimos": [{ "antonimo": "debilidad" }, { "antonimo": "blandura" }],
+    "sinonimos": [{ "sinonimo": "vigor" }, { "sinonimo": "energia" }, { "sinonimo": "fibra" }, { "sinonimo": "garra" }, { "sinonimo": "nervio" }, { "sinonimo": "brio" }, { "sinonimo": "resistencia" }, { "sinonimo": "potencia" }, { "sinonimo": "auge" }, { "sinonimo": "lozania" }, { "sinonimo": "frescura" }, { "sinonimo": "animo" }, { "sinonimo": "fortaleza" }, { "sinonimo": "solidez" }, { "sinonimo": "firmeza" }, { "sinonimo": "corpulencia" }, { "sinonimo": "esfuerzo" }, { "sinonimo": "impulso" }, { "sinonimo": "empuje" }, { "sinonimo": "forcejeo" }, { "sinonimo": "presion" }, { "sinonimo": "ejercito" }, { "sinonimo": "destacamento" }, { "sinonimo": "patrulla" }, { "sinonimo": "avanzada" }, { "sinonimo": "peloton" }, { "sinonimo": "fluido" }, { "sinonimo": "electricidad" }, { "sinonimo": "luz" }, { "sinonimo": "corriente" }]
+}, {
+    "Palabra": "falta",
+    "Ayuda": {
+        "Nivel1": "qvqojexrkd",
+        "Nivel2": "kobwkcveq",
+        "Nivel3": "yqugueuo",
+        "Nivel4": "xqwvrvg",
+        "Nivel5": "nmzbgi",
+        "Nivel6": "uzsqm",
+        "Nivel7": "kkeg",
+        "Nivel8": "csm"
+    },
+    "Detalle": "falta",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Carencia o escasez de algo." }, { "definicion": "Ausencia de una persona de algun sitio." }, { "definicion": "Nota o registro en que se hace constar esa ausencia." }, { "definicion": "Defecto." }, { "definicion": "Error." }, { "definicion": "Quebrantamiento de la obligacion." }, { "definicion": "Transgresion de las reglas de un juego o deporte." }, { "definicion": "Infraccion de la ley." }, { "definicion": "Supresion de la regla en la mujer, principalmente durante el embarazo." }, { "definicion": "adj. Que necesita o carece de algo." }, { "definicion": "intr. No existir una cosa, no haber, carecer de ella." }, { "definicion": "No estar alguien o algo donde deberia." }, { "definicion": "No acudir a una cita u obligacion." }, { "definicion": "Ausentarse o estar ausente." }, { "definicion": "Quedar tiempo para que algo ocurra o se realice." }, { "definicion": "No cumplir con algo que se expresa." }, { "definicion": "No tratar a alguien con la consideracion o respeto debidos." }, { "definicion": "loc. Sin duda, por supuesto." }],
+    "antonimos": [{ "antonimo": "abundancia" }, { "antonimo": "riqueza" }],
+    "sinonimos": [{ "sinonimo": "carencia" }, { "sinonimo": "privacion" }, { "sinonimo": "penuria" }, { "sinonimo": "escasez" }, { "sinonimo": "deficit" }, { "sinonimo": "insuficiencia" }, { "sinonimo": "pobreza" }, { "sinonimo": "estrechez" }, { "sinonimo": "tara" }, { "sinonimo": "anomalia" }, { "sinonimo": "defecto" }, { "sinonimo": "fallo" }, { "sinonimo": "desperfecto" }, { "sinonimo": "imperfeccion" }, { "sinonimo": "deficiencia" }, { "sinonimo": "incorreccion" }, { "sinonimo": "error" }, { "sinonimo": "pecado" }, { "sinonimo": "delito" }, { "sinonimo": "descuido" }, { "sinonimo": "desliz" }, { "sinonimo": "infraccion" }, { "sinonimo": "olvido" }]
+}, {
+    "Palabra": "frontal",
+    "Ayuda": {
+        "Nivel1": "dzzdyqqwec",
+        "Nivel2": "jbxebsbww",
+        "Nivel3": "eqqdvbuh",
+        "Nivel4": "xyekzwc",
+        "Nivel5": "jvdhib",
+        "Nivel6": "dkupv",
+        "Nivel7": "zisy",
+        "Nivel8": "jkj"
+    },
+    "Detalle": "frontal",
+    "PLetra": "f",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. De la frente o relativo a ella." }, { "definicion": "De la parte delantera de algo o relativo a ella." }],
+    "antonimos": [{ "antonimo": "posterior" }, { "antonimo": "trasero" }],
+    "sinonimos": [{ "sinonimo": "anterior" }, { "sinonimo": "delantero" }, { "sinonimo": "exterior" }, { "sinonimo": "primero" }]
+}, {
+    "Palabra": "falso",
+    "Ayuda": {
+        "Nivel1": "ygumdrthyt",
+        "Nivel2": "edbvduudy",
+        "Nivel3": "cwwkijwr",
+        "Nivel4": "bcnuxpd",
+        "Nivel5": "uhgxii",
+        "Nivel6": "dzxie",
+        "Nivel7": "ywbq",
+        "Nivel8": "kkn"
+    },
+    "Detalle": "falso",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Enganoso, fingido." }, { "definicion": "Contrario a la verdad." }, { "definicion": "Que no es real, autentico o verdadero." }],
+    "antonimos": [{ "antonimo": "autentico" }, { "antonimo": "real" }, { "antonimo": "sincero" }, { "antonimo": "leal" }],
+    "sinonimos": [{ "sinonimo": "adulterado" }, { "sinonimo": "fingido" }, { "sinonimo": "simulado" }, { "sinonimo": "ficticio" }, { "sinonimo": "inexacto" }, { "sinonimo": "incorrecto" }, { "sinonimo": "amanado" }, { "sinonimo": "fraudulento" }, { "sinonimo": "hipocrita" }, { "sinonimo": "fariseo" }, { "sinonimo": "mentiroso" }, { "sinonimo": "embustero" }, { "sinonimo": "impostor" }, { "sinonimo": "traidor" }, { "sinonimo": "desleal" }, { "sinonimo": "infiel" }]
+}, {
+    "Palabra": "facil",
+    "Ayuda": {
+        "Nivel1": "tydhrddhwx",
+        "Nivel2": "ktnrkttju",
+        "Nivel3": "enjvgtkg",
+        "Nivel4": "ssndweq",
+        "Nivel5": "onmzvw",
+        "Nivel6": "snwxm",
+        "Nivel7": "yqjy",
+        "Nivel8": "rtt"
+    },
+    "Detalle": "facil",
+    "PLetra": "f",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Que cuesta poco trabajo." }, { "definicion": "Que puede suceder con mucha probabilidad." }, { "definicion": "Docil." }, { "definicion": "[Persona] que enseguida se deja seducir, sin oponer resistencia." }, { "definicion": "adv. m. Con facilidad, sin esfuerzo." }],
+    "antonimos": [{ "antonimo": "dificil" }, { "antonimo": "complicado" }, { "antonimo": "complejo" }],
+    "sinonimos": [{ "sinonimo": "sencillo" }, { "sinonimo": "elemental" }, { "sinonimo": "tirado" }, { "sinonimo": "claro" }, { "sinonimo": "corriente" }, { "sinonimo": "factible" }, { "sinonimo": "evidente" }, { "sinonimo": "obvio" }, { "sinonimo": "simple" }, { "sinonimo": "asequible" }, { "sinonimo": "comprensible" }, { "sinonimo": "comodo" }, { "sinonimo": "confortable" }, { "sinonimo": "tranquilo" }]
+}, {
+    "Palabra": "fuerte",
+    "Ayuda": {
+        "Nivel1": "pwcgypwqvk",
+        "Nivel2": "znmmcwovz",
+        "Nivel3": "kyvzmkjq",
+        "Nivel4": "mjovavz",
+        "Nivel5": "yxjvkc",
+        "Nivel6": "ypigi",
+        "Nivel7": "mvnc",
+        "Nivel8": "wsk"
+    },
+    "Detalle": "fuerte",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Que tiene fuerza y resistencia." }, { "definicion": "Robusto, corpulento." }, { "definicion": "Duro." }, { "definicion": "[Terreno] aspero." }, { "definicion": "Intenso." }, { "definicion": "Terrible, grave, excesivo." }, { "definicion": "Que tiene fuerza para persuadir, convincente." }, { "definicion": "[Persona] dificil de dominar, o de mal caracter." }, { "definicion": "Experto en una ciencia o arte." }, { "definicion": "Que sorprende o admira." }, { "definicion": "[Forma] gramatical que tiene el acento en la raiz." }, { "definicion": "m. Recinto fortificado." }, { "definicion": "Aquello en lo que uno sobresale." }, { "definicion": "adv. m. Con fuerza, con intensidad." }, { "definicion": "adv. c. Mucho, en abundancia: ♦ sup. irreg." }],
+    "antonimos": [{ "antonimo": "debil" }, { "antonimo": "flojo" }, { "antonimo": "pusilanime" }, { "antonimo": "apocado" }, { "antonimo": "quebradizo" }, { "antonimo": "fragil" }],
+    "sinonimos": [{ "sinonimo": "fornido" }, { "sinonimo": "robusto" }, { "sinonimo": "forzudo" }, { "sinonimo": "recio" }, { "sinonimo": "musculoso" }, { "sinonimo": "nervudo" }, { "sinonimo": "corpulento" }, { "sinonimo": "herculeo" }, { "sinonimo": "vigoroso" }, { "sinonimo": "animoso" }, { "sinonimo": "valiente" }, { "sinonimo": "energico" }, { "sinonimo": "bizarro" }, { "sinonimo": "impetuoso" }, { "sinonimo": "tenaz" }, { "sinonimo": "sereno" }, { "sinonimo": "entero" }, { "sinonimo": "compacto" }, { "sinonimo": "firme" }, { "sinonimo": "solido" }, { "sinonimo": "resistente" }, { "sinonimo": "duro" }, { "sinonimo": "granitico" }, { "sinonimo": "berroqueno" }, { "sinonimo": "ferreo" }]
+}, {
+    "Palabra": "frio",
+    "Ayuda": {
+        "Nivel1": "bwknjgvakc",
+        "Nivel2": "sdtakwhlp",
+        "Nivel3": "aylglxlc",
+        "Nivel4": "sykglmj",
+        "Nivel5": "uadvbg",
+        "Nivel6": "kwbdj",
+        "Nivel7": "dtng",
+        "Nivel8": "lak"
+    },
+    "Detalle": "frio",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que tiene una temperatura muy inferior a la normal." }, { "definicion": "Falto de afecto, de pasion o sensibilidad, indiferente." }, { "definicion": "Tranquilo, que no pierde el dominio de los nervios." }, { "definicion": "Sin gracia, sin interes." }, { "definicion": "Poco acogedor." }, { "definicion": "m. Baja temperatura." }, { "definicion": "Sensacion que se experimenta por la perdida de calor." }, { "definicion": "tr. Cocinar un alimento en aceite o grasa hirviendo: Tambien prnl." }, { "definicion": "Molestar, importunar." }],
+    "antonimos": [{ "antonimo": "calor" }, { "antonimo": "bochorno" }, { "antonimo": "calido" }, { "antonimo": "tropical" }, { "antonimo": "entusiasta" }, { "antonimo": "ardiente" }, { "antonimo": "ferviente" }],
+    "sinonimos": [{ "sinonimo": "frescura" }, { "sinonimo": "bajatemperatura" }, { "sinonimo": "frialdad" }, { "sinonimo": "frigidez" }, { "sinonimo": "fresco" }, { "sinonimo": "gelido" }, { "sinonimo": "helado" }, { "sinonimo": "congelado" }, { "sinonimo": "frigido" }, { "sinonimo": "algido" }, { "sinonimo": "glacial" }, { "sinonimo": "impasible" }, { "sinonimo": "insensible" }, { "sinonimo": "apatico" }, { "sinonimo": "indiferente" }, { "sinonimo": "flematico" }, { "sinonimo": "abulico" }, { "sinonimo": "distante" }, { "sinonimo": "seco" }, { "sinonimo": "insulso" }]
+}, {
+    "Palabra": "firme",
+    "Ayuda": {
+        "Nivel1": "vbyqtztbxu",
+        "Nivel2": "syqataukt",
+        "Nivel3": "vvspaqua",
+        "Nivel4": "pqpkhjw",
+        "Nivel5": "okbyhy",
+        "Nivel6": "xccou",
+        "Nivel7": "uxqz",
+        "Nivel8": "cuc"
+    },
+    "Detalle": "firme",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Estable, bien sujeto." }, { "definicion": "Que no cambia, constante." }, { "definicion": "Definitivo." }, { "definicion": "m. Capa solida de terreno sobre la que se pueden poner los cimientos de una construccion." }, { "definicion": "Pavimento de una carretera." }, { "definicion": "adv. m. Con firmeza." }, { "definicion": "tr. Poner la firma en un escrito. Tambien intr." }],
+    "antonimos": [{ "antonimo": "fragil" }, { "antonimo": "inestable" }, { "antonimo": "inconsistente" }, { "antonimo": "variable" }, { "antonimo": "voluble" }, { "antonimo": "vacilante" }],
+    "sinonimos": [{ "sinonimo": "seguro" }, { "sinonimo": "estable" }, { "sinonimo": "solido" }, { "sinonimo": "fijo" }, { "sinonimo": "fuerte" }, { "sinonimo": "duro" }, { "sinonimo": "consistente" }, { "sinonimo": "resistente" }, { "sinonimo": "inmutable" }, { "sinonimo": "inalterable" }, { "sinonimo": "inamovible" }, { "sinonimo": "imperturbable" }, { "sinonimo": "constante" }, { "sinonimo": "impavido" }]
+}, {
+    "Palabra": "flexible",
+    "Ayuda": {
+        "Nivel1": "ajvvmaoktq",
+        "Nivel2": "jtozdgodn",
+        "Nivel3": "gwwvsnjy",
+        "Nivel4": "suoouoo",
+        "Nivel5": "pqqjhp",
+        "Nivel6": "ajntg",
+        "Nivel7": "vzqk",
+        "Nivel8": "kww"
+    },
+    "Detalle": "flexible",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Que puede doblarse facilmente sin partirse." }, { "definicion": "Que se acomoda con facilidad a distintas situaciones o a las propuestas de otros." }, { "definicion": "Que no es rigido." }, { "definicion": "m. Cable formado de hilos finos de cobre recubiertos de una capa aisladora." }],
+    "antonimos": [{ "antonimo": "duro" }, { "antonimo": "tieso" }, { "antonimo": "intolerante" }, { "antonimo": "severo" }, { "antonimo": "inflexible" }],
+    "sinonimos": [{ "sinonimo": "ductil" }, { "sinonimo": "elastico" }, { "sinonimo": "maleable" }, { "sinonimo": "blando" }, { "sinonimo": "cimbreante" }, { "sinonimo": "tolerante" }, { "sinonimo": "docil" }, { "sinonimo": "sumiso" }, { "sinonimo": "acomodaticio" }, { "sinonimo": "obediente" }, { "sinonimo": "transigente" }, { "sinonimo": "comprensivo" }]
+}, {
+    "Palabra": "frio",
+    "Ayuda": {
+        "Nivel1": "uexzzhpjbq",
+        "Nivel2": "zjnbjhbvl",
+        "Nivel3": "pykljhqd",
+        "Nivel4": "dyheckm",
+        "Nivel5": "nywtks",
+        "Nivel6": "uxlhq",
+        "Nivel7": "wxzw",
+        "Nivel8": "xga"
+    },
+    "Detalle": "frio",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que tiene una temperatura muy inferior a la normal." }, { "definicion": "Falto de afecto, de pasion o sensibilidad, indiferente." }, { "definicion": "Tranquilo, que no pierde el dominio de los nervios." }, { "definicion": "Sin gracia, sin interes." }, { "definicion": "Poco acogedor." }, { "definicion": "m. Baja temperatura." }, { "definicion": "Sensacion que se experimenta por la perdida de calor." }, { "definicion": "tr. Cocinar un alimento en aceite o grasa hirviendo: Tambien prnl." }, { "definicion": "Molestar, importunar." }],
+    "antonimos": [{ "antonimo": "calor" }, { "antonimo": "bochorno" }, { "antonimo": "calido" }, { "antonimo": "tropical" }, { "antonimo": "entusiasta" }, { "antonimo": "ardiente" }, { "antonimo": "ferviente" }],
+    "sinonimos": [{ "sinonimo": "frescura" }, { "sinonimo": "bajatemperatura" }, { "sinonimo": "frialdad" }, { "sinonimo": "frigidez" }, { "sinonimo": "fresco" }, { "sinonimo": "gelido" }, { "sinonimo": "helado" }, { "sinonimo": "congelado" }, { "sinonimo": "frigido" }, { "sinonimo": "algido" }, { "sinonimo": "glacial" }, { "sinonimo": "impasible" }, { "sinonimo": "insensible" }, { "sinonimo": "apatico" }, { "sinonimo": "indiferente" }, { "sinonimo": "flematico" }, { "sinonimo": "abulico" }, { "sinonimo": "distante" }, { "sinonimo": "seco" }, { "sinonimo": "insulso" }]
+}, {
+    "Palabra": "fresco",
+    "Ayuda": {
+        "Nivel1": "wvaputylww",
+        "Nivel2": "dwuywakid",
+        "Nivel3": "qunahdpw",
+        "Nivel4": "uuvwlgg",
+        "Nivel5": "vmlhjw",
+        "Nivel6": "juidq",
+        "Nivel7": "wzxb",
+        "Nivel8": "ujh"
+    },
+    "Detalle": "fresco",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "Reciente, acabado de hacer, de coger, de suceder, etc." }, { "definicion": "Descansado, que no da muestras de fatiga." }, { "definicion": "Sano, que no esta estropeado." }, { "definicion": "Desvergonzado. Tambien s." }, { "definicion": "Que no contiene artificios; natural." }, { "definicion": "[Pintura] que no se ha secado." }, { "definicion": "[Tela] ligera que no produce calor." }, { "definicion": "m. Frio moderado." }, { "definicion": "Frescura." }, { "definicion": "Pintura que se hace sobre una superficie, generalmente paredes o techos, con colores disueltos en agua de cal y extendidos sobre una capa de estuco fresco." }],
+    "antonimos": [{ "antonimo": "templado" }, { "antonimo": "caluroso" }, { "antonimo": "pasado" }, { "antonimo": "obsoleto" }, { "antonimo": "ajado" }, { "antonimo": "comedido" }, { "antonimo": "prudente" }],
+    "sinonimos": [{ "sinonimo": "frio" }, { "sinonimo": "frescor" }, { "sinonimo": "biruji" }, { "sinonimo": "relente" }, { "sinonimo": "gris" }, { "sinonimo": "helor" }, { "sinonimo": "cencio" }, { "sinonimo": "reciente" }, { "sinonimo": "flamante" }, { "sinonimo": "lozano" }, { "sinonimo": "rozagante" }, { "sinonimo": "nuevo" }, { "sinonimo": "actual" }, { "sinonimo": "descarado" }, { "sinonimo": "descocado" }, { "sinonimo": "desvergonzado" }, { "sinonimo": "insolente" }, { "sinonimo": "frescales" }, { "sinonimo": "cara" }]
+}, {
+    "Palabra": "feliz",
+    "Ayuda": {
+        "Nivel1": "vuvqoawpru",
+        "Nivel2": "jjjkkchqq",
+        "Nivel3": "axsjyboc",
+        "Nivel4": "xhvtqcb",
+        "Nivel5": "bycaqn",
+        "Nivel6": "pgwgr",
+        "Nivel7": "cnnd",
+        "Nivel8": "avo"
+    },
+    "Detalle": "feliz",
+    "PLetra": "f",
+    "ULetra": "z",
+    "definiciones": [{ "definicion": "adj. Que disfruta de felicidad o la ocasiona." }, { "definicion": "Oportuno, acertado." }, { "definicion": "Que sucede sin contratiempos." }],
+    "antonimos": [{ "antonimo": "triste" }, { "antonimo": "desgraciado" }, { "antonimo": "infeliz" }],
+    "sinonimos": [{ "sinonimo": "dichoso" }, { "sinonimo": "contento" }, { "sinonimo": "satisfecho" }, { "sinonimo": "alegre" }, { "sinonimo": "boyante" }, { "sinonimo": "prospero" }, { "sinonimo": "afortunado" }, { "sinonimo": "ufano" }, { "sinonimo": "radiante" }, { "sinonimo": "bienaventurado" }]
+}, {
+    "Palabra": "faltar",
+    "Ayuda": {
+        "Nivel1": "ypymygkvjm",
+        "Nivel2": "zsjnxxjhs",
+        "Nivel3": "nihuqqhu",
+        "Nivel4": "pbwhuve",
+        "Nivel5": "spcgcz",
+        "Nivel6": "wispo",
+        "Nivel7": "nkws",
+        "Nivel8": "pwu"
+    },
+    "Detalle": "faltar",
+    "PLetra": "f",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "intr. No existir una cosa, no haber, carecer de ella." }, { "definicion": "No estar alguien o algo donde deberia." }, { "definicion": "No acudir a una cita u obligacion." }, { "definicion": "Ausentarse o estar ausente." }, { "definicion": "Quedar tiempo para que algo ocurra o se realice." }, { "definicion": "No cumplir con algo que se expresa." }, { "definicion": "No tratar a alguien con la consideracion o respeto debidos." }, { "definicion": "loc. Sin duda, por supuesto." }],
+    "antonimos": [{ "antonimo": "abundar" }, { "antonimo": "sobrar" }, { "antonimo": "acatar" }, { "antonimo": "cumplir" }, { "antonimo": "asistir" }, { "antonimo": "concurrir" }],
+    "sinonimos": [{ "sinonimo": "escasear" }, { "sinonimo": "carecer" }, { "sinonimo": "necesitar" }, { "sinonimo": "incumplir" }, { "sinonimo": "infringir" }, { "sinonimo": "quebrantar" }, { "sinonimo": "errar" }, { "sinonimo": "pecar" }, { "sinonimo": "omitir" }, { "sinonimo": "fallar" }, { "sinonimo": "noasistir" }, { "sinonimo": "eludir" }, { "sinonimo": "desaparecer" }, { "sinonimo": "abstenerse" }, { "sinonimo": "evitar" }, { "sinonimo": "ofender" }, { "sinonimo": "insultar" }, { "sinonimo": "agraviar" }]
+}, {
+    "Palabra": "fabricar",
+    "Ayuda": {
+        "Nivel1": "wkyhtqwouk",
+        "Nivel2": "zlyhlmnwg",
+        "Nivel3": "ydjqkpkw",
+        "Nivel4": "novtgzp",
+        "Nivel5": "tkgvnj",
+        "Nivel6": "jtguu",
+        "Nivel7": "opxy",
+        "Nivel8": "lxl"
+    },
+    "Detalle": "fabricar",
+    "PLetra": "f",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Producir objetos por medios mecanicos." }, { "definicion": "Construir, elaborar." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "manufacturar" }, { "sinonimo": "confeccionar" }, { "sinonimo": "elaborar" }, { "sinonimo": "producir" }, { "sinonimo": "industrializar" }, { "sinonimo": "transformar" }, { "sinonimo": "crear" }, { "sinonimo": "forjar" }, { "sinonimo": "realizar" }]
+}, {
+    "Palabra": "finalmente",
+    "Ayuda": {
+        "Nivel1": "kyhwhcjddr",
+        "Nivel2": "wvvjdqouc",
+        "Nivel3": "wojyrrvx",
+        "Nivel4": "dozkrhh",
+        "Nivel5": "khsjzp",
+        "Nivel6": "cwzsb",
+        "Nivel7": "xpob",
+        "Nivel8": "crj"
+    },
+    "Detalle": "finalmente",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "facilmente",
+    "Ayuda": {
+        "Nivel1": "goqkyyzgyb",
+        "Nivel2": "wjdysrrdz",
+        "Nivel3": "bujwwuqx",
+        "Nivel4": "rhvqupj",
+        "Nivel5": "brgrsz",
+        "Nivel6": "hwkyk",
+        "Nivel7": "wswx",
+        "Nivel8": "xqj"
+    },
+    "Detalle": "facilmente",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "sencillamente" }, { "sinonimo": "buenamente" }, { "sinonimo": "comodamente" }, { "sinonimo": "sinesfuerzo" }]
+}, {
+    "Palabra": "fuera",
+    "Ayuda": {
+        "Nivel1": "lsyjpokkon",
+        "Nivel2": "occgptsql",
+        "Nivel3": "qipgcjoc",
+        "Nivel4": "bovsvpx",
+        "Nivel5": "bdtghm",
+        "Nivel6": "jbjlc",
+        "Nivel7": "lmmy",
+        "Nivel8": "xzg"
+    },
+    "Detalle": "fuera",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adv. l. En o hacia la parte exterior." }, { "definicion": "adv. t. Antes o despues de tiempo." }, { "definicion": "loc. prepos. Seguida de la conj. y precediendo a verbos, significa 'ademas de, aparte de'." }, { "definicion": "m. Esencia y naturaleza." }, { "definicion": "Vida, existencia." }, { "definicion": "Cualquier cosa creada, especialmente si esta dotada de vida." }, { "definicion": "El ser humano. ♦ Se construye generalmente acompanado de adjetivos calificativos." }, { "definicion": "v. cop. Tener alguien o algo una determinada cualidad." }, { "definicion": "Tener alguien una determinada profesion, oficio o cargo." }, { "definicion": "Pertenecer, formar parte. ♦ Se construye con la prep." }, { "definicion": "Tener origen, principio o nacionalidad." }, { "definicion": "Estar constituido, compuesto o formado de cierta materia." }, { "definicion": "Constituir el resultado de una operacion matematica." }, { "definicion": "Consistir, ser la causa de lo que se expresa." }, { "definicion": "v. aux. Sirve para formar la conjugacion de la voz pasiva." }, { "definicion": "intr. Haber o existir." }, { "definicion": "Servir, ser adecuado o estar destinado para la persona o cosa que se expresa. ♦ Se construye con la prep." }, { "definicion": "Valer, costar." }, { "definicion": "Corresponder, tocar. ♦ Se construye con complementos adjetivos en pl. o de significado general o colectivo." }, { "definicion": "intr. impers. Acontecer, ocurrir, tener lugar." }, { "definicion": "Introduce expresiones de tiempo." }, { "definicion": "intr. Moverse de un lugar hacia otro. Tambien prnl." }, { "definicion": "Dirigirse hacia, llevar a, conducir." }, { "definicion": "Asistir, concurrir." }, { "definicion": "Funcionar o marchar." }, { "definicion": "Con los gerundios de algunos verbos, denota la accion de ellos y da a entender la actual ejecucion de lo que dichos verbos significan: o que la accion empieza a verificarse." }, { "definicion": "Acomodarse o no una cosa con otra." }, { "definicion": "Extenderse, ocupar." }, { "definicion": "Obrar, proceder." }, { "definicion": "Estar, ser." }, { "definicion": "prnl. Marcharse." }, { "definicion": "Morirse o estarse muriendo." }, { "definicion": "Desleirse, desaparecer." }, { "definicion": "Salirse un liquido o gas del recipiente que lo contiene. Tambien se aplica a ese mismo recipiente." }, { "definicion": "Deslizarse, perder el equilibrio." }, { "definicion": "Gastarse, consumirse o perderse algo." }, { "definicion": "Escaparse." }, { "definicion": "Repercutir." }],
+    "antonimos": [{ "antonimo": "dentro" }],
+    "sinonimos": [{ "sinonimo": "afuera" }, { "sinonimo": "exteriormente" }, { "sinonimo": "externamente" }]
+}, {
+    "Palabra": "figuran",
+    "Ayuda": {
+        "Nivel1": "zskhmcqhoe",
+        "Nivel2": "tctqvkzvp",
+        "Nivel3": "kyeothjs",
+        "Nivel4": "ehbbphj",
+        "Nivel5": "dzecxm",
+        "Nivel6": "sktsd",
+        "Nivel7": "qvzh",
+        "Nivel8": "opp"
+    },
+    "Detalle": "figuran",
+    "PLetra": "f",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "tr. Disponer, delinear y formar la figura de una cosa." }, { "definicion": "Aparentar, suponer, fingir." }, { "definicion": "intr. Formar parte de algo, estar en un lugar o circunstancia." }, { "definicion": "Destacar." }, { "definicion": "prnl. Imaginarse o suponer uno algo que no conoce." }],
+    "antonimos": [{ "antonimo": "ausentarse" }],
+    "sinonimos": [{ "sinonimo": "representar" }, { "sinonimo": "encarnar" }, { "sinonimo": "simbolizar" }, { "sinonimo": "configurar" }, { "sinonimo": "aparentar" }, { "sinonimo": "fingir" }, { "sinonimo": "simular" }, { "sinonimo": "imitar" }, { "sinonimo": "hallarse" }, { "sinonimo": "estar" }, { "sinonimo": "encontrarse" }, { "sinonimo": "contarse" }, { "sinonimo": "asistir" }, { "sinonimo": "comparecer" }, { "sinonimo": "imaginarse" }, { "sinonimo": "suponerse" }, { "sinonimo": "pensar" }, { "sinonimo": "creer" }, { "sinonimo": "sospechar" }, { "sinonimo": "olerse" }]
+}, {
+    "Palabra": "falla",
+    "Ayuda": {
+        "Nivel1": "xuudocnpdy",
+        "Nivel2": "exzuqvymp",
+        "Nivel3": "uvowdhus",
+        "Nivel4": "bnujroo",
+        "Nivel5": "uqvbzz",
+        "Nivel6": "xicgc",
+        "Nivel7": "kzhb",
+        "Nivel8": "uie"
+    },
+    "Detalle": "falla",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Quiebra que los movimientos geologicos han producido en un terreno." }, { "definicion": "Defecto, falta." }, { "definicion": "f. Conjunto de figuras de madera y carton que caricaturizan e ironizan sobre personajes o hechos de actualidad y que se queman publicamente en Valencia la noche del 19 de marzo; fiesta de san Jose." }, { "definicion": "pl. Periodo durante el cual se celebran estos festejos." }, { "definicion": "tr. Pronunciar sentencia un jurado o tribunal." }, { "definicion": "Decidir un jurado la adjudicacion de los premios de un concurso." }, { "definicion": "intr. Frustrarse, faltar o salir mal algo. Tambien tr." }, { "definicion": "Perder una cosa su resistencia." }, { "definicion": "En algunos juegos de naipes, poner un triunfo por no tener el palo que se juega." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "falta" }, { "sinonimo": "defecto" }, { "sinonimo": "tara" }, { "sinonimo": "desperfecto" }, { "sinonimo": "maca" }, { "sinonimo": "deficiencia" }, { "sinonimo": "grieta" }, { "sinonimo": "abertura" }, { "sinonimo": "hendidura" }, { "sinonimo": "raja" }, { "sinonimo": "corte" }, { "sinonimo": "hoguera" }, { "sinonimo": "fogata" }, { "sinonimo": "fuego" }, { "sinonimo": "pira" }]
+}, {
+    "Palabra": "fuerte",
+    "Ayuda": {
+        "Nivel1": "zahzmvgnlv",
+        "Nivel2": "bbgdcdbkj",
+        "Nivel3": "bzyjmljj",
+        "Nivel4": "vzzqpad",
+        "Nivel5": "cqimzo",
+        "Nivel6": "gwxkl",
+        "Nivel7": "onxc",
+        "Nivel8": "nsj"
+    },
+    "Detalle": "fuerte",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Que tiene fuerza y resistencia." }, { "definicion": "Robusto, corpulento." }, { "definicion": "Duro." }, { "definicion": "[Terreno] aspero." }, { "definicion": "Intenso." }, { "definicion": "Terrible, grave, excesivo." }, { "definicion": "Que tiene fuerza para persuadir, convincente." }, { "definicion": "[Persona] dificil de dominar, o de mal caracter." }, { "definicion": "Experto en una ciencia o arte." }, { "definicion": "Que sorprende o admira." }, { "definicion": "[Forma] gramatical que tiene el acento en la raiz." }, { "definicion": "m. Recinto fortificado." }, { "definicion": "Aquello en lo que uno sobresale." }, { "definicion": "adv. m. Con fuerza, con intensidad." }, { "definicion": "adv. c. Mucho, en abundancia: ♦ sup. irreg." }],
+    "antonimos": [{ "antonimo": "debil" }, { "antonimo": "flojo" }, { "antonimo": "pusilanime" }, { "antonimo": "apocado" }, { "antonimo": "quebradizo" }, { "antonimo": "fragil" }],
+    "sinonimos": [{ "sinonimo": "fornido" }, { "sinonimo": "robusto" }, { "sinonimo": "forzudo" }, { "sinonimo": "recio" }, { "sinonimo": "musculoso" }, { "sinonimo": "nervudo" }, { "sinonimo": "corpulento" }, { "sinonimo": "herculeo" }, { "sinonimo": "vigoroso" }, { "sinonimo": "animoso" }, { "sinonimo": "valiente" }, { "sinonimo": "energico" }, { "sinonimo": "bizarro" }, { "sinonimo": "impetuoso" }, { "sinonimo": "tenaz" }, { "sinonimo": "sereno" }, { "sinonimo": "entero" }, { "sinonimo": "compacto" }, { "sinonimo": "firme" }, { "sinonimo": "solido" }, { "sinonimo": "resistente" }, { "sinonimo": "duro" }, { "sinonimo": "granitico" }, { "sinonimo": "berroqueno" }, { "sinonimo": "ferreo" }]
+}, {
+    "Palabra": "folklore",
+    "Ayuda": {
+        "Nivel1": "vsvwbbybbw",
+        "Nivel2": "pixdqxatt",
+        "Nivel3": "dsgagqps",
+        "Nivel4": "uzuiiud",
+        "Nivel5": "xduuxp",
+        "Nivel6": "wbidm",
+        "Nivel7": "iwab",
+        "Nivel8": "ayi"
+    },
+    "Detalle": "folklore",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "folclore" }]
+}, {
+    "Palabra": "final",
+    "Ayuda": {
+        "Nivel1": "qgqzbvdwog",
+        "Nivel2": "hphkmrmsj",
+        "Nivel3": "vrpwgqyz",
+        "Nivel4": "sxmkdyd",
+        "Nivel5": "tjgdqd",
+        "Nivel6": "ohspt",
+        "Nivel7": "xzeb",
+        "Nivel8": "cmh"
+    },
+    "Detalle": "final",
+    "PLetra": "f",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Que remata o cierra." }, { "definicion": "[Proposicion] subordinada adverbial que expresa la finalidad del verbo principal." }, { "definicion": "m. Fin, termino." }, { "definicion": "f. Ultima y decisiva competicion en un campeonato o concurso." }],
+    "antonimos": [{ "antonimo": "comienzo" }, { "antonimo": "inicio" }],
+    "sinonimos": [{ "sinonimo": "fin" }, { "sinonimo": "termino" }, { "sinonimo": "conclusion" }, { "sinonimo": "remate" }, { "sinonimo": "desenlace" }, { "sinonimo": "colofon" }, { "sinonimo": "consumacion" }, { "sinonimo": "expiracion" }, { "sinonimo": "acabamiento" }, { "sinonimo": "terminacion" }]
+}, {
+    "Palabra": "fin",
+    "Ayuda": {
+        "Nivel1": "vxrpegejvq",
+        "Nivel2": "smtdprojs",
+        "Nivel3": "tyetuorg",
+        "Nivel4": "xljjpvb",
+        "Nivel5": "mcgqrq",
+        "Nivel6": "jkpot",
+        "Nivel7": "shpk",
+        "Nivel8": "dcq"
+    },
+    "Detalle": "fin",
+    "PLetra": "f",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Termino, remate, extremo o consumacion de una cosa." }, { "definicion": "Objeto, motivo, finalidad." }, { "definicion": "Final desagradable de una conversacion o de un asunto." }, { "definicion": "loc. Morir." }],
+    "antonimos": [{ "antonimo": "principio" }, { "antonimo": "comienzo" }, { "antonimo": "origen" }],
+    "sinonimos": [{ "sinonimo": "termino" }, { "sinonimo": "final" }, { "sinonimo": "terminacion" }, { "sinonimo": "remate" }, { "sinonimo": "consumacion" }, { "sinonimo": "conclusion" }, { "sinonimo": "desenlace" }, { "sinonimo": "intencion" }, { "sinonimo": "proposito" }, { "sinonimo": "finalidad" }, { "sinonimo": "objeto" }, { "sinonimo": "objetivo" }]
+}, {
+    "Palabra": "fuente",
+    "Ayuda": {
+        "Nivel1": "vhpwbjwvoq",
+        "Nivel2": "ggbvyapgl",
+        "Nivel3": "yvlphyyb",
+        "Nivel4": "ockovyv",
+        "Nivel5": "kivwmw",
+        "Nivel6": "hjgrz",
+        "Nivel7": "vrhg",
+        "Nivel8": "lwx"
+    },
+    "Detalle": "fuente",
+    "PLetra": "f",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Manantial de agua que brota de la tierra." }, { "definicion": "Construccion en los sitios publicos, como plazas, parques, etc., con canos y surtidores de agua, y que se destina a diferentes usos." }, { "definicion": "Plato grande para servir la comida." }, { "definicion": "Cantidad de comida que cabe en este plato." }, { "definicion": "Origen de algo, causa, principio." }, { "definicion": "Aquello de que fluye con abundancia un liquido." }, { "definicion": "Documento, obra o materiales que sirven de informacion o de inspiracion a un autor." }, { "definicion": "Tipo de letra." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "manantial" }, { "sinonimo": "fontana" }, { "sinonimo": "fontanal" }, { "sinonimo": "hontanar" }, { "sinonimo": "venero" }, { "sinonimo": "surtidor" }, { "sinonimo": "chorro" }, { "sinonimo": "grifo" }, { "sinonimo": "cano" }, { "sinonimo": "origen" }, { "sinonimo": "principio" }, { "sinonimo": "germen" }, { "sinonimo": "raiz" }, { "sinonimo": "motivo" }, { "sinonimo": "causa" }, { "sinonimo": "bandeja" }, { "sinonimo": "ensaladera" }, { "sinonimo": "plato" }]
+}, {
+    "Palabra": "finales",
+    "Ayuda": {
+        "Nivel1": "tupuggcghx",
+        "Nivel2": "qjhzmtdwv",
+        "Nivel3": "gqvpryxo",
+        "Nivel4": "xzpyzjx",
+        "Nivel5": "xyovoz",
+        "Nivel6": "dkyhr",
+        "Nivel7": "grom",
+        "Nivel8": "cmv"
+    },
+    "Detalle": "finales",
+    "PLetra": "f",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. Que remata o cierra." }, { "definicion": "[Proposicion] subordinada adverbial que expresa la finalidad del verbo principal." }, { "definicion": "m. Fin, termino." }, { "definicion": "f. Ultima y decisiva competicion en un campeonato o concurso." }],
+    "antonimos": [{ "antonimo": "comienzo" }, { "antonimo": "inicio" }],
+    "sinonimos": [{ "sinonimo": "fin" }, { "sinonimo": "termino" }, { "sinonimo": "conclusion" }, { "sinonimo": "remate" }, { "sinonimo": "desenlace" }, { "sinonimo": "colofon" }, { "sinonimo": "consumacion" }, { "sinonimo": "expiracion" }, { "sinonimo": "acabamiento" }, { "sinonimo": "terminacion" }]
+}, {
+    "Palabra": "formosa",
+    "Ayuda": {
+        "Nivel1": "hcgkixvyut",
+        "Nivel2": "wvcukypxi",
+        "Nivel3": "leneqbth",
+        "Nivel4": "eclbtip",
+        "Nivel5": "nuqnkj",
+        "Nivel6": "lhvwl",
+        "Nivel7": "cvun",
+        "Nivel8": "xxg"
+    },
+    "Detalle": "formosa",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "faisan",
+    "Ayuda": {
+        "Nivel1": "vjcljtokpu",
+        "Nivel2": "hyqqrbery",
+        "Nivel3": "hbpxqxtq",
+        "Nivel4": "lezhtll",
+        "Nivel5": "etlpoq",
+        "Nivel6": "gqwpc",
+        "Nivel7": "lqwl",
+        "Nivel8": "yct"
+    },
+    "Detalle": "faisan",
+    "PLetra": "f",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Ave galliforme de alas cortas y cola larga, con un penacho de plumas en la cabeza y el plumaje verde y rojizo con reflejos metalicos. Su carne es muy apreciada." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "flamenco",
+    "Ayuda": {
+        "Nivel1": "kwjuukrzpr",
+        "Nivel2": "tqktirhrp",
+        "Nivel3": "krzjrsjt",
+        "Nivel4": "vuiqtkj",
+        "Nivel5": "hrjwip",
+        "Nivel6": "hwgdd",
+        "Nivel7": "vxxs",
+        "Nivel8": "yki"
+    },
+    "Detalle": "flamenco",
+    "PLetra": "f",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y s. De Flandes, region historica de Europa, o relativo a ella." }, { "definicion": "Chulo, descarado." }, { "definicion": "[Persona] que practica el cante o el baile gitano popular de Andalucia, y de todas sus cosas." }, { "definicion": "adj. y m. De ese mismo cante o baile o relativo a el." }, { "definicion": "m. Nombre comun de diversas aves foenicopteriformes de 1 a 1,30 m que se caracterizan por tener el plumaje rosado, cuello y patas largos y el pico curvado, que utilizan para filtrar el agua y obtener el alimento." }, { "definicion": "Lengua que se hablo en Flandes y que actualmente se habla en las zonas fronterizas de Belgica con Francia y con Holanda." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "fanfarron" }, { "sinonimo": "farruco" }, { "sinonimo": "gallito" }, { "sinonimo": "chulo" }, { "sinonimo": "descarado" }, { "sinonimo": "desafiante" }, { "sinonimo": "insolente" }, { "sinonimo": "agitanado" }, { "sinonimo": "cale" }, { "sinonimo": "cani" }, { "sinonimo": "gitano" }, { "sinonimo": "cantehondo" }]
+}, {
+    "Palabra": "foca",
+    "Ayuda": {
+        "Nivel1": "vnmyepyhnk",
+        "Nivel2": "tgyluuexl",
+        "Nivel3": "vldzbbps",
+        "Nivel4": "upzptpb",
+        "Nivel5": "vwnkqu",
+        "Nivel6": "gbpiz",
+        "Nivel7": "idxq",
+        "Nivel8": "ksg"
+    },
+    "Detalle": "foca",
+    "PLetra": "f",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Nombre comun de diversos mamiferos del orden de los pinnipedos, de aproximadamente 1 m de largo, con el cuerpo dotado de aletas y cubierto de pelo, que habita generalmente en los mares frios." }, { "definicion": "Persona muy gruesa." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "bombilla" }, { "sinonimo": "lampara" }, { "sinonimo": "reflector" }, { "sinonimo": "faro" }, { "sinonimo": "luz" }, { "sinonimo": "nucleo" }, { "sinonimo": "centro" }, { "sinonimo": "meollo" }, { "sinonimo": "corazon" }, { "sinonimo": "eje" }, { "sinonimo": "epicentro" }]
+}]

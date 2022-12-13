@@ -1,0 +1,91 @@
+[{
+    "Palabra": "yegua",
+    "Ayuda": {
+        "Nivel1": "wmxodhocql",
+        "Nivel2": "zckrjvqcn",
+        "Nivel3": "qmfqtkqc",
+        "Nivel4": "ibqilbw",
+        "Nivel5": "fwqqch",
+        "Nivel6": "jiwxr",
+        "Nivel7": "rtpt",
+        "Nivel8": "ohr"
+    },
+    "Detalle": "yegua",
+    "PLetra": "y",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Hembra del caballo." }, { "definicion": "adj. Tonto." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "jaca" }, { "sinonimo": "potranca" }, { "sinonimo": "potra" }]
+}, {
+    "Palabra": "ya",
+    "Ayuda": {
+        "Nivel1": "obnbkltbkv",
+        "Nivel2": "wsbwcqizc",
+        "Nivel3": "dvrguhjr",
+        "Nivel4": "jbzkqhl",
+        "Nivel5": "xtcsft",
+        "Nivel6": "wtojj",
+        "Nivel7": "gguz",
+        "Nivel8": "nrj"
+    },
+    "Detalle": "ya",
+    "PLetra": "y",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adv. t. Denota el tiempo pasado." }, { "definicion": "En tiempo u ocasion futura." }, { "definicion": "Finalmente o ultimamente." }, { "definicion": "Luego, inmediatamente." }, { "definicion": "Sirve para conceder o apoyar lo que nos dicen." }, { "definicion": "conj. distributiva." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ahora" }, { "sinonimo": "actualmente" }, { "sinonimo": "hoy" }]
+}, {
+    "Palabra": "yo",
+    "Ayuda": {
+        "Nivel1": "rmqszwdstd",
+        "Nivel2": "rmjrbprha",
+        "Nivel3": "pltivjqh",
+        "Nivel4": "jpnckfn",
+        "Nivel5": "usrqhf",
+        "Nivel6": "kutix",
+        "Nivel7": "bcbs",
+        "Nivel8": "zwm"
+    },
+    "Detalle": "yo",
+    "PLetra": "y",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "pron. Forma del pron. pers. com. de primera persona singular, que en la oracion desempena la funcion de sujeto: ♦ No es normal que vaya expreso en la oracion si el verbo va explicito, salvo si se quiere resaltar o eliminar posibles ambigüedades." }, { "definicion": "m. Sujeto humano en cuanto persona." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "ya que",
+    "Ayuda": {
+        "Nivel1": "cckrnzzlbj",
+        "Nivel2": "mxvnjvjvj",
+        "Nivel3": "jlsgfswf",
+        "Nivel4": "rnlmnmz",
+        "Nivel5": "xlgxxb",
+        "Nivel6": "fgbiz",
+        "Nivel7": "gwcv",
+        "Nivel8": "skp"
+    },
+    "Detalle": "ya que",
+    "PLetra": "y",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adv. t. Denota el tiempo pasado." }, { "definicion": "En tiempo u ocasion futura." }, { "definicion": "Finalmente o ultimamente." }, { "definicion": "Luego, inmediatamente." }, { "definicion": "Sirve para conceder o apoyar lo que nos dicen." }, { "definicion": "conj. distributiva." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ahora" }, { "sinonimo": "actualmente" }, { "sinonimo": "hoy" }]
+}, {
+    "Palabra": "yael",
+    "Ayuda": {
+        "Nivel1": "fsubsjkzpp",
+        "Nivel2": "mtttcrvkt",
+        "Nivel3": "fzkufbnf",
+        "Nivel4": "ncsqqbo",
+        "Nivel5": "cwutzn",
+        "Nivel6": "hdkfs",
+        "Nivel7": "szvu",
+        "Nivel8": "bfv"
+    },
+    "Detalle": "yael",
+    "PLetra": "y",
+    "ULetra": "l",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}]

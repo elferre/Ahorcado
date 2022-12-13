@@ -1,0 +1,25 @@
+.ConteinerMenor {
+    display: none;
+}
+
+@media only screen and (max-width: 900px) {
+    .ConteinerMayor {
+        display: none;
+    }
+    .ConteinerMenor {
+        font-family: sans-serif;
+        display: block;
+        color: var(--color-blanco);
+    }
+    body {
+        background-color: var(--color-negro);
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    body {
+        font-family: sans-serif;
+        /* background-color: #020c42;*/
+        color: var(--color-negro);
+    }
+}

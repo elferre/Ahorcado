@@ -1,0 +1,66 @@
+#container {
+    /*margin: 100px auto;*/
+    width: 688px;
+    color: #000;
+}
+
+.keyboard {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.letterBlanco {
+    float: left;
+    margin: 0 5px 5px 0;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid #f9f9f9;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.letterRojo {
+    float: left;
+    margin: 0 5px 5px 0;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #9d0c0c;
+    border: 1px solid #e98585;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    cursor: no-drop;
+}
+
+.letterVerde {
+    float: left;
+    margin: 0 5px 5px 0;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #0a831e;
+    border: 1px solid #61e96c;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    cursor: no-drop;
+}
+
+.letterBlanco:hover {
+    position: relative;
+    top: 1px;
+    left: 1px;
+    border-color: #e5e5e5;
+    cursor: pointer;
+}
+
+#_letter_a,
+#_letter_z {
+    clear: left;
+}

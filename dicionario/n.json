@@ -1,0 +1,973 @@
+[{
+    "Palabra": "niño",
+    "Ayuda": {},
+    "Detalle": "niño",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Nombre comun de diversas especies de insectos dipteros pequenos y delgados, con dos alas transparentes y patas largas, cuya hembra chupa la sangre de las personas y de los animales de piel fina y produce una picadura molesta." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "niña",
+    "Ayuda": {},
+    "Detalle": "niña",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Nombre comun de diversas especies de insectos dipteros pequenos y delgados, con dos alas transparentes y patas largas, cuya hembra chupa la sangre de las personas y de los animales de piel fina y produce una picadura molesta." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nariz",
+    "Ayuda": {
+        "Nivel1": "gukqlggcxq",
+        "Nivel2": "eybedqhst",
+        "Nivel3": "lhukxxcg",
+        "Nivel4": "jvxhpdh",
+        "Nivel5": "tyhxkq",
+        "Nivel6": "pqube",
+        "Nivel7": "eyqb",
+        "Nivel8": "tbd"
+    },
+    "Detalle": "nariz",
+    "PLetra": "n",
+    "ULetra": "z",
+    "definiciones": [{ "definicion": "f. Parte saliente del rostro humano, entre la frente y la boca, con dos orificios que comunican con la membrana pituitaria y el aparato de la respiracion. Mas en pl." }, { "definicion": "Sentido del olfato." }, { "definicion": "pl. Coraje, valor." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "napias" }, { "sinonimo": "natas" }, { "sinonimo": "trompa" }, { "sinonimo": "hocico" }]
+}, {
+    "Palabra": "nieto",
+    "Ayuda": {
+        "Nivel1": "wqpkjbqkpj",
+        "Nivel2": "mpmkqzmak",
+        "Nivel3": "uwhuhrhq",
+        "Nivel4": "klvrycp",
+        "Nivel5": "ugzqpu",
+        "Nivel6": "pbcqx",
+        "Nivel7": "wrrw",
+        "Nivel8": "wmy"
+    },
+    "Detalle": "nieto",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. y f. Hijo o hija del hijo o de la hija de una persona." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "descendiente" }, { "sinonimo": "sucesor" }, { "sinonimo": "vastago" }, { "sinonimo": "retono" }]
+}, {
+    "Palabra": "nieta",
+    "Ayuda": {
+        "Nivel1": "blszlxgqcq",
+        "Nivel2": "jzzwzzjmx",
+        "Nivel3": "mvjhhrlp",
+        "Nivel4": "cgsuvps",
+        "Nivel5": "gzkfyr",
+        "Nivel6": "jxrhl",
+        "Nivel7": "vpcr",
+        "Nivel8": "kdp"
+    },
+    "Detalle": "nieta",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. y f. Hijo o hija del hijo o de la hija de una persona." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "descendiente" }, { "sinonimo": "sucesor" }, { "sinonimo": "vastago" }, { "sinonimo": "retono" }]
+}, {
+    "Palabra": "nacimiento",
+    "Ayuda": {
+        "Nivel1": "gpddfyzhsw",
+        "Nivel2": "kwwzdklpy",
+        "Nivel3": "fpqjwhsq",
+        "Nivel4": "flgzzru",
+        "Nivel5": "wrxdqg",
+        "Nivel6": "yqqqh",
+        "Nivel7": "bxgl",
+        "Nivel8": "bkq"
+    },
+    "Detalle": "nacimiento",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Lugar o sitio donde algo tiene su origen o principio." }, { "definicion": "Comienzo, principio de algo." }, { "definicion": "Representacion del nacimiento de Jesucristo en el portal de Belen." }],
+    "antonimos": [{ "antonimo": "muerte" }, { "antonimo": "fin" }, { "antonimo": "final" }],
+    "sinonimos": [{ "sinonimo": "origen" }, { "sinonimo": "fuente" }, { "sinonimo": "comienzo" }, { "sinonimo": "arranque" }, { "sinonimo": "brote" }, { "sinonimo": "partida" }, { "sinonimo": "salida" }, { "sinonimo": "inicio" }, { "sinonimo": "principio" }, { "sinonimo": "belen" }, { "sinonimo": "portal" }]
+}, {
+    "Palabra": "naturaleza",
+    "Ayuda": {
+        "Nivel1": "bfxqksdpcq",
+        "Nivel2": "cxyjkhdsx",
+        "Nivel3": "ybcijgpg",
+        "Nivel4": "jidikjv",
+        "Nivel5": "fwxikd",
+        "Nivel6": "bodgd",
+        "Nivel7": "sivj",
+        "Nivel8": "qso"
+    },
+    "Detalle": "naturaleza",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Conjunto de todo lo que forma el universo en cuya creacion no ha intervenido el hombre." }, { "definicion": "Principio o fuerza cosmica que se supone rige y ordena todas las cosas creadas." }, { "definicion": "Esencia y propiedad caracteristica de cada ser." }, { "definicion": "Caracter, temperamento." }, { "definicion": "Constitucion fisica de una persona o animal." }, { "definicion": "Especie, genero, clase." }, { "definicion": "Origen que uno tiene segun la ciudad o pais en que ha nacido." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "esencia" }, { "sinonimo": "sustancia" }, { "sinonimo": "propiedad" }, { "sinonimo": "ser" }, { "sinonimo": "condicion" }, { "sinonimo": "cualidad" }, { "sinonimo": "materia" }, { "sinonimo": "indole" }, { "sinonimo": "caracter" }, { "sinonimo": "idiosincrasia" }, { "sinonimo": "temperamento" }, { "sinonimo": "genio" }, { "sinonimo": "conducta" }, { "sinonimo": "temple" }, { "sinonimo": "humor" }, { "sinonimo": "talante" }, { "sinonimo": "natural" }, { "sinonimo": "tendencia" }, { "sinonimo": "inclinacion" }, { "sinonimo": "instinto" }, { "sinonimo": "propension" }, { "sinonimo": "vocacion" }, { "sinonimo": "creacion" }, { "sinonimo": "universo" }, { "sinonimo": "mundo" }, { "sinonimo": "cosmos" }, { "sinonimo": "tierra" }, { "sinonimo": "complexion" }, { "sinonimo": "constitucion" }]
+}, {
+    "Palabra": "nuez",
+    "Ayuda": {
+        "Nivel1": "ttacfowdbb",
+        "Nivel2": "cjyaskmsr",
+        "Nivel3": "dqstdcco",
+        "Nivel4": "ocqqbfx",
+        "Nivel5": "qcoplk",
+        "Nivel6": "mctwd",
+        "Nivel7": "rgjd",
+        "Nivel8": "faf"
+    },
+    "Detalle": "nuez",
+    "PLetra": "n",
+    "ULetra": "z",
+    "definiciones": [{ "definicion": "f. Fruto del nogal, de cascara dura, rugosa, de color marron claro que en su interior tiene dos partes carnosas y simetricas separadas por una membrana." }, { "definicion": "Prominencia que forma el cartilago tiroides en la parte anterior del cuello del varon adulto." }, { "definicion": "Porcion de cualquier cosa del tamano de un fruto del nogal." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "fruto" }, { "sinonimo": "semilla" }, { "sinonimo": "bocadodeAdan" }]
+}, {
+    "Palabra": "naranja",
+    "Ayuda": {
+        "Nivel1": "ixtoutfeql",
+        "Nivel2": "lmdulytop",
+        "Nivel3": "gpqolipk",
+        "Nivel4": "uvzpxov",
+        "Nivel5": "mmzwoc",
+        "Nivel6": "iwpwl",
+        "Nivel7": "pocb",
+        "Nivel8": "eyq"
+    },
+    "Detalle": "naranja",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Fruto comestible del naranjo, de forma globosa y de pulpa dividida en gajos." }, { "definicion": "m. Color semejante al de la naranja, mezcla de azul y amarillo. Tambien adj." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "citrico" }, { "sinonimo": "agrio" }]
+}, {
+    "Palabra": "noche",
+    "Ayuda": {
+        "Nivel1": "fumrymvrjl",
+        "Nivel2": "psrjwasvs",
+        "Nivel3": "xsswfdsa",
+        "Nivel4": "dzgfrfw",
+        "Nivel5": "uykbby",
+        "Nivel6": "ruybz",
+        "Nivel7": "dkgu",
+        "Nivel8": "xtb"
+    },
+    "Detalle": "noche",
+    "PLetra": "n",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Periodo de tiempo comprendido entre la puesta y la salida del Sol." }, { "definicion": "Oscuridad que caracteriza a este intervalo de tiempo." }, { "definicion": "Tiempo que se dedica a dormir y que coincide aproximadamente con este intervalo de tiempo." }, { "definicion": ". Confusion, oscuridad, tristeza." }],
+    "antonimos": [{ "antonimo": "dia" }, { "antonimo": "claridad" }],
+    "sinonimos": [{ "sinonimo": "oscuridad" }, { "sinonimo": "anochecer" }, { "sinonimo": "tinieblas" }, { "sinonimo": "crepusculo" }, { "sinonimo": "tenebrosidad" }, { "sinonimo": "sombras" }]
+}, {
+    "Palabra": "nublado",
+    "Ayuda": {
+        "Nivel1": "crxpzigqyp",
+        "Nivel2": "ygqgqyziz",
+        "Nivel3": "vrheteev",
+        "Nivel4": "ceiwhwp",
+        "Nivel5": "ixcvfz",
+        "Nivel6": "hxypf",
+        "Nivel7": "ceei",
+        "Nivel8": "weg"
+    },
+    "Detalle": "nublado",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Cubierto de nubes." }, { "definicion": "m. Nube que amenaza tempestad." }, { "definicion": "P. ext., tormenta." }, { "definicion": "tr. y prnl. Ocultar las nubes el cielo, el Sol o la Luna." }, { "definicion": "Oscurecer, empanar algo, material o inmaterial." }],
+    "antonimos": [{ "antonimo": "despejado" }, { "antonimo": "claro" }],
+    "sinonimos": [{ "sinonimo": "cubierto" }, { "sinonimo": "encapotado" }, { "sinonimo": "cargado" }, { "sinonimo": "nuboso" }, { "sinonimo": "oscuro" }, { "sinonimo": "nublo" }, { "sinonimo": "anubarrado" }, { "sinonimo": "nube" }, { "sinonimo": "tormenta" }, { "sinonimo": "nubarron" }, { "sinonimo": "nubarrada" }]
+}, {
+    "Palabra": "nieve",
+    "Ayuda": {
+        "Nivel1": "dfbahzspqk",
+        "Nivel2": "fwlcthchy",
+        "Nivel3": "wkzsmwsl",
+        "Nivel4": "aqmbdgy",
+        "Nivel5": "bqapuu",
+        "Nivel6": "hlamj",
+        "Nivel7": "hzwd",
+        "Nivel8": "gxt"
+    },
+    "Detalle": "nieve",
+    "PLetra": "n",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Agua helada que cae de las nubes cristalizada en forma de copos blancos." }, { "definicion": "Conjunto de copos caidos." }, { "definicion": "Temporada en que nieva mucho. Mas en pl." }, { "definicion": "Cocaina." }, { "definicion": "Polo, sorbete helado." }, { "definicion": "intr. Caer nieve." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "nevisca" }, { "sinonimo": "cellisca" }, { "sinonimo": "nevada" }, { "sinonimo": "nevazo" }]
+}, {
+    "Palabra": "norte",
+    "Ayuda": {
+        "Nivel1": "vsafqkufjb",
+        "Nivel2": "quusfyqpu",
+        "Nivel3": "uyukpxsm",
+        "Nivel4": "lbxadvu",
+        "Nivel5": "msjmgf",
+        "Nivel6": "ahizl",
+        "Nivel7": "uqpq",
+        "Nivel8": "xfl"
+    },
+    "Detalle": "norte",
+    "PLetra": "n",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. Punto cardinal que cae del lado del polo artico y de frente a un observador a cuya derecha este el Oriente. Su abreviatura es ♦ Se escribe con mayuscula." }, { "definicion": "Viento que sopla de esta parte." }, { "definicion": "Direccion, guia." }],
+    "antonimos": [{ "antonimo": "sur" }],
+    "sinonimos": [{ "sinonimo": "septentrion" }, { "sinonimo": "artico" }, { "sinonimo": "boreal" }, { "sinonimo": "rumbo" }, { "sinonimo": "direccion" }, { "sinonimo": "meta" }, { "sinonimo": "finalidad" }, { "sinonimo": "objetivo" }, { "sinonimo": "ideal" }, { "sinonimo": "orientacion" }]
+}, {
+    "Palabra": "nacion",
+    "Ayuda": {
+        "Nivel1": "qpqwmgejum",
+        "Nivel2": "rswzwzbkb",
+        "Nivel3": "qybzxqlr",
+        "Nivel4": "dkgvdyd",
+        "Nivel5": "rsprlk",
+        "Nivel6": "dhtvj",
+        "Nivel7": "erdm",
+        "Nivel8": "bjt"
+    },
+    "Detalle": "nacion",
+    "PLetra": "n",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "f. Entidad juridica y politica formada por el conjunto de los habitantes de un pais regido por el mismo gobierno." }, { "definicion": "Territorio de ese mismo pais." }, { "definicion": "Conjunto de personas de un mismo origen etnico y que generalmente hablan un mismo idioma, tienen una tradicion comun y ocupan un mismo territorio." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "estado" }, { "sinonimo": "pais" }, { "sinonimo": "patria" }, { "sinonimo": "pueblo" }, { "sinonimo": "nacionalidad" }, { "sinonimo": "reino" }, { "sinonimo": "territorio" }]
+}, {
+    "Palabra": "norma",
+    "Ayuda": {
+        "Nivel1": "lzdptydyfi",
+        "Nivel2": "ekbuspkqb",
+        "Nivel3": "qzqlbsyl",
+        "Nivel4": "blyegez",
+        "Nivel5": "jxwslt",
+        "Nivel6": "scbuv",
+        "Nivel7": "txes",
+        "Nivel8": "bsc"
+    },
+    "Detalle": "norma",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Regla de obligado cumplimiento." }, { "definicion": "Conjunto de reglas que determinan el uso correcto del lenguaje." }, { "definicion": "Precepto juridico." }, { "definicion": "Escuadra utilizada para arreglar y ajustar maderos, piedras y otros elementos de una construccion." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ley" }, { "sinonimo": "precepto" }, { "sinonimo": "orden" }, { "sinonimo": "reglamento" }, { "sinonimo": "normativa" }, { "sinonimo": "estatuto" }, { "sinonimo": "disposicion" }, { "sinonimo": "bando" }, { "sinonimo": "modelo" }, { "sinonimo": "ejemplo" }, { "sinonimo": "pauta" }, { "sinonimo": "patron" }, { "sinonimo": "guia" }, { "sinonimo": "regla" }, { "sinonimo": "metodo" }, { "sinonimo": "directriz" }, { "sinonimo": "instruccion" }, { "sinonimo": "indicacion" }, { "sinonimo": "criterio" }]
+}, {
+    "Palabra": "numero",
+    "Ayuda": {
+        "Nivel1": "itcyggfxdh",
+        "Nivel2": "wvgvlayvv",
+        "Nivel3": "xzfzybhk",
+        "Nivel4": "ypqyxdy",
+        "Nivel5": "walxhq",
+        "Nivel6": "hljtg",
+        "Nivel7": "dczx",
+        "Nivel8": "qca"
+    },
+    "Detalle": "numero",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Concepto matematico que expresa cantidad." }, { "definicion": "Signo o conjunto de signos con que se representa este concepto." }, { "definicion": "Cantidad indeterminada de personas, animales o cosas." }, { "definicion": "Puesto que ocupa algo o alguien en una serie ordenada." }, { "definicion": "Cada uno de los ejemplares de una publicacion periodica, que se distinguen por su fecha de publicacion." }, { "definicion": "Cada una de las partes de un espectaculo." }, { "definicion": "Categoria gramatical nominal y verbal, que expresa referencia a una o mas personas o cosas." }, { "definicion": "Talla o medida de ciertos objetos." }, { "definicion": "Billete de loteria para un sorteo." }, { "definicion": "Individuo sin graduacion en algunos cuerpos armados." }, { "definicion": "Acto o situacion que llaman la atencion." }, { "definicion": "tr. Marcar con numeros una serie para ordenarla." }, { "definicion": "Contar los elementos de un conjunto siguiendo el orden numerico. Tambien prnl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "guarismo" }, { "sinonimo": "cifra" }, { "sinonimo": "cantidad" }, { "sinonimo": "cuantia" }, { "sinonimo": "conjunto" }, { "sinonimo": "grupo" }, { "sinonimo": "importe" }, { "sinonimo": "total" }, { "sinonimo": "escena" }, { "sinonimo": "escenita" }, { "sinonimo": "show" }]
+}, {
+    "Palabra": "noticia",
+    "Ayuda": {
+        "Nivel1": "umsbwxqlpg",
+        "Nivel2": "pzhmswwpq",
+        "Nivel3": "kxuesqyx",
+        "Nivel4": "uqmvsgu",
+        "Nivel5": "xeyrkg",
+        "Nivel6": "bqdlp",
+        "Nivel7": "sxyr",
+        "Nivel8": "bqd"
+    },
+    "Detalle": "noticia",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Divulgacion o publicacion de un hecho." }, { "definicion": "El hecho divulgado." }, { "definicion": "Nocion, conocimiento." }, { "definicion": "f. pl. Noticiario o boletin informativo de radio o television." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "suceso" }, { "sinonimo": "novedad" }, { "sinonimo": "acaecimiento" }, { "sinonimo": "nueva" }, { "sinonimo": "revelacion" }, { "sinonimo": "primicia" }, { "sinonimo": "comunicacion" }, { "sinonimo": "informe" }, { "sinonimo": "reportaje" }, { "sinonimo": "cronica" }, { "sinonimo": "idea" }, { "sinonimo": "conocimiento" }, { "sinonimo": "nocion" }, { "sinonimo": "recuerdo" }]
+}, {
+    "Palabra": "negro",
+    "Ayuda": {
+        "Nivel1": "uhacqwkjzq",
+        "Nivel2": "viysbdhvz",
+        "Nivel3": "uklhhyvp",
+        "Nivel4": "vhczvvl",
+        "Nivel5": "jqtsky",
+        "Nivel6": "xhkpd",
+        "Nivel7": "bbiv",
+        "Nivel8": "vpq"
+    },
+    "Detalle": "negro",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. De color totalmente oscuro, es decir, que carece de color." }, { "definicion": "[Persona] cuya piel es de color negro. Tambien s." }, { "definicion": "De color oscuro o mas oscuro que lo normal." }, { "definicion": "Oscurecido por la suciedad." }, { "definicion": "Furioso." }, { "definicion": "Triste, desfavorable." }, { "definicion": "[Novela o pelicula] que trata sobre temas policiacos con gran realismo y crudeza." }, { "definicion": "Relativo al diablo." }, { "definicion": "adj. y m. [Tabaco] con un olor y sabor fuertes." }, { "definicion": "m. Persona que hace anonimamente el trabajo que se atribuye otra, por lo general un escritor." }, { "definicion": "f. Nota musical cuya direccion es la mitad de una blanca." }, { "definicion": "m. y f. Tratamiento carinoso." }],
+    "antonimos": [{ "antonimo": "blanco" }, { "antonimo": "claro" }, { "antonimo": "afortunado" }, { "antonimo": "prometedor" }],
+    "sinonimos": [{ "sinonimo": "oscuro" }, { "sinonimo": "bruno" }, { "sinonimo": "moreno" }, { "sinonimo": "negruzco" }, { "sinonimo": "atezado" }, { "sinonimo": "renegrido" }, { "sinonimo": "africano" }, { "sinonimo": "mulato" }, { "sinonimo": "indigena" }, { "sinonimo": "negroide" }, { "sinonimo": "desfavorable" }, { "sinonimo": "desafortunado" }, { "sinonimo": "sombrio" }, { "sinonimo": "triste" }, { "sinonimo": "adverso" }, { "sinonimo": "infausto" }]
+}, {
+    "Palabra": "naranja",
+    "Ayuda": {
+        "Nivel1": "cttmidxzgp",
+        "Nivel2": "mozoftifm",
+        "Nivel3": "kgvtwlvm",
+        "Nivel4": "mkvghmb",
+        "Nivel5": "detyzb",
+        "Nivel6": "xgsif",
+        "Nivel7": "vvxx",
+        "Nivel8": "giv"
+    },
+    "Detalle": "naranja",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Fruto comestible del naranjo, de forma globosa y de pulpa dividida en gajos." }, { "definicion": "m. Color semejante al de la naranja, mezcla de azul y amarillo. Tambien adj." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "citrico" }, { "sinonimo": "agrio" }]
+}, {
+    "Palabra": "numeros",
+    "Ayuda": {
+        "Nivel1": "ajyvbpxtzb",
+        "Nivel2": "ghafbhxkb",
+        "Nivel3": "kpxfghkg",
+        "Nivel4": "ttlpdbk",
+        "Nivel5": "cxkfab",
+        "Nivel6": "iathb",
+        "Nivel7": "chzv",
+        "Nivel8": "cfw"
+    },
+    "Detalle": "numeros",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Concepto matematico que expresa cantidad." }, { "definicion": "Signo o conjunto de signos con que se representa este concepto." }, { "definicion": "Cantidad indeterminada de personas, animales o cosas." }, { "definicion": "Puesto que ocupa algo o alguien en una serie ordenada." }, { "definicion": "Cada uno de los ejemplares de una publicacion periodica, que se distinguen por su fecha de publicacion." }, { "definicion": "Cada una de las partes de un espectaculo." }, { "definicion": "Categoria gramatical nominal y verbal, que expresa referencia a una o mas personas o cosas." }, { "definicion": "Talla o medida de ciertos objetos." }, { "definicion": "Billete de loteria para un sorteo." }, { "definicion": "Individuo sin graduacion en algunos cuerpos armados." }, { "definicion": "Acto o situacion que llaman la atencion." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "guarismo" }, { "sinonimo": "cifra" }, { "sinonimo": "cantidad" }, { "sinonimo": "cuantia" }, { "sinonimo": "conjunto" }, { "sinonimo": "grupo" }, { "sinonimo": "importe" }, { "sinonimo": "total" }, { "sinonimo": "escena" }, { "sinonimo": "escenita" }, { "sinonimo": "show" }]
+}, {
+    "Palabra": "nueve",
+    "Ayuda": {
+        "Nivel1": "xfwjiyssiz",
+        "Nivel2": "zphgopdmm",
+        "Nivel3": "ppwtsbkl",
+        "Nivel4": "fhbrpac",
+        "Nivel5": "dpakkk",
+        "Nivel6": "bdbcq",
+        "Nivel7": "ziok",
+        "Nivel8": "fbi"
+    },
+    "Detalle": "nueve",
+    "PLetra": "n",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. y pron. num. card. Ocho mas uno." }, { "definicion": "Que ocupa el lugar numero nueve en una serie ordenada de elementos, noveno. ♦ Tambien m., aplicado a los dias del mes." }, { "definicion": "m. Signo con que se representa este numero." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nombre",
+    "Ayuda": {
+        "Nivel1": "qvqdjafzks",
+        "Nivel2": "qjphwckgk",
+        "Nivel3": "jiaptzys",
+        "Nivel4": "huchhcg",
+        "Nivel5": "ialqci",
+        "Nivel6": "ycatu",
+        "Nivel7": "ppui",
+        "Nivel8": "qyc"
+    },
+    "Detalle": "nombre",
+    "PLetra": "n",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "m. Palabra que designa cualquier realidad, concreta o abstracta, y que sirve para referirse a ella, reconocerla y distinguirla de otra." }, { "definicion": "Titulo de una cosa por el cual es conocida." }, { "definicion": "Reputacion, fama." }, { "definicion": ". Categoria que comprende el sustantivo y el adjetivo." }, { "definicion": "P. ext., el que se inscribe en el registro civil y precede a los apellidos." }, { "definicion": "tr. Decir el nombre de alguien o de algo." }, { "definicion": "Hacer mencion honorifica de alguien o de algo." }, { "definicion": "Elegir o designar a alguien, generalmente para un cargo o empleo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "denominacion" }, { "sinonimo": "apelativo" }, { "sinonimo": "apellido" }, { "sinonimo": "mote" }, { "sinonimo": "alias" }, { "sinonimo": "seudonimo" }, { "sinonimo": "apodo" }, { "sinonimo": "renombre" }, { "sinonimo": "fama" }, { "sinonimo": "nombradia" }, { "sinonimo": "prestigio" }, { "sinonimo": "notoriedad" }, { "sinonimo": "reputacion" }]
+}, {
+    "Palabra": "nivel",
+    "Ayuda": {
+        "Nivel1": "pgbjfkpgmy",
+        "Nivel2": "wmcjcysyx",
+        "Nivel3": "hwsfaarw",
+        "Nivel4": "stubccs",
+        "Nivel5": "gdgthb",
+        "Nivel6": "zojyq",
+        "Nivel7": "odkm",
+        "Nivel8": "xfz"
+    },
+    "Detalle": "nivel",
+    "PLetra": "n",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "m. Instrumento para averiguar la diferencia de altura entre dos puntos." }, { "definicion": "Altura a que llega la superficie de un liquido." }, { "definicion": "Altura que alcanza algo o grado en que se situa respecto a una escala." }, { "definicion": "Piso o planta." }, { "definicion": "Situacion alcanzada por algo o alguien despues de un proceso." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "altura" }, { "sinonimo": "cota" }, { "sinonimo": "elevacion" }, { "sinonimo": "horizonte" }, { "sinonimo": "rasante" }, { "sinonimo": "nivelacion" }]
+}, {
+    "Palabra": "necesidad",
+    "Ayuda": {
+        "Nivel1": "bukyympyoh",
+        "Nivel2": "bypfxhbgb",
+        "Nivel3": "hvrqtlyr",
+        "Nivel4": "zjhullq",
+        "Nivel5": "oyurfo",
+        "Nivel6": "pzzgz",
+        "Nivel7": "jomm",
+        "Nivel8": "xxh"
+    },
+    "Detalle": "necesidad",
+    "PLetra": "n",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Lo que hace que las cosas sucedan infaliblemente de cierta manera." }, { "definicion": "Obligacion." }, { "definicion": "Carencia o escasez de lo imprescindible para vivir." }, { "definicion": "Falta continuada de alimento que produce debilidad." }, { "definicion": "Situacion dificil que atraviesa alguien." }, { "definicion": "Impulso irrefrenable." }, { "definicion": "Evacuacion corporal de heces u orina. Mas en pl." }],
+    "antonimos": [{ "antonimo": "abundancia" }, { "antonimo": "opulencia" }],
+    "sinonimos": [{ "sinonimo": "obligacion" }, { "sinonimo": "menester" }, { "sinonimo": "exigencia" }, { "sinonimo": "requisito" }, { "sinonimo": "apuro" }, { "sinonimo": "aprieto" }, { "sinonimo": "carencia" }, { "sinonimo": "escasez" }, { "sinonimo": "fatalidad" }, { "sinonimo": "indigencia" }, { "sinonimo": "penuria" }, { "sinonimo": "miseria" }, { "sinonimo": "pobreza" }, { "sinonimo": "excrecion" }, { "sinonimo": "evacuacion" }, { "sinonimo": "deposicion" }, { "sinonimo": "defecacion" }, { "sinonimo": "miccion" }]
+}, {
+    "Palabra": "necesario",
+    "Ayuda": {
+        "Nivel1": "gdbwkypgkq",
+        "Nivel2": "dlwkvpxbk",
+        "Nivel3": "kupbhdxv",
+        "Nivel4": "wjjzqtt",
+        "Nivel5": "mhpwgq",
+        "Nivel6": "hyyhg",
+        "Nivel7": "mmjv",
+        "Nivel8": "kyu"
+    },
+    "Detalle": "necesario",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que debe suceder inevitablemente." }, { "definicion": "Que se realiza obligado o forzado por algo." }, { "definicion": "Imprescindible para alguien o algo." }, { "definicion": "Conveniente, muy util." }],
+    "antonimos": [{ "antonimo": "opcional" }, { "antonimo": "accesorio" }, { "antonimo": "innecesario" }],
+    "sinonimos": [{ "sinonimo": "imprescindible" }, { "sinonimo": "indispensable" }, { "sinonimo": "obligatorio" }, { "sinonimo": "forzoso" }, { "sinonimo": "inevitable" }, { "sinonimo": "ineludible" }, { "sinonimo": "imperioso" }, { "sinonimo": "inapelable" }, { "sinonimo": "inexcusable" }, { "sinonimo": "irremediable" }]
+}, {
+    "Palabra": "nuevo",
+    "Ayuda": {
+        "Nivel1": "zahscwhmrr",
+        "Nivel2": "mypaldrts",
+        "Nivel3": "phzywldr",
+        "Nivel4": "wwmjjgt",
+        "Nivel5": "bfpyxm",
+        "Nivel6": "jgrrj",
+        "Nivel7": "cwkt",
+        "Nivel8": "dgx"
+    },
+    "Detalle": "nuevo",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Recien creado o fabricado." }, { "definicion": "Que se ve o se oye por primera vez." }, { "definicion": "Repetido o reiterado para renovarlo." }, { "definicion": "Distinto o diferente de lo que antes habia o se tenia aprendido." }, { "definicion": "Que se anade a una cosa que habia antes." }, { "definicion": "Recien llegado a un lugar o a un grupo." }, { "definicion": "[Producto] agricola cosechado muy recientemente." }, { "definicion": "Que esta poco o nada usado, en oposicion a viejo." }, { "definicion": "Renovado, fortalecido." }, { "definicion": "f. Noticia." }],
+    "antonimos": [{ "antonimo": "viejo" }, { "antonimo": "antiguo" }, { "antonimo": "pasado" }, { "antonimo": "usado" }, { "antonimo": "conocido" }, { "antonimo": "veterano" }, { "antonimo": "experto" }],
+    "sinonimos": [{ "sinonimo": "reciente" }, { "sinonimo": "actual" }, { "sinonimo": "moderno" }, { "sinonimo": "fresco" }, { "sinonimo": "flamante" }, { "sinonimo": "lozano" }, { "sinonimo": "inedito" }, { "sinonimo": "insolito" }, { "sinonimo": "original" }, { "sinonimo": "desconocido" }, { "sinonimo": "extrano" }, { "sinonimo": "novato" }, { "sinonimo": "novel" }, { "sinonimo": "principiante" }, { "sinonimo": "aprendiz" }, { "sinonimo": "novicio" }]
+}, {
+    "Palabra": "nacional",
+    "Ayuda": {
+        "Nivel1": "zpuhrtrqpg",
+        "Nivel2": "prpemfwwe",
+        "Nivel3": "ykjsppse",
+        "Nivel4": "hvhyyth",
+        "Nivel5": "zrkkjb",
+        "Nivel6": "dhwgm",
+        "Nivel7": "jpfh",
+        "Nivel8": "mss"
+    },
+    "Detalle": "nacional",
+    "PLetra": "n",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. De una nacion o relativo a ella." }, { "definicion": "Que pertenece al Estado o es administrado por el." }, { "definicion": "adj. y com. Partidario del general Franco durante la guerra civil espanola (1936-1939)." }],
+    "antonimos": [{ "antonimo": "internacional" }, { "antonimo": "extranjero" }, { "antonimo": "exterior" }],
+    "sinonimos": [{ "sinonimo": "patrio" }, { "sinonimo": "territorial" }, { "sinonimo": "regional" }, { "sinonimo": "domestico" }, { "sinonimo": "interior" }, { "sinonimo": "estatal" }, { "sinonimo": "gubernativo" }, { "sinonimo": "oficial" }, { "sinonimo": "gubernamental" }, { "sinonimo": "publico" }]
+}, {
+    "Palabra": "nuestro",
+    "Ayuda": {
+        "Nivel1": "jdjwfiylkh",
+        "Nivel2": "yfqbiqvka",
+        "Nivel3": "wbibicmj",
+        "Nivel4": "phjbvpc",
+        "Nivel5": "hdacah",
+        "Nivel6": "xpjhm",
+        "Nivel7": "vmwq",
+        "Nivel8": "gxi"
+    },
+    "Detalle": "nuestro",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nuestra",
+    "Ayuda": {
+        "Nivel1": "wkxdkhlhjp",
+        "Nivel2": "dhvjkdipb",
+        "Nivel3": "qxlmwqbf",
+        "Nivel4": "wbcbiwf",
+        "Nivel5": "yjhpvl",
+        "Nivel6": "xxkhw",
+        "Nivel7": "hyfm",
+        "Nivel8": "vmq"
+    },
+    "Detalle": "nuestra",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nacer",
+    "Ayuda": {
+        "Nivel1": "jhmflsywtg",
+        "Nivel2": "sgkkxjqzk",
+        "Nivel3": "wgxuvqdy",
+        "Nivel4": "ydgiifz",
+        "Nivel5": "kxgmkv",
+        "Nivel6": "quwly",
+        "Nivel7": "ukwg",
+        "Nivel8": "pox"
+    },
+    "Detalle": "nacer",
+    "PLetra": "n",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "intr. Salir del vientre materno." }, { "definicion": "Salir del huevo un animal oviparo." }, { "definicion": "Empezar a salir un vegetal de su semilla." }, { "definicion": "Prorrumpir o brotar." }, { "definicion": "Empezar a dejarse ver un astro en el horizonte." }, { "definicion": "Empezar una cosa desde otra, como saliendo de ella." }, { "definicion": "Inferirse una cosa de otra." }, { "definicion": "Escapar de un peligro sin dano alguno." }, { "definicion": "Estar destinado para un fin o tener una inclinacion natural hacia el." }, { "definicion": "Comenzar en una actividad." }, { "definicion": "prnl. Abrirse una costura hecha muy al borde de la tela, desprendiendose los hilos de la orilla." }],
+    "antonimos": [{ "antonimo": "morir" }, { "antonimo": "fallecer" }],
+    "sinonimos": [{ "sinonimo": "veniralmundo" }, { "sinonimo": "aflorar" }, { "sinonimo": "emerger" }, { "sinonimo": "brotar" }, { "sinonimo": "emanar" }, { "sinonimo": "germinar" }, { "sinonimo": "aparecer" }, { "sinonimo": "originarse" }, { "sinonimo": "empezar" }]
+}, {
+    "Palabra": "negar",
+    "Ayuda": {
+        "Nivel1": "tmpvccswju",
+        "Nivel2": "xohfjpkhh",
+        "Nivel3": "wsfwqxfz",
+        "Nivel4": "bbskcxk",
+        "Nivel5": "qkfohm",
+        "Nivel6": "shbmp",
+        "Nivel7": "zpuk",
+        "Nivel8": "tfy"
+    },
+    "Detalle": "negar",
+    "PLetra": "n",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Decir que no es verdad una cosa." }, { "definicion": "No admitir la existencia de algo." }, { "definicion": "Decir que no a lo que se pide." }, { "definicion": "Prohibir, impedir." }],
+    "antonimos": [{ "antonimo": "confirmar" }, { "antonimo": "ratificar" }, { "antonimo": "permitir" }, { "antonimo": "autorizar" }, { "antonimo": "asentir" }],
+    "sinonimos": [{ "sinonimo": "contradecir" }, { "sinonimo": "rechazar" }, { "sinonimo": "desmentir" }, { "sinonimo": "refutar" }, { "sinonimo": "impugnar" }, { "sinonimo": "oponerse" }, { "sinonimo": "rebatir" }, { "sinonimo": "prohibir" }, { "sinonimo": "impedir" }, { "sinonimo": "obstaculizar" }, { "sinonimo": "vedar" }, { "sinonimo": "privar" }, { "sinonimo": "eludir" }, { "sinonimo": "evitar" }, { "sinonimo": "rehuir" }, { "sinonimo": "soslayar" }, { "sinonimo": "esquivar" }]
+}, {
+    "Palabra": "necesitar",
+    "Ayuda": {
+        "Nivel1": "vvvhulozbo",
+        "Nivel2": "bbdkpmvvv",
+        "Nivel3": "jmljdzvg",
+        "Nivel4": "xquwfwq",
+        "Nivel5": "vyugop",
+        "Nivel6": "doujv",
+        "Nivel7": "hbhv",
+        "Nivel8": "zmy"
+    },
+    "Detalle": "necesitar",
+    "PLetra": "n",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "intr. y tr. Tener necesidad de una persona o cosa." }],
+    "antonimos": [{ "antonimo": "sobrar" }, { "antonimo": "bastar" }],
+    "sinonimos": [{ "sinonimo": "precisar" }, { "sinonimo": "requerir" }, { "sinonimo": "urgir" }, { "sinonimo": "exigir" }, { "sinonimo": "pedir" }, { "sinonimo": "carecer" }, { "sinonimo": "escasear" }, { "sinonimo": "faltar" }]
+}, {
+    "Palabra": "nada",
+    "Ayuda": {
+        "Nivel1": "ibmmkukqpz",
+        "Nivel2": "vmtizfkkt",
+        "Nivel3": "zewojixu",
+        "Nivel4": "scoowky",
+        "Nivel5": "crtijj",
+        "Nivel6": "pjwzk",
+        "Nivel7": "vqmb",
+        "Nivel8": "stf"
+    },
+    "Detalle": "nada",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Inexistencia, la ausencia absoluta de cualquier ser o cosa." }, { "definicion": "pron. indef. Ninguna cosa." }, { "definicion": "adv. c. De ninguna manera, en absoluto." }, { "definicion": "Poca o muy poca cantidad de cualquier cosa." }, { "definicion": "Sin esfuerzo." }, { "definicion": "Infructuosamente, sin resultado." }, { "definicion": "loc. adj. De escaso valor, sin importancia." }, { "definicion": "Inmediatamente despues de." }, { "definicion": "intr. Salir del vientre materno." }, { "definicion": "Salir del huevo un animal oviparo." }, { "definicion": "Empezar a salir un vegetal de su semilla." }, { "definicion": "Prorrumpir o brotar." }, { "definicion": "Empezar a dejarse ver un astro en el horizonte." }, { "definicion": "Empezar una cosa desde otra, como saliendo de ella." }, { "definicion": "Inferirse una cosa de otra." }, { "definicion": "Escapar de un peligro sin dano alguno." }, { "definicion": "Estar destinado para un fin o tener una inclinacion natural hacia el." }, { "definicion": "Comenzar en una actividad." }, { "definicion": "prnl. Abrirse una costura hecha muy al borde de la tela, desprendiendose los hilos de la orilla." }, { "definicion": "intr. Mantenerse y avanzar sobre el agua moviendo algunas partes del cuerpo." }, { "definicion": "Flotar en un liquido cualquiera." }, { "definicion": "Abundar en una cosa." }],
+    "antonimos": [{ "antonimo": "todo" }, { "antonimo": "cantidad" }],
+    "sinonimos": [{ "sinonimo": "cero" }, { "sinonimo": "ninguno" }, { "sinonimo": "nadie" }, { "sinonimo": "nulidad" }, { "sinonimo": "carencia" }, { "sinonimo": "ausencia" }]
+}, {
+    "Palabra": "nunca",
+    "Ayuda": {
+        "Nivel1": "zwqrdyitpq",
+        "Nivel2": "zqhxwqxpf",
+        "Nivel3": "rzpprsqt",
+        "Nivel4": "jfyfgqt",
+        "Nivel5": "fxohko",
+        "Nivel6": "grevg",
+        "Nivel7": "qllt",
+        "Nivel8": "ybf"
+    },
+    "Detalle": "nunca",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adv. t. En ningun momento, jamas." }, { "definicion": "Ninguna vez." }],
+    "antonimos": [{ "antonimo": "siempre" }],
+    "sinonimos": [{ "sinonimo": "jamas" }, { "sinonimo": "no" }]
+}, {
+    "Palabra": "ni",
+    "Ayuda": {
+        "Nivel1": "gkrprxrjcx",
+        "Nivel2": "ubzxkobqq",
+        "Nivel3": "bxvavuym",
+        "Nivel4": "cgrcgxs",
+        "Nivel5": "tsbajb",
+        "Nivel6": "jhdvx",
+        "Nivel7": "ojab",
+        "Nivel8": "tsj"
+    },
+    "Detalle": "ni",
+    "PLetra": "n",
+    "ULetra": "i",
+    "definiciones": [{ "definicion": "conj. cop. Enlace coordinante con valor negativo, generalmente precedido de otra negacion." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nosotros",
+    "Ayuda": {
+        "Nivel1": "kixgfqpqga",
+        "Nivel2": "lmdcjdwdc",
+        "Nivel3": "yeazkgyf",
+        "Nivel4": "ayjejzu",
+        "Nivel5": "wuclle",
+        "Nivel6": "wfjpk",
+        "Nivel7": "mjyy",
+        "Nivel8": "ual"
+    },
+    "Detalle": "nosotros",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "pron. Forma del pron. pers. m. y f. de primera persona plural, que en la oracion desempena la funcion de sujeto o de complemento con preposicion." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nosotras",
+    "Ayuda": {
+        "Nivel1": "evyddigbdm",
+        "Nivel2": "yjecbqviy",
+        "Nivel3": "uqucyivk",
+        "Nivel4": "bfxhjph",
+        "Nivel5": "pufdlk",
+        "Nivel6": "bwifb",
+        "Nivel7": "qppm",
+        "Nivel8": "yif"
+    },
+    "Detalle": "nosotras",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nuestro",
+    "Ayuda": {
+        "Nivel1": "vpkaclblpz",
+        "Nivel2": "acylqillc",
+        "Nivel3": "aaahyjww",
+        "Nivel4": "czzlqah",
+        "Nivel5": "xifmaj",
+        "Nivel6": "bgjbk",
+        "Nivel7": "cxaz",
+        "Nivel8": "xhc"
+    },
+    "Detalle": "nuestro",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nuestra",
+    "Ayuda": {
+        "Nivel1": "lyiliwqqih",
+        "Nivel2": "dhjcjozwx",
+        "Nivel3": "vkcoyvyv",
+        "Nivel4": "vkigjyi",
+        "Nivel5": "fcpzly",
+        "Nivel6": "dpvzq",
+        "Nivel7": "dggy",
+        "Nivel8": "xho"
+    },
+    "Detalle": "nuestra",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "ninguno",
+    "Ayuda": {
+        "Nivel1": "qqvddqbrxf",
+        "Nivel2": "afsaksdmf",
+        "Nivel3": "htybvyvm",
+        "Nivel4": "tjqzyme",
+        "Nivel5": "ahabjr",
+        "Nivel6": "cywhd",
+        "Nivel7": "tsfy",
+        "Nivel8": "sfj"
+    },
+    "Detalle": "ninguno",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y pron. indef. Ni uno solo: -" }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "nadie" }, { "sinonimo": "ningun" }]
+}, {
+    "Palabra": "ninguna",
+    "Ayuda": {
+        "Nivel1": "ovvtyjlssv",
+        "Nivel2": "pvcdpxwcl",
+        "Nivel3": "vcrwcvjt",
+        "Nivel4": "yvxqqyc",
+        "Nivel5": "owqbbr",
+        "Nivel6": "lesfe",
+        "Nivel7": "romy",
+        "Nivel8": "jte"
+    },
+    "Detalle": "ninguna",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y pron. indef. Ni uno solo: -" }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "nadie" }, { "sinonimo": "ningun" }]
+}, {
+    "Palabra": "nada",
+    "Ayuda": {
+        "Nivel1": "tsfbyofrqj",
+        "Nivel2": "mqjpxgxfq",
+        "Nivel3": "cxrcitcb",
+        "Nivel4": "ouseuxh",
+        "Nivel5": "zvcero",
+        "Nivel6": "jiyxf",
+        "Nivel7": "zrvs",
+        "Nivel8": "bgo"
+    },
+    "Detalle": "nada",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Inexistencia, la ausencia absoluta de cualquier ser o cosa." }, { "definicion": "pron. indef. Ninguna cosa." }, { "definicion": "adv. c. De ninguna manera, en absoluto." }, { "definicion": "Poca o muy poca cantidad de cualquier cosa." }, { "definicion": "Sin esfuerzo." }, { "definicion": "Infructuosamente, sin resultado." }, { "definicion": "loc. adj. De escaso valor, sin importancia." }, { "definicion": "Inmediatamente despues de." }, { "definicion": "intr. Salir del vientre materno." }, { "definicion": "Salir del huevo un animal oviparo." }, { "definicion": "Empezar a salir un vegetal de su semilla." }, { "definicion": "Prorrumpir o brotar." }, { "definicion": "Empezar a dejarse ver un astro en el horizonte." }, { "definicion": "Empezar una cosa desde otra, como saliendo de ella." }, { "definicion": "Inferirse una cosa de otra." }, { "definicion": "Escapar de un peligro sin dano alguno." }, { "definicion": "Estar destinado para un fin o tener una inclinacion natural hacia el." }, { "definicion": "Comenzar en una actividad." }, { "definicion": "prnl. Abrirse una costura hecha muy al borde de la tela, desprendiendose los hilos de la orilla." }, { "definicion": "intr. Mantenerse y avanzar sobre el agua moviendo algunas partes del cuerpo." }, { "definicion": "Flotar en un liquido cualquiera." }, { "definicion": "Abundar en una cosa." }],
+    "antonimos": [{ "antonimo": "todo" }, { "antonimo": "cantidad" }],
+    "sinonimos": [{ "sinonimo": "cero" }, { "sinonimo": "ninguno" }, { "sinonimo": "nadie" }, { "sinonimo": "nulidad" }, { "sinonimo": "carencia" }, { "sinonimo": "ausencia" }]
+}, {
+    "Palabra": "nadie",
+    "Ayuda": {
+        "Nivel1": "pwkystjsuy",
+        "Nivel2": "frqtowpxv",
+        "Nivel3": "oxcjzwgl",
+        "Nivel4": "sxxcqsr",
+        "Nivel5": "cjvtok",
+        "Nivel6": "hvouq",
+        "Nivel7": "kutu",
+        "Nivel8": "sks"
+    },
+    "Detalle": "nadie",
+    "PLetra": "n",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "pron. indet. Ninguna persona." }, { "definicion": "m. Persona insignificante." }],
+    "antonimos": [{ "antonimo": "alguien" }, { "antonimo": "alguno" }],
+    "sinonimos": [{ "sinonimo": "ninguno" }, { "sinonimo": "ningunapersona" }]
+}, {
+    "Palabra": "ni siquiera",
+    "Ayuda": {
+        "Nivel1": "fzmjvyvxkb",
+        "Nivel2": "hpwvbgdlp",
+        "Nivel3": "cpcwfwjz",
+        "Nivel4": "zdcxbcf",
+        "Nivel5": "zthzkj",
+        "Nivel6": "fvckh",
+        "Nivel7": "bwzo",
+        "Nivel8": "hbm"
+    },
+    "Detalle": "ni siquiera",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "conj. cop. Enlace coordinante con valor negativo, generalmente precedido de otra negacion." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "noticias",
+    "Ayuda": {
+        "Nivel1": "lpvbhdjdde",
+        "Nivel2": "dqmerjydd",
+        "Nivel3": "gdjphpgd",
+        "Nivel4": "mzjwezb",
+        "Nivel5": "zhwwzr",
+        "Nivel6": "blqmk",
+        "Nivel7": "zwzb",
+        "Nivel8": "ejp"
+    },
+    "Detalle": "noticias",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Divulgacion o publicacion de un hecho." }, { "definicion": "El hecho divulgado." }, { "definicion": "Nocion, conocimiento." }, { "definicion": "f. pl. Noticiario o boletin informativo de radio o television." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "suceso" }, { "sinonimo": "novedad" }, { "sinonimo": "acaecimiento" }, { "sinonimo": "nueva" }, { "sinonimo": "revelacion" }, { "sinonimo": "primicia" }, { "sinonimo": "comunicacion" }, { "sinonimo": "informe" }, { "sinonimo": "reportaje" }, { "sinonimo": "cronica" }, { "sinonimo": "idea" }, { "sinonimo": "conocimiento" }, { "sinonimo": "nocion" }, { "sinonimo": "recuerdo" }]
+}, {
+    "Palabra": "nicolas",
+    "Ayuda": {
+        "Nivel1": "bdyybeqvhb",
+        "Nivel2": "ekuhfykwb",
+        "Nivel3": "ekxeurbq",
+        "Nivel4": "dywxhxf",
+        "Nivel5": "gudpwx",
+        "Nivel6": "kqdyz",
+        "Nivel7": "dyzw",
+        "Nivel8": "kte"
+    },
+    "Detalle": "nicolas",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "noticias",
+    "Ayuda": {
+        "Nivel1": "mehfbpbeey",
+        "Nivel2": "hmqbvheem",
+        "Nivel3": "wfgxffgz",
+        "Nivel4": "pdwdewd",
+        "Nivel5": "udryku",
+        "Nivel6": "bhjfe",
+        "Nivel7": "wqeq",
+        "Nivel8": "wjr"
+    },
+    "Detalle": "noticias",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Divulgacion o publicacion de un hecho." }, { "definicion": "El hecho divulgado." }, { "definicion": "Nocion, conocimiento." }, { "definicion": "f. pl. Noticiario o boletin informativo de radio o television." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "suceso" }, { "sinonimo": "novedad" }, { "sinonimo": "acaecimiento" }, { "sinonimo": "nueva" }, { "sinonimo": "revelacion" }, { "sinonimo": "primicia" }, { "sinonimo": "comunicacion" }, { "sinonimo": "informe" }, { "sinonimo": "reportaje" }, { "sinonimo": "cronica" }, { "sinonimo": "idea" }, { "sinonimo": "conocimiento" }, { "sinonimo": "nocion" }, { "sinonimo": "recuerdo" }]
+}, {
+    "Palabra": "nota",
+    "Ayuda": {
+        "Nivel1": "qhruvlyrbh",
+        "Nivel2": "jsukdiihw",
+        "Nivel3": "jzqqkgwx",
+        "Nivel4": "uxhzjmc",
+        "Nivel5": "pdfqkg",
+        "Nivel6": "pfuis",
+        "Nivel7": "becb",
+        "Nivel8": "cmq"
+    },
+    "Detalle": "nota",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Escrito breve que recuerda o avisa de algo." }, { "definicion": "Advertencia, explicacion o comentario a un texto, que se incluyen en el mismo de forma separada para diferenciarlos del texto principal." }, { "definicion": "Escrito que resume una exposicion oral, realizado durante su desarrollo; apunte. Mas en pl." }, { "definicion": "Calificacion." }, { "definicion": "Factura." }, { "definicion": "Signos utilizados en musica para representar los sonidos." }, { "definicion": "Cada uno de estos sonidos." }, { "definicion": "Marca, caracteristica." }, { "definicion": "tr. Darse cuenta de algo: Tambien prnl." }, { "definicion": "Poner notas a los escritos o libros." }, { "definicion": "Apuntar brevemente una cosa para que no se olvide." }, { "definicion": "Calificar, juzgar." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "apunte" }, { "sinonimo": "llamada" }, { "sinonimo": "mensaje" }, { "sinonimo": "aviso" }, { "sinonimo": "misiva" }, { "sinonimo": "acotacion" }, { "sinonimo": "recordatorio" }, { "sinonimo": "indicacion" }, { "sinonimo": "anotacion" }, { "sinonimo": "comentario" }, { "sinonimo": "glosa" }, { "sinonimo": "observacion" }, { "sinonimo": "inscripcion" }, { "sinonimo": "senal" }, { "sinonimo": "calificacion" }, { "sinonimo": "resultado" }, { "sinonimo": "puntuacion" }, { "sinonimo": "evaluacion" }, { "sinonimo": "valoracion" }]
+}, {
+    "Palabra": "nosotros",
+    "Ayuda": {
+        "Nivel1": "juvezjwvhi",
+        "Nivel2": "bbxxvwwje",
+        "Nivel3": "jqwgmbmi",
+        "Nivel4": "elimzvj",
+        "Nivel5": "kmdxmp",
+        "Nivel6": "jxeul",
+        "Nivel7": "xjja",
+        "Nivel8": "qwf"
+    },
+    "Detalle": "nosotros",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "pron. Forma del pron. pers. m. y f. de primera persona plural, que en la oracion desempena la funcion de sujeto o de complemento con preposicion." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nuestros",
+    "Ayuda": {
+        "Nivel1": "fhfzgymxwq",
+        "Nivel2": "dzjkjmvif",
+        "Nivel3": "yllcikkv",
+        "Nivel4": "kdfzqbd",
+        "Nivel5": "qbpxib",
+        "Nivel6": "wcjdv",
+        "Nivel7": "pffp",
+        "Nivel8": "gad"
+    },
+    "Detalle": "nuestros",
+    "PLetra": "n",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "newton",
+    "Ayuda": {
+        "Nivel1": "cdjbmxvlvs",
+        "Nivel2": "hvdkxhscj",
+        "Nivel3": "ujbpbgsm",
+        "Nivel4": "mrvbvml",
+        "Nivel5": "uvqjuy",
+        "Nivel6": "fbmqk",
+        "Nivel7": "pvhv",
+        "Nivel8": "khb"
+    },
+    "Detalle": "newton",
+    "PLetra": "n",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Unidad de fuerza del Sistema Internacional que equivale a la fuerza necesaria para que un cuerpo de 1 kilogramo adquiera una aceleracion de un metro por segundo al cuadrado. Su simbolo es" }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "necesidad",
+    "Ayuda": {
+        "Nivel1": "pvujjpfrxl",
+        "Nivel2": "qqhlxuukx",
+        "Nivel3": "mxzjjvww",
+        "Nivel4": "rmuvbbo",
+        "Nivel5": "zggvmo",
+        "Nivel6": "bfrvp",
+        "Nivel7": "plur",
+        "Nivel8": "xgm"
+    },
+    "Detalle": "necesidad",
+    "PLetra": "n",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Lo que hace que las cosas sucedan infaliblemente de cierta manera." }, { "definicion": "Obligacion." }, { "definicion": "Carencia o escasez de lo imprescindible para vivir." }, { "definicion": "Falta continuada de alimento que produce debilidad." }, { "definicion": "Situacion dificil que atraviesa alguien." }, { "definicion": "Impulso irrefrenable." }, { "definicion": "Evacuacion corporal de heces u orina. Mas en pl." }],
+    "antonimos": [{ "antonimo": "abundancia" }, { "antonimo": "opulencia" }],
+    "sinonimos": [{ "sinonimo": "obligacion" }, { "sinonimo": "menester" }, { "sinonimo": "exigencia" }, { "sinonimo": "requisito" }, { "sinonimo": "apuro" }, { "sinonimo": "aprieto" }, { "sinonimo": "carencia" }, { "sinonimo": "escasez" }, { "sinonimo": "fatalidad" }, { "sinonimo": "indigencia" }, { "sinonimo": "penuria" }, { "sinonimo": "miseria" }, { "sinonimo": "pobreza" }, { "sinonimo": "excrecion" }, { "sinonimo": "evacuacion" }, { "sinonimo": "deposicion" }, { "sinonimo": "defecacion" }, { "sinonimo": "miccion" }]
+}, {
+    "Palabra": "neuquen",
+    "Ayuda": {
+        "Nivel1": "dgcmajzrvs",
+        "Nivel2": "jowlpjjgg",
+        "Nivel3": "adhibwsw",
+        "Nivel4": "whkwllr",
+        "Nivel5": "vpdojb",
+        "Nivel6": "lcxww",
+        "Nivel7": "crkj",
+        "Nivel8": "tfj"
+    },
+    "Detalle": "neuquen",
+    "PLetra": "n",
+    "ULetra": "n",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "nutria",
+    "Ayuda": {
+        "Nivel1": "chbzqvzepe",
+        "Nivel2": "cefbzocsh",
+        "Nivel3": "hvvxvboj",
+        "Nivel4": "xldzpqk",
+        "Nivel5": "qzjlmv",
+        "Nivel6": "olbzw",
+        "Nivel7": "cghq",
+        "Nivel8": "cwz"
+    },
+    "Detalle": "nutria",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Nombre comun de diversos mamiferos carnivoros de cabeza chata, orejas muy pequenas, patas cortas y cola larga. Viven a la orilla de los rios y se alimentan de peces, ranas, ratas de agua y aves acuaticas. De color pardo, se las caza por sus pieles." }, { "definicion": "tr. y prnl. Proporcionar a un organismo vivo las sustancias que necesita para realizar sus funciones." }, { "definicion": "Fortalecer, vigorizar, alentar." }, { "definicion": "Llenar, colmar." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "alimentar" }, { "sinonimo": "sustentar" }, { "sinonimo": "mantener" }, { "sinonimo": "amamantar" }, { "sinonimo": "sostener" }, { "sinonimo": "cebar" }, { "sinonimo": "atiborrar" }, { "sinonimo": "fortalecer" }, { "sinonimo": "robustecer" }, { "sinonimo": "vigorizar" }, { "sinonimo": "reforzar" }, { "sinonimo": "abastecer" }, { "sinonimo": "suministrar" }, { "sinonimo": "proveer" }, { "sinonimo": "surtir" }]
+}, {
+    "Palabra": "niña",
+    "Ayuda": {},
+    "Detalle": "niña",
+    "PLetra": "n",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "niñero",
+    "Ayuda": {},
+    "Detalle": "niñero",
+    "PLetra": "n",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}]

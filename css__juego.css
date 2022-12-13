@@ -1,0 +1,157 @@
+/**======================
+ * Fondo
+ *========================**/
+
+.FondoAhorcado0 {
+    background-image: url("imagen/ahorcado0.png");
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+}
+
+.FondoAhorcado1 {
+    background-image: url("imagen/ahorcado1.png");
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+}
+
+.FondoAhorcado2 {
+    background-image: url("imagen/ahorcado2.png");
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+}
+
+.FondoAhorcado3 {
+    background-image: url("imagen/ahorcado3.png");
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+}
+
+.FondoAhorcado4 {
+    background-image: url("imagen/ahorcado4.png");
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+}
+
+.FondoAhorcado5 {
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+    background-image: url("imagen/ahorcado5.png");
+}
+
+.FondoAhorcado6 {
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+    background-image: url("imagen/ahorcado6.png");
+}
+
+.FondoAhorcado7 {
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+    background-image: url("imagen/ahorcado7.png");
+}
+
+.FondoAhorcado8 {
+    width: 117px;
+    height: 121px;
+    margin: 50px 5px 25px 100px;
+    background-image: url("imagen/ahorcado8.png");
+}
+
+
+/**======================
+ * PRIMERA 
+ *========================**/
+
+.TecladoAhorcado {
+    position: relative;
+    left: 5px;
+    top: 5px;
+    background-color: #1d646f;
+    color: var(--color-blanco);
+    padding: 15px;
+    border-radius: 10px;
+    width: 500px;
+    margin: 10px auto auto 50px;
+    border: 5px solid #3b3535;
+}
+
+.LetrasAhorcado {
+    height: 60px;
+    margin: 10px 5px 15px 5px;
+    text-align: center;
+}
+
+
+/**======================
+ * SE  TERMINO
+ *========================**/
+
+.VueltaCargar {
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    left: 5px;
+    top: 5px;
+    background-color: #1bcfeb;
+    color: var(--color-negro);
+    padding: 15px;
+    border-radius: 10px;
+    width: 500px;
+    margin: 10px auto auto 50px;
+    border: 2px solid #3b3535;
+}
+
+.VueltaCargar:hover {
+    background-color: #06282e;
+    color: var(--color-blanco);
+    border: 2px solid #cfe715;
+}
+
+
+/**======================
+ * PISTAS PANTALLA
+ *========================**/
+
+.Pistas12 {
+    position: absolute;
+    left: 60px;
+    top: 280px;
+    padding: 2px;
+    width: 530px;
+    background-color: var(--color-negro);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Pistas12:hover {
+    background-color: #1bcfeb;
+}
+
+.Pistas {
+    color: var(--color-azul);
+    padding: 10px;
+    display: block;
+}
+
+.TPista1,
+.TPista3,
+.TPista2 {
+    background-color: var(--color-blanco);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.DPista1,
+.DPista3,
+.DPista2 {
+    color: var(--color-blanco);
+    background-color: var(--color-azul);
+}

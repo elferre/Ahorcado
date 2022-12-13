@@ -1,0 +1,11 @@
+<!--* Contribuciones
+    API para las explicaciones
+    http://sesat.fdi.ucm.es:8080/servicios/rest/definicion/json/
+    http://sesat.fdi.ucm.es:8080/servicios/rest/sinonimos/json/
+    http://sesat.fdi.ucm.es:8080/servicios/rest/antonimos/json/
+    --->
+
+<!--* Version
+    1.00.00 : Primera Version 2022-05-28
+    1.00.01 : Funcional en dos HTML 2022-05-30 12:27:13
+    --->

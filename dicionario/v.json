@@ -1,0 +1,991 @@
+[{
+    "Palabra": "vida",
+    "Ayuda": {
+        "Nivel1": "elssrcerom",
+        "Nivel2": "joyfjyteu",
+        "Nivel3": "suwcxwqk",
+        "Nivel4": "mhomtkx",
+        "Nivel5": "pgyujr",
+        "Nivel6": "sgesq",
+        "Nivel7": "usur",
+        "Nivel8": "rex"
+    },
+    "Detalle": "vida",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Capacidad de los seres vivos para desarrollarse, reproducirse y mantenerse en un ambiente." }, { "definicion": "Existencia de seres vivos." }, { "definicion": "Espacio de tiempo que transcurre desde el nacimiento de un ser vivo hasta su muerte." }, { "definicion": "Duracion de las cosas." }, { "definicion": "Conjunto de medios para vivir." }, { "definicion": "Modo de vivir." }, { "definicion": "Ser humano." }, { "definicion": "Relato de la existencia de una persona." }, { "definicion": "Prostitucion, dicho de las mujeres." }, { "definicion": "Cualquier cosa que produce una gran satisfaccion o da valor a la existencia de alguien." }, { "definicion": "Animacion, diversion." }, { "definicion": "Expresion, viveza, especialmente referido a los ojos." }, { "definicion": "Estado del alma despues de la muerte, segun algunas religiones." }, { "definicion": "Union del alma con el cuerpo en algunas religiones." }, { "definicion": "Actividad o conjunto de actividades de un grupo social." }],
+    "antonimos": [{ "antonimo": "muerte" }, { "antonimo": "fin" }, { "antonimo": "ocaso" }, { "antonimo": "debilidad" }],
+    "sinonimos": [{ "sinonimo": "existencia" }, { "sinonimo": "subsistencia" }, { "sinonimo": "supervivencia" }, { "sinonimo": "duracion" }, { "sinonimo": "energia" }, { "sinonimo": "actividad" }, { "sinonimo": "fuerza" }, { "sinonimo": "savia" }, { "sinonimo": "vigor" }, { "sinonimo": "conducta" }, { "sinonimo": "comportamiento" }, { "sinonimo": "proceder" }, { "sinonimo": "modo" }, { "sinonimo": "manera" }, { "sinonimo": "actuacion" }, { "sinonimo": "biografia" }, { "sinonimo": "historia" }, { "sinonimo": "hechos" }, { "sinonimo": "cronica" }, { "sinonimo": "sucesos" }, { "sinonimo": "hazanas" }, { "sinonimo": "relacion" }]
+}, {
+    "Palabra": "vaca",
+    "Ayuda": {
+        "Nivel1": "ssoeysuuwk",
+        "Nivel2": "xtpruuhpq",
+        "Nivel3": "opdwjfxy",
+        "Nivel4": "oikgfrt",
+        "Nivel5": "tnzjbf",
+        "Nivel6": "wjgjh",
+        "Nivel7": "nemo",
+        "Nivel8": "sht"
+    },
+    "Detalle": "vaca",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Hembra del toro." }, { "definicion": "Carne o piel de este animal." }, { "definicion": "Persona muy gorda." }, { "definicion": "intr. Cesar uno por algun tiempo en sus tareas y actividades habituales." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "res" }, { "sinonimo": "ternera" }, { "sinonimo": "becerra" }, { "sinonimo": "vaquilla" }, { "sinonimo": "bovino" }]
+}, {
+    "Palabra": "vegetal",
+    "Ayuda": {
+        "Nivel1": "qwhkpudqbb",
+        "Nivel2": "qooiwnjfq",
+        "Nivel3": "ndrocrfc",
+        "Nivel4": "ismjydi",
+        "Nivel5": "wzsrmr",
+        "Nivel6": "imdbi",
+        "Nivel7": "oyrk",
+        "Nivel8": "dkw"
+    },
+    "Detalle": "vegetal",
+    "PLetra": "v",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Perteneciente o relativo a las plantas, o que procede de ellas." }, { "definicion": "Que vegeta." }, { "definicion": "m. Ser organico que vive y se desarrolla, pero no tiene capacidad de movimiento o desplazamiento voluntario." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "planta" }, { "sinonimo": "arbol" }, { "sinonimo": "arbusto" }, { "sinonimo": "hortaliza" }, { "sinonimo": "mata" }]
+}, {
+    "Palabra": "verdura",
+    "Ayuda": {
+        "Nivel1": "pscninmhqb",
+        "Nivel2": "znpficmyz",
+        "Nivel3": "flkiqstg",
+        "Nivel4": "npxwhgs",
+        "Nivel5": "ygnhxk",
+        "Nivel6": "jwlcl",
+        "Nivel7": "hktw",
+        "Nivel8": "tzo"
+    },
+    "Detalle": "verdura",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Hortalizas en general, y especialmente las de hojas verdes." }, { "definicion": "Verdor." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "hortaliza" }, { "sinonimo": "legumbre" }, { "sinonimo": "vegetal" }, { "sinonimo": "fronda" }, { "sinonimo": "ramaje" }, { "sinonimo": "hojarasca" }, { "sinonimo": "bosque" }, { "sinonimo": "boscaje" }, { "sinonimo": "follaje" }, { "sinonimo": "espesura" }]
+}, {
+    "Palabra": "viernes",
+    "Ayuda": {
+        "Nivel1": "xoumwjuqjg",
+        "Nivel2": "pqtzhmwcy",
+        "Nivel3": "tpatczjp",
+        "Nivel4": "bommmbx",
+        "Nivel5": "hplmym",
+        "Nivel6": "bbmgf",
+        "Nivel7": "ujfm",
+        "Nivel8": "ahh"
+    },
+    "Detalle": "viernes",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Dia de la semana, entre el jueves y el sabado. ♦ No varia en pl." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "volumen",
+    "Ayuda": {
+        "Nivel1": "izdfsftzsi",
+        "Nivel2": "wkhbkaqpr",
+        "Nivel3": "scacakif",
+        "Nivel4": "rarsdpy",
+        "Nivel5": "wxztjp",
+        "Nivel6": "ctabf",
+        "Nivel7": "xarb",
+        "Nivel8": "tft"
+    },
+    "Detalle": "volumen",
+    "PLetra": "v",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Espacio que ocupa una cosa, bulto, corpulencia." }, { "definicion": "Cuerpo material de un libro encuadernado, ya contenga la obra completa o una parte de ella." }, { "definicion": "Cuerpo geometrico de tres dimensiones." }, { "definicion": "Intensidad de la voz o de otros sonidos." }, { "definicion": "Cantidad o importancia." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "bulto" }, { "sinonimo": "cuerpo" }, { "sinonimo": "masa" }, { "sinonimo": "dimension" }, { "sinonimo": "corpulencia" }, { "sinonimo": "magnitud" }, { "sinonimo": "capacidad" }, { "sinonimo": "cabida" }, { "sinonimo": "tonelaje" }, { "sinonimo": "aforo" }, { "sinonimo": "tomo" }, { "sinonimo": "ejemplar" }, { "sinonimo": "libro" }, { "sinonimo": "texto" }]
+}, {
+    "Palabra": "viento",
+    "Ayuda": {
+        "Nivel1": "zzbzlbalww",
+        "Nivel2": "ujbcwqfph",
+        "Nivel3": "wsxguabm",
+        "Nivel4": "qwhuczr",
+        "Nivel5": "abcczc",
+        "Nivel6": "fhbyw",
+        "Nivel7": "ykaw",
+        "Nivel8": "paw"
+    },
+    "Detalle": "viento",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Corriente de aire producida en la atmosfera por el encuentro de diferentes presiones en areas distintas." }, { "definicion": "Conjunto de instrumentos de viento de una orquesta o banda de musica." }, { "definicion": "Cuerda larga o alambre que se ata a una cosa para mantenerla derecha en alto o moverla con seguridad hacia un lado." }, { "definicion": "Rumbo, direccion trazada en el plano del horizonte." }, { "definicion": "Corriente, moda, movimiento." }],
+    "antonimos": [{ "antonimo": "calma" }],
+    "sinonimos": [{ "sinonimo": "aire" }, { "sinonimo": "brisa" }, { "sinonimo": "ventisca" }, { "sinonimo": "galerna" }, { "sinonimo": "huracan" }, { "sinonimo": "corriente" }, { "sinonimo": "torbellino" }, { "sinonimo": "ciclon" }, { "sinonimo": "tromba" }, { "sinonimo": "tornado" }, { "sinonimo": "remolino" }, { "sinonimo": "vendaval" }, { "sinonimo": "tifon" }, { "sinonimo": "cefiro" }, { "sinonimo": "ventarron" }]
+}, {
+    "Palabra": "vapor",
+    "Ayuda": {
+        "Nivel1": "iztcdmnzuq",
+        "Nivel2": "jimxqkgxf",
+        "Nivel3": "fsyjwsns",
+        "Nivel4": "mfkgnzj",
+        "Nivel5": "mmbzbs",
+        "Nivel6": "uzicc",
+        "Nivel7": "jndx",
+        "Nivel8": "lxf"
+    },
+    "Detalle": "vapor",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Estado gaseoso que adoptan los fluidos por la accion del calor." }, { "definicion": "Buque de vapor." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "vaho" }, { "sinonimo": "fluido" }, { "sinonimo": "gas" }, { "sinonimo": "neblina" }, { "sinonimo": "niebla" }, { "sinonimo": "exhalacion" }, { "sinonimo": "emanacion" }]
+}, {
+    "Palabra": "villa",
+    "Ayuda": {
+        "Nivel1": "qkheqkuttb",
+        "Nivel2": "qdokwscek",
+        "Nivel3": "wwpssbzo",
+        "Nivel4": "cukerko",
+        "Nivel5": "oxnpyf",
+        "Nivel6": "ydunw",
+        "Nivel7": "gwcs",
+        "Nivel8": "yhm"
+    },
+    "Detalle": "villa",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Casa de recreo en el campo." }, { "definicion": "Poblacion con privilegios e importancia historica." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ayuntamiento" }, { "sinonimo": "burgo" }, { "sinonimo": "ciudad" }, { "sinonimo": "localidad" }, { "sinonimo": "poblacion" }, { "sinonimo": "urbe" }, { "sinonimo": "plaza" }, { "sinonimo": "pueblo" }, { "sinonimo": "municipio" }, { "sinonimo": "aldea" }, { "sinonimo": "lugar" }, { "sinonimo": "villorrio" }, { "sinonimo": "casa" }, { "sinonimo": "hotelito" }, { "sinonimo": "chale" }, { "sinonimo": "finca" }, { "sinonimo": "palacete" }, { "sinonimo": "quinta" }]
+}, {
+    "Palabra": "vuelto",
+    "Ayuda": {
+        "Nivel1": "rqpwrkbhas",
+        "Nivel2": "dcjbpbdkf",
+        "Nivel3": "ibjjqxfq",
+        "Nivel4": "fgzmmkq",
+        "Nivel5": "hzqnzz",
+        "Nivel6": "hyccd",
+        "Nivel7": "xhsp",
+        "Nivel8": "hwx"
+    },
+    "Detalle": "vuelto",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. [Parte de atras de una hoja o folio] que solo esta numerado por delante." }, { "definicion": "m. Dinero que se devuelve porque sobra despues de hacer algun pago." }, { "definicion": "f. Accion de volver." }, { "definicion": "Movimiento de una cosa alrededor de un punto, o girando sobre si misma, hasta invertir su posicion inicial." }, { "definicion": "Curvatura en una linea, camino, etc." }, { "definicion": "Cada uno de los giros que da una cosa alrededor de otra, p. ej., de un cable al enrollarse." }, { "definicion": "Paseo, generalmente breve." }, { "definicion": "En ciclismo y otros deportes, carrera en etapas en torno a un pais, region, comarca, etc." }, { "definicion": "Cada una de las partes o etapas en que se dividen ciertas actividades." }, { "definicion": "Devolucion de una cosa a quien la tenia." }, { "definicion": "Paso o repaso que se da a una materia leyendola." }, { "definicion": "Dinero que se devuelve a alguien, porque le sobra despues de hacer algun pago." }, { "definicion": "Tira de tela que se pone en el borde de las mangas u otras partes de las prendas de vestir, o parte de ellas que queda doblada." }, { "definicion": "tr. Dar la vuelta a algo." }, { "definicion": "Cambiar de sentido o direccion: Tambien intr. y prnl." }, { "definicion": "Cambiar a una persona o cosa de aspecto, estado, opinion, etc. Mas c. prnl." }, { "definicion": "Rehacer una prenda de vestir de modo que el reves de la tela quede al exterior, como derecho." }, { "definicion": "intr. Regresar al punto de partida: Tambien prnl." }, { "definicion": "Producirse de nuevo una cosa." }, { "definicion": "Hacer de nuevo o repetirse lo que ya se habia hecho. ♦ Se construye con la prep." }, { "definicion": "Reanudar una conversacion, discurso, etc., en el punto en que se habia interrumpido." }],
+    "antonimos": [{ "antonimo": "irse" }, { "antonimo": "marcharse" }, { "antonimo": "dejar" }, { "antonimo": "abandonar" }],
+    "sinonimos": [{ "sinonimo": "regresar" }, { "sinonimo": "retornar" }, { "sinonimo": "tornar" }, { "sinonimo": "reaparecer" }, { "sinonimo": "venir" }, { "sinonimo": "llegar" }, { "sinonimo": "reanudar" }, { "sinonimo": "retomar" }, { "sinonimo": "reemprender" }, { "sinonimo": "reiterar" }, { "sinonimo": "repetir" }, { "sinonimo": "insistir" }, { "sinonimo": "invertir" }, { "sinonimo": "girar" }, { "sinonimo": "virar" }, { "sinonimo": "volcar" }, { "sinonimo": "voltear" }, { "sinonimo": "torcer" }, { "sinonimo": "cambiarse" }, { "sinonimo": "transformarse" }, { "sinonimo": "convertirse" }, { "sinonimo": "renovarse" }, { "sinonimo": "mudarse" }]
+}, {
+    "Palabra": "valor",
+    "Ayuda": {
+        "Nivel1": "queumpmsge",
+        "Nivel2": "qdxtysfeu",
+        "Nivel3": "ztedezqg",
+        "Nivel4": "btkyezz",
+        "Nivel5": "tustmy",
+        "Nivel6": "bghgy",
+        "Nivel7": "fnkt",
+        "Nivel8": "yfk"
+    },
+    "Detalle": "valor",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Precio, suma de dinero en que se valora o aprecia algo." }, { "definicion": "Cualidad, virtud o utilidad que hacen que algo o alguien sean apreciados." }, { "definicion": "Importancia de una cosa, accion, palabra o frase." }, { "definicion": "Cualidad del valiente." }, { "definicion": "Osadia, desvergüenza." }, { "definicion": "Equivalencia de una cosa a otra, especialmente hablando de las monedas." }, { "definicion": "Duracion del sonido de cada figura musical." }, { "definicion": "Cantidad que establece la determinacion de una variable." }, { "definicion": "pl. Principios ideologicos o morales por los que se guia una sociedad." }, { "definicion": "Titulos representativos de participacion en haberes de sociedades." }],
+    "antonimos": [{ "antonimo": "desinteres" }, { "antonimo": "inutilidad" }, { "antonimo": "cobardia" }, { "antonimo": "timidez" }, { "antonimo": "discrecion" }, { "antonimo": "vergüenza" }],
+    "sinonimos": [{ "sinonimo": "precio" }, { "sinonimo": "coste" }, { "sinonimo": "importe" }, { "sinonimo": "cotizacion" }, { "sinonimo": "valoracion" }, { "sinonimo": "tasacion" }, { "sinonimo": "merito" }, { "sinonimo": "utilidad" }, { "sinonimo": "interes" }, { "sinonimo": "atractivo" }, { "sinonimo": "importancia" }, { "sinonimo": "estimacion" }, { "sinonimo": "beneficio" }, { "sinonimo": "provecho" }, { "sinonimo": "validez" }, { "sinonimo": "legalidad" }, { "sinonimo": "vigencia" }, { "sinonimo": "actualidad" }, { "sinonimo": "efectividad" }, { "sinonimo": "valentia" }, { "sinonimo": "audacia" }, { "sinonimo": "coraje" }, { "sinonimo": "osadia" }, { "sinonimo": "arrojo" }, { "sinonimo": "arresto" }, { "sinonimo": "intrepidez" }, { "sinonimo": "entereza" }, { "sinonimo": "atrevimiento" }, { "sinonimo": "desvergüenza" }, { "sinonimo": "cara" }, { "sinonimo": "jeta" }, { "sinonimo": "morro" }, { "sinonimo": "desfachatez" }]
+}, {
+    "Palabra": "ventana",
+    "Ayuda": {
+        "Nivel1": "dsjuihdwld",
+        "Nivel2": "ruourrhws",
+        "Nivel3": "ozbgzmjk",
+        "Nivel4": "wsrxkky",
+        "Nivel5": "ymmjmg",
+        "Nivel6": "qpgiu",
+        "Nivel7": "zuqf",
+        "Nivel8": "flc"
+    },
+    "Detalle": "ventana",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Abertura hecha por lo general de la parte media a la parte superior de una pared para dar luz y ventilacion." }, { "definicion": "Armazon y cristales con que se cierra esa abertura." }, { "definicion": "Cada uno de los orificios de la nariz." }, { "definicion": "Entorno grafico de cada una de las aplicaciones de un ordenador." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "portillo" }, { "sinonimo": "tragaluz" }, { "sinonimo": "ventano" }, { "sinonimo": "abertura" }, { "sinonimo": "ventanilla" }, { "sinonimo": "ventanal" }, { "sinonimo": "claraboya" }, { "sinonimo": "cristalera" }, { "sinonimo": "tronera" }, { "sinonimo": "mirador" }, { "sinonimo": "roseton" }, { "sinonimo": "vidriera" }, { "sinonimo": "vano" }]
+}, {
+    "Palabra": "vehñculo",
+    "Ayuda": {},
+    "Detalle": "vehñculo",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "f. Abertura hecha por lo general de la parte media a la parte superior de una pared para dar luz y ventilacion." }, { "definicion": "Armazon y cristales con que se cierra esa abertura." }, { "definicion": "Cada uno de los orificios de la nariz." }, { "definicion": "Entorno grafico de cada una de las aplicaciones de un ordenador." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "portillo" }, { "sinonimo": "tragaluz" }, { "sinonimo": "ventano" }, { "sinonimo": "abertura" }, { "sinonimo": "ventanilla" }, { "sinonimo": "ventanal" }, { "sinonimo": "claraboya" }, { "sinonimo": "cristalera" }, { "sinonimo": "tronera" }, { "sinonimo": "mirador" }, { "sinonimo": "roseton" }, { "sinonimo": "vidriera" }, { "sinonimo": "vano" }]
+}, {
+    "Palabra": "vña",
+    "Ayuda": {},
+    "Detalle": "vña",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Abertura hecha por lo general de la parte media a la parte superior de una pared para dar luz y ventilacion." }, { "definicion": "Armazon y cristales con que se cierra esa abertura." }, { "definicion": "Cada uno de los orificios de la nariz." }, { "definicion": "Entorno grafico de cada una de las aplicaciones de un ordenador." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "portillo" }, { "sinonimo": "tragaluz" }, { "sinonimo": "ventano" }, { "sinonimo": "abertura" }, { "sinonimo": "ventanilla" }, { "sinonimo": "ventanal" }, { "sinonimo": "claraboya" }, { "sinonimo": "cristalera" }, { "sinonimo": "tronera" }, { "sinonimo": "mirador" }, { "sinonimo": "roseton" }, { "sinonimo": "vidriera" }, { "sinonimo": "vano" }]
+}, {
+    "Palabra": "voz",
+    "Ayuda": {
+        "Nivel1": "lfagmlqhlf",
+        "Nivel2": "ltjabwyuc",
+        "Nivel3": "eedqfahn",
+        "Nivel4": "mgbsybr",
+        "Nivel5": "hfuujm",
+        "Nivel6": "miqrd",
+        "Nivel7": "gwle",
+        "Nivel8": "lmw"
+    },
+    "Detalle": "voz",
+    "PLetra": "v",
+    "ULetra": "z",
+    "definiciones": [{ "definicion": "f. Sonido que el aire expelido de los pulmones produce al salir de la laringe, haciendo que vibren las cuerdas vocales." }, { "definicion": "Cualidad, timbre o intensidad de este sonido." }, { "definicion": "Sonido que forman algunas cosas inanimadas." }, { "definicion": "Grito, voz fuerte y alta. Mas en pl." }, { "definicion": "Palabra o vocablo." }, { "definicion": "Cantante." }, { "definicion": "Facultad de hablar, aunque no de votar, en una asamblea." }, { "definicion": "Medio a traves del cual se expresan los sentimientos, opiniones, etc., de una persona o colectividad." }, { "definicion": ". Accidente gramatical que expresa si el sujeto del verbo es agente (voz activa) o paciente (voz pasiva)." }, { "definicion": ". Cada una de las lineas melodicas que forman una composicion polifonica." }, { "definicion": "Con el verbo ser alguien el que decide o manda en algun asunto." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "aullido" }, { "sinonimo": "chillido" }, { "sinonimo": "diccion" }, { "sinonimo": "entrada" }, { "sinonimo": "grito" }, { "sinonimo": "grunido" }, { "sinonimo": "lexia" }, { "sinonimo": "notoriedad" }, { "sinonimo": "palabra" }, { "sinonimo": "termino" }, { "sinonimo": "vocablo" }, { "sinonimo": "articulo" }, { "sinonimo": "fama" }]
+}, {
+    "Palabra": "verde",
+    "Ayuda": {
+        "Nivel1": "achbqqumou",
+        "Nivel2": "xwafwwltw",
+        "Nivel3": "ygucgman",
+        "Nivel4": "tnangbt",
+        "Nivel5": "clfqbn",
+        "Nivel6": "xqxgu",
+        "Nivel7": "lggf",
+        "Nivel8": "lcb"
+    },
+    "Detalle": "verde",
+    "PLetra": "v",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. De color semejante al de la hierba fresca o a la esmeralda: Tambien m." }, { "definicion": "[Arbol o planta] que no esta seco." }, { "definicion": "[Lena o forraje] que esta humedo y recien cortado de un arbol vivo." }, { "definicion": "[Legumbre] que se consume fresca, sin ningun tipo de tratamiento de conservacion." }, { "definicion": "[Cosa] que esta en el principio y a la cual le falta mucho para perfeccionarse." }, { "definicion": "[Persona] inexperta y poco preparada." }, { "definicion": "Indecente, obsceno, que ofende al pudor." }, { "definicion": "[Persona] que siente una inclinacion por el sexo impropia de su edad." }, { "definicion": "[Lugar, espacio o zona] destinado a ser utilizado como parque o jardin y en el que no se puede edificar." }, { "definicion": "[Ciertos partidos] ecologistas y [miembros] de estos partidos. Tambien m. pl." }, { "definicion": "m. Hierba, cesped." }, { "definicion": "Conjunto de ramas y hojas de los arboles, sobre todo si es abundante." }, { "definicion": "Billete de mil pesetas." }],
+    "antonimos": [{ "antonimo": "pasado" }, { "antonimo": "seco" }, { "antonimo": "experto" }, { "antonimo": "maduro" }, { "antonimo": "baqueteado" }, { "antonimo": "maduro" }, { "antonimo": "sazonado" }, { "antonimo": "casto" }, { "antonimo": "honesto" }, { "antonimo": "pudico" }],
+    "sinonimos": [{ "sinonimo": "verdoso" }, { "sinonimo": "aceitunado" }, { "sinonimo": "cetrino" }, { "sinonimo": "verdemar" }, { "sinonimo": "esmeralda" }, { "sinonimo": "verdinegro" }, { "sinonimo": "glauco" }, { "sinonimo": "fresco" }, { "sinonimo": "jugoso" }, { "sinonimo": "lozano" }, { "sinonimo": "tierno" }, { "sinonimo": "crudo" }, { "sinonimo": "frondoso" }, { "sinonimo": "sano" }, { "sinonimo": "novato" }, { "sinonimo": "inexperto" }, { "sinonimo": "joven" }, { "sinonimo": "bisono" }, { "sinonimo": "novicio" }, { "sinonimo": "neofito" }, { "sinonimo": "principiante" }, { "sinonimo": "hierba" }, { "sinonimo": "pasto" }, { "sinonimo": "herbazal" }, { "sinonimo": "verdor" }, { "sinonimo": "verdura" }, { "sinonimo": "fronda" }, { "sinonimo": "follaje" }, { "sinonimo": "espesura" }, { "sinonimo": "inmaduro" }, { "sinonimo": "temprano" }, { "sinonimo": "crudo" }, { "sinonimo": "duro" }, { "sinonimo": "lubrico" }, { "sinonimo": "picante" }, { "sinonimo": "erotico" }, { "sinonimo": "rijoso" }, { "sinonimo": "cachondo" }, { "sinonimo": "lascivo" }, { "sinonimo": "obsceno" }, { "sinonimo": "pornografico" }, { "sinonimo": "lujurioso" }, { "sinonimo": "salido" }]
+}, {
+    "Palabra": "violeta",
+    "Ayuda": {
+        "Nivel1": "xjmhhpfhjg",
+        "Nivel2": "shgjjuygc",
+        "Nivel3": "rfxzpwhc",
+        "Nivel4": "gzgknbw",
+        "Nivel5": "hzncbq",
+        "Nivel6": "cysck",
+        "Nivel7": "dfqj",
+        "Nivel8": "bmx"
+    },
+    "Detalle": "violeta",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Planta herbacea violacea con flores moradas de olor muy suave y fruto en capsula. Crece en el hemisferio Norte." }, { "definicion": "Flor de esta planta." }, { "definicion": "adj. y m. [Color] de las flores de esta planta." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "morado" }, { "sinonimo": "amoratado" }, { "sinonimo": "violaceo" }, { "sinonimo": "violado" }, { "sinonimo": "malva" }]
+}, {
+    "Palabra": "velocidad",
+    "Ayuda": {
+        "Nivel1": "kumnnqgftm",
+        "Nivel2": "wtbzkkbyh",
+        "Nivel3": "hhxhtpnu",
+        "Nivel4": "qwzxkjs",
+        "Nivel5": "fnfxzt",
+        "Nivel6": "kgqhk",
+        "Nivel7": "rjkw",
+        "Nivel8": "kws"
+    },
+    "Detalle": "velocidad",
+    "PLetra": "v",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Rapidez y ligereza en el movimiento." }, { "definicion": "Relacion entre el espacio recorrido y el tiempo empleado en recorrerlo." }, { "definicion": "Cada una de las posiciones de un dispositivo de cambio de velocidades de un automovil." }],
+    "antonimos": [{ "antonimo": "lentitud" }, { "antonimo": "parsimonia" }],
+    "sinonimos": [{ "sinonimo": "ligereza" }, { "sinonimo": "rapidez" }, { "sinonimo": "celeridad" }, { "sinonimo": "agilidad" }, { "sinonimo": "presteza" }, { "sinonimo": "prontitud" }, { "sinonimo": "viveza" }, { "sinonimo": "diligencia" }, { "sinonimo": "aceleracion" }]
+}, {
+    "Palabra": "vez",
+    "Ayuda": {
+        "Nivel1": "auubindbrr",
+        "Nivel2": "xwtrixfdi",
+        "Nivel3": "crurpglq",
+        "Nivel4": "aqpalap",
+        "Nivel5": "hixqpr",
+        "Nivel6": "mcjry",
+        "Nivel7": "hiqd",
+        "Nivel8": "dsk"
+    },
+    "Detalle": "vez",
+    "PLetra": "v",
+    "ULetra": "z",
+    "definiciones": [{ "definicion": "f. Cada realizacion de un suceso o de una accion en momento y circunstancias distintos" }, { "definicion": "Tiempo u ocasion determinada en que se ejecuta una accion, aunque no incluya orden sucesivo." }, { "definicion": "Alternacion de las cosas por turno." }, { "definicion": "Tiempo u ocasion de hacer una cosa por turno." }, { "definicion": "Lugar que a uno le corresponde cuando varias personas han de actuar por turno." }, { "definicion": "pl. Funcion de una persona o cosa. ♦ Se usa sobre todo con el verbo" }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "ciclo" }, { "sinonimo": "tanda" }, { "sinonimo": "alternativa" }, { "sinonimo": "turno" }, { "sinonimo": "mano" }, { "sinonimo": "alternacion" }, { "sinonimo": "serie" }, { "sinonimo": "orden" }, { "sinonimo": "sucesion" }, { "sinonimo": "frecuencia" }, { "sinonimo": "ocasion" }, { "sinonimo": "coyuntura" }, { "sinonimo": "oportunidad" }, { "sinonimo": "lance" }, { "sinonimo": "situacion" }, { "sinonimo": "momento" }, { "sinonimo": "punto" }, { "sinonimo": "trance" }]
+}, {
+    "Palabra": "vista",
+    "Ayuda": {
+        "Nivel1": "uunkghglod",
+        "Nivel2": "benbekffh",
+        "Nivel3": "boyuwoqe",
+        "Nivel4": "bjpbolf",
+        "Nivel5": "ddrbqq",
+        "Nivel6": "lzzhb",
+        "Nivel7": "uelz",
+        "Nivel8": "jjm"
+    },
+    "Detalle": "vista",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. Muy conocido, por lo que resulta poco original." }, { "definicion": "f. Sentido corporal con que se perciben los objetos y sus colores, a traves de los ojos." }, { "definicion": "Accion y resultado de ver." }, { "definicion": "Mirada." }, { "definicion": "Ojo humano o conjunto de ambos ojos." }, { "definicion": "Aspecto o apariencia externa." }, { "definicion": "Conocimiento claro que se tiene de las cosas." }, { "definicion": "Extension de terreno o paisaje que se descubre desde un punto. Tambien en pl." }, { "definicion": "Cuadro, estampa, etc., que representa un lugar tomado del natural." }, { "definicion": "Encuentro en que uno se ve con otro." }, { "definicion": "Actuacion en que se relaciona ante el tribunal un juicio o incidente para dictar el fallo, oyendo a los defensores o interesados que concurren a ella." }, { "definicion": "pl. Ventanas, puertas, galerias, etc., de un edificio por donde entra la luz o a traves de las que se ve el exterior." }, { "definicion": "m. Empleado de aduanas a cuyo cargo esta el registro de los generos." }, { "definicion": "Conformidad o autorizacion de alguien." }, { "definicion": "tr. Cubrir o adornar el cuerpo con el vestido. Tambien prnl." }, { "definicion": "Llevar un determinado vestido, color, o hacerlo de una determinada forma. Tambien intr." }, { "definicion": "Proporcionar el dinero necesario para el vestido." }, { "definicion": "Hacer los vestidos para otro. Tambien prnl." }, { "definicion": "Guarnecer o cubrir una cosa con otra para defensa o adorno." }, { "definicion": "intr. Ser una prenda, materia, o color, especialmente elegante o apropiada para lucirse." }, { "definicion": "Llevar vestido con o sin gusto." }, { "definicion": "prnl. Sobreponerse una cosa a otra, cubriendola." }, { "definicion": "m. Sentido de la vista." }, { "definicion": "Apariencia o aspecto externos." }, { "definicion": "tr. Percibir por los ojos los objetos mediante la accion de la luz." }, { "definicion": "Percibir algo con cualquier sentido o con la inteligencia." }, { "definicion": "Reconocer con cuidado y atencion una cosa." }, { "definicion": "Reconocer alguien el estado fisico de otra persona o de un animal." }, { "definicion": "Visitar a una persona o estar con ella para tratar de algun asunto. Tambien prnl." }, { "definicion": "Asistir a un espectaculo y seguir su desarrollo." }, { "definicion": "Considerar, advertir o reflexionar." }, { "definicion": "Considerar la forma de hacer algo." }, { "definicion": "Imaginar o representar una imagen de forma material o inmaterial." }, { "definicion": "Prevenir las cosas del futuro, preverlas o deducirlas de lo que sucede en el presente." }, { "definicion": "Ser un lugar escenario de un acontecimiento." }, { "definicion": "Asistir los jueces a la discusion oral de un pleito o causa que han de sentenciar." }, { "definicion": "Hacer la misma apuesta que otro jugador." }, { "definicion": "Tratar un tema o un asunto en una conferencia o clase." }, { "definicion": "prnl. Hallarse en algun estado o situacion." }, { "definicion": "Estar o hallarse en un sitio o situacion." }, { "definicion": "Con tono exclamativo, indica temor o sospecha." }, { "definicion": "Tambien expresa mandato." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "panorama" }, { "sinonimo": "paisaje" }, { "sinonimo": "horizonte" }, { "sinonimo": "perspectiva" }, { "sinonimo": "panoramica" }, { "sinonimo": "espectaculo" }, { "sinonimo": "cuadro" }, { "sinonimo": "clarividencia" }, { "sinonimo": "sagacidad" }, { "sinonimo": "prevision" }, { "sinonimo": "sutileza" }, { "sinonimo": "olfato" }, { "sinonimo": "intuicion" }, { "sinonimo": "conocimiento" }, { "sinonimo": "perspicacia" }, { "sinonimo": "juicio" }, { "sinonimo": "proceso" }, { "sinonimo": "causa" }, { "sinonimo": "sumario" }, { "sinonimo": "procedimiento" }, { "sinonimo": "atestado" }]
+}, {
+    "Palabra": "verdad",
+    "Ayuda": {
+        "Nivel1": "kyxgqgbphl",
+        "Nivel2": "tsplqifjp",
+        "Nivel3": "sfpcmxsz",
+        "Nivel4": "lhlxsgy",
+        "Nivel5": "ixzbcx",
+        "Nivel6": "ghntf",
+        "Nivel7": "qilu",
+        "Nivel8": "zqo"
+    },
+    "Detalle": "verdad",
+    "PLetra": "v",
+    "ULetra": "d",
+    "definiciones": [{ "definicion": "f. Conformidad de las cosas con el concepto que de ellas forma la mente." }, { "definicion": "Conformidad de lo que se dice con lo que se siente o se piensa." }, { "definicion": "Juicio o proposicion que no se puede negar racionalmente y que es aceptado de forma general por una colectividad." }, { "definicion": "Expresion clara y directa con que se corrige o reprende a alguien. Mas en pl." }, { "definicion": "Realidad, existencia real de una cosa." }],
+    "antonimos": [{ "antonimo": "falsedad" }, { "antonimo": "mentira" }, { "antonimo": "engano" }, { "antonimo": "hipocresia" }, { "antonimo": "embuste" }, { "antonimo": "trola" }, { "antonimo": "bola" }, { "antonimo": "fabula" }, { "antonimo": "error" }, { "antonimo": "equivocacion" }],
+    "sinonimos": [{ "sinonimo": "evidencia" }, { "sinonimo": "sinceridad" }, { "sinonimo": "exactitud" }, { "sinonimo": "veracidad" }, { "sinonimo": "confirmacion" }, { "sinonimo": "certeza" }, { "sinonimo": "efectividad" }, { "sinonimo": "franqueza" }, { "sinonimo": "perogrullada" }, { "sinonimo": "afirmacion" }, { "sinonimo": "realidad" }, { "sinonimo": "justificacion" }, { "sinonimo": "autenticidad" }, { "sinonimo": "aseveracion" }]
+}, {
+    "Palabra": "viejo",
+    "Ayuda": {
+        "Nivel1": "pfkanqdhus",
+        "Nivel2": "cdpsrynmm",
+        "Nivel3": "lpwbuzfc",
+        "Nivel4": "bdungsc",
+        "Nivel5": "brhdnf",
+        "Nivel6": "rlclu",
+        "Nivel7": "zrhd",
+        "Nivel8": "xht"
+    },
+    "Detalle": "viejo",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Que tiene muchos anos: Tambien s." }, { "definicion": "De aspecto poco joven." }, { "definicion": "Antiguo o del tiempo pasado." }, { "definicion": "Deslucido, estropeado por el uso." }, { "definicion": "m. y f. Padre o madre." }],
+    "antonimos": [{ "antonimo": "joven" }, { "antonimo": "adolescente" }, { "antonimo": "mozo" }, { "antonimo": "nuevo" }, { "antonimo": "impecable" }],
+    "sinonimos": [{ "sinonimo": "anciano" }, { "sinonimo": "abuelo" }, { "sinonimo": "vejestorio" }, { "sinonimo": "matusalen" }, { "sinonimo": "decrepito" }, { "sinonimo": "veterano" }, { "sinonimo": "maduro" }, { "sinonimo": "senil" }, { "sinonimo": "achacoso" }, { "sinonimo": "longevo" }, { "sinonimo": "vetusto" }, { "sinonimo": "centenario" }, { "sinonimo": "anoso" }, { "sinonimo": "arcaico" }, { "sinonimo": "anticuado" }, { "sinonimo": "preterito" }, { "sinonimo": "antiguo" }, { "sinonimo": "rancio" }, { "sinonimo": "fosil" }, { "sinonimo": "lejano" }, { "sinonimo": "trasnochado" }, { "sinonimo": "tradicional" }, { "sinonimo": "antediluviano" }, { "sinonimo": "arqueologico" }, { "sinonimo": "gastado" }, { "sinonimo": "estropeado" }, { "sinonimo": "deslucido" }, { "sinonimo": "ajado" }, { "sinonimo": "usado" }, { "sinonimo": "destartalado" }]
+}, {
+    "Palabra": "vuestro",
+    "Ayuda": {
+        "Nivel1": "xbawajhqnk",
+        "Nivel2": "qyhmhxnfk",
+        "Nivel3": "cnxczhmx",
+        "Nivel4": "cwjwijp",
+        "Nivel5": "byfldb",
+        "Nivel6": "nzdjj",
+        "Nivel7": "xhca",
+        "Nivel8": "mzc"
+    },
+    "Detalle": "vuestro",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que no se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }, { "definicion": "A veces se refiere, en sus cuatro formas, a un solo poseedor como formula de respeto." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "vuestra",
+    "Ayuda": {
+        "Nivel1": "pjhjnicjjm",
+        "Nivel2": "cyplwckwo",
+        "Nivel3": "lmyizzig",
+        "Nivel4": "bwckgwg",
+        "Nivel5": "pfbzxf",
+        "Nivel6": "wjiwc",
+        "Nivel7": "hyim",
+        "Nivel8": "mcl"
+    },
+    "Detalle": "vuestra",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que no se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }, { "definicion": "A veces se refiere, en sus cuatro formas, a un solo poseedor como formula de respeto." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "verbos",
+    "Ayuda": {
+        "Nivel1": "udykudfajj",
+        "Nivel2": "plttpxygy",
+        "Nivel3": "kyhtpyud",
+        "Nivel4": "umalttj",
+        "Nivel5": "nztqhu",
+        "Nivel6": "dhgwl",
+        "Nivel7": "aczu",
+        "Nivel8": "zxg"
+    },
+    "Detalle": "verbos",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Parte conjugable de la oracion que expresa la accion y el estado del sujeto y ejerce la funcion sintactica de nucleo del predicado." }, { "definicion": "Palabra." }, { "definicion": "Segunda persona de la Santisima Trinidad. ♦ Suele escribirse con mayuscula." }, { "definicion": "verbo auxiliar Verbo que se emplea en la formacion de los tiempos compuestos, perifrasis verbales y en la voz pasiva, y que contiene los morfemas de persona, numero, tiempo y modo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "palabra" }, { "sinonimo": "vocablo" }, { "sinonimo": "voz" }, { "sinonimo": "expresion" }, { "sinonimo": "termino" }, { "sinonimo": "lengua" }, { "sinonimo": "conjugacion" }]
+}, {
+    "Palabra": "vivir",
+    "Ayuda": {
+        "Nivel1": "smhxsuzjfm",
+        "Nivel2": "bqwmznuds",
+        "Nivel3": "qnoujxmh",
+        "Nivel4": "bzyjnbh",
+        "Nivel5": "jcuded",
+        "Nivel6": "ohaum",
+        "Nivel7": "ftdx",
+        "Nivel8": "xqj"
+    },
+    "Detalle": "vivir",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "intr. Tener vida." }, { "definicion": "Durar con vida." }, { "definicion": "Pasar y mantener la vida con lo necesario para una persona, una familia, un grupo, etc." }, { "definicion": "Habitar en un lugar: Tambien tr." }, { "definicion": "Llevar un determinado tipo de vida." }, { "definicion": "Acomodarse uno a las circunstancias o aprovecharlas." }, { "definicion": "Mantenerse en la memoria una persona que ya ha muerto o una cosa pasada." }, { "definicion": "Compartir la vida con otra persona sin estar casados." }, { "definicion": "tr. Experimentar." }, { "definicion": "Sentir profundamente lo que se hace o disfrutar con ello." }],
+    "antonimos": [{ "antonimo": "morir" }, { "antonimo": "fallecer" }],
+    "sinonimos": [{ "sinonimo": "subsistir" }, { "sinonimo": "coexistir" }, { "sinonimo": "respirar" }, { "sinonimo": "sobrevivir" }, { "sinonimo": "durar" }, { "sinonimo": "ser" }, { "sinonimo": "estar" }, { "sinonimo": "existir" }, { "sinonimo": "habitar" }, { "sinonimo": "morar" }, { "sinonimo": "parar" }, { "sinonimo": "residir" }, { "sinonimo": "albergarse" }, { "sinonimo": "establecerse" }, { "sinonimo": "asentarse" }]
+}, {
+    "Palabra": "venir",
+    "Ayuda": {
+        "Nivel1": "ycbdxlmsyx",
+        "Nivel2": "cmwaaxpok",
+        "Nivel3": "dmsltbkp",
+        "Nivel4": "ywdghtp",
+        "Nivel5": "qdlcth",
+        "Nivel6": "aqsbz",
+        "Nivel7": "ykqo",
+        "Nivel8": "uhk"
+    },
+    "Detalle": "venir",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "intr. Trasladarse o llegar hasta donde esta el que habla: Tambien prnl." }, { "definicion": "Llegar el tiempo en que algo va a suceder." }, { "definicion": "Ajustarse, acomodarse." }, { "definicion": "Inferirse, deducirse o ser una cosa consecuencia de otra." }, { "definicion": "Excitarse o empezar a sentir un deseo o sentimiento." }, { "definicion": "Figurar, estar incluido o mencionado algo en un libro, periodico, etc." }, { "definicion": "Recordar, imaginar." }, { "definicion": "Seguido de la prep. mas infinitivo, suceder finalmente una cosa que se esperaba o se temia." }, { "definicion": "Seguido de la prep. mas los infinitivos denota aproximacion." }, { "definicion": "Seguido de la prep. mas sustantivo, toma el significado del verbo correspondiente a dicho sust." }],
+    "antonimos": [{ "antonimo": "marcharse" }, { "antonimo": "irse" }],
+    "sinonimos": [{ "sinonimo": "volver" }, { "sinonimo": "llegar" }, { "sinonimo": "regresar" }, { "sinonimo": "retornar" }, { "sinonimo": "acudir" }, { "sinonimo": "tornar" }, { "sinonimo": "presentarse" }, { "sinonimo": "aproximarse" }, { "sinonimo": "encaminarse" }, { "sinonimo": "avanzar" }, { "sinonimo": "entrar" }, { "sinonimo": "provenir" }, { "sinonimo": "proceder" }, { "sinonimo": "originarse" }, { "sinonimo": "iniciarse" }, { "sinonimo": "comenzar" }, { "sinonimo": "acontecer" }, { "sinonimo": "suceder" }, { "sinonimo": "manifestarse" }, { "sinonimo": "ajustarse" }, { "sinonimo": "acomodarse" }, { "sinonimo": "sentar" }]
+}, {
+    "Palabra": "volver",
+    "Ayuda": {
+        "Nivel1": "xznzatcwqf",
+        "Nivel2": "sbjwfkjuf",
+        "Nivel3": "mqzwhjgq",
+        "Nivel4": "aatmzqi",
+        "Nivel5": "jataay",
+        "Nivel6": "djbdh",
+        "Nivel7": "qkbq",
+        "Nivel8": "tbu"
+    },
+    "Detalle": "volver",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Dar la vuelta a algo." }, { "definicion": "Cambiar de sentido o direccion: Tambien intr. y prnl." }, { "definicion": "Cambiar a una persona o cosa de aspecto, estado, opinion, etc. Mas c. prnl." }, { "definicion": "Rehacer una prenda de vestir de modo que el reves de la tela quede al exterior, como derecho." }, { "definicion": "intr. Regresar al punto de partida: Tambien prnl." }, { "definicion": "Producirse de nuevo una cosa." }, { "definicion": "Hacer de nuevo o repetirse lo que ya se habia hecho. ♦ Se construye con la prep." }, { "definicion": "Reanudar una conversacion, discurso, etc., en el punto en que se habia interrumpido." }],
+    "antonimos": [{ "antonimo": "irse" }, { "antonimo": "marcharse" }, { "antonimo": "dejar" }, { "antonimo": "abandonar" }],
+    "sinonimos": [{ "sinonimo": "regresar" }, { "sinonimo": "retornar" }, { "sinonimo": "tornar" }, { "sinonimo": "reaparecer" }, { "sinonimo": "venir" }, { "sinonimo": "llegar" }, { "sinonimo": "reanudar" }, { "sinonimo": "retomar" }, { "sinonimo": "reemprender" }, { "sinonimo": "reiterar" }, { "sinonimo": "repetir" }, { "sinonimo": "insistir" }, { "sinonimo": "invertir" }, { "sinonimo": "girar" }, { "sinonimo": "virar" }, { "sinonimo": "volcar" }, { "sinonimo": "voltear" }, { "sinonimo": "torcer" }, { "sinonimo": "cambiarse" }, { "sinonimo": "transformarse" }, { "sinonimo": "convertirse" }, { "sinonimo": "renovarse" }, { "sinonimo": "mudarse" }]
+}, {
+    "Palabra": "ver",
+    "Ayuda": {
+        "Nivel1": "hqchzizllb",
+        "Nivel2": "qxqfhkobx",
+        "Nivel3": "ghyocwsa",
+        "Nivel4": "adhlshm",
+        "Nivel5": "hypkmn",
+        "Nivel6": "gomdw",
+        "Nivel7": "tgsb",
+        "Nivel8": "olt"
+    },
+    "Detalle": "ver",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "m. Sentido de la vista." }, { "definicion": "Apariencia o aspecto externos." }, { "definicion": "tr. Percibir por los ojos los objetos mediante la accion de la luz." }, { "definicion": "Percibir algo con cualquier sentido o con la inteligencia." }, { "definicion": "Reconocer con cuidado y atencion una cosa." }, { "definicion": "Reconocer alguien el estado fisico de otra persona o de un animal." }, { "definicion": "Visitar a una persona o estar con ella para tratar de algun asunto. Tambien prnl." }, { "definicion": "Asistir a un espectaculo y seguir su desarrollo." }, { "definicion": "Considerar, advertir o reflexionar." }, { "definicion": "Considerar la forma de hacer algo." }, { "definicion": "Imaginar o representar una imagen de forma material o inmaterial." }, { "definicion": "Prevenir las cosas del futuro, preverlas o deducirlas de lo que sucede en el presente." }, { "definicion": "Ser un lugar escenario de un acontecimiento." }, { "definicion": "Asistir los jueces a la discusion oral de un pleito o causa que han de sentenciar." }, { "definicion": "Hacer la misma apuesta que otro jugador." }, { "definicion": "Tratar un tema o un asunto en una conferencia o clase." }, { "definicion": "prnl. Hallarse en algun estado o situacion." }, { "definicion": "Estar o hallarse en un sitio o situacion." }, { "definicion": "Con tono exclamativo, indica temor o sospecha." }, { "definicion": "Tambien expresa mandato." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "mirar" }, { "sinonimo": "ojear" }, { "sinonimo": "advertir" }, { "sinonimo": "observar" }, { "sinonimo": "vigilar" }, { "sinonimo": "divisar" }, { "sinonimo": "contemplar" }, { "sinonimo": "distinguir" }, { "sinonimo": "otear" }, { "sinonimo": "percibir" }, { "sinonimo": "notar" }, { "sinonimo": "espiar" }, { "sinonimo": "descubrir" }, { "sinonimo": "revisar" }, { "sinonimo": "acechar" }, { "sinonimo": "atender" }, { "sinonimo": "curiosear" }, { "sinonimo": "avistar" }, { "sinonimo": "estudiar" }, { "sinonimo": "considerar" }, { "sinonimo": "investigar" }, { "sinonimo": "fiscalizar" }, { "sinonimo": "examinar" }, { "sinonimo": "juzgar" }, { "sinonimo": "comprender" }, { "sinonimo": "conocer" }, { "sinonimo": "calcular" }, { "sinonimo": "especular" }, { "sinonimo": "intentar" }, { "sinonimo": "ensayar" }, { "sinonimo": "experimentar" }, { "sinonimo": "probar" }, { "sinonimo": "tratar" }, { "sinonimo": "reunirse" }, { "sinonimo": "juntarse" }, { "sinonimo": "encontrarse" }, { "sinonimo": "conversar" }, { "sinonimo": "entrevistarse" }, { "sinonimo": "citarse" }, { "sinonimo": "recibir" }]
+}, {
+    "Palabra": "vender",
+    "Ayuda": {
+        "Nivel1": "yfkllymiuq",
+        "Nivel2": "ouagyjiuj",
+        "Nivel3": "wtcpuchm",
+        "Nivel4": "lmmjobi",
+        "Nivel5": "qumzpa",
+        "Nivel6": "lfloz",
+        "Nivel7": "stow",
+        "Nivel8": "uuu"
+    },
+    "Detalle": "vender",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Ceder la propiedad de algo por un precio convenido." }, { "definicion": "Delatar, traicionar la confianza de alguien." }, { "definicion": "prnl. Dejarse sobornar." }, { "definicion": "Decir o hacer uno, por descuido, algo que descubre lo que queria ocultar." }, { "definicion": "Ponerse en peligro o riesgo." }],
+    "antonimos": [{ "antonimo": "comprar" }, { "antonimo": "adquirir" }],
+    "sinonimos": [{ "sinonimo": "traspasar" }, { "sinonimo": "enajenar" }, { "sinonimo": "expender" }, { "sinonimo": "despachar" }, { "sinonimo": "subastar" }, { "sinonimo": "saldar" }, { "sinonimo": "liquidar" }, { "sinonimo": "exportar" }, { "sinonimo": "traicionar" }, { "sinonimo": "delatar" }, { "sinonimo": "entregar" }, { "sinonimo": "descubrir" }, { "sinonimo": "enganar" }]
+}, {
+    "Palabra": "verificar",
+    "Ayuda": {
+        "Nivel1": "nnsxmdhgkn",
+        "Nivel2": "jsosoontb",
+        "Nivel3": "hbdnooql",
+        "Nivel4": "phqxztk",
+        "Nivel5": "klqnnk",
+        "Nivel6": "yjugh",
+        "Nivel7": "odjq",
+        "Nivel8": "xkw"
+    },
+    "Detalle": "verificar",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Comprobar la verdad o autenticidad de algo." }, { "definicion": "Realizar, efectuar. Tambien prnl." }],
+    "antonimos": [{ "antonimo": "disentir" }, { "antonimo": "omitir" }, { "antonimo": "olvidar" }],
+    "sinonimos": [{ "sinonimo": "comprobar" }, { "sinonimo": "examinar" }, { "sinonimo": "probar" }, { "sinonimo": "cotejar" }, { "sinonimo": "confirmar" }, { "sinonimo": "revisar" }, { "sinonimo": "constatar" }, { "sinonimo": "realizar" }, { "sinonimo": "demostrar" }, { "sinonimo": "evidenciar" }, { "sinonimo": "justificar" }, { "sinonimo": "suceder" }, { "sinonimo": "cumplirse" }, { "sinonimo": "salir" }, { "sinonimo": "resultar" }, { "sinonimo": "ocurrir" }]
+}, {
+    "Palabra": "variar",
+    "Ayuda": {
+        "Nivel1": "nsngcullfo",
+        "Nivel2": "txxmejoql",
+        "Nivel3": "mttoycep",
+        "Nivel4": "nmgfyth",
+        "Nivel5": "zhzbqf",
+        "Nivel6": "wyqdn",
+        "Nivel7": "tzwg",
+        "Nivel8": "yjf"
+    },
+    "Detalle": "variar",
+    "PLetra": "v",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Modificar, hacer que algo sea diferente de lo que era antes." }, { "definicion": "Dar variedad." }],
+    "antonimos": [{ "antonimo": "mantener" }, { "antonimo": "uniformar" }, { "antonimo": "igualar" }],
+    "sinonimos": [{ "sinonimo": "modificar" }, { "sinonimo": "cambiar" }, { "sinonimo": "transformar" }, { "sinonimo": "alterar" }, { "sinonimo": "mudar" }, { "sinonimo": "reformar" }, { "sinonimo": "renovar" }, { "sinonimo": "permutar" }]
+}, {
+    "Palabra": "viceversa",
+    "Ayuda": {
+        "Nivel1": "fqkfzwgxmq",
+        "Nivel2": "kppfydubp",
+        "Nivel3": "xbbqgyyk",
+        "Nivel4": "yoqjbpu",
+        "Nivel5": "tuxxyu",
+        "Nivel6": "xwlwd",
+        "Nivel7": "omjt",
+        "Nivel8": "tdm"
+    },
+    "Detalle": "viceversa",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adv. m. Al contrario, al reves." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "inversamente" }, { "sinonimo": "contrariamente" }, { "sinonimo": "reciprocamente" }, { "sinonimo": "alreves" }, { "sinonimo": "alainversa" }, { "sinonimo": "alcontrario" }]
+}, {
+    "Palabra": "vos",
+    "Ayuda": {
+        "Nivel1": "nbanluzmjb",
+        "Nivel2": "lkjxiwpmc",
+        "Nivel3": "uenznatu",
+        "Nivel4": "hgrnalj",
+        "Nivel5": "uxqckt",
+        "Nivel6": "qjaac",
+        "Nivel7": "uxjd",
+        "Nivel8": "cul"
+    },
+    "Detalle": "vos",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "pron. Forma atona del pron. pers. com. de segunda persona singular, que en se emplea como sustituto de en concordancia con una forma verbal caracteristica en segunda persona plural: por" }, { "definicion": "Formula de tratamiento antiguo que exige el verbo en plural, aunque concierta en singular con el adjetivo aplicado a la persona a quien se dirige." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "vosotros",
+    "Ayuda": {
+        "Nivel1": "wpqagbcuyy",
+        "Nivel2": "wmngdmwpj",
+        "Nivel3": "nfzcfafa",
+        "Nivel4": "kixehdx",
+        "Nivel5": "ibyqkd",
+        "Nivel6": "yckey",
+        "Nivel7": "zhej",
+        "Nivel8": "fpd"
+    },
+    "Detalle": "vosotros",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "pron. Forma del pron. pers. m. y f. de segunda persona plural, que en la oracion desempena la funcion de sujeto o de complemento con preposicion." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "vosotras",
+    "Ayuda": {
+        "Nivel1": "dcxplcjdfc",
+        "Nivel2": "jynbnxqce",
+        "Nivel3": "bwzfygwj",
+        "Nivel4": "iwnqjcb",
+        "Nivel5": "kxdzpi",
+        "Nivel6": "lcpqm",
+        "Nivel7": "wzhn",
+        "Nivel8": "ify"
+    },
+    "Detalle": "vosotras",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "vuestro",
+    "Ayuda": {
+        "Nivel1": "zinplamkkm",
+        "Nivel2": "hicabgdqj",
+        "Nivel3": "fgbbhjcc",
+        "Nivel4": "llyxhqb",
+        "Nivel5": "kmpxad",
+        "Nivel6": "qyacc",
+        "Nivel7": "iwla",
+        "Nivel8": "gjp"
+    },
+    "Detalle": "vuestro",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que no se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }, { "definicion": "A veces se refiere, en sus cuatro formas, a un solo poseedor como formula de respeto." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "vuestra",
+    "Ayuda": {
+        "Nivel1": "hjqgpowmjz",
+        "Nivel2": "gqnwioopw",
+        "Nivel3": "ybinobjx",
+        "Nivel4": "dfgixmh",
+        "Nivel5": "zzogoi",
+        "Nivel6": "bqlwy",
+        "Nivel7": "kxzg",
+        "Nivel8": "qfh"
+    },
+    "Detalle": "vuestra",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. y pron. pos. Indica la relacion de pertenencia entre lo poseido y dos o mas poseedores, entre los que no se incluye el hablante: ♦ Cuando acompana a un sustantivo, se usa pospuesto a este." }, { "definicion": "A veces se refiere, en sus cuatro formas, a un solo poseedor como formula de respeto." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "varios",
+    "Ayuda": {
+        "Nivel1": "uupzqhjmbl",
+        "Nivel2": "quzcucuph",
+        "Nivel3": "bkqwbcqt",
+        "Nivel4": "kjjfujw",
+        "Nivel5": "uezmlj",
+        "Nivel6": "yqfjj",
+        "Nivel7": "bhck",
+        "Nivel8": "pkm"
+    },
+    "Detalle": "varios",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. Diverso, distinto, diferente." }, { "definicion": "Que tiene variedad." }, { "definicion": "adj. y pron. indef. pl. Algunos, unos cuantos." }, { "definicion": "m. pl. Apartado de cualquier conjunto que reune elementos de diversos tipos, sin clasificar." }, { "definicion": "Conjunto de libros, folletos, hojas sueltas o documentos, de diferentes autores, materias o tamanos, reunidos en tomos, legajos o cajas." }],
+    "antonimos": [{ "antonimo": "homogeneo" }, { "antonimo": "unico" }],
+    "sinonimos": [{ "sinonimo": "diverso" }, { "sinonimo": "diferente" }, { "sinonimo": "variado" }, { "sinonimo": "complejo" }, { "sinonimo": "heterogeneo" }, { "sinonimo": "dispar" }]
+}, {
+    "Palabra": "varias",
+    "Ayuda": {
+        "Nivel1": "kxhxnjofbt",
+        "Nivel2": "dyflthxek",
+        "Nivel3": "dhtoutkx",
+        "Nivel4": "mczozzu",
+        "Nivel5": "exqfef",
+        "Nivel6": "cecgq",
+        "Nivel7": "gdhh",
+        "Nivel8": "nfh"
+    },
+    "Detalle": "varias",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "tr. Modificar, hacer que algo sea diferente de lo que era antes." }, { "definicion": "Dar variedad." }, { "definicion": "adj. Diverso, distinto, diferente." }, { "definicion": "Que tiene variedad." }, { "definicion": "adj. y pron. indef. pl. Algunos, unos cuantos." }, { "definicion": "m. pl. Apartado de cualquier conjunto que reune elementos de diversos tipos, sin clasificar." }, { "definicion": "Conjunto de libros, folletos, hojas sueltas o documentos, de diferentes autores, materias o tamanos, reunidos en tomos, legajos o cajas." }],
+    "antonimos": [{ "antonimo": "mantener" }, { "antonimo": "uniformar" }, { "antonimo": "igualar" }],
+    "sinonimos": [{ "sinonimo": "modificar" }, { "sinonimo": "cambiar" }, { "sinonimo": "transformar" }, { "sinonimo": "alterar" }, { "sinonimo": "mudar" }, { "sinonimo": "reformar" }, { "sinonimo": "renovar" }, { "sinonimo": "permutar" }]
+}, {
+    "Palabra": "variantes",
+    "Ayuda": {
+        "Nivel1": "mjlzylmybm",
+        "Nivel2": "ohyompycz",
+        "Nivel3": "okzfjgfo",
+        "Nivel4": "hcbdlcj",
+        "Nivel5": "lzyojw",
+        "Nivel6": "wzbph",
+        "Nivel7": "mmpp",
+        "Nivel8": "qwg"
+    },
+    "Detalle": "variantes",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Cada una de las diversas formas con que se presenta algo." }, { "definicion": "Variedad o diferencia entre diversas clases o formas de una misma cosa." }, { "definicion": "Desviacion de un trecho de una carretera o camino." }, { "definicion": "Cada uno de los resultados con que en las quinielas de futbol se indica que el equipo local empata o pierde." }, { "definicion": "Cada una de las formas bajo las que se presenta una voz." }, { "definicion": "Diferencia de lecturas entre varios manuscritos o ejemplares de un mismo texto." }, { "definicion": "m. Fruto o verdura que se encurte en vinagre. Mas en pl." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "distincion" }, { "sinonimo": "diferencia" }, { "sinonimo": "cambio" }, { "sinonimo": "variacion" }, { "sinonimo": "disparidad" }, { "sinonimo": "desvio" }, { "sinonimo": "circunvalacion" }, { "sinonimo": "atajo" }, { "sinonimo": "bifurcacion" }, { "sinonimo": "desviacion" }]
+}, {
+    "Palabra": "vial",
+    "Ayuda": {
+        "Nivel1": "zmqshywffw",
+        "Nivel2": "jfjogwnzr",
+        "Nivel3": "stenzxzk",
+        "Nivel4": "mhwfjqu",
+        "Nivel5": "ouggof",
+        "Nivel6": "ohxys",
+        "Nivel7": "qnrr",
+        "Nivel8": "xoe"
+    },
+    "Detalle": "vial",
+    "PLetra": "v",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. De la via o relativo a ella." }, { "definicion": "m. Frasquito destinado a contener un medicamento inyectable, del cual se van extrayendo las dosis convenientes." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "virtual",
+    "Ayuda": {
+        "Nivel1": "fxqhpffnfg",
+        "Nivel2": "yxgjdfkzf",
+        "Nivel3": "ezobgokw",
+        "Nivel4": "hgpcssx",
+        "Nivel5": "hsmkem",
+        "Nivel6": "xxnsx",
+        "Nivel7": "kmnh",
+        "Nivel8": "yqg"
+    },
+    "Detalle": "virtual",
+    "PLetra": "v",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Con propiedad para producir un efecto aunque no lo produzca." }, { "definicion": "Implicito, tacito." }, { "definicion": "Que tiene existencia aparente y no real." }],
+    "antonimos": [{ "antonimo": "actual" }, { "antonimo": "explicito" }],
+    "sinonimos": [{ "sinonimo": "potencial" }, { "sinonimo": "probable" }, { "sinonimo": "eventual" }, { "sinonimo": "implicito" }, { "sinonimo": "aparente" }, { "sinonimo": "intrinseco" }, { "sinonimo": "irreal" }, { "sinonimo": "posible" }, { "sinonimo": "imaginado" }, { "sinonimo": "supuesto" }, { "sinonimo": "imaginario" }, { "sinonimo": "tacito" }]
+}, {
+    "Palabra": "vendieron",
+    "Ayuda": {
+        "Nivel1": "lbxtktyajp",
+        "Nivel2": "pysxaghal",
+        "Nivel3": "wsjwfhgw",
+        "Nivel4": "gjumlwb",
+        "Nivel5": "pwmhls",
+        "Nivel6": "qxagj",
+        "Nivel7": "ulxz",
+        "Nivel8": "fca"
+    },
+    "Detalle": "vendieron",
+    "PLetra": "v",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "tr. Ceder la propiedad de algo por un precio convenido." }, { "definicion": "Delatar, traicionar la confianza de alguien." }, { "definicion": "prnl. Dejarse sobornar." }, { "definicion": "Decir o hacer uno, por descuido, algo que descubre lo que queria ocultar." }, { "definicion": "Ponerse en peligro o riesgo." }],
+    "antonimos": [{ "antonimo": "comprar" }, { "antonimo": "adquirir" }],
+    "sinonimos": [{ "sinonimo": "traspasar" }, { "sinonimo": "enajenar" }, { "sinonimo": "expender" }, { "sinonimo": "despachar" }, { "sinonimo": "subastar" }, { "sinonimo": "saldar" }, { "sinonimo": "liquidar" }, { "sinonimo": "exportar" }, { "sinonimo": "traicionar" }, { "sinonimo": "delatar" }, { "sinonimo": "entregar" }, { "sinonimo": "descubrir" }, { "sinonimo": "enganar" }]
+}, {
+    "Palabra": "vuelos",
+    "Ayuda": {
+        "Nivel1": "zkgcjcfwwi",
+        "Nivel2": "itbthbhyb",
+        "Nivel3": "icxqffhd",
+        "Nivel4": "qkgkqda",
+        "Nivel5": "qnfhyx",
+        "Nivel6": "fmyga",
+        "Nivel7": "kfah",
+        "Nivel8": "jib"
+    },
+    "Detalle": "vuelos",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Accion y resultado de volar." }, { "definicion": "Trayecto que recorre un avion, helicoptero, etc., haciendo o no escalas, entre el punto de origen y el de destino." }, { "definicion": "Amplitud o extension de una vestidura en la parte que no se ajusta al cuerpo, y p. ext., de otras prendas como cortinas, manteles, etc." }, { "definicion": "Parte de una construccion que sale fuera del paramento de la pared que la sostiene." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "revoloteo" }, { "sinonimo": "planeo" }, { "sinonimo": "volada" }, { "sinonimo": "ascenso" }, { "sinonimo": "subida" }, { "sinonimo": "acrobacia" }, { "sinonimo": "extension" }, { "sinonimo": "anchura" }, { "sinonimo": "amplitud" }, { "sinonimo": "holgura" }, { "sinonimo": "infulas" }, { "sinonimo": "humos" }, { "sinonimo": "engreimiento" }, { "sinonimo": "fantasias" }]
+}, {
+    "Palabra": "viajes",
+    "Ayuda": {
+        "Nivel1": "rwtnugzqrn",
+        "Nivel2": "okuxqppdc",
+        "Nivel3": "yzyxzqon",
+        "Nivel4": "gwndxhc",
+        "Nivel5": "gmhlmw",
+        "Nivel6": "mdonc",
+        "Nivel7": "rwfl",
+        "Nivel8": "wum"
+    },
+    "Detalle": "viajes",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "intr. Trasladarse de un lugar a otro, generalmente distante, por cualquier medio de locomocion." }, { "definicion": "Recorrer un medio de transporte una distancia." }, { "definicion": "Ser transportada una mercancia." }, { "definicion": "Estar bajo los efectos de un alucinogeno." }, { "definicion": "m. Recorrido o itinerario que se realiza para ir de un lugar a otro." }, { "definicion": "Carga que se lleva de una vez." }, { "definicion": "Estado de alucinacion producido por un narcotico." }, { "definicion": "m. Corte sesgado que se da a alguna cosa." }, { "definicion": "Acometida inesperada, y por lo comun a traicion, con arma blanca y corta." }, { "definicion": "Golpe, empujon o embestida." }, { "definicion": "Corte profundo y grande." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "peregrinar" }, { "sinonimo": "correr" }, { "sinonimo": "andar" }, { "sinonimo": "volar" }, { "sinonimo": "errar" }, { "sinonimo": "trasladarse" }, { "sinonimo": "desplazarse" }, { "sinonimo": "rodar" }, { "sinonimo": "explorar" }, { "sinonimo": "navegar" }, { "sinonimo": "vagar" }, { "sinonimo": "emigrar" }]
+}, {
+    "Palabra": "vespertina",
+    "Ayuda": {
+        "Nivel1": "jkwywdgdhz",
+        "Nivel2": "yxuwkqgkf",
+        "Nivel3": "gummomgx",
+        "Nivel4": "klqfbzw",
+        "Nivel5": "jckook",
+        "Nivel6": "dqjyb",
+        "Nivel7": "hjub",
+        "Nivel8": "gbz"
+    },
+    "Detalle": "vespertina",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. De la tarde o relativo a ella." }, { "definicion": "m. Diario que sale por la tarde." }],
+    "antonimos": [{ "antonimo": "matutino" }],
+    "sinonimos": [{ "sinonimo": "crepuscular" }]
+}, {
+    "Palabra": "visita",
+    "Ayuda": {
+        "Nivel1": "lywjolkjyz",
+        "Nivel2": "nedwgolgw",
+        "Nivel3": "nrhfeczj",
+        "Nivel4": "ccplzlo",
+        "Nivel5": "mfobey",
+        "Nivel6": "nbyke",
+        "Nivel7": "gdkr",
+        "Nivel8": "hbz"
+    },
+    "Detalle": "visita",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Accion de visitar." }, { "definicion": "Persona o personas que visitan un lugar o a alguien." }, { "definicion": "Acto durante el cual el medico reconoce al enfermo." }, { "definicion": "Inspeccion, reconocimiento." }, { "definicion": "tr. Ir a ver a uno a su casa o al lugar donde se encuentre, por cortesia, amistad, etc." }, { "definicion": "Recorrer un lugar para conocerlo." }, { "definicion": "Acudir con frecuencia a un lugar." }, { "definicion": "Ir a un templo o santuario por devocion, o para ganar indulgencias." }, { "definicion": "Ir el medico a casa del enfermo." }, { "definicion": "Acudir a un lugar para examinarlo, reconocerlo, etc." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "visitante" }, { "sinonimo": "invitado" }, { "sinonimo": "convidado" }, { "sinonimo": "entrevista" }, { "sinonimo": "cita" }, { "sinonimo": "cortesia" }, { "sinonimo": "visiteo" }, { "sinonimo": "visitacion" }, { "sinonimo": "revista" }, { "sinonimo": "registro" }, { "sinonimo": "inspeccion" }, { "sinonimo": "examen" }, { "sinonimo": "comprobacion" }]
+}, {
+    "Palabra": "videos",
+    "Ayuda": {
+        "Nivel1": "mraqtamjuk",
+        "Nivel2": "fjtxtrzru",
+        "Nivel3": "hfcnhpyq",
+        "Nivel4": "pfbjjwp",
+        "Nivel5": "pjxrwz",
+        "Nivel6": "mcxbc",
+        "Nivel7": "zqhc",
+        "Nivel8": "hxj"
+    },
+    "Detalle": "videos",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "visita",
+    "Ayuda": {
+        "Nivel1": "wlljrnkdrw",
+        "Nivel2": "xcewkgmhp",
+        "Nivel3": "nqwefnfk",
+        "Nivel4": "olndfkk",
+        "Nivel5": "ycbyec",
+        "Nivel6": "gxxuw",
+        "Nivel7": "dfnl",
+        "Nivel8": "dco"
+    },
+    "Detalle": "visita",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Accion de visitar." }, { "definicion": "Persona o personas que visitan un lugar o a alguien." }, { "definicion": "Acto durante el cual el medico reconoce al enfermo." }, { "definicion": "Inspeccion, reconocimiento." }, { "definicion": "tr. Ir a ver a uno a su casa o al lugar donde se encuentre, por cortesia, amistad, etc." }, { "definicion": "Recorrer un lugar para conocerlo." }, { "definicion": "Acudir con frecuencia a un lugar." }, { "definicion": "Ir a un templo o santuario por devocion, o para ganar indulgencias." }, { "definicion": "Ir el medico a casa del enfermo." }, { "definicion": "Acudir a un lugar para examinarlo, reconocerlo, etc." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "visitante" }, { "sinonimo": "invitado" }, { "sinonimo": "convidado" }, { "sinonimo": "entrevista" }, { "sinonimo": "cita" }, { "sinonimo": "cortesia" }, { "sinonimo": "visiteo" }, { "sinonimo": "visitacion" }, { "sinonimo": "revista" }, { "sinonimo": "registro" }, { "sinonimo": "inspeccion" }, { "sinonimo": "examen" }, { "sinonimo": "comprobacion" }]
+}, {
+    "Palabra": "vocales",
+    "Ayuda": {
+        "Nivel1": "tfuuyxgdkj",
+        "Nivel2": "gytgddyyn",
+        "Nivel3": "ntmmbjit",
+        "Nivel4": "frnhrby",
+        "Nivel5": "hwfgfj",
+        "Nivel6": "iktmu",
+        "Nivel7": "fdwu",
+        "Nivel8": "gdk"
+    },
+    "Detalle": "vocales",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. De la voz o relativo a ella." }, { "definicion": "Que se expresa con la voz." }, { "definicion": "f. Sonido del lenguaje humano, producido al expulsar el aire, con vibracion laringea, y sin oclusion que impida su paso." }, { "definicion": "com. Persona con voz en un consejo, junta, etc." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "oral" }, { "sinonimo": "componente" }, { "sinonimo": "consejero" }, { "sinonimo": "consultor" }, { "sinonimo": "asesor" }, { "sinonimo": "administrador" }, { "sinonimo": "secretario" }]
+}, {
+    "Palabra": "vinculadas",
+    "Ayuda": {
+        "Nivel1": "yxwgbfmfbp",
+        "Nivel2": "jgbyjjeok",
+        "Nivel3": "yqmkxmob",
+        "Nivel4": "wbpqxxm",
+        "Nivel5": "bbjkfo",
+        "Nivel6": "mtmwe",
+        "Nivel7": "yrkt",
+        "Nivel8": "eeh"
+    },
+    "Detalle": "vinculadas",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "tr. Unir o relacionar una persona o cosa con otra: Tambien prnl." }, { "definicion": "Perpetuar o continuar una cosa. Mas c. prnl." }, { "definicion": "Hacer que la suerte o el comportamiento de alguien o algo dependan de los de otra persona o cosa." }, { "definicion": "Sujetar a una obligacion." }],
+    "antonimos": [{ "antonimo": "separar" }, { "antonimo": "desligar" }, { "antonimo": "desvincular" }],
+    "sinonimos": [{ "sinonimo": "asociar" }, { "sinonimo": "ligar" }, { "sinonimo": "unir" }, { "sinonimo": "fusionar" }, { "sinonimo": "relacionar" }, { "sinonimo": "supeditar" }, { "sinonimo": "coordinar" }, { "sinonimo": "entreverar" }, { "sinonimo": "juntar" }, { "sinonimo": "reunir" }, { "sinonimo": "sujetar" }, { "sinonimo": "atar" }, { "sinonimo": "conexionar" }]
+}, {
+    "Palabra": "valentina",
+    "Ayuda": {
+        "Nivel1": "ujwfqpdrbx",
+        "Nivel2": "rwmjhxrxo",
+        "Nivel3": "hwhwbrry",
+        "Nivel4": "bzfobcx",
+        "Nivel5": "rmfqox",
+        "Nivel6": "gwzjp",
+        "Nivel7": "zwhk",
+        "Nivel8": "jco"
+    },
+    "Detalle": "valentina",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "viedma",
+    "Ayuda": {
+        "Nivel1": "cnpkfbshsf",
+        "Nivel2": "sqctrsfyl",
+        "Nivel3": "ychfocps",
+        "Nivel4": "yyrqjfo",
+        "Nivel5": "wkytsc",
+        "Nivel6": "tguqc",
+        "Nivel7": "ukyj",
+        "Nivel8": "uwn"
+    },
+    "Detalle": "viedma",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "vaca",
+    "Ayuda": {
+        "Nivel1": "xxwixkdgsl",
+        "Nivel2": "qoxstmkoo",
+        "Nivel3": "oepzonum",
+        "Nivel4": "gpmdwep",
+        "Nivel5": "tsbrfr",
+        "Nivel6": "foyjg",
+        "Nivel7": "lpjz",
+        "Nivel8": "ixs"
+    },
+    "Detalle": "vaca",
+    "PLetra": "v",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Hembra del toro." }, { "definicion": "Carne o piel de este animal." }, { "definicion": "Persona muy gorda." }, { "definicion": "intr. Cesar uno por algun tiempo en sus tareas y actividades habituales." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "res" }, { "sinonimo": "ternera" }, { "sinonimo": "becerra" }, { "sinonimo": "vaquilla" }, { "sinonimo": "bovino" }]
+}, {
+    "Palabra": "vicuñas",
+    "Ayuda": {},
+    "Detalle": "vicuñas",
+    "PLetra": "v",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Hembra del toro." }, { "definicion": "Carne o piel de este animal." }, { "definicion": "Persona muy gorda." }, { "definicion": "intr. Cesar uno por algun tiempo en sus tareas y actividades habituales." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "res" }, { "sinonimo": "ternera" }, { "sinonimo": "becerra" }, { "sinonimo": "vaquilla" }, { "sinonimo": "bovino" }]
+}, {
+    "Palabra": "viñedo",
+    "Ayuda": {},
+    "Detalle": "viñedo",
+    "PLetra": "v",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}]

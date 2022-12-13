@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="expires" content="Fri, 18 Jul 2014 1:00:00 GMT">
+    <link rel="stylesheet" type="text/css" href="css__variables.css">
+    <link rel="stylesheet" type="text/css" href="css__menor_juego.css">
+    <link rel="stylesheet" type="text/css" href="css__teclado.css">
+    <link rel="stylesheet" type="text/css" href="css__juego.css">
+    <link rel="icon" type="image/x-icon" href="imagen/favicon.ico">
+    <script src="js_lib/jquery-1.7.1.min.js"></script>
+    <title>Ahorcado</title>
+</head>
+
+<body>
+    <div class="Conteiner">
+        <div class="ConteinerMenor">
+            No se pude jugar con una definicion menos a 900 pixeles
+        </div>
+        <!--* ConteinerMenor --->
+
+        <div class="ConteinerMayor">
+            <div class="Ahorcado">
+
+                <div class="FondoAhorcado0" id="FondoAhorcado">&nbsp;
+                </div>
+
+                <div class="LetrasAhorcado">dgfhdfhg
+                </div>
+
+                <div class="TecladoAhorcado">
+                    <!--* Teclado Inicio --->
+                    <div id="container">
+                        <ul class="keyboard">
+                            <li class="letterBlanco" id="_letter_q">q</li>
+                            <li class="letterBlanco" id="_letter_w">w</li>
+                            <li class="letterBlanco" id="_letter_e">e</li>
+                            <li class="letterBlanco" id="_letter_r">r</li>
+                            <li class="letterBlanco" id="_letter_t">t</li>
+                            <li class="letterBlanco" id="_letter_y">y</li>
+                            <li class="letterBlanco" id="_letter_u">u</li>
+                            <li class="letterBlanco" id="_letter_i">i</li>
+                            <li class="letterBlanco" id="_letter_o">o</li>
+                            <li class="letterBlanco" id="_letter_p">p</li>
+                        </ul>
+                        <ul class="keyboard">
+                            <li class="letterBlanco" id="_letter_a">a</li>
+                            <li class="letterBlanco" id="_letter_s">s</li>
+                            <li class="letterBlanco" id="_letter_d">d</li>
+                            <li class="letterBlanco" id="_letter_f">f</li>
+                            <li class="letterBlanco" id="_letter_g">g</li>
+                            <li class="letterBlanco" id="_letter_h">h</li>
+                            <li class="letterBlanco" id="_letter_j">j</li>
+                            <li class="letterBlanco" id="_letter_k">k</li>
+                            <li class="letterBlanco" id="_letter_l">l</li>
+                            <li class="letterBlanco" id="_letter_ñ">ñ</li>
+                        </ul>
+                        <ul class="keyboard">
+                            <li class="letterBlanco" id="_letter_z">z</li>
+                            <li class="letterBlanco" id="_letter_x">x</li>
+                            <li class="letterBlanco" id="_letter_c">c</li>
+                            <li class="letterBlanco" id="_letter_v">v</li>
+                            <li class="letterBlanco" id="_letter_b">b</li>
+                            <li class="letterBlanco" id="_letter_n">n</li>
+                            <li class="letterBlanco" id="_letter_m">m</li>
+                            <li class="letterBlanco" id="_letter_pista">pista</li>
+                        </ul>
+                    </div>
+                </div>
+                <!--* Teclado Fin --->
+            </div>
+            <div class="VueltaCargar" hidden>Vuelta a Cargar</div>
+            <div class="Pistas12" hidden title="Click y Cierra la Ventana">
+                <div class="Pistas">
+                    <div class="TPista1">Pista Nro 1
+                        <div class="DPista1"></div>
+                    </div>
+                </div>
+                <div class="Pistas">
+                    <div class="TPista2">Pista Nro 2
+                        <div class="DPista2"></div>
+                    </div>
+                </div>
+                <div class="Pistas">
+                </div>
+            </div>
+        </div>
+        <!--* ConteinerMayor --->
+    </div>
+</body>
+<!--* Aqui esta la Version del Programa --->
+<script>
+    const valorVersion = "1.00.00";
+</script>
+<!--* *****************************************************
+        Aqui esta todas las llamadas a JavaScript 
+    * ***************************************************** --->
+<!--* js__funciones llamada a JavaScript 
+    * Funciones Generales    --->
+<script src="js/js__funciones.js"></script>
+<!--* js__global llamada a JavaScript 
+    * Variables Globales    --->
+<script src="js/js__global.js"></script>
+<!--* js__class llamada a JavaScript 
+    * Classes definidas    --->
+<script src="js/js__class.js"></script>
+<!--* js__document llamada a JavaScript 
+    * Variable que provienen de un document.querySelector    --->
+<script src="js/js__documentJuego.js"></script>
+
+
+<script src="js/js__inicioJuego.js"></script>
+<script src="js/js__teclas.js"></script>
+
+</html>

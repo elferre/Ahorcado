@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="expires" content="Fri, 18 Jul 2014 1:00:00 GMT">
+    <link rel="stylesheet" type="text/css" href="css__variables.css">
+    <link rel="stylesheet" type="text/css" href="css__menor.css">
+    <link rel="stylesheet" type="text/css" href="css__index.css">
+    <link rel="icon" type="image/x-icon" href="imagen/favicon.ico">
+    <title>Ahorcado</title>
+</head>
+
+<body>
+    <div class="Conteiner">
+        <div class="ConteinerMenor">
+            Menor
+        </div>
+        <!--* ConteinerMenor --->
+
+        <div class="ConteinerMayor">
+            <!--* Seleccion de Nivel --->
+            <div class="PrimerPaso">
+                <div class="NivelLI">
+                    <ul>
+                        Nivel
+                        <div class="NivelLIdiv">
+                            <li class="_Nivel1">Novicio</li>
+                        </div>
+                        <div class="NivelLIdiv">
+                            <li class="_Nivel2">Medio</li>
+                        </div>
+                        <div class="NivelLIdiv">
+                            <li class="_Nivel3">Avansado</li>
+                        </div>
+                        <div class="NivelLIdiv">
+                            <li class="_Nivel4">Pofecional</li>
+                        </div>
+                        <div class="NivelLIdiv">
+                            <li class="_Nivel5">Delirante</li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <div class="SegundoPaso" hidden>
+                <div class="Pistas">
+                    <div class="TPista1">Pista Nro 1
+                        <div class="DPista1"></div>
+                    </div>
+                </div>
+                <div class="Pistas">
+                    <div class="TPista2">Pista Nro 2
+                        <div class="DPista2"></div>
+                    </div>
+                </div>
+                <div class="ControlBotones">
+                    <div>
+                        <div class="Botones1">Otra Palabra</div>
+                    </div>
+                    <div>
+                        <div class="Botones2">Continuar</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--* ConteinerMayor --->
+
+    </div>
+</body>
+<!--* Aqui esta la Version del Programa --->
+<script>
+    const valorVersion = "1.00.01";
+    localStorage.Version = valorVersion;
+</script>
+<!--* *****************************************************
+        Aqui esta todas las llamadas a JavaScript 
+    * ***************************************************** --->
+<!--* js__funciones llamada a JavaScript 
+    * Funciones Generales    --->
+<script src="js/js__funciones.js"></script>
+<!--* js__class llamada a JavaScript 
+    * Classes definidas    --->
+<script src="js/js__class.js"></script>
+<!--* js__document llamada a JavaScript 
+    * Variable que provienen de un document.querySelector    --->
+<script src="js/js__document.js"></script>
+<!--* js__global llamada a JavaScript 
+    * Variables Globales    --->
+<script src="js/js__global.js"></script>
+
+<script src="js/js__inicio.js"></script>
+
+</html>

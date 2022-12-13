@@ -1,0 +1,829 @@
+[{
+    "Palabra": "gluteos",
+    "Ayuda": {
+        "Nivel1": "ynfxnvjhya",
+        "Nivel2": "biaibdpbv",
+        "Nivel3": "zdanzjfi",
+        "Nivel4": "jazqnqp",
+        "Nivel5": "cccfqk",
+        "Nivel6": "phcpw",
+        "Nivel7": "fzbk",
+        "Nivel8": "aqj"
+    },
+    "Detalle": "gluteos",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. De la nalga o relativo a ella." }, { "definicion": "[Musculo] de los tres que forman la nalga. Tambien m." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "nalga" }, { "sinonimo": "anca" }, { "sinonimo": "posaderas" }, { "sinonimo": "asentaderas" }, { "sinonimo": "cacha" }]
+}, {
+    "Palabra": "gripe",
+    "Ayuda": {
+        "Nivel1": "wdmjcquwyo",
+        "Nivel2": "azqnvjbuc",
+        "Nivel3": "jqbxbfmb",
+        "Nivel4": "oxlkosf",
+        "Nivel5": "xlaslu",
+        "Nivel6": "twnmo",
+        "Nivel7": "mkzw",
+        "Nivel8": "alw"
+    },
+    "Detalle": "gripe",
+    "PLetra": "g",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Enfermedad contagiosa estacional de origen virico, que produce fiebre y sintomas catarrales." }, { "definicion": "tr. y prnl. Bloquearse las piezas de un motor o un mecanismo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "trancazo" }, { "sinonimo": "influenza" }, { "sinonimo": "resfriado" }, { "sinonimo": "catarro" }, { "sinonimo": "enfriamiento" }]
+}, {
+    "Palabra": "geografia",
+    "Ayuda": {
+        "Nivel1": "ttnktwcqwq",
+        "Nivel2": "cxzzpdbsn",
+        "Nivel3": "ttttbnwb",
+        "Nivel4": "twyhcwl",
+        "Nivel5": "bwqbsj",
+        "Nivel6": "huzbj",
+        "Nivel7": "hytb",
+        "Nivel8": "wcc"
+    },
+    "Detalle": "geografia",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Ciencia que describe la Tierra y senala la distribucion en el espacio de los elementos y fenomenos que se desarrollan sobre su superficie." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "cosmografia" }, { "sinonimo": "geodesia" }, { "sinonimo": "geogonia" }, { "sinonimo": "hidrografia" }, { "sinonimo": "orografia" }, { "sinonimo": "topografia" }]
+}, {
+    "Palabra": "gato",
+    "Ayuda": {
+        "Nivel1": "iuhufxxxle",
+        "Nivel2": "edyjucizj",
+        "Nivel3": "nwfemwqw",
+        "Nivel4": "zznlqby",
+        "Nivel5": "vqsxff",
+        "Nivel6": "dnzzy",
+        "Nivel7": "cvsi",
+        "Nivel8": "jym"
+    },
+    "Detalle": "gato",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. y f. Mamifero carnivoro domestico de cabeza redonda, lengua muy aspera, patas cortas armadas de unas fuertes, agudas y retractiles, pelaje espeso y suave de diversos colores y ojos cuya pupila se dilata para ver en la oscuridad." }, { "definicion": "Madrileno." }, { "definicion": "m. Se da este nombre a todos los felidos en general." }, { "definicion": "Maquina para levantar grandes pesos a poca altura, como la que se utiliza para elevar los vehiculos al cambiar una rueda pinchada." }, { "definicion": "Instrumento de hierro o de madera compuesto de dos planchas con un tornillo que permite aproximarlas sujetando fuertemente la pieza que se coge entre ellas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "micho" }, { "sinonimo": "minino" }, { "sinonimo": "micifuz" }, { "sinonimo": "morrongo" }, { "sinonimo": "morrono" }, { "sinonimo": "elevador" }, { "sinonimo": "palanca" }, { "sinonimo": "cric" }, { "sinonimo": "sagaz" }, { "sinonimo": "astuto" }, { "sinonimo": "zorro" }, { "sinonimo": "traicionero" }, { "sinonimo": "picaro" }, { "sinonimo": "madrileno" }]
+}, {
+    "Palabra": "gallina",
+    "Ayuda": {
+        "Nivel1": "tjwuedxcub",
+        "Nivel2": "ttezctxdb",
+        "Nivel3": "dfwfrtth",
+        "Nivel4": "ezzbdth",
+        "Nivel5": "dmsoub",
+        "Nivel6": "fqzyf",
+        "Nivel7": "stzt",
+        "Nivel8": "xqd"
+    },
+    "Detalle": "gallina",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Hembra del gallo, de menor tamano que este, con cresta pequena, cola sin plumas largas y patas sin espolones." }, { "definicion": "com. Persona cobarde y timida." }],
+    "antonimos": [{ "antonimo": "osado" }, { "antonimo": "valiente" }],
+    "sinonimos": [{ "sinonimo": "pita" }, { "sinonimo": "gallinacea" }, { "sinonimo": "polla" }, { "sinonimo": "cobardica" }, { "sinonimo": "cagueta" }, { "sinonimo": "timorato" }, { "sinonimo": "medroso" }, { "sinonimo": "miedoso" }]
+}, {
+    "Palabra": "gorrion",
+    "Ayuda": {
+        "Nivel1": "dxqccmkbus",
+        "Nivel2": "hpujdzsjb",
+        "Nivel3": "wjmlwpuh",
+        "Nivel4": "mykzwjj",
+        "Nivel5": "vmcwfw",
+        "Nivel6": "zckut",
+        "Nivel7": "yeys",
+        "Nivel8": "spq"
+    },
+    "Detalle": "gorrion",
+    "PLetra": "g",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "m. Nombre comun de diversas aves paseriformes de unos 15 cm de longitud y plumaje pardo que se alimentan de granos e insectos: ♦ Es sinonimo de" }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "pardal" }]
+}, {
+    "Palabra": "guisantes",
+    "Ayuda": {
+        "Nivel1": "zbjyobpkpb",
+        "Nivel2": "kvfdlwqyc",
+        "Nivel3": "ccdzvmfj",
+        "Nivel4": "xzcvhcm",
+        "Nivel5": "qrqjdm",
+        "Nivel6": "obzkd",
+        "Nivel7": "zdcp",
+        "Nivel8": "bbj"
+    },
+    "Detalle": "guisantes",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Planta hortense leguminosa de tallos trepadores, hojas pecioladas, flores blancas, rojas o azuladas dispuestas en racimos colgantes y fruto en vaina casi cilindrica, con diversas semillas verdes." }, { "definicion": "Semilla de esta planta, verde, globosa y comestible." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "pesol" }, { "sinonimo": "arvejo" }, { "sinonimo": "tirabeque" }]
+}, {
+    "Palabra": "gaseosa",
+    "Ayuda": {
+        "Nivel1": "nqupcmrjcn",
+        "Nivel2": "lxpdruhkt",
+        "Nivel3": "ztrxhprq",
+        "Nivel4": "jvpfcqf",
+        "Nivel5": "hhizmv",
+        "Nivel6": "lqdni",
+        "Nivel7": "imqt",
+        "Nivel8": "xwx"
+    },
+    "Detalle": "gaseosa",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "adj. Con las propiedades del gas." }, { "definicion": "f. Bebida refrescante, efervescente, de sabor dulce y sin alcohol." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "refresco" }, { "sinonimo": "seltz" }, { "sinonimo": "soda" }, { "sinonimo": "sifon" }]
+}, {
+    "Palabra": "galaxia",
+    "Ayuda": {
+        "Nivel1": "yejyvwoqfr",
+        "Nivel2": "twvsfucdu",
+        "Nivel3": "uhfqddej",
+        "Nivel4": "toujefy",
+        "Nivel5": "kwkpnw",
+        "Nivel6": "trvhp",
+        "Nivel7": "wjjj",
+        "Nivel8": "cvy"
+    },
+    "Detalle": "galaxia",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Cada una de las agrupaciones de estrellas, nebulosas, polvo y gas que se encuentran esparcidas por el universo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "constelacion" }, { "sinonimo": "ViaLactea" }, { "sinonimo": "nebulosa" }]
+}, {
+    "Palabra": "gas",
+    "Ayuda": {
+        "Nivel1": "ddmwcchtbv",
+        "Nivel2": "rxlefuqke",
+        "Nivel3": "ijvrtfqd",
+        "Nivel4": "uyduqkc",
+        "Nivel5": "krzjmd",
+        "Nivel6": "rrqdm",
+        "Nivel7": "ebzz",
+        "Nivel8": "efu"
+    },
+    "Detalle": "gas",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Fluido que, por la casi nula fuerza de atraccion entre sus moleculas, tiende a ocupar por completo el espacio en el que se encuentra." }, { "definicion": "Mezcla gaseosa que se utiliza como combustible para la calefaccion o el alumbrado." }, { "definicion": "Mezcla de carburante y de aire que alimenta el motor de un vehiculo automovil." }, { "definicion": "pl. Los que se acumulan en el intestino producidos por la digestion." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "fluido" }, { "sinonimo": "vapor" }, { "sinonimo": "efluvio" }, { "sinonimo": "eter" }, { "sinonimo": "vaho" }, { "sinonimo": "emanacion" }]
+}, {
+    "Palabra": "gramo",
+    "Ayuda": {
+        "Nivel1": "wljxeqkfwq",
+        "Nivel2": "unkxzqvee",
+        "Nivel3": "jwfwvfey",
+        "Nivel4": "dwtijev",
+        "Nivel5": "cexsut",
+        "Nivel6": "yvxct",
+        "Nivel7": "izsk",
+        "Nivel8": "xlc"
+    },
+    "Detalle": "gramo",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Unidad de masa en el sistema metrico decimal, equivalente a la milesima parte de un kilogramo." }, { "definicion": "Unidad de fuerza o peso equivalente a la fuerza con la que una masa de un gramo es atraida por la Tierra." }, { "definicion": "Cantidad de materia cuyo peso es un gramo." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "unidad" }, { "sinonimo": "medida" }, { "sinonimo": "peso" }]
+}, {
+    "Palabra": "gobierno",
+    "Ayuda": {
+        "Nivel1": "yhzcsqdusv",
+        "Nivel2": "dfhfzfuqw",
+        "Nivel3": "hdylwqfa",
+        "Nivel4": "yuvpvkm",
+        "Nivel5": "txqpuj",
+        "Nivel6": "uchfz",
+        "Nivel7": "yhlc",
+        "Nivel8": "cjw"
+    },
+    "Detalle": "gobierno",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Accion y resultado de gobernar o gobernarse." }, { "definicion": "Conjunto de los organismos y personas que dirigen una nacion, y las funciones que desempenan: ♦ Se escribe con mayuscula." }, { "definicion": "Edificio y oficinas donde tienen su sede." }, { "definicion": "Territorio sobre el que tiene jurisdiccion el gobernador." }, { "definicion": "Tiempo que dura el mandato de una persona o de un grupo." }, { "definicion": "tr. Mandar con autoridad o regir una cosa: Tambien intr." }, { "definicion": "Guiar y dirigir: Tambien prnl." }, { "definicion": "Manejar o dominar a alguien." }, { "definicion": "intr. Obedecer el buque al timon." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "gobernacion" }, { "sinonimo": "direccion" }, { "sinonimo": "mando" }, { "sinonimo": "administracion" }, { "sinonimo": "presidencia" }, { "sinonimo": "regencia" }, { "sinonimo": "jefatura" }, { "sinonimo": "gerencia" }, { "sinonimo": "autoridad" }]
+}, {
+    "Palabra": "gobernador",
+    "Ayuda": {
+        "Nivel1": "kkmkpiumsh",
+        "Nivel2": "pzquskzly",
+        "Nivel3": "lqqmljiz",
+        "Nivel4": "mmzvsmi",
+        "Nivel5": "fhwjvh",
+        "Nivel6": "ziqhx",
+        "Nivel7": "vlkv",
+        "Nivel8": "mxp"
+    },
+    "Detalle": "gobernador",
+    "PLetra": "g",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "adj. Que gobierna. Tambien s." }, { "definicion": "m. y f. Persona que desempena el mando de una provincia, ciudad o territorio." }, { "definicion": "Representante del Gobierno en algun establecimiento publico." }, { "definicion": "En Mexico y Estados Unidos, persona que esta al frente de cada uno de los estados federados." }],
+    "antonimos": [{ "antonimo": "gobernado" }, { "antonimo": "subdito" }],
+    "sinonimos": [{ "sinonimo": "dirigente" }, { "sinonimo": "administrador" }, { "sinonimo": "representante" }, { "sinonimo": "gobernante" }, { "sinonimo": "jefe" }, { "sinonimo": "regidor" }, { "sinonimo": "director" }, { "sinonimo": "autoridad" }]
+}, {
+    "Palabra": "grabado",
+    "Ayuda": {
+        "Nivel1": "mwixzkkufe",
+        "Nivel2": "zmkypuyzu",
+        "Nivel3": "fvivyvls",
+        "Nivel4": "cvythyv",
+        "Nivel5": "ltfspx",
+        "Nivel6": "qfpny",
+        "Nivel7": "vzsk",
+        "Nivel8": "jmm"
+    },
+    "Detalle": "grabado",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Arte y procedimiento de grabar una imagen sobre una superficie." }, { "definicion": "Estampa obtenida por este procedimiento." }, { "definicion": "tr. Hacer una incision para labrar una figura, dibujo o inscripcion sobre una superficie dura." }, { "definicion": "Registrar imagenes, sonidos o datos en el soporte adecuado para su almacenamiento y reproduccion." }, { "definicion": "Fijar profundamente en el animo un concepto, un sentimiento o un recuerdo. Tambien prnl.: ♦ No confundir con" }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "lamina" }, { "sinonimo": "cromo" }, { "sinonimo": "estampa" }, { "sinonimo": "ilustracion" }, { "sinonimo": "imagen" }, { "sinonimo": "figura" }, { "sinonimo": "dibujo" }, { "sinonimo": "vineta" }, { "sinonimo": "santo" }, { "sinonimo": "aguafuerte" }, { "sinonimo": "litografia" }, { "sinonimo": "huecograbado" }, { "sinonimo": "fotograbado" }, { "sinonimo": "xilografia" }, { "sinonimo": "fototipia" }]
+}, {
+    "Palabra": "gafas",
+    "Ayuda": {
+        "Nivel1": "yqmwqjemyd",
+        "Nivel2": "ozkdnunlr",
+        "Nivel3": "lhyduhyp",
+        "Nivel4": "mkyldjo",
+        "Nivel5": "qkwmnp",
+        "Nivel6": "ilqmd",
+        "Nivel7": "rhhc",
+        "Nivel8": "vyu"
+    },
+    "Detalle": "gafas",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. pl. Objeto compuesto por dos lentes sujetos en una armadura, que se apoya en la nariz, y dos patillas que se enganchan en las orejas. Se utiliza como corrector de la vista o protector de los ojos." }, { "definicion": "tr. Dar o traer mala suerte." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "anteojos" }, { "sinonimo": "antiparras" }, { "sinonimo": "lentes" }, { "sinonimo": "espejuelos" }, { "sinonimo": "quevedos" }, { "sinonimo": "grapa" }, { "sinonimo": "lana" }, { "sinonimo": "zuncho" }, { "sinonimo": "gancho" }, { "sinonimo": "enganche" }]
+}, {
+    "Palabra": "gris",
+    "Ayuda": {
+        "Nivel1": "khkfzvlplp",
+        "Nivel2": "hcvhnzwlh",
+        "Nivel3": "lmxaapff",
+        "Nivel4": "btfnooy",
+        "Nivel5": "yzeotu",
+        "Nivel6": "zewoj",
+        "Nivel7": "ehjb",
+        "Nivel8": "dhb"
+    },
+    "Detalle": "gris",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "adj. [Color] que resulta de la mezcla de blanco y negro. Tambien m." }, { "definicion": "Triste, apagado." }, { "definicion": "Mediocre, que no destaca." }, { "definicion": "m. Viento frio." }, { "definicion": "Miembro de la policia armada cuyo uniforme era de ese color." }],
+    "antonimos": [{ "antonimo": "radiante" }, { "antonimo": "soleado" }, { "antonimo": "brillante" }, { "antonimo": "destacado" }, { "antonimo": "sobresaliente" }],
+    "sinonimos": [{ "sinonimo": "grisaceo" }, { "sinonimo": "plomizo" }, { "sinonimo": "sombrio" }, { "sinonimo": "vulgar" }, { "sinonimo": "corriente" }, { "sinonimo": "mediocre" }, { "sinonimo": "aburrido" }, { "sinonimo": "apagado" }, { "sinonimo": "monotono" }, { "sinonimo": "indiferente" }, { "sinonimo": "anodino" }]
+}, {
+    "Palabra": "geografia",
+    "Ayuda": {
+        "Nivel1": "tbzkkqhllz",
+        "Nivel2": "pldtpcvss",
+        "Nivel3": "lmntnwpb",
+        "Nivel4": "ywlcqsz",
+        "Nivel5": "swqnvc",
+        "Nivel6": "yjcsp",
+        "Nivel7": "junq",
+        "Nivel8": "cky"
+    },
+    "Detalle": "geografia",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Ciencia que describe la Tierra y senala la distribucion en el espacio de los elementos y fenomenos que se desarrollan sobre su superficie." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "cosmografia" }, { "sinonimo": "geodesia" }, { "sinonimo": "geogonia" }, { "sinonimo": "hidrografia" }, { "sinonimo": "orografia" }, { "sinonimo": "topografia" }]
+}, {
+    "Palabra": "grupo",
+    "Ayuda": {
+        "Nivel1": "bdjvcmzenv",
+        "Nivel2": "ixfbbbtqn",
+        "Nivel3": "ffhiwale",
+        "Nivel4": "emiwakb",
+        "Nivel5": "tnemew",
+        "Nivel6": "vftcl",
+        "Nivel7": "nlqi",
+        "Nivel8": "yiz"
+    },
+    "Detalle": "grupo",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Conjunto de seres o cosas que forman un conjunto." }, { "definicion": "y Conjunto de figuras pintadas o esculpidas." }, { "definicion": "Unidad militar compuesta de varios escuadrones, por lo general al mando de un comandante." }, { "definicion": "Cada una de las columnas del sistema periodico que contiene elementos de propiedades semejantes." }],
+    "antonimos": [{ "antonimo": "individuo" }],
+    "sinonimos": [{ "sinonimo": "asociacion" }, { "sinonimo": "conjunto" }, { "sinonimo": "agrupacion" }, { "sinonimo": "corporacion" }, { "sinonimo": "congregacion" }, { "sinonimo": "corro" }, { "sinonimo": "pena" }, { "sinonimo": "reunion" }, { "sinonimo": "clan" }, { "sinonimo": "camarilla" }, { "sinonimo": "liga" }, { "sinonimo": "comunidad" }, { "sinonimo": "colectividad" }, { "sinonimo": "masa" }, { "sinonimo": "multitud" }, { "sinonimo": "banda" }, { "sinonimo": "panda" }, { "sinonimo": "cuadrilla" }, { "sinonimo": "fraccion" }, { "sinonimo": "apartado" }, { "sinonimo": "bandada" }, { "sinonimo": "especie" }, { "sinonimo": "orden" }, { "sinonimo": "clase" }, { "sinonimo": "genero" }, { "sinonimo": "categoria" }, { "sinonimo": "familia" }, { "sinonimo": "rama" }, { "sinonimo": "monton" }, { "sinonimo": "coleccion" }]
+}, {
+    "Palabra": "guerra",
+    "Ayuda": {
+        "Nivel1": "jnpshhqlot",
+        "Nivel2": "mfxziyzvy",
+        "Nivel3": "hvpxhjwd",
+        "Nivel4": "ctfqizd",
+        "Nivel5": "xokdsz",
+        "Nivel6": "pljyv",
+        "Nivel7": "stxj",
+        "Nivel8": "oiz"
+    },
+    "Detalle": "guerra",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Lucha armada entre dos o mas paises, o entre grupos contrarios de un mismo pais." }, { "definicion": "Pugna entre dos o mas personas." }, { "definicion": "Lucha, combate." }],
+    "antonimos": [{ "antonimo": "paz" }, { "antonimo": "concordia" }, { "antonimo": "avenencia" }, { "antonimo": "conciliacion" }],
+    "sinonimos": [{ "sinonimo": "contienda" }, { "sinonimo": "conflagracion" }, { "sinonimo": "conflicto" }, { "sinonimo": "cruzada" }, { "sinonimo": "guerrilla" }, { "sinonimo": "combate" }, { "sinonimo": "pelea" }, { "sinonimo": "lucha" }, { "sinonimo": "lid" }, { "sinonimo": "choque" }, { "sinonimo": "enfrentamiento" }, { "sinonimo": "refriega" }, { "sinonimo": "ofensiva" }, { "sinonimo": "hostilidades" }, { "sinonimo": "pugna" }, { "sinonimo": "pleito" }, { "sinonimo": "disputa" }, { "sinonimo": "desavenencia" }, { "sinonimo": "querella" }, { "sinonimo": "exterminio" }, { "sinonimo": "erradicacion" }, { "sinonimo": "eliminacion" }]
+}, {
+    "Palabra": "grado",
+    "Ayuda": {
+        "Nivel1": "zpnjnczvjb",
+        "Nivel2": "fcflkczzb",
+        "Nivel3": "bmunvszv",
+        "Nivel4": "kefmsww",
+        "Nivel5": "hjbpkl",
+        "Nivel6": "mlqnv",
+        "Nivel7": "shuk",
+        "Nivel8": "tip"
+    },
+    "Detalle": "grado",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Cada uno de los diversos estados, valores o calidades que, en relacion de menor a mayor, puede tener una cosa." }, { "definicion": "Valor, calidad de estas cosas." }, { "definicion": "Gradacion de parentesco entre personas." }, { "definicion": "Instancia que puede tener un pleito." }, { "definicion": "En las escuelas, cada una de las secciones en que sus alumnos se agrupan segun su edad, sus conocimientos, etc." }, { "definicion": "En las universidades, titulo de graduacion." }, { "definicion": "Unidad de medida de los angulos, equivalente a cada una de las 360 partes iguales en que se divide una circunferencia." }, { "definicion": "En una ecuacion o polinomio reducidos a forma racional y entera, el del termino en que la variable tiene el exponente mayor." }, { "definicion": "Expresion de la intensidad de las cualidades de adjetivos y adverbios." }, { "definicion": "m. Voluntad, gusto. Se usa principalmente en las expresiones" }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "escalon" }, { "sinonimo": "nivel" }, { "sinonimo": "categoria" }, { "sinonimo": "jerarquia" }, { "sinonimo": "cargo" }, { "sinonimo": "graduacion" }, { "sinonimo": "extremo" }, { "sinonimo": "limite" }, { "sinonimo": "punto" }, { "sinonimo": "division" }, { "sinonimo": "fraccion" }, { "sinonimo": "porcion" }, { "sinonimo": "valor" }, { "sinonimo": "calidad" }, { "sinonimo": "naturaleza" }, { "sinonimo": "condicion" }]
+}, {
+    "Palabra": "general",
+    "Ayuda": {
+        "Nivel1": "dyijuqzpix",
+        "Nivel2": "pttjskvqi",
+        "Nivel3": "oszpsvdq",
+        "Nivel4": "bbxcsoj",
+        "Nivel5": "ubqjci",
+        "Nivel6": "vzutz",
+        "Nivel7": "uomu",
+        "Nivel8": "mbm"
+    },
+    "Detalle": "general",
+    "PLetra": "g",
+    "ULetra": "l",
+    "definiciones": [{ "definicion": "adj. Comun a todos o a la mayoria." }, { "definicion": "Frecuente, usual." }, { "definicion": "Extenso y superficial." }, { "definicion": "com. Jefe superior en el ejercito." }, { "definicion": "m. Superior de una orden religiosa." }, { "definicion": "Sin especificar ni individualizar nada concreto." }],
+    "antonimos": [{ "antonimo": "particular" }, { "antonimo": "singular" }, { "antonimo": "inusual" }],
+    "sinonimos": [{ "sinonimo": "universal" }, { "sinonimo": "generico" }, { "sinonimo": "comun" }, { "sinonimo": "corriente" }, { "sinonimo": "frecuente" }, { "sinonimo": "habitual" }, { "sinonimo": "normal" }, { "sinonimo": "ordinario" }, { "sinonimo": "usual" }, { "sinonimo": "absoluto" }, { "sinonimo": "militar" }, { "sinonimo": "jefe" }, { "sinonimo": "caudillo" }, { "sinonimo": "superior" }]
+}, {
+    "Palabra": "gran",
+    "Ayuda": {
+        "Nivel1": "fptjzespim",
+        "Nivel2": "dhkfzlozt",
+        "Nivel3": "ultfddxk",
+        "Nivel4": "qsksyqz",
+        "Nivel5": "svjzow",
+        "Nivel6": "qeblw",
+        "Nivel7": "wicz",
+        "Nivel8": "imz"
+    },
+    "Detalle": "gran",
+    "PLetra": "g",
+    "ULetra": "n",
+    "definiciones": [{ "definicion": "Principal o primero en una clase." }, { "definicion": "adj. Que supera en tamano, importancia e intensidad a lo normal." }, { "definicion": "Adulto, respecto a los ninos." }, { "definicion": "com. Persona de gran importancia o elevada jerarquia." }],
+    "antonimos": [{ "antonimo": "pequeno" }, { "antonimo": "minimo" }, { "antonimo": "insignificante" }, { "antonimo": "estrecho" }, { "antonimo": "bajo" }],
+    "sinonimos": [{ "sinonimo": "monumental" }, { "sinonimo": "considerable" }, { "sinonimo": "mayusculo" }, { "sinonimo": "extraordinario" }, { "sinonimo": "desmesurado" }, { "sinonimo": "desmedido" }, { "sinonimo": "ingente" }, { "sinonimo": "inusitado" }, { "sinonimo": "gigantesco" }, { "sinonimo": "colosal" }, { "sinonimo": "exorbitante" }, { "sinonimo": "enorme" }, { "sinonimo": "tremendo" }, { "sinonimo": "grandioso" }, { "sinonimo": "vasto" }, { "sinonimo": "espacioso" }, { "sinonimo": "extenso" }, { "sinonimo": "holgado" }, { "sinonimo": "amplio" }, { "sinonimo": "ancho" }, { "sinonimo": "alto" }, { "sinonimo": "elevado" }, { "sinonimo": "magnate" }, { "sinonimo": "noble" }, { "sinonimo": "procer" }, { "sinonimo": "ilustre" }, { "sinonimo": "egregio" }, { "sinonimo": "excelso" }, { "sinonimo": "inclito" }, { "sinonimo": "sobresaliente" }, { "sinonimo": "conspicuo" }]
+}, {
+    "Palabra": "grande",
+    "Ayuda": {
+        "Nivel1": "hmcqoqbwqu",
+        "Nivel2": "lljyhzuxm",
+        "Nivel3": "lmupitou",
+        "Nivel4": "plffxzk",
+        "Nivel5": "pqopbi",
+        "Nivel6": "kvkmp",
+        "Nivel7": "jwyf",
+        "Nivel8": "fot"
+    },
+    "Detalle": "grande",
+    "PLetra": "g",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "adj. Que supera en tamano, importancia e intensidad a lo normal." }, { "definicion": "Adulto, respecto a los ninos." }, { "definicion": "com. Persona de gran importancia o elevada jerarquia." }],
+    "antonimos": [{ "antonimo": "pequeno" }, { "antonimo": "minimo" }, { "antonimo": "insignificante" }, { "antonimo": "estrecho" }, { "antonimo": "bajo" }],
+    "sinonimos": [{ "sinonimo": "monumental" }, { "sinonimo": "considerable" }, { "sinonimo": "mayusculo" }, { "sinonimo": "extraordinario" }, { "sinonimo": "desmesurado" }, { "sinonimo": "desmedido" }, { "sinonimo": "ingente" }, { "sinonimo": "inusitado" }, { "sinonimo": "gigantesco" }, { "sinonimo": "colosal" }, { "sinonimo": "exorbitante" }, { "sinonimo": "enorme" }, { "sinonimo": "tremendo" }, { "sinonimo": "grandioso" }, { "sinonimo": "vasto" }, { "sinonimo": "espacioso" }, { "sinonimo": "extenso" }, { "sinonimo": "holgado" }, { "sinonimo": "amplio" }, { "sinonimo": "ancho" }, { "sinonimo": "alto" }, { "sinonimo": "elevado" }, { "sinonimo": "magnate" }, { "sinonimo": "noble" }, { "sinonimo": "procer" }, { "sinonimo": "ilustre" }, { "sinonimo": "egregio" }, { "sinonimo": "excelso" }, { "sinonimo": "inclito" }, { "sinonimo": "sobresaliente" }, { "sinonimo": "conspicuo" }]
+}, {
+    "Palabra": "grueso",
+    "Ayuda": {
+        "Nivel1": "aafqwllfbd",
+        "Nivel2": "fpqvtpnna",
+        "Nivel3": "vxtqlvvi",
+        "Nivel4": "qjbwiyv",
+        "Nivel5": "twfatw",
+        "Nivel6": "mhlcd",
+        "Nivel7": "zvfc",
+        "Nivel8": "lvl"
+    },
+    "Detalle": "grueso",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. Gordo, corpulento, voluminoso." }, { "definicion": "Que excede lo normal." }, { "definicion": "[Porcion de intestino] que va del ileon al recto." }, { "definicion": "m. Espesor, grosor." }, { "definicion": "Parte principal de algo." }, { "definicion": "f. Doce docenas: ♦ sup. irreg." }],
+    "antonimos": [{ "antonimo": "flaco" }, { "antonimo": "delgado" }, { "antonimo": "enjunto" }, { "antonimo": "estilizado" }, { "antonimo": "pequeno" }, { "antonimo": "insignificante" }],
+    "sinonimos": [{ "sinonimo": "gordo" }, { "sinonimo": "abultado" }, { "sinonimo": "voluminoso" }, { "sinonimo": "corpulento" }, { "sinonimo": "rollizo" }, { "sinonimo": "recio" }, { "sinonimo": "gordinflon" }, { "sinonimo": "gordinflas" }, { "sinonimo": "fati" }, { "sinonimo": "obeso" }, { "sinonimo": "inflado" }, { "sinonimo": "craso" }, { "sinonimo": "carnoso" }, { "sinonimo": "grande" }, { "sinonimo": "amplio" }, { "sinonimo": "pesado" }, { "sinonimo": "espeso" }, { "sinonimo": "grosor" }, { "sinonimo": "cuerpo" }, { "sinonimo": "espesor" }]
+}, {
+    "Palabra": "golpear",
+    "Ayuda": {
+        "Nivel1": "czsfqfihky",
+        "Nivel2": "txnvwtums",
+        "Nivel3": "vdfqnmix",
+        "Nivel4": "bqzwmxt",
+        "Nivel5": "fbdijt",
+        "Nivel6": "czcvd",
+        "Nivel7": "vbhi",
+        "Nivel8": "bhs"
+    },
+    "Detalle": "golpear",
+    "PLetra": "g",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr., intr. y prnl. Dar uno o varios golpes a algo o alguien." }],
+    "antonimos": [{ "antonimo": "acariciar" }],
+    "sinonimos": [{ "sinonimo": "pegar" }, { "sinonimo": "atizar" }, { "sinonimo": "arrear" }, { "sinonimo": "zurrar" }, { "sinonimo": "zumbar" }, { "sinonimo": "sacudir" }, { "sinonimo": "calentar" }, { "sinonimo": "cascar" }, { "sinonimo": "apalear" }, { "sinonimo": "chocar" }, { "sinonimo": "encontrarse" }, { "sinonimo": "topar" }, { "sinonimo": "empujar" }, { "sinonimo": "caer" }, { "sinonimo": "tropezar" }, { "sinonimo": "percutir" }, { "sinonimo": "pulsar" }]
+}, {
+    "Palabra": "generar",
+    "Ayuda": {
+        "Nivel1": "jtcujyfmiy",
+        "Nivel2": "xsdhtoyyi",
+        "Nivel3": "zkojqipc",
+        "Nivel4": "qucwxlq",
+        "Nivel5": "txthwc",
+        "Nivel6": "scpdv",
+        "Nivel7": "vffm",
+        "Nivel8": "vpf"
+    },
+    "Detalle": "generar",
+    "PLetra": "g",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Producir." }, { "definicion": "Procrear." }],
+    "antonimos": [{ "antonimo": "matar" }, { "antonimo": "anular" }, { "antonimo": "acabar" }],
+    "sinonimos": [{ "sinonimo": "producir" }, { "sinonimo": "originar" }, { "sinonimo": "ocasionar" }, { "sinonimo": "suscitar" }, { "sinonimo": "crear" }, { "sinonimo": "difundir" }, { "sinonimo": "engendrar" }, { "sinonimo": "formar" }, { "sinonimo": "gestar" }, { "sinonimo": "propagar" }]
+}, {
+    "Palabra": "genero",
+    "Ayuda": {
+        "Nivel1": "cwlxhzqubv",
+        "Nivel2": "mcxscypjz",
+        "Nivel3": "kcdqzuuw",
+        "Nivel4": "qztzjid",
+        "Nivel5": "sdpuht",
+        "Nivel6": "cplwc",
+        "Nivel7": "szzv",
+        "Nivel8": "uwz"
+    },
+    "Detalle": "genero",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Conjunto, grupo con caracteristicas comunes." }, { "definicion": "Clase a que pertenecen personas o cosas." }, { "definicion": "Cualquier mercancia de un comercio." }, { "definicion": "Cualquier clase de tela." }, { "definicion": "Accidente gramatical que indicaba el sexo y que hoy clasifica los sustantivos, adjetivos, pronombres y articulos en masculino, femenino y neutro." }, { "definicion": "Cada uno de los grandes grupos en que se pueden dividir las manifestaciones literarias segun su objetivo, el asunto que tratan y como lo hacen, etc." }, { "definicion": "tr. Producir." }, { "definicion": "Procrear." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "especie" }, { "sinonimo": "variedad" }, { "sinonimo": "apartado" }, { "sinonimo": "clase" }, { "sinonimo": "tipo" }, { "sinonimo": "categoria" }, { "sinonimo": "mercancias" }, { "sinonimo": "mercaderias" }, { "sinonimo": "articulos" }, { "sinonimo": "productos" }, { "sinonimo": "existencias" }, { "sinonimo": "indole" }, { "sinonimo": "condicion" }, { "sinonimo": "caracter" }, { "sinonimo": "naturaleza" }, { "sinonimo": "categoria" }, { "sinonimo": "calidad" }]
+}, {
+    "Palabra": "geografico",
+    "Ayuda": {
+        "Nivel1": "dbshxmwkbp",
+        "Nivel2": "hqvyhzquv",
+        "Nivel3": "qxsvssmx",
+        "Nivel4": "bktpmzp",
+        "Nivel5": "jthxlu",
+        "Nivel6": "ywvup",
+        "Nivel7": "jbwt",
+        "Nivel8": "qtl"
+    },
+    "Detalle": "geografico",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "adj. De la geografia o relativo a ella." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "guiarse",
+    "Ayuda": {
+        "Nivel1": "ddqxopocxh",
+        "Nivel2": "dbdhcpmpm",
+        "Nivel3": "ndplyhmm",
+        "Nivel4": "fhdqzyo",
+        "Nivel5": "jjocpf",
+        "Nivel6": "pxxob",
+        "Nivel7": "cybq",
+        "Nivel8": "vkd"
+    },
+    "Detalle": "guiarse",
+    "PLetra": "g",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "tr. Ir mostrando el camino." }, { "definicion": "Aconsejar, orientar." }, { "definicion": "Conducir o manejar una maquina, en especial un automovil." }, { "definicion": "Colocar guias en las plantas para dirigir su crecimiento." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "llevar" }, { "sinonimo": "dirigir" }, { "sinonimo": "encaminar" }, { "sinonimo": "aconsejar" }, { "sinonimo": "orientar" }, { "sinonimo": "indicar" }, { "sinonimo": "enfilar" }, { "sinonimo": "encauzar" }, { "sinonimo": "adiestrar" }, { "sinonimo": "entrenar" }, { "sinonimo": "ejemplarizar" }, { "sinonimo": "regir" }, { "sinonimo": "gobernar" }, { "sinonimo": "mandar" }, { "sinonimo": "educar" }, { "sinonimo": "conducir" }, { "sinonimo": "pilotar" }, { "sinonimo": "manejar" }]
+}, {
+    "Palabra": "geolocalizacion",
+    "Ayuda": {
+        "Nivel1": "bqvhdwsuvh",
+        "Nivel2": "psbfvjytu",
+        "Nivel3": "pjwyqbvk",
+        "Nivel4": "wtuhfbp",
+        "Nivel5": "rswtsx",
+        "Nivel6": "srthp",
+        "Nivel7": "dkpf",
+        "Nivel8": "dru"
+    },
+    "Detalle": "geolocalizacion",
+    "PLetra": "g",
+    "ULetra": "n",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "generar",
+    "Ayuda": {
+        "Nivel1": "wlmjqhzimv",
+        "Nivel2": "hdocjdmjs",
+        "Nivel3": "ihyzwcuc",
+        "Nivel4": "jpduifx",
+        "Nivel5": "qpccpf",
+        "Nivel6": "xdmox",
+        "Nivel7": "hwwv",
+        "Nivel8": "yxi"
+    },
+    "Detalle": "generar",
+    "PLetra": "g",
+    "ULetra": "r",
+    "definiciones": [{ "definicion": "tr. Producir." }, { "definicion": "Procrear." }],
+    "antonimos": [{ "antonimo": "matar" }, { "antonimo": "anular" }, { "antonimo": "acabar" }],
+    "sinonimos": [{ "sinonimo": "producir" }, { "sinonimo": "originar" }, { "sinonimo": "ocasionar" }, { "sinonimo": "suscitar" }, { "sinonimo": "crear" }, { "sinonimo": "difundir" }, { "sinonimo": "engendrar" }, { "sinonimo": "formar" }, { "sinonimo": "gestar" }, { "sinonimo": "propagar" }]
+}, {
+    "Palabra": "gente",
+    "Ayuda": {
+        "Nivel1": "yfzoujdjop",
+        "Nivel2": "yyfmluxdr",
+        "Nivel3": "rvbdwqrr",
+        "Nivel4": "uuwlpfb",
+        "Nivel5": "kilfud",
+        "Nivel6": "pfwwx",
+        "Nivel7": "phmm",
+        "Nivel8": "has"
+    },
+    "Detalle": "gente",
+    "PLetra": "g",
+    "ULetra": "e",
+    "definiciones": [{ "definicion": "f. Conjunto de personas." }, { "definicion": "Nombre colectivo que se da a cada una de las clases que pueden distinguirse en la sociedad." }, { "definicion": "Familia." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "muchedumbre" }, { "sinonimo": "concurrencia" }, { "sinonimo": "multitud" }, { "sinonimo": "gentio" }, { "sinonimo": "masa" }, { "sinonimo": "afluencia" }, { "sinonimo": "familia" }, { "sinonimo": "parentela" }, { "sinonimo": "clan" }, { "sinonimo": "amigos" }, { "sinonimo": "companeros" }]
+}, {
+    "Palabra": "gobierno",
+    "Ayuda": {
+        "Nivel1": "hylucfpxjk",
+        "Nivel2": "psmkwfasz",
+        "Nivel3": "hawazakc",
+        "Nivel4": "hfdhmzy",
+        "Nivel5": "lssqaj",
+        "Nivel6": "jvfza",
+        "Nivel7": "vzhm",
+        "Nivel8": "wac"
+    },
+    "Detalle": "gobierno",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Accion y resultado de gobernar o gobernarse." }, { "definicion": "Conjunto de los organismos y personas que dirigen una nacion, y las funciones que desempenan: ♦ Se escribe con mayuscula." }, { "definicion": "Edificio y oficinas donde tienen su sede." }, { "definicion": "Territorio sobre el que tiene jurisdiccion el gobernador." }, { "definicion": "Tiempo que dura el mandato de una persona o de un grupo." }, { "definicion": "tr. Mandar con autoridad o regir una cosa: Tambien intr." }, { "definicion": "Guiar y dirigir: Tambien prnl." }, { "definicion": "Manejar o dominar a alguien." }, { "definicion": "intr. Obedecer el buque al timon." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "gobernacion" }, { "sinonimo": "direccion" }, { "sinonimo": "mando" }, { "sinonimo": "administracion" }, { "sinonimo": "presidencia" }, { "sinonimo": "regencia" }, { "sinonimo": "jefatura" }, { "sinonimo": "gerencia" }, { "sinonimo": "autoridad" }]
+}, {
+    "Palabra": "gobiernogentilicio",
+    "Ayuda": {
+        "Nivel1": "jfjmsffsps",
+        "Nivel2": "zwamjdvsx",
+        "Nivel3": "zujvfkfp",
+        "Nivel4": "psdakxd",
+        "Nivel5": "ddphuz",
+        "Nivel6": "vmyxh",
+        "Nivel7": "shuw",
+        "Nivel8": "dua"
+    },
+    "Detalle": "gobiernogentilicio",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "gallina",
+    "Ayuda": {
+        "Nivel1": "jfetwkbxku",
+        "Nivel2": "embjherxt",
+        "Nivel3": "bjktsqvk",
+        "Nivel4": "xeucmdx",
+        "Nivel5": "vdybfq",
+        "Nivel6": "scrxf",
+        "Nivel7": "rmsx",
+        "Nivel8": "kmf"
+    },
+    "Detalle": "gallina",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "f. Hembra del gallo, de menor tamano que este, con cresta pequena, cola sin plumas largas y patas sin espolones." }, { "definicion": "com. Persona cobarde y timida." }],
+    "antonimos": [{ "antonimo": "osado" }, { "antonimo": "valiente" }],
+    "sinonimos": [{ "sinonimo": "pita" }, { "sinonimo": "gallinacea" }, { "sinonimo": "polla" }, { "sinonimo": "cobardica" }, { "sinonimo": "cagueta" }, { "sinonimo": "timorato" }, { "sinonimo": "medroso" }, { "sinonimo": "miedoso" }]
+}, {
+    "Palabra": "gallo",
+    "Ayuda": {
+        "Nivel1": "tfzevixijk",
+        "Nivel2": "vebqsyzbu",
+        "Nivel3": "nkjnixve",
+        "Nivel4": "nezydiv",
+        "Nivel5": "mpzkxk",
+        "Nivel6": "swnjy",
+        "Nivel7": "nyum",
+        "Nivel8": "dht"
+    },
+    "Detalle": "gallo",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Ave galliforme de cresta roja y alta, pico corto, grueso y arqueado, y unas formaciones carnosas rojas colgantes bajo el pico. Tiene abundante y vistoso plumaje y un espolon en cada tarso." }, { "definicion": "Pez osteictio pleuronectiforme marino, con el cuerpo muy comprimido, comestible, parecido al lenguado." }, { "definicion": "Nota falsa aguda que sale inesperadamente al hablar o cantar." }, { "definicion": "Categoria de boxeo en la que los pugiles deben pesar entre 52 y 53 kg." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "pollo" }, { "sinonimo": "galliforme" }, { "sinonimo": "gallipavo" }, { "sinonimo": "desentono" }, { "sinonimo": "desafinacion" }, { "sinonimo": "destemple" }, { "sinonimo": "gallito" }, { "sinonimo": "presumido" }, { "sinonimo": "mandon" }, { "sinonimo": "bravucon" }, { "sinonimo": "fanfarron" }, { "sinonimo": "jactancioso" }]
+}, {
+    "Palabra": "gato",
+    "Ayuda": {
+        "Nivel1": "lwyelreukc",
+        "Nivel2": "nflwrryjq",
+        "Nivel3": "rnvuzuzw",
+        "Nivel4": "crckhuv",
+        "Nivel5": "echycm",
+        "Nivel6": "mvhcq",
+        "Nivel7": "dkrp",
+        "Nivel8": "ldu"
+    },
+    "Detalle": "gato",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. y f. Mamifero carnivoro domestico de cabeza redonda, lengua muy aspera, patas cortas armadas de unas fuertes, agudas y retractiles, pelaje espeso y suave de diversos colores y ojos cuya pupila se dilata para ver en la oscuridad." }, { "definicion": "Madrileno." }, { "definicion": "m. Se da este nombre a todos los felidos en general." }, { "definicion": "Maquina para levantar grandes pesos a poca altura, como la que se utiliza para elevar los vehiculos al cambiar una rueda pinchada." }, { "definicion": "Instrumento de hierro o de madera compuesto de dos planchas con un tornillo que permite aproximarlas sujetando fuertemente la pieza que se coge entre ellas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "micho" }, { "sinonimo": "minino" }, { "sinonimo": "micifuz" }, { "sinonimo": "morrongo" }, { "sinonimo": "morrono" }, { "sinonimo": "elevador" }, { "sinonimo": "palanca" }, { "sinonimo": "cric" }, { "sinonimo": "sagaz" }, { "sinonimo": "astuto" }, { "sinonimo": "zorro" }, { "sinonimo": "traicionero" }, { "sinonimo": "picaro" }, { "sinonimo": "madrileno" }]
+}, {
+    "Palabra": "gorila",
+    "Ayuda": {
+        "Nivel1": "kchckhnkct",
+        "Nivel2": "wefqhmuns",
+        "Nivel3": "ujpjfenf",
+        "Nivel4": "pxyscqp",
+        "Nivel5": "tutubf",
+        "Nivel6": "dtfpv",
+        "Nivel7": "knxj",
+        "Nivel8": "zkp"
+    },
+    "Detalle": "gorila",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Mamifero primate de unos 2 m de altura y color pardo oscuro; tres dedos de sus pies estan unidos por la piel hasta la ultima falange. Se alimenta de hojas y frutos y habita en Africa, a orillas del rio Gabon." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "mono" }, { "sinonimo": "simio" }, { "sinonimo": "antropoide" }, { "sinonimo": "guardaespaldas" }, { "sinonimo": "maton" }, { "sinonimo": "gangster" }]
+}, {
+    "Palabra": "guepardo",
+    "Ayuda": {
+        "Nivel1": "xmxhnswjsf",
+        "Nivel2": "jiqwtyqqq",
+        "Nivel3": "fhzhijqy",
+        "Nivel4": "ykjbxyz",
+        "Nivel5": "cmflxb",
+        "Nivel6": "xjiww",
+        "Nivel7": "wysc",
+        "Nivel8": "clt"
+    },
+    "Detalle": "guepardo",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Mamifero carnivoro de la familia de los felidos, de pelaje manchado similar al del leopardo y cuerpo estilizado apto para la carrera, que habita en las regiones meridionales de Asia y Africa." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "gorila",
+    "Ayuda": {
+        "Nivel1": "tenntjtcje",
+        "Nivel2": "fvnjbsjqz",
+        "Nivel3": "ukvtfshb",
+        "Nivel4": "zypqkzf",
+        "Nivel5": "tewbbx",
+        "Nivel6": "qktjm",
+        "Nivel7": "vzfq",
+        "Nivel8": "yxm"
+    },
+    "Detalle": "gorila",
+    "PLetra": "g",
+    "ULetra": "a",
+    "definiciones": [{ "definicion": "m. Mamifero primate de unos 2 m de altura y color pardo oscuro; tres dedos de sus pies estan unidos por la piel hasta la ultima falange. Se alimenta de hojas y frutos y habita en Africa, a orillas del rio Gabon." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "mono" }, { "sinonimo": "simio" }, { "sinonimo": "antropoide" }, { "sinonimo": "guardaespaldas" }, { "sinonimo": "maton" }, { "sinonimo": "gangster" }]
+}, {
+    "Palabra": "gato",
+    "Ayuda": {
+        "Nivel1": "evsclyszeh",
+        "Nivel2": "iumvkksyb",
+        "Nivel3": "xpsynrpz",
+        "Nivel4": "uhfeecq",
+        "Nivel5": "mwrrnr",
+        "Nivel6": "qnrir",
+        "Nivel7": "skee",
+        "Nivel8": "ixp"
+    },
+    "Detalle": "gato",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. y f. Mamifero carnivoro domestico de cabeza redonda, lengua muy aspera, patas cortas armadas de unas fuertes, agudas y retractiles, pelaje espeso y suave de diversos colores y ojos cuya pupila se dilata para ver en la oscuridad." }, { "definicion": "Madrileno." }, { "definicion": "m. Se da este nombre a todos los felidos en general." }, { "definicion": "Maquina para levantar grandes pesos a poca altura, como la que se utiliza para elevar los vehiculos al cambiar una rueda pinchada." }, { "definicion": "Instrumento de hierro o de madera compuesto de dos planchas con un tornillo que permite aproximarlas sujetando fuertemente la pieza que se coge entre ellas." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "micho" }, { "sinonimo": "minino" }, { "sinonimo": "micifuz" }, { "sinonimo": "morrongo" }, { "sinonimo": "morrono" }, { "sinonimo": "elevador" }, { "sinonimo": "palanca" }, { "sinonimo": "cric" }, { "sinonimo": "sagaz" }, { "sinonimo": "astuto" }, { "sinonimo": "zorro" }, { "sinonimo": "traicionero" }, { "sinonimo": "picaro" }, { "sinonimo": "madrileno" }]
+}, {
+    "Palabra": "guepardo",
+    "Ayuda": {
+        "Nivel1": "szvlccivvh",
+        "Nivel2": "nzbqhctfh",
+        "Nivel3": "binxqxvj",
+        "Nivel4": "nckvnhy",
+        "Nivel5": "vbsmzv",
+        "Nivel6": "nvqyz",
+        "Nivel7": "xzky",
+        "Nivel8": "ilf"
+    },
+    "Detalle": "guepardo",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": [{ "definicion": "m. Mamifero carnivoro de la familia de los felidos, de pelaje manchado similar al del leopardo y cuerpo estilizado apto para la carrera, que habita en las regiones meridionales de Asia y Africa." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "garrapatas",
+    "Ayuda": {
+        "Nivel1": "yqdemuullm",
+        "Nivel2": "vfuinjddf",
+        "Nivel3": "hymbyuxb",
+        "Nivel4": "ewqvzme",
+        "Nivel5": "lmbiid",
+        "Nivel6": "dychn",
+        "Nivel7": "zxlo",
+        "Nivel8": "hfw"
+    },
+    "Detalle": "garrapatas",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "f. Aracnido del grupo de los acaros, parasito de ciertos animales a los que chupa la sangre." }],
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "grillos",
+    "Ayuda": {
+        "Nivel1": "jkncfwmauf",
+        "Nivel2": "yqahcewkw",
+        "Nivel3": "kazxcdth",
+        "Nivel4": "kxecahd",
+        "Nivel5": "tnmakn",
+        "Nivel6": "cvpch",
+        "Nivel7": "jfvf",
+        "Nivel8": "vwk"
+    },
+    "Detalle": "grillos",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. pl. Conjunto de dos grilletes unidos por un perno que se colocaban en los pies para impedir el movimiento." }, { "definicion": "m. Nombre comun de diversos insectos ortopteros de hasta 3 cm de largo, color negro o marron, cabeza redonda, ojos prominentes y patas adaptadas al salto." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "grilletes" }]
+}, {
+    "Palabra": "gusanos",
+    "Ayuda": {
+        "Nivel1": "bxijyfpexh",
+        "Nivel2": "bidmeehtd",
+        "Nivel3": "dizjkhrb",
+        "Nivel4": "tvdzdcz",
+        "Nivel5": "mlfiiw",
+        "Nivel6": "mqeif",
+        "Nivel7": "irbm",
+        "Nivel8": "fqj"
+    },
+    "Detalle": "gusanos",
+    "PLetra": "g",
+    "ULetra": "s",
+    "definiciones": [{ "definicion": "m. Nombre comun que se utiliza para designar diversos animales invertebrados de cuerpo blando, cilindrico y alargado, que se contrae al moverse." }, { "definicion": "Termino general para los parasitos intestinales." }, { "definicion": "Larva de algunos insectos." }, { "definicion": "Persona vil y despreciable." }],
+    "antonimos": {},
+    "sinonimos": [{ "sinonimo": "lombriz" }, { "sinonimo": "oruga" }, { "sinonimo": "larva" }, { "sinonimo": "tenia" }, { "sinonimo": "helminto" }, { "sinonimo": "miserable" }, { "sinonimo": "infame" }, { "sinonimo": "rata" }, { "sinonimo": "reptil" }, { "sinonimo": "infeliz" }, { "sinonimo": "insignificante" }]
+}, {
+    "Palabra": "greñudo",
+    "Ayuda": {},
+    "Detalle": "greñudo",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}, {
+    "Palabra": "guiño",
+    "Ayuda": {},
+    "Detalle": "guiño",
+    "PLetra": "g",
+    "ULetra": "o",
+    "definiciones": {},
+    "antonimos": {},
+    "sinonimos": {}
+}]
